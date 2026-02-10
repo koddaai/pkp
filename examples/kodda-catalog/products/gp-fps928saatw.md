@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "gp-fps928saatw"
+gtin: "8809894143662"
+brand: "Samsung"
+name: "Capa Protetora Transparente Galaxy S24 Ultra Transparente"
+category: "celulares/smartphones"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "GP-FPS928SAATW"
+  ean: "8809894143662"
+
+# === URI CANONICO ===
+uri: "pkp://shop.samsung.com/gp-fps928saatw"
+canonical:
+  domain: "shop.samsung.com"
+  url: "https://shop.samsung.com/br/capa-protetora-transparente-galaxy-s24-ultra/p?idsku=5679&utmi_cp=hidden_link"
+
+# === DESCOBERTA (L0) ===
+summary: ".Transparência e qualidade para proteger e destacar o seu Smartphone; . Contato agradável e ergonômico; . Leve e Fina"
+tags: ["samsung", "smart", "pro", "ultra"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 129
+  source: "retailer"
+  updated_at: "2026-02-10T19:31:07.685Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "Samsung Shop BR"
+    url: "https://www.awin1.com/pclick.php?p=37006150320&a=2753646&m=25539"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:31:07.685Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:31:07.685Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin Samsung BR (feed_id: 89199)
+# Data de importacao: 2026-02-10
+# aw_product_id: 37006150320
+---
+
+## Descricao
+
+.Transparência e qualidade para proteger e destacar o seu Smartphone; . Contato agradável e ergonômico; . Leve e Fina

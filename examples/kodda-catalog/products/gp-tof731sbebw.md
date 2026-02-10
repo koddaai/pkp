@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "gp-tof731sbebw"
+gtin: "8809902083430"
+brand: "Samsung"
+name: "Cartão Flipsuit TOILETPAPER Amarelo"
+category: "outros"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "GP-TOF731SBEBW"
+  ean: "8809902083430"
+
+# === URI CANONICO ===
+uri: "pkp://shop.samsung.com/gp-tof731sbebw"
+canonical:
+  domain: "shop.samsung.com"
+  url: "https://shop.samsung.com/br/cartao-flipsuit-toiletpaper/p?idsku=5602&utmi_cp=hidden_link"
+
+# === DESCOBERTA (L0) ===
+summary: "Cartão Flipsuit TOILETPAPER"
+tags: ["samsung"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 119
+  source: "retailer"
+  updated_at: "2026-02-10T19:31:07.686Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "Samsung Shop BR"
+    url: "https://www.awin1.com/pclick.php?p=36956232318&a=2753646&m=25539"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:31:07.686Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:31:07.686Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin Samsung BR (feed_id: 89199)
+# Data de importacao: 2026-02-10
+# aw_product_id: 36956232318
+---
+
+## Descricao
+
+Cartão Flipsuit TOILETPAPER

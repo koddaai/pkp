@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "ef-bx710pwegww"
+gtin: "8806095110479"
+brand: "Samsung"
+name: "Capa Protetora Samsung Smart Book Cover Tab S9 Branca"
+category: "tablets"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "EF-BX710PWEGWW"
+  ean: "8806095110479"
+
+# === URI CANONICO ===
+uri: "pkp://shop.samsung.com/ef-bx710pwegww"
+canonical:
+  domain: "shop.samsung.com"
+  url: "https://shop.samsung.com/br/capa-smart-book-cover-tab-s9/p?idsku=5118&utmi_cp=hidden_link"
+
+# === DESCOBERTA (L0) ===
+summary: "- Acabamento refinado, fina, dimensões bem ajustadas que se encaixam perfeitamente ao tablet por contato magnético - Funciona como um suporte para visualização em dois ângulos, para assistir videos ou usar no modo Quadro Diário - Compartimento exclusivo para guardar a S Pen* - Acende ou apaga a tela automaticamente ao abrir ou fechar a capa - Design moderno."
+tags: ["samsung", "smart", "ai", "pro"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 599
+  source: "retailer"
+  updated_at: "2026-02-10T19:31:00.956Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "Samsung Shop BR"
+    url: "https://www.awin1.com/pclick.php?p=40782069213&a=2753646&m=25539"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:31:00.956Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:31:00.956Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin Samsung BR (feed_id: 89199)
+# Data de importacao: 2026-02-10
+# aw_product_id: 40782069213
+---
+
+## Descricao
+
+- Acabamento refinado, fina, dimensões bem ajustadas que se encaixam perfeitamente ao tablet por contato magnético - Funciona como um suporte para visualização em dois ângulos, para assistir videos ou usar no modo Quadro Diário - Compartimento exclusivo para guardar a S Pen* - Acende ou apaga a tela automaticamente ao abrir ou fechar a capa - Design moderno.
