@@ -536,10 +536,35 @@ git push origin gh-pages
 
 ## Proximos Passos
 
-1. ✅ **Smart scraping** - Detectar categoria automaticamente (implementado!)
-2. ✅ **Testes E2E** - Testes de integracao para CLI e MCP servers (201 testes!)
-3. ✅ **Mais categorias** - 15 categorias (moveis, brinquedos, livros, beleza)
-4. ✅ **Studio: Editor PRODUCT.md** - Editor visual inline com validacao em tempo real
+### Concluidos
+1. ✅ **Smart scraping** - Detectar categoria automaticamente
+2. ✅ **Testes E2E** - 201 testes de integracao
+3. ✅ **15 categorias** - moveis, brinquedos, livros, beleza, etc
+4. ✅ **Studio Editor** - Editor visual com validacao em tempo real
+5. ✅ **Landing page** - pkp.kodda.ai com design dark/minimalista
+6. ✅ **Docs VitePress** - pkp.kodda.ai/docs/
+
+### Em Andamento
+7. ⏳ **Docs: Paginas faltantes**
+   - confidence.md (niveis de confianca)
+   - schema.md (referencia completa do schema)
+   - categories.md (detalhes de cada categoria)
+   - skills.md (como usar os skills)
+
+8. ⏳ **Studio: Melhorias**
+   - Preview markdown em tempo real
+   - Batch import de URLs
+   - Export para .well-known/
+
+9. ⏳ **CLI: Novos comandos**
+   - `pkp diff` - Comparar versoes de PRODUCT.md
+   - `pkp publish` - Deploy para servidor/CDN
+   - `pkp stats` - Estatisticas do catalogo
+
+### Futuro
+- Deploy do Registry Server (infra Kodda)
+- Integracoes (Claude Desktop, Cursor, etc)
+- Marketing (posts, demo video)
 
 ---
 
