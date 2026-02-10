@@ -1,37 +1,108 @@
 import { NextRequest, NextResponse } from "next/server";
-import { readdir, readFile } from "fs/promises";
+import { readdir, readFile, stat } from "fs/promises";
+import { existsSync } from "fs";
 import { join } from "path";
-import { parseProductMd, validateProductMd } from "@pkprotocol/spec";
 
 interface ProductSummary {
   sku: string;
   name: string;
   brand?: string;
   category: string;
+  subcategory?: string;
   price?: { value: number; currency: string };
-  completeness?: number;
+  retailer?: string;
   path: string;
 }
+
+interface CatalogManifest {
+  version: string;
+  generated_at: string;
+  stats: {
+    total_products: number;
+    categories: Record<string, number>;
+    brands: Record<string, number>;
+    retailers: Record<string, number>;
+    price_range: { min: number; max: number };
+  };
+  products: ProductSummary[];
+}
+
+// In-memory cache
+let manifestCache: { path: string; data: CatalogManifest; timestamp: number } | null = null;
+const CACHE_TTL = 300000; // 5 minutes
 
 export async function GET(request: NextRequest) {
   const searchParams = request.nextUrl.searchParams;
   const catalogPath = searchParams.get("path");
+  const limit = parseInt(searchParams.get("limit") || "50");
+  const offset = parseInt(searchParams.get("offset") || "0");
+  const search = searchParams.get("search")?.toLowerCase();
+  const category = searchParams.get("category");
+  const brand = searchParams.get("brand");
+  const statsOnly = searchParams.get("statsOnly") === "true";
+  const indexOnly = searchParams.get("indexOnly") === "true"; // Legacy support
 
   if (!catalogPath) {
     return NextResponse.json({ error: "Path is required" }, { status: 400 });
   }
 
   try {
-    // Resolve path (handle relative paths)
+    // Resolve path
     const resolvedPath = catalogPath.startsWith("/")
       ? catalogPath
       : join(process.cwd(), "..", "..", catalogPath);
 
-    // Find all PRODUCT.md files
-    const products: ProductSummary[] = [];
-    await scanDirectory(resolvedPath, products);
+    // Try to load manifest
+    const manifest = await loadManifest(resolvedPath);
 
-    return NextResponse.json({ products, count: products.length });
+    if (!manifest) {
+      return NextResponse.json({
+        error: "No manifest.json found. Run: npx tsx scripts/build-manifest.ts --catalog " + catalogPath,
+        needsManifest: true,
+      }, { status: 404 });
+    }
+
+    // Return stats only
+    if (statsOnly || indexOnly) {
+      return NextResponse.json({
+        total: manifest.stats.total_products,
+        categories: Object.keys(manifest.stats.categories).sort(),
+        brands: Object.keys(manifest.stats.brands).sort(),
+        retailers: Object.keys(manifest.stats.retailers).sort(),
+        stats: manifest.stats,
+        generated_at: manifest.generated_at,
+      });
+    }
+
+    // Filter products
+    let filtered = manifest.products;
+
+    if (search) {
+      filtered = filtered.filter(
+        p => p.name.toLowerCase().includes(search) ||
+             p.sku.toLowerCase().includes(search) ||
+             p.brand?.toLowerCase().includes(search)
+      );
+    }
+
+    if (category) {
+      filtered = filtered.filter(p => p.category === category);
+    }
+
+    if (brand) {
+      filtered = filtered.filter(p => p.brand === brand);
+    }
+
+    // Paginate
+    const paginated = filtered.slice(offset, offset + limit);
+
+    return NextResponse.json({
+      products: paginated,
+      total: filtered.length,
+      limit,
+      offset,
+      hasMore: offset + limit < filtered.length,
+    });
   } catch (error) {
     console.error("Error loading products:", error);
     return NextResponse.json(
@@ -41,50 +112,36 @@ export async function GET(request: NextRequest) {
   }
 }
 
-async function scanDirectory(dir: string, products: ProductSummary[]): Promise<void> {
+async function loadManifest(catalogPath: string): Promise<CatalogManifest | null> {
+  const manifestPath = join(catalogPath, "manifest.json");
+
+  // Check cache
+  if (manifestCache &&
+      manifestCache.path === manifestPath &&
+      Date.now() - manifestCache.timestamp < CACHE_TTL) {
+    return manifestCache.data;
+  }
+
+  // Check if manifest exists
+  if (!existsSync(manifestPath)) {
+    return null;
+  }
+
   try {
-    const entries = await readdir(dir, { withFileTypes: true });
+    const content = await readFile(manifestPath, "utf-8");
+    const manifest = JSON.parse(content) as CatalogManifest;
 
-    for (const entry of entries) {
-      const fullPath = join(dir, entry.name);
+    // Update cache
+    manifestCache = {
+      path: manifestPath,
+      data: manifest,
+      timestamp: Date.now(),
+    };
 
-      if (entry.isDirectory()) {
-        // Skip hidden directories and node_modules
-        if (!entry.name.startsWith(".") && entry.name !== "node_modules" && entry.name !== "dist") {
-          await scanDirectory(fullPath, products);
-        }
-      } else if (entry.name.endsWith(".md") && entry.name !== "README.md") {
-        // Try to parse as PRODUCT.md
-        try {
-          const content = await readFile(fullPath, "utf-8");
-          const parsed = parseProductMd(content);
-
-          const fm = parsed.frontmatter;
-          if (fm?.sku) {
-            const validation = validateProductMd(content);
-            const price = fm.price as { value?: number; currency?: string } | undefined;
-
-            products.push({
-              sku: String(fm.sku),
-              name: String(fm.name || "Unnamed"),
-              brand: fm.brand ? String(fm.brand) : undefined,
-              category: String(fm.category || "uncategorized"),
-              price: price?.value
-                ? {
-                    value: price.value,
-                    currency: price.currency || "BRL",
-                  }
-                : undefined,
-              completeness: validation.completeness,
-              path: fullPath,
-            });
-          }
-        } catch {
-          // Not a valid PRODUCT.md, skip
-        }
-      }
-    }
-  } catch {
-    // Directory doesn't exist or can't be read
+    console.log(`Loaded manifest: ${manifest.stats.total_products} products`);
+    return manifest;
+  } catch (error) {
+    console.error("Error loading manifest:", error);
+    return null;
   }
 }

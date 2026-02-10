@@ -16,6 +16,11 @@ import {
   ChevronRight,
   Filter,
   X,
+  Loader2,
+  Store,
+  Layers,
+  TrendingUp,
+  BarChart3,
 } from "lucide-react";
 
 interface Product {
@@ -26,12 +31,7 @@ interface Product {
   subcategory?: string;
   summary?: string;
   price?: { value: number; currency: string };
-  completeness?: number;
-  confidence?: {
-    specs?: { source: string; level: string };
-    price?: { source: string; level: string };
-  };
-  tags?: string[];
+  retailer?: string;
   path: string;
 }
 
@@ -41,36 +41,135 @@ interface ProductDetail extends Product {
   purchase_urls?: Array<{ retailer: string; url: string }>;
   availability?: string;
   identifiers?: { ean?: string; mpn?: string };
+  completeness?: number;
+  confidence?: {
+    specs?: { source: string; level: string };
+    price?: { source: string; level: string };
+  };
+  tags?: string[];
 }
+
+interface CatalogStats {
+  total: number;
+  categories: string[];
+  brands: string[];
+  retailers: string[];
+  stats: {
+    total_products: number;
+    categories: Record<string, number>;
+    brands: Record<string, number>;
+    retailers: Record<string, number>;
+    price_range: { min: number; max: number };
+  };
+  generated_at: string;
+}
+
+const PAGE_SIZE = 50;
 
 export default function CatalogPage() {
   const [products, setProducts] = useState<Product[]>([]);
   const [loading, setLoading] = useState(true);
+  const [loadingMore, setLoadingMore] = useState(false);
   const [search, setSearch] = useState("");
+  const [searchDebounced, setSearchDebounced] = useState("");
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [selectedProduct, setSelectedProduct] = useState<ProductDetail | null>(null);
   const [productLoading, setProductLoading] = useState(false);
   const [showFilters, setShowFilters] = useState(false);
+  const [catalogStats, setCatalogStats] = useState<CatalogStats | null>(null);
+  const [total, setTotal] = useState(0);
+  const [hasMore, setHasMore] = useState(false);
+  const [offset, setOffset] = useState(0);
+  const [error, setError] = useState<string | null>(null);
 
-  // Default to the example catalog
   const catalogPath = "./examples/kodda-catalog";
 
+  // Debounce search
   useEffect(() => {
-    loadProducts();
+    const timer = setTimeout(() => {
+      setSearchDebounced(search);
+    }, 300);
+    return () => clearTimeout(timer);
+  }, [search]);
+
+  // Load stats on mount
+  useEffect(() => {
+    loadStats();
   }, []);
 
-  async function loadProducts() {
-    setLoading(true);
+  // Load products when filters change
+  useEffect(() => {
+    setProducts([]);
+    setOffset(0);
+    loadProducts(0, true);
+  }, [searchDebounced, selectedCategory]);
+
+  async function loadStats() {
     try {
-      const res = await fetch(`/api/products?path=${encodeURIComponent(catalogPath)}`);
+      const res = await fetch(`/api/products?path=${encodeURIComponent(catalogPath)}&statsOnly=true`);
       const data = await res.json();
-      if (data.products) {
-        setProducts(data.products);
+
+      if (data.error) {
+        setError(data.error);
+        return;
       }
-    } catch (error) {
-      console.error("Failed to load products:", error);
+
+      setCatalogStats(data);
+    } catch (err) {
+      setError("Failed to load catalog stats");
+    }
+  }
+
+  async function loadProducts(newOffset: number, reset = false) {
+    if (reset) {
+      setLoading(true);
+    } else {
+      setLoadingMore(true);
+    }
+
+    try {
+      const params = new URLSearchParams({
+        path: catalogPath,
+        limit: String(PAGE_SIZE),
+        offset: String(newOffset),
+      });
+
+      if (searchDebounced) {
+        params.set("search", searchDebounced);
+      }
+      if (selectedCategory) {
+        params.set("category", selectedCategory);
+      }
+
+      const res = await fetch(`/api/products?${params}`);
+      const data = await res.json();
+
+      if (data.error) {
+        setError(data.error);
+        return;
+      }
+
+      if (data.products) {
+        if (reset) {
+          setProducts(data.products);
+        } else {
+          setProducts((prev) => [...prev, ...data.products]);
+        }
+        setTotal(data.total);
+        setHasMore(data.hasMore);
+        setOffset(newOffset + data.products.length);
+      }
+    } catch (err) {
+      setError("Failed to load products");
     } finally {
       setLoading(false);
+      setLoadingMore(false);
+    }
+  }
+
+  function loadMore() {
+    if (!loadingMore && hasMore) {
+      loadProducts(offset, false);
     }
   }
 
@@ -82,26 +181,12 @@ export default function CatalogPage() {
       if (data.product) {
         setSelectedProduct(data.product);
       }
-    } catch (error) {
-      console.error("Failed to load product:", error);
+    } catch (err) {
+      console.error("Failed to load product:", err);
     } finally {
       setProductLoading(false);
     }
   }
-
-  const categories = Array.from(new Set(products.map((p) => p.category))).sort();
-
-  const filteredProducts = products.filter((p) => {
-    const matchesSearch =
-      !search ||
-      p.name.toLowerCase().includes(search.toLowerCase()) ||
-      p.sku.toLowerCase().includes(search.toLowerCase()) ||
-      p.brand?.toLowerCase().includes(search.toLowerCase());
-
-    const matchesCategory = !selectedCategory || p.category === selectedCategory;
-
-    return matchesSearch && matchesCategory;
-  });
 
   function formatPrice(price?: { value: number; currency: string }) {
     if (!price) return null;
@@ -111,20 +196,25 @@ export default function CatalogPage() {
     }).format(price.value);
   }
 
-  function getConfidenceColor(source?: string) {
-    switch (source) {
-      case "manufacturer":
-        return "text-green-500";
-      case "retailer-feed":
-        return "text-blue-500";
-      case "ai-generated":
-        return "text-yellow-500";
-      case "scraped":
-        return "text-orange-500";
-      default:
-        return "text-gray-500";
-    }
+  function formatNumber(n: number) {
+    return n.toLocaleString("pt-BR");
   }
+
+  // Get top categories for chart
+  const topCategories = catalogStats?.stats.categories
+    ? Object.entries(catalogStats.stats.categories)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 6)
+    : [];
+
+  const maxCategoryCount = topCategories.length > 0 ? topCategories[0][1] : 0;
+
+  // Get top brands
+  const topBrands = catalogStats?.stats.brands
+    ? Object.entries(catalogStats.stats.brands)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 8)
+    : [];
 
   return (
     <div className="min-h-screen bg-[var(--background)]">
@@ -147,6 +237,124 @@ export default function CatalogPage() {
       </header>
 
       <div className="max-w-7xl mx-auto px-4 py-6">
+        {/* Error State */}
+        {error && (
+          <div className="mb-6 p-4 bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 rounded-lg">
+            <p className="text-red-700 dark:text-red-300">{error}</p>
+            {error.includes("manifest") && (
+              <code className="block mt-2 text-sm bg-red-100 dark:bg-red-900/40 p-2 rounded">
+                npx tsx scripts/build-manifest.ts --catalog {catalogPath}
+              </code>
+            )}
+          </div>
+        )}
+
+        {/* Dashboard Stats */}
+        {catalogStats && (
+          <div className="mb-8">
+            {/* Main Stats Cards */}
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+              <div className="p-4 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl text-white">
+                <div className="flex items-center gap-2 mb-2 opacity-80">
+                  <Package className="w-4 h-4" />
+                  <span className="text-sm">Total Products</span>
+                </div>
+                <p className="text-3xl font-bold">{formatNumber(catalogStats.stats.total_products)}</p>
+              </div>
+
+              <div className="p-4 bg-gradient-to-br from-purple-500 to-purple-600 rounded-xl text-white">
+                <div className="flex items-center gap-2 mb-2 opacity-80">
+                  <Layers className="w-4 h-4" />
+                  <span className="text-sm">Categories</span>
+                </div>
+                <p className="text-3xl font-bold">{formatNumber(catalogStats.categories.length)}</p>
+              </div>
+
+              <div className="p-4 bg-gradient-to-br from-green-500 to-green-600 rounded-xl text-white">
+                <div className="flex items-center gap-2 mb-2 opacity-80">
+                  <Tag className="w-4 h-4" />
+                  <span className="text-sm">Brands</span>
+                </div>
+                <p className="text-3xl font-bold">{formatNumber(catalogStats.brands.length)}</p>
+              </div>
+
+              <div className="p-4 bg-gradient-to-br from-orange-500 to-orange-600 rounded-xl text-white">
+                <div className="flex items-center gap-2 mb-2 opacity-80">
+                  <TrendingUp className="w-4 h-4" />
+                  <span className="text-sm">Price Range</span>
+                </div>
+                <p className="text-lg font-bold">
+                  {formatPrice({ value: catalogStats.stats.price_range.min, currency: "BRL" })}
+                  <span className="text-sm opacity-70 mx-1">-</span>
+                  {formatPrice({ value: catalogStats.stats.price_range.max, currency: "BRL" })}
+                </p>
+              </div>
+            </div>
+
+            {/* Category Distribution */}
+            <div className="grid md:grid-cols-2 gap-6">
+              <div className="p-4 border border-[var(--border)] rounded-xl bg-[var(--background)]">
+                <div className="flex items-center gap-2 mb-4">
+                  <BarChart3 className="w-5 h-5 text-[var(--primary)]" />
+                  <h3 className="font-semibold">Top Categories</h3>
+                </div>
+                <div className="space-y-3">
+                  {topCategories.map(([cat, count]) => (
+                    <button
+                      key={cat}
+                      onClick={() => {
+                        setSelectedCategory(selectedCategory === cat ? null : cat);
+                        setShowFilters(false);
+                      }}
+                      className={`w-full text-left ${selectedCategory === cat ? 'ring-2 ring-[var(--primary)]' : ''}`}
+                    >
+                      <div className="flex items-center justify-between mb-1">
+                        <span className="text-sm truncate">{cat}</span>
+                        <span className="text-sm text-[var(--muted-foreground)]">
+                          {formatNumber(count)}
+                        </span>
+                      </div>
+                      <div className="h-2 bg-[var(--muted)] rounded-full overflow-hidden">
+                        <div
+                          className="h-full bg-[var(--primary)] rounded-full transition-all"
+                          style={{ width: `${(count / maxCategoryCount) * 100}%` }}
+                        />
+                      </div>
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <div className="p-4 border border-[var(--border)] rounded-xl bg-[var(--background)]">
+                <div className="flex items-center gap-2 mb-4">
+                  <Tag className="w-5 h-5 text-[var(--primary)]" />
+                  <h3 className="font-semibold">Top Brands</h3>
+                </div>
+                <div className="flex flex-wrap gap-2">
+                  {topBrands.map(([brand, count]) => (
+                    <span
+                      key={brand}
+                      className="px-3 py-1.5 bg-[var(--muted)] rounded-full text-sm"
+                    >
+                      {brand} <span className="text-[var(--muted-foreground)]">({formatNumber(count)})</span>
+                    </span>
+                  ))}
+                </div>
+                {catalogStats.brands.length > 8 && (
+                  <p className="mt-3 text-sm text-[var(--muted-foreground)]">
+                    +{formatNumber(catalogStats.brands.length - 8)} more brands
+                  </p>
+                )}
+              </div>
+            </div>
+
+            {/* Last updated */}
+            <p className="mt-4 text-xs text-[var(--muted-foreground)] text-right">
+              Last indexed: {new Date(catalogStats.generated_at).toLocaleString("pt-BR")}
+            </p>
+          </div>
+        )}
+
         {/* Search and Filters */}
         <div className="flex flex-col md:flex-row gap-4 mb-6">
           <div className="flex-1 relative">
@@ -171,11 +379,25 @@ export default function CatalogPage() {
           </button>
         </div>
 
+        {/* Active Filter */}
+        {selectedCategory && (
+          <div className="mb-4 flex items-center gap-2">
+            <span className="text-sm text-[var(--muted-foreground)]">Filtering by:</span>
+            <button
+              onClick={() => setSelectedCategory(null)}
+              className="flex items-center gap-1 px-3 py-1 bg-[var(--primary)] text-white rounded-full text-sm"
+            >
+              {selectedCategory}
+              <X className="w-3 h-3" />
+            </button>
+          </div>
+        )}
+
         {/* Filter Panel */}
-        {showFilters && (
+        {showFilters && catalogStats && (
           <div className="mb-6 p-4 border border-[var(--border)] rounded-lg bg-[var(--muted)]">
             <div className="flex items-center justify-between mb-3">
-              <h3 className="font-medium">Categories</h3>
+              <h3 className="font-medium">All Categories ({catalogStats.categories.length})</h3>
               {selectedCategory && (
                 <button
                   onClick={() => setSelectedCategory(null)}
@@ -185,8 +407,8 @@ export default function CatalogPage() {
                 </button>
               )}
             </div>
-            <div className="flex flex-wrap gap-2">
-              {categories.map((cat) => (
+            <div className="flex flex-wrap gap-2 max-h-48 overflow-y-auto">
+              {catalogStats.categories.map((cat) => (
                 <button
                   key={cat}
                   onClick={() => setSelectedCategory(selectedCategory === cat ? null : cat)}
@@ -206,56 +428,78 @@ export default function CatalogPage() {
         {/* Results Count */}
         <div className="flex items-center justify-between mb-4">
           <p className="text-sm text-[var(--muted-foreground)]">
-            {filteredProducts.length} product{filteredProducts.length !== 1 ? "s" : ""} found
+            {loading ? (
+              "Loading..."
+            ) : (
+              <>
+                Showing {products.length.toLocaleString()} of {total.toLocaleString()} products
+                {selectedCategory && ` in "${selectedCategory}"`}
+                {searchDebounced && ` matching "${searchDebounced}"`}
+              </>
+            )}
           </p>
         </div>
 
         {/* Product Grid */}
-        {loading ? (
-          <div className="text-center py-12 text-[var(--muted-foreground)]">Loading products...</div>
-        ) : filteredProducts.length === 0 ? (
+        {loading && !catalogStats ? (
+          <div className="text-center py-12">
+            <Loader2 className="w-8 h-8 animate-spin mx-auto mb-4 text-[var(--primary)]" />
+            <p className="text-[var(--muted-foreground)]">Loading catalog...</p>
+          </div>
+        ) : products.length === 0 && !loading ? (
           <div className="text-center py-12">
             <Package className="w-12 h-12 text-[var(--muted-foreground)] mx-auto mb-4" />
             <p className="text-[var(--muted-foreground)]">No products found</p>
           </div>
         ) : (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {filteredProducts.map((product) => (
-              <button
-                key={product.sku}
-                onClick={() => loadProductDetail(product.path)}
-                className="text-left p-4 border border-[var(--border)] rounded-lg hover:border-[var(--primary)] transition-colors bg-[var(--background)]"
-              >
-                <div className="flex items-start justify-between mb-2">
-                  <span className="text-xs font-mono text-[var(--muted-foreground)]">{product.sku}</span>
-                  {product.completeness !== undefined && (
-                    <span
-                      className={`text-xs px-2 py-0.5 rounded-full ${
-                        product.completeness >= 0.8
-                          ? "bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300"
-                          : product.completeness >= 0.5
-                          ? "bg-yellow-100 text-yellow-700 dark:bg-yellow-900 dark:text-yellow-300"
-                          : "bg-red-100 text-red-700 dark:bg-red-900 dark:text-red-300"
-                      }`}
-                    >
-                      {Math.round(product.completeness * 100)}%
+          <>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {products.map((product) => (
+                <button
+                  key={product.path}
+                  onClick={() => loadProductDetail(product.path)}
+                  className="text-left p-4 border border-[var(--border)] rounded-lg hover:border-[var(--primary)] transition-colors bg-[var(--background)]"
+                >
+                  <div className="flex items-start justify-between mb-2">
+                    <span className="text-xs font-mono text-[var(--muted-foreground)] truncate max-w-[70%]">
+                      {product.sku}
                     </span>
+                  </div>
+                  <h3 className="font-semibold mb-1 line-clamp-2">{product.name}</h3>
+                  <p className="text-sm text-[var(--muted-foreground)] mb-2">
+                    {product.brand && `${product.brand} • `}
+                    {product.category}
+                  </p>
+                  {product.price && (
+                    <p className="text-lg font-bold text-[var(--primary)]">{formatPrice(product.price)}</p>
                   )}
-                </div>
-                <h3 className="font-semibold mb-1 line-clamp-2">{product.name}</h3>
-                <p className="text-sm text-[var(--muted-foreground)] mb-2">
-                  {product.brand && `${product.brand} • `}
-                  {product.category}
-                </p>
-                {product.price && (
-                  <p className="text-lg font-bold text-[var(--primary)]">{formatPrice(product.price)}</p>
-                )}
-                <div className="mt-3 flex items-center text-xs text-[var(--primary)]">
-                  View AI perspective <ChevronRight className="w-3 h-3 ml-1" />
-                </div>
-              </button>
-            ))}
-          </div>
+                  <div className="mt-3 flex items-center text-xs text-[var(--primary)]">
+                    View AI perspective <ChevronRight className="w-3 h-3 ml-1" />
+                  </div>
+                </button>
+              ))}
+            </div>
+
+            {/* Load More Button */}
+            {hasMore && (
+              <div className="mt-8 text-center">
+                <button
+                  onClick={loadMore}
+                  disabled={loadingMore}
+                  className="px-6 py-3 bg-[var(--primary)] text-white rounded-lg hover:opacity-90 disabled:opacity-50 flex items-center gap-2 mx-auto"
+                >
+                  {loadingMore ? (
+                    <>
+                      <Loader2 className="w-4 h-4 animate-spin" />
+                      Loading...
+                    </>
+                  ) : (
+                    <>Load More ({(total - products.length).toLocaleString()} remaining)</>
+                  )}
+                </button>
+              </div>
+            )}
+          </>
         )}
       </div>
 
@@ -298,7 +542,7 @@ export default function CatalogPage() {
                   </div>
                 </div>
 
-                {/* Summary - What AI will tell users */}
+                {/* Summary */}
                 {selectedProduct.summary && (
                   <div className="mb-6 p-4 bg-[var(--muted)] rounded-lg">
                     <h3 className="text-sm font-medium mb-2 flex items-center gap-2">
@@ -339,49 +583,6 @@ export default function CatalogPage() {
                   </div>
                 </div>
 
-                {/* Confidence Scores */}
-                {selectedProduct.confidence && (
-                  <div className="mb-6 p-4 border border-[var(--border)] rounded-lg">
-                    <h3 className="text-sm font-medium mb-3 flex items-center gap-2">
-                      <Shield className="w-4 h-4" />
-                      Data Confidence
-                    </h3>
-                    <div className="grid grid-cols-2 gap-4">
-                      {selectedProduct.confidence.specs && (
-                        <div>
-                          <p className="text-xs text-[var(--muted-foreground)] mb-1">Specs</p>
-                          <p className={`font-medium ${getConfidenceColor(selectedProduct.confidence.specs.source)}`}>
-                            {selectedProduct.confidence.specs.source} ({selectedProduct.confidence.specs.level})
-                          </p>
-                        </div>
-                      )}
-                      {selectedProduct.confidence.price && (
-                        <div>
-                          <p className="text-xs text-[var(--muted-foreground)] mb-1">Price</p>
-                          <p className={`font-medium ${getConfidenceColor(selectedProduct.confidence.price.source)}`}>
-                            {selectedProduct.confidence.price.source} ({selectedProduct.confidence.price.level})
-                          </p>
-                        </div>
-                      )}
-                    </div>
-                  </div>
-                )}
-
-                {/* Highlights */}
-                {selectedProduct.highlights && selectedProduct.highlights.length > 0 && (
-                  <div className="mb-6">
-                    <h3 className="text-sm font-medium mb-3">Key Highlights</h3>
-                    <ul className="space-y-2">
-                      {selectedProduct.highlights.map((highlight, i) => (
-                        <li key={i} className="flex items-start gap-2">
-                          <CheckCircle className="w-4 h-4 text-green-500 mt-0.5 flex-shrink-0" />
-                          <span>{highlight}</span>
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
-                )}
-
                 {/* Tags */}
                 {selectedProduct.tags && selectedProduct.tags.length > 0 && (
                   <div className="mb-6">
@@ -391,10 +592,7 @@ export default function CatalogPage() {
                     </h3>
                     <div className="flex flex-wrap gap-2">
                       {selectedProduct.tags.map((tag) => (
-                        <span
-                          key={tag}
-                          className="px-2 py-1 bg-[var(--muted)] rounded text-sm"
-                        >
+                        <span key={tag} className="px-2 py-1 bg-[var(--muted)] rounded text-sm">
                           {tag}
                         </span>
                       ))}
@@ -443,26 +641,6 @@ export default function CatalogPage() {
                     </div>
                   </div>
                 )}
-
-                {/* Completeness */}
-                <div className="p-4 bg-[var(--muted)] rounded-lg">
-                  <div className="flex items-center justify-between mb-2">
-                    <span className="text-sm font-medium">Data Completeness</span>
-                    <span className="font-bold">
-                      {selectedProduct.completeness
-                        ? `${Math.round(selectedProduct.completeness * 100)}%`
-                        : "N/A"}
-                    </span>
-                  </div>
-                  {selectedProduct.completeness !== undefined && (
-                    <div className="h-2 bg-[var(--border)] rounded-full overflow-hidden">
-                      <div
-                        className="h-full bg-[var(--primary)]"
-                        style={{ width: `${selectedProduct.completeness * 100}%` }}
-                      />
-                    </div>
-                  )}
-                </div>
               </div>
             )}
           </div>
