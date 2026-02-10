@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "PKP",
   description: "Product Knowledge Protocol - Open standard for AI agent product knowledge",
+  base: "/docs/",
 
   ignoreDeadLinks: [
     /^http:\/\/localhost/,
