@@ -555,6 +555,30 @@ docs/
 | https://github.com/koddaai/pkp | Repositorio GitHub |
 | https://www.npmjs.com/org/pkprotocol | Organizacao npm |
 
+### AI Discovery (Crawlers)
+
+Dados PKP publicados para descoberta por AI agents:
+
+| URL | Conteudo |
+|-----|----------|
+| https://pkp.kodda.ai/llms.txt | Guia para AI agents |
+| https://pkp.kodda.ai/pkp.txt | Ponteiro PKP |
+| https://pkp.kodda.ai/robots.txt | Permite crawlers AI (GPTBot, ClaudeBot, etc) |
+| https://pkp.kodda.ai/sitemap.xml | Sitemap para indexacao |
+| https://pkp.kodda.ai/.well-known/pkp/catalog.json | Indice do catalogo (metadados) |
+| https://pkp.kodda.ai/.well-known/pkp/manifest.json | 77k produtos completos (23MB) |
+
+**Crawlers Permitidos:**
+- GPTBot (OpenAI)
+- ClaudeBot / Claude-Web / Anthropic-AI
+- PerplexityBot
+- Googlebot / Bingbot
+
+**Arquivos Criados:**
+- `.nojekyll` - Desabilita Jekyll para servir `.well-known/`
+- `llms.txt` - Formato emergente para guiar AI agents
+- `robots.txt` - Permite todos os crawlers AI
+
 ### DNS (Cloudflare)
 
 ```
@@ -618,6 +642,13 @@ git push origin gh-pages
     - 77.326 produtos importados de 10 varejistas brasileiros
     - GitHub Action para atualizacao diaria automatica
     - Mapeamento completo Awin → PKP
+
+13. ✅ **AI Discovery (Crawlers)**
+    - Catalogo publicado em `/.well-known/pkp/` (padrao PKP)
+    - `llms.txt` para guiar AI agents
+    - `robots.txt` permitindo GPTBot, ClaudeBot, PerplexityBot
+    - `sitemap.xml` para indexacao
+    - `.nojekyll` para servir arquivos corretamente no GitHub Pages
 
 ### Em Andamento (v0.4.0)
 
@@ -785,4 +816,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-10*
-*Status: v0.3.0 concluido - 77k+ produtos importados, Studio deployado no Vercel, analytics de AI tracking implementado. Proximo: landing page com proposta de valor + dashboard do publisher.*
+*Status: v0.3.0 concluido - 77k+ produtos importados, Studio no Vercel, AI tracking, catalogo publico para crawlers (llms.txt, robots.txt, .well-known/pkp/). Proximo: landing page com proposta de valor + dashboard do publisher.*
