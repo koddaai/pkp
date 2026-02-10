@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PKP - Product Knowledge Protocol</title>
+  <meta name="description" content="Open standard for AI agent product knowledge. Web-native, agent-first protocol for structured product data.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="nav-container">
+      <a href="/" class="nav-logo">
+        <span class="logo-bracket">[</span>PKP<span class="logo-bracket">]</span>
+      </a>
+      <div class="nav-links">
+        <a href="https://koddaai.github.io/pkp/" target="_blank">Docs</a>
+        <a href="https://github.com/koddaai/pkp" target="_blank">GitHub</a>
+        <a href="https://www.npmjs.com/org/pkprotocol" target="_blank">npm</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="logo-text">[ PKP ]</div>
+    <h1 class="hero-title">Product Knowledge Protocol</h1>
+    <p class="hero-tagline">Open standard for AI agent product knowledge</p>
+
+    <div class="install-box">
+      <code>npm install -g @pkprotocol/cli</code>
+      <button class="copy-btn" onclick="copyInstall()">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+          <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+        </svg>
+      </button>
+    </div>
+  </section>
+
+  <!-- What is PKP -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">The missing layer in agentic commerce</h2>
+      <p class="section-desc">
+        PKP solves <strong>"what to buy and why"</strong> before payment protocols kick in.
+        Structured product data that AI agents can discover, compare, and recommend.
+      </p>
+
+      <div class="features-grid">
+        <div class="feature">
+          <div class="feature-icon">/.well-known/</div>
+          <h3>Web-native</h3>
+          <p>Data lives on vendor domains. No central database. Just HTTP GET.</p>
+        </div>
+        <div class="feature">
+          <div class="feature-icon">&lt;agent/&gt;</div>
+          <h3>Agent-first</h3>
+          <p>Designed for AI to consume. MCP servers included.</p>
+        </div>
+        <div class="feature">
+          <div class="feature-icon">{schema}</div>
+          <h3>Typed schemas</h3>
+          <p>15 category schemas. Zod validation. Comparable by design.</p>
+        </div>
+        <div class="feature">
+          <div class="feature-icon">★ trust</div>
+          <h3>Confidence levels</h3>
+          <p>Every data point has source + verification timestamp.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Code Example -->
+  <section class="section section-dark">
+    <div class="container">
+      <h2 class="section-title">PRODUCT.md</h2>
+      <p class="section-desc">Simple YAML frontmatter + Markdown content</p>
+
+      <div class="code-window">
+        <div class="code-header">
+          <span class="code-dot red"></span>
+          <span class="code-dot yellow"></span>
+          <span class="code-dot green"></span>
+          <span class="code-filename">galaxy-s25-ultra.md</span>
+        </div>
+        <pre class="code-content"><code>---
+schema: pkp/1.0
+sku: "galaxy-s25-ultra"
+brand: "Samsung"
+name: "Galaxy S25 Ultra"
+category: "celulares/smartphones"
+summary: "Flagship smartphone with S Pen and 200MP camera"
+
+price:
+  currency: BRL
+  value: 9499.00
+
+specs:
+  display_size: 6.9
+  processor: "Snapdragon 8 Elite"
+  ram_gb: 12
+  storage_gb: 256
+  main_camera_mp: 200
+  battery_mah: 5000
+
+confidence:
+  specs:
+    source: manufacturer
+    verified_at: "2025-01-15"
+---
+
+## Highlights
+- 200MP main camera with AI processing
+- S Pen with improved latency
+- Titanium frame, Gorilla Glass Armor
+
+## FAQ
+### Does it support 5G?
+Yes, all major bands including mmWave.</code></pre>
+      </div>
+    </div>
+  </section>
+
+  <!-- CLI Commands -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">CLI</h2>
+      <p class="section-desc">Everything you need to create, validate, and serve product catalogs</p>
+
+      <div class="commands">
+        <div class="command">
+          <code class="command-code">pkp init</code>
+          <span class="command-desc">Initialize a new catalog</span>
+        </div>
+        <div class="command">
+          <code class="command-code">pkp validate</code>
+          <span class="command-desc">Validate PRODUCT.md files</span>
+        </div>
+        <div class="command">
+          <code class="command-code">pkp build</code>
+          <span class="command-desc">Generate .well-known/pkp/</span>
+        </div>
+        <div class="command">
+          <code class="command-code">pkp generate -u &lt;url&gt;</code>
+          <span class="command-desc">AI-generate from product page</span>
+        </div>
+        <div class="command">
+          <code class="command-code">pkp serve</code>
+          <span class="command-desc">Local dev server</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Packages -->
+  <section class="section section-dark">
+    <div class="container">
+      <h2 class="section-title">Packages</h2>
+      <p class="section-desc">Modular architecture. Use what you need.</p>
+
+      <div class="packages-table">
+        <div class="package-row header">
+          <span>Package</span>
+          <span>Description</span>
+          <span>Install</span>
+        </div>
+        <div class="package-row">
+          <span class="package-name">@pkprotocol/cli</span>
+          <span class="package-desc">Command-line interface</span>
+          <code>npm i -g @pkprotocol/cli</code>
+        </div>
+        <div class="package-row">
+          <span class="package-name">@pkprotocol/spec</span>
+          <span class="package-desc">Schemas, parser, validator</span>
+          <code>npm i @pkprotocol/spec</code>
+        </div>
+        <div class="package-row">
+          <span class="package-name">@pkprotocol/catalog-server</span>
+          <span class="package-desc">MCP server for catalogs</span>
+          <code>npm i @pkprotocol/catalog-server</code>
+        </div>
+        <div class="package-row">
+          <span class="package-name">@pkprotocol/registry-server</span>
+          <span class="package-desc">Cross-domain discovery</span>
+          <code>npm i @pkprotocol/registry-server</code>
+        </div>
+        <div class="package-row">
+          <span class="package-name">@pkprotocol/skills</span>
+          <span class="package-desc">AI prompts for assistants</span>
+          <code>npm i @pkprotocol/skills</code>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">15 Category Schemas</h2>
+      <p class="section-desc">Type-safe specs for each product category</p>
+
+      <div class="categories">
+        <span class="category">smartphones</span>
+        <span class="category">notebooks</span>
+        <span class="category">tvs</span>
+        <span class="category">tablets</span>
+        <span class="category">audio</span>
+        <span class="category">monitors</span>
+        <span class="category">smartwatches</span>
+        <span class="category">cameras</span>
+        <span class="category">games</span>
+        <span class="category">eletrodomesticos</span>
+        <span class="category">moda</span>
+        <span class="category">moveis</span>
+        <span class="category">brinquedos</span>
+        <span class="category">livros</span>
+        <span class="category">beleza</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Architecture -->
+  <section class="section section-dark">
+    <div class="container">
+      <h2 class="section-title">Architecture</h2>
+      <pre class="architecture">
+┌─────────────────────────────────────────────────────────────┐
+│  LAYER 0 - Static (files on server)                         │
+│  ├── /.well-known/pkp/catalog.json                         │
+│  ├── /.well-known/pkp/products/*.md                        │
+│  └── Access: HTTP GET | Cost: zero                         │
+├─────────────────────────────────────────────────────────────┤
+│  LAYER 1 - Catalog MCP Server                               │
+│  ├── Tools: search, compare, filter, faq, alternatives     │
+│  └── Access: MCP protocol (Claude Desktop, etc)            │
+├─────────────────────────────────────────────────────────────┤
+│  LAYER 2 - Registry Server                                  │
+│  ├── Cross-domain indexing and search                      │
+│  └── Access: MCP or REST API                               │
+└─────────────────────────────────────────────────────────────┘
+      </pre>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="section cta">
+    <div class="container">
+      <h2 class="cta-title">Get started in 30 seconds</h2>
+      <div class="cta-commands">
+        <code>npm install -g @pkprotocol/cli</code>
+        <code>pkp init my-catalog</code>
+        <code>pkp build</code>
+      </div>
+      <div class="cta-links">
+        <a href="https://koddaai.github.io/pkp/guide/getting-started" class="btn btn-primary">Read the Docs</a>
+        <a href="https://github.com/koddaai/pkp" class="btn btn-secondary">View on GitHub</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>Built by <a href="https://kodda.ai" target="_blank">Kodda.ai</a></p>
+      <p class="footer-links">
+        <a href="https://github.com/koddaai/pkp">GitHub</a>
+        <a href="https://www.npmjs.com/org/pkprotocol">npm</a>
+        <a href="https://koddaai.github.io/pkp/">Docs</a>
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    function copyInstall() {
+      navigator.clipboard.writeText('npm install -g @pkprotocol/cli');
+      const btn = document.querySelector('.copy-btn');
+      btn.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg>';
+      setTimeout(() => {
+        btn.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>';
+      }, 2000);
+    }
+  </script>
+</body>
+</html>
