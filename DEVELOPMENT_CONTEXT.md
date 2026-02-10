@@ -627,4 +627,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-10*
-*Status: v0.2.0 publicado no npm (@pkprotocol/*) - Landing page em pkp.kodda.ai, Docs em pkp.kodda.ai/docs/, GitHub repo koddaai/pkp, 15 categorias, CLI com AI generation + auto-detect, Catalog Server, Registry Server com PostgreSQL, Skills, PKP Studio com editor visual, 201 testes E2E*
+*Status: v0.2.0 publicado no npm (@pkprotocol/*) - Landing page em pkp.kodda.ai (gh-pages), Docs VitePress em pkp.kodda.ai/docs/ (gh-pages), DNS via Cloudflare CNAME, GitHub repo koddaai/pkp, 15 categorias, CLI com AI generation + auto-detect, Catalog Server, Registry Server com PostgreSQL, Skills, PKP Studio com editor visual, 201 testes E2E*
