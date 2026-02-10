@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Package, Sparkles, CheckCircle, FolderOpen, Upload, FolderOutput, Bot } from "lucide-react";
+import { Package, Sparkles, CheckCircle, FolderOpen, Upload, FolderOutput, Bot, BarChart3 } from "lucide-react";
 
 export default function Home() {
   return (
@@ -26,6 +26,9 @@ export default function Home() {
             </Link>
             <Link href="/export" className="text-sm hover:text-[var(--primary)]">
               Export
+            </Link>
+            <Link href="/analytics" className="text-sm hover:text-[var(--primary)]">
+              Analytics
             </Link>
           </nav>
         </div>
@@ -97,13 +100,16 @@ export default function Home() {
             </p>
           </Link>
 
-          <div className="p-6 border border-[var(--border)] rounded-lg opacity-60">
-            <CheckCircle className="w-8 h-8 text-[var(--primary)] mb-3" />
-            <h3 className="font-semibold mb-1">Validate Catalog</h3>
+          <Link
+            href="/analytics"
+            className="p-6 border border-[var(--border)] rounded-lg hover:border-[var(--primary)] transition-colors"
+          >
+            <BarChart3 className="w-8 h-8 text-[var(--primary)] mb-3" />
+            <h3 className="font-semibold mb-1">AI Analytics</h3>
             <p className="text-sm text-[var(--muted-foreground)]">
-              Check your catalog for errors
+              Track AI agents accessing your products
             </p>
-          </div>
+          </Link>
         </div>
 
         {/* Stats (placeholder) */}

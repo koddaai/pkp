@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { readdir, readFile, stat } from "fs/promises";
 import { existsSync } from "fs";
 import { join } from "path";
+import { trackEvent, getTrackingInfo } from "@/lib/analytics";
 
 interface ProductSummary {
   sku: string;
@@ -95,6 +96,16 @@ export async function GET(request: NextRequest) {
 
     // Paginate
     const paginated = filtered.slice(offset, offset + limit);
+
+    // Track the request (non-blocking)
+    const { userAgent, ip, referer } = getTrackingInfo(request);
+    trackEvent({
+      event: search ? "search" : "catalog_fetch",
+      userAgent,
+      ip,
+      referer,
+      query: search,
+    });
 
     return NextResponse.json({
       products: paginated,

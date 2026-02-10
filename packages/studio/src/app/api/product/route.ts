@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { readFile, writeFile } from "fs/promises";
 import { parseProductMd, validateProductMd } from "@pkprotocol/spec";
+import { trackEvent, getTrackingInfo } from "@/lib/analytics";
 
 interface Frontmatter {
   sku?: string;
@@ -60,6 +61,17 @@ export async function GET(request: NextRequest) {
       completeness: validation.completeness,
       path: filePath,
     } : null;
+
+    // Track the product view (non-blocking)
+    const { userAgent, ip, referer } = getTrackingInfo(request);
+    trackEvent({
+      event: "product_view",
+      userAgent,
+      ip,
+      referer,
+      productSku: product?.sku,
+      productName: product?.name,
+    });
 
     return NextResponse.json({
       success: true,
