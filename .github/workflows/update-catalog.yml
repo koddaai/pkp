@@ -1,0 +1,121 @@
+name: Update Catalog
+
+on:
+  schedule:
+    # Runs daily at 6am UTC (3am BRT)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    # Allow manual trigger from GitHub UI
+    inputs:
+      overwrite:
+        description: 'Overwrite existing products (update prices/stock)'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  update-catalog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Import products from Awin feeds
+        env:
+          OVERWRITE_FLAG: ${{ github.event.inputs.overwrite == 'true' && '--overwrite' || '' }}
+        run: |
+          echo "Starting catalog update at $(date)"
+
+          # Brazilian retailer feeds
+          declare -A FEEDS=(
+            ["Samsung BR"]="89199"
+            ["Kabum"]="46967"
+            ["Adidas BR"]="95015"
+            ["Centauro"]="91869"
+            ["Cobasi"]="48117"
+            ["Mizuno BR"]="85451"
+            ["LG BR"]="103134"
+            ["Consul BR"]="113048"
+            ["Electrolux BR"]="47015"
+            ["Stanley BR"]="72033"
+            ["Panasonic BR"]="97009"
+          )
+
+          for retailer in "${!FEEDS[@]}"; do
+            feed_id="${FEEDS[$retailer]}"
+            echo ""
+            echo "=== Importing $retailer (feed $feed_id) ==="
+            npx tsx scripts/import-awin.ts --feed-id "$feed_id" $OVERWRITE_FLAG || echo "Warning: Failed to import $retailer"
+          done
+
+          echo ""
+          echo "=== Import complete ==="
+
+      - name: Build manifest
+        run: |
+          echo "Building manifest..."
+          npx tsx scripts/build-manifest.ts --catalog ./examples/kodda-catalog
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add -A
+          if git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No changes detected"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected:"
+            git diff --staged --stat | tail -5
+          fi
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Count products
+          PRODUCT_COUNT=$(jq '.stats.total_products' examples/kodda-catalog/manifest.json)
+
+          git commit -m "chore(catalog): update product catalog
+
+          Automated daily update from Awin feeds.
+          Total products: $PRODUCT_COUNT
+
+          Updated at: $(date -u '+%Y-%m-%d %H:%M UTC')"
+
+          git push
+
+      - name: Summary
+        run: |
+          echo "## Catalog Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f examples/kodda-catalog/manifest.json ]; then
+            TOTAL=$(jq '.stats.total_products' examples/kodda-catalog/manifest.json)
+            CATEGORIES=$(jq '.stats.categories | keys | length' examples/kodda-catalog/manifest.json)
+            BRANDS=$(jq '.stats.brands | keys | length' examples/kodda-catalog/manifest.json)
+
+            echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY
+            echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
+            echo "| Total Products | $TOTAL |" >> $GITHUB_STEP_SUMMARY
+            echo "| Categories | $CATEGORIES |" >> $GITHUB_STEP_SUMMARY
+            echo "| Brands | $BRANDS |" >> $GITHUB_STEP_SUMMARY
+          fi
