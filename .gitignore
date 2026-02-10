@@ -39,3 +39,4 @@ out/
 
 # OS files
 Thumbs.db
+.vercel

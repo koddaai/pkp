@@ -1,0 +1,9 @@
+# Ignore large catalog files - they're bundled via manifest.json
+examples/kodda-catalog/**/*.md
+
+# Ignore other non-essential files
+*.log
+.git
+node_modules
+docs/.vitepress/cache
+docs/.vitepress/dist
