@@ -1,6 +1,6 @@
 {
-  "name": "@pkp/spec",
-  "version": "0.1.0",
+  "name": "@pkprotocol/spec",
+  "version": "0.2.0",
   "description": "PKP specification - schemas, parser, and validator",
   "type": "module",
   "repository": {

@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { readdir, readFile } from "fs/promises";
 import { join } from "path";
-import { parseProductMd, validateProductMd } from "@pkp/spec";
+import { parseProductMd, validateProductMd } from "@pkprotocol/spec";
 
 interface ProductSummary {
   sku: string;

@@ -2,8 +2,8 @@ import { readFile, readdir, access, mkdir } from "node:fs/promises";
 import { join, extname, relative } from "node:path";
 import chalk from "chalk";
 import { parse as parseYaml } from "yaml";
-import { parseProductMd, validateProductMd, calculateCompleteness } from "@pkp/spec";
-import { generateWellKnownPKP } from "@pkp/static-generator";
+import { parseProductMd, validateProductMd, calculateCompleteness } from "@pkprotocol/spec";
+import { generateWellKnownPKP } from "@pkprotocol/static-generator";
 
 /**
  * PKP Configuration

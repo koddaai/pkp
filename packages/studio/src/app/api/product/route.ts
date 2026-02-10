@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { readFile, writeFile } from "fs/promises";
-import { parseProductMd, validateProductMd } from "@pkp/spec";
+import { parseProductMd, validateProductMd } from "@pkprotocol/spec";
 
 /**
  * GET /api/product?path=/path/to/product.md

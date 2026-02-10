@@ -1,6 +1,6 @@
 {
-  "name": "@pkp/registry-server",
-  "version": "0.1.0",
+  "name": "@pkprotocol/registry-server",
+  "version": "0.2.0",
   "description": "PKP Registry - Central discovery and indexing service",
   "type": "module",
   "repository": {
@@ -38,8 +38,8 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
-    "@pkp/spec": "workspace:*",
-    "@pkp/shared": "workspace:*",
+    "@pkprotocol/spec": "workspace:*",
+    "@pkprotocol/shared": "workspace:*",
     "fastmcp": "^1.0.0",
     "pg": "^8.13.0",
     "undici": "^7.0.0",

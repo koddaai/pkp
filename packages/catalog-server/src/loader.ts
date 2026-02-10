@@ -6,8 +6,8 @@
 
 import { readFile, readdir, stat } from "node:fs/promises";
 import { join, extname } from "node:path";
-import { PKPCatalog, parseProductMd, PKPProductBase } from "@pkp/spec";
-import type { PKPCatalogProduct } from "@pkp/spec";
+import { PKPCatalog, parseProductMd, PKPProductBase } from "@pkprotocol/spec";
+import type { PKPCatalogProduct } from "@pkprotocol/spec";
 import type { LoadedCatalog, LoadedProduct } from "./types.js";
 
 /**

@@ -5,7 +5,7 @@ The PKP Catalog Server is an MCP server that serves a local PKP catalog to AI ag
 ## Installation
 
 ```bash
-npm install -g @pkp/catalog-server
+npm install -g @pkprotocol/catalog-server
 ```
 
 ## Usage

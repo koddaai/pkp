@@ -1,6 +1,6 @@
 import { writeFile, mkdir, copyFile } from "node:fs/promises";
 import { join } from "node:path";
-import { slugify } from "@pkp/shared";
+import { slugify } from "@pkprotocol/shared";
 
 /**
  * PKP Configuration

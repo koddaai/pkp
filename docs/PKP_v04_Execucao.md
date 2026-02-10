@@ -93,7 +93,7 @@ import {
   serializeProduct,         // objeto → PRODUCT.md string
   validateProduct,          // → { valid, errors, warnings, completeness }
   getCategorySchema,        // categoria → ZodSchema
-} from "@pkp/spec";
+} from "@pkprotocol/spec";
 ```
 
 **Schemas de preço atualizados (v0.3+):**
@@ -847,7 +847,7 @@ npx pkp build ./catalog/
 Publicar `github.com/koddaai/pkp`:
 - README com visão geral
 - SPEC.md formal
-- @pkp/spec no npm
+- @pkprotocol/spec no npm
 - CLI (pkp) no npm
 - Skills (publicadas também em skills.sh):
   - `pkp-consumer` (como consumir PKP)

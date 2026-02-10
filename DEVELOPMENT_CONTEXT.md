@@ -30,14 +30,14 @@ CAMADA 0 - Estatico (arquivo no servidor)
 ├── Custo: zero
 └── Quem pode fazer: qualquer um com dominio
 
-CAMADA 1 - Catalog MCP Server (@pkp/catalog-server) ✅
+CAMADA 1 - Catalog MCP Server (@pkprotocol/catalog-server) ✅
 ├── Serve dados PKP via MCP protocol
 ├── Tools: search, compare, filter, faq, alternatives
 ├── Resources: pkp://catalog, pkp://product/{sku}
 ├── Acesso: MCP client (Claude Desktop, etc)
 └── Quem faz: Kodda (managed) ou self-hosted
 
-CAMADA 2 - Registry MCP Server (@pkp/registry-server) ✅
+CAMADA 2 - Registry MCP Server (@pkprotocol/registry-server) ✅
 ├── Indexa /.well-known/pkp/ de multiplos dominios
 ├── Busca cross-dominio (search_products)
 ├── Tools: register, refresh, resolve, compare_across_catalogs
@@ -73,14 +73,29 @@ pkp/
 
 | Package | Status | Descricao |
 |---------|--------|-----------|
-| `@pkp/spec` | ✅ | Schemas Zod, parser, validator, 111 testes |
-| `@pkp/shared` | ✅ | Utilitarios (slugify) |
-| `@pkp/static-generator` | ✅ | Gera .well-known/pkp/ de PRODUCT.md |
-| `pkp` (CLI) | ✅ | init, validate, build, serve, generate |
-| `@pkp/catalog-server` | ✅ | MCP server para catalogos locais |
-| `@pkp/registry-server` | ✅ | MCP server para registry global + PostgreSQL |
-| `@pkp/skills` | ✅ | Prompts especializados para AI |
-| `@pkp/studio` | ✅ | Interface web para gerenciar catalogos (Next.js) |
+| `@pkprotocol/spec` | ✅ | Schemas Zod, parser, validator, 111 testes |
+| `@pkprotocol/shared` | ✅ | Utilitarios (slugify) |
+| `@pkprotocol/static-generator` | ✅ | Gera .well-known/pkp/ de PRODUCT.md |
+| `@pkprotocol/cli` | ✅ | init, validate, build, serve, generate |
+| `@pkprotocol/catalog-server` | ✅ | MCP server para catalogos locais |
+| `@pkprotocol/registry-server` | ✅ | MCP server para registry global + PostgreSQL |
+| `@pkprotocol/skills` | ✅ | Prompts especializados para AI |
+| `@pkprotocol/studio` | ✅ | Interface web para gerenciar catalogos (Next.js) |
+
+---
+
+## Instalacao via npm
+
+```bash
+# CLI global
+npm install -g @pkprotocol/cli
+
+# Packages individuais
+npm install @pkprotocol/spec
+npm install @pkprotocol/catalog-server
+npm install @pkprotocol/registry-server
+npm install @pkprotocol/skills
+```
 
 ---
 
@@ -170,7 +185,7 @@ https://loja.com/produto3,tvs
 
 ## MCP Servers
 
-### Catalog Server (@pkp/catalog-server)
+### Catalog Server (@pkprotocol/catalog-server)
 
 Serve um catalogo PKP local via MCP.
 
@@ -194,7 +209,7 @@ pkp-catalog-server ./dist
 - `pkp://catalog` - Metadados do catalogo
 - `pkp://product/{sku}` - Conteudo PRODUCT.md
 
-### Registry Server (@pkp/registry-server)
+### Registry Server (@pkprotocol/registry-server)
 
 Agrega multiplos catalogos PKP para busca global.
 
@@ -250,7 +265,7 @@ psql -d pkp -f migrations/004_create_fulltext_search_pt.sql
 
 ---
 
-## Skills (@pkp/skills)
+## Skills (@pkprotocol/skills)
 
 Prompts especializados para assistentes AI:
 
@@ -262,7 +277,7 @@ Prompts especializados para assistentes AI:
 | `product-explainer` | Tradutor de specs tecnicas |
 
 ```typescript
-import { CONSUMER_SKILL, SMARTPHONES_SKILL } from "@pkp/skills";
+import { CONSUMER_SKILL, SMARTPHONES_SKILL } from "@pkprotocol/skills";
 
 // Usar o systemPrompt em seu AI assistant
 console.log(CONSUMER_SKILL.systemPrompt);
@@ -270,7 +285,7 @@ console.log(CONSUMER_SKILL.systemPrompt);
 
 ---
 
-## PKP Studio (@pkp/studio)
+## PKP Studio (@pkprotocol/studio)
 
 Interface web para gerenciar catalogos PKP, construida com Next.js.
 
@@ -412,10 +427,10 @@ Localizado em `examples/kodda-catalog/` com 10 produtos:
 
 | Package | Testes | Descricao |
 |---------|--------|-----------|
-| `@pkp/spec` | 111 | Schemas, parser, validator, categorias |
+| `@pkprotocol/spec` | 111 | Schemas, parser, validator, categorias |
 | `pkp` (CLI) | 43 | init, validate, build, generate (category detection) |
-| `@pkp/catalog-server` | 23 | Search, loader, comparacao |
-| `@pkp/registry-server` | 24 | Storage (InMemory), search, stats |
+| `@pkprotocol/catalog-server` | 23 | Search, loader, comparacao |
+| `@pkprotocol/registry-server` | 24 | Storage (InMemory), search, stats |
 
 ```bash
 pnpm test  # Roda todos os testes
@@ -570,4 +585,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-10*
-*Status: v1.0.0 - 15 categorias, CLI com AI generation + auto-detect, Catalog Server, Registry Server com PostgreSQL, Skills, PKP Studio com editor visual, 201 testes E2E, Docs!*
+*Status: v0.2.0 publicado no npm (@pkprotocol/*) - 15 categorias, CLI com AI generation + auto-detect, Catalog Server, Registry Server com PostgreSQL, Skills, PKP Studio com editor visual, 201 testes E2E, Docs!*

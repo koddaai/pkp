@@ -1,7 +1,7 @@
 import { readFile, readdir, stat } from "node:fs/promises";
 import { join, extname, relative } from "node:path";
 import chalk from "chalk";
-import { validateProductMd, type ValidationResult } from "@pkp/spec";
+import { validateProductMd, type ValidationResult } from "@pkprotocol/spec";
 
 export interface ValidateOptions {
   verbose?: boolean;

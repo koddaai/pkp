@@ -1,5 +1,5 @@
 /**
- * @pkp/skills - MCP prompts for AI product assistants
+ * @pkprotocol/skills - MCP prompts for AI product assistants
  *
  * Skills are specialized system prompts that help AI assistants
  * provide expert guidance for specific product categories or use cases.

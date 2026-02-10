@@ -2,7 +2,7 @@
  * Catalog Server Types
  */
 
-import type { PKPCatalog, PKPCatalogProduct, PKPProductBase } from "@pkp/spec";
+import type { PKPCatalog, PKPCatalogProduct, PKPProductBase } from "@pkprotocol/spec";
 
 /**
  * Loaded product with full content

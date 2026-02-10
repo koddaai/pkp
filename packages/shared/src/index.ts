@@ -1,5 +1,5 @@
 /**
- * @pkp/shared - Shared utilities for PKP packages
+ * @pkprotocol/shared - Shared utilities for PKP packages
  */
 
 export function slugify(text: string): string {

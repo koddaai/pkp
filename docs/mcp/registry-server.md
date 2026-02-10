@@ -5,7 +5,7 @@ The PKP Registry Server aggregates multiple PKP catalogs for global product disc
 ## Installation
 
 ```bash
-npm install -g @pkp/registry-server
+npm install -g @pkprotocol/registry-server
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 /**
- * @pkp/spec - PKP Specification Package
+ * @pkprotocol/spec - PKP Specification Package
  *
  * Schemas, parser, and validator for Product Knowledge Protocol
  */

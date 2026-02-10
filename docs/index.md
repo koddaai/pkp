@@ -84,7 +84,7 @@ pkp build my-catalog
 | Package | Description |
 |---------|-------------|
 | `pkp` | CLI for validating, building, and generating product data |
-| `@pkp/spec` | Schemas, parser, and validator |
-| `@pkp/catalog-server` | MCP server for serving catalog data |
-| `@pkp/registry-server` | Central discovery and indexing service |
-| `@pkp/skills` | AI prompts for product assistants |
+| `@pkprotocol/spec` | Schemas, parser, and validator |
+| `@pkprotocol/catalog-server` | MCP server for serving catalog data |
+| `@pkprotocol/registry-server` | Central discovery and indexing service |
+| `@pkprotocol/skills` | AI prompts for product assistants |

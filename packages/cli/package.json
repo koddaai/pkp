@@ -1,6 +1,6 @@
 {
-  "name": "pkp",
-  "version": "0.1.0",
+  "name": "@pkprotocol/cli",
+  "version": "0.2.0",
   "description": "CLI for Product Knowledge Protocol",
   "type": "module",
   "repository": {
@@ -35,10 +35,10 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
-    "@pkp/spec": "workspace:*",
-    "@pkp/static-generator": "workspace:*",
-    "@pkp/shared": "workspace:*",
-    "@pkp/skills": "workspace:*",
+    "@pkprotocol/spec": "workspace:*",
+    "@pkprotocol/static-generator": "workspace:*",
+    "@pkprotocol/shared": "workspace:*",
+    "@pkprotocol/skills": "workspace:*",
     "@anthropic-ai/sdk": "^0.52.0",
     "commander": "^13.0.0",
     "chalk": "^5.4.0",

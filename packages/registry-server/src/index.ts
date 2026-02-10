@@ -1,5 +1,5 @@
 /**
- * @pkp/registry-server - PKP Registry for central discovery
+ * @pkprotocol/registry-server - PKP Registry for central discovery
  */
 
 export { createRegistryServer, type RegistryServerOptions } from "./server.js";

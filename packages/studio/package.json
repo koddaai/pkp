@@ -1,6 +1,6 @@
 {
-  "name": "@pkp/studio",
-  "version": "0.1.0",
+  "name": "@pkprotocol/studio",
+  "version": "0.1.1",
   "private": true,
   "description": "PKP Studio - Web interface for managing PKP catalogs",
   "scripts": {
@@ -10,9 +10,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@pkp/shared": "workspace:*",
-    "@pkp/spec": "workspace:*",
-    "@pkp/static-generator": "workspace:*",
+    "@pkprotocol/shared": "workspace:*",
+    "@pkprotocol/spec": "workspace:*",
+    "@pkprotocol/static-generator": "workspace:*",
     "lucide-react": "^0.469.0",
     "next": "^15.1.0",
     "react": "^19.0.0",

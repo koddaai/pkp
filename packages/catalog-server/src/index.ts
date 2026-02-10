@@ -1,5 +1,5 @@
 /**
- * @pkp/catalog-server - MCP Server for serving PKP catalog data
+ * @pkprotocol/catalog-server - MCP Server for serving PKP catalog data
  */
 
 export { createCatalogServer, type CatalogServerOptions } from "./server.js";

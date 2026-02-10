@@ -3,8 +3,8 @@ import { join } from "node:path";
 import chalk from "chalk";
 import Anthropic from "@anthropic-ai/sdk";
 import { fetch } from "undici";
-import { validateProductMd, calculateCompleteness, parseProductMd } from "@pkp/spec";
-import { slugify } from "@pkp/shared";
+import { validateProductMd, calculateCompleteness, parseProductMd } from "@pkprotocol/spec";
+import { slugify } from "@pkprotocol/shared";
 
 export interface GenerateOptions {
   url?: string;

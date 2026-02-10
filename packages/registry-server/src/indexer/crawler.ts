@@ -5,7 +5,7 @@
  */
 
 import { fetch } from "undici";
-import { PKPCatalog } from "@pkp/spec";
+import { PKPCatalog } from "@pkprotocol/spec";
 import type { CrawlResult, IndexedProduct, RegisteredDomain } from "../types.js";
 
 /**

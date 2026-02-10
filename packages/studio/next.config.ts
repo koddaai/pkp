@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   output: "standalone",
 
   // Transpile workspace packages
-  transpilePackages: ["@pkp/spec", "@pkp/shared", "@pkp/static-generator"],
+  transpilePackages: ["@pkprotocol/spec", "@pkprotocol/shared", "@pkprotocol/static-generator"],
 };
 
 export default nextConfig;

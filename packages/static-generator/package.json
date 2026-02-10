@@ -1,6 +1,6 @@
 {
-  "name": "@pkp/static-generator",
-  "version": "0.1.0",
+  "name": "@pkprotocol/static-generator",
+  "version": "0.2.0",
   "description": "Generate .well-known/pkp/ from PRODUCT.md files",
   "type": "module",
   "repository": {
@@ -34,8 +34,8 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
-    "@pkp/spec": "workspace:*",
-    "@pkp/shared": "workspace:*"
+    "@pkprotocol/spec": "workspace:*",
+    "@pkprotocol/shared": "workspace:*"
   },
   "devDependencies": {
     "vitest": "^2.1.0",

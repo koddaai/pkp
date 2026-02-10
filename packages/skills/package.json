@@ -1,6 +1,6 @@
 {
-  "name": "@pkp/skills",
-  "version": "0.1.0",
+  "name": "@pkprotocol/skills",
+  "version": "0.2.0",
   "description": "PKP Skills - MCP prompts for AI product assistants",
   "type": "module",
   "repository": {
@@ -34,7 +34,7 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
-    "@pkp/spec": "workspace:*"
+    "@pkprotocol/spec": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5.7.0",
