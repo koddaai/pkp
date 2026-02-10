@@ -129,9 +129,23 @@ code {
 }
 
 .hero-tagline {
-  font-size: clamp(16px, 2.5vw, 20px);
+  font-size: clamp(18px, 3vw, 24px);
   color: var(--text-muted);
-  margin-bottom: 48px;
+  margin-bottom: 16px;
+}
+
+.hero-subtitle {
+  font-size: clamp(14px, 2vw, 16px);
+  color: var(--text-muted);
+  max-width: 600px;
+  margin-bottom: 32px;
+}
+
+.hero-ctas {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .install-box {
@@ -488,6 +502,119 @@ code {
   color: var(--text);
 }
 
+/* Problem Section */
+.problem-section {
+  background: linear-gradient(180deg, var(--bg) 0%, var(--bg-secondary) 100%);
+}
+
+.problem-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 24px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.problem-card {
+  background: var(--bg-tertiary);
+  border: 2px solid var(--border);
+  border-radius: 12px;
+  padding: 28px;
+}
+
+.problem-card h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.problem-card ul {
+  list-style: none;
+}
+
+.problem-card li {
+  padding: 8px 0;
+  padding-left: 24px;
+  position: relative;
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+.problem-card li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.problem-card.bad {
+  border-color: #ff4444;
+}
+
+.problem-card.bad h3 {
+  color: #ff6666;
+}
+
+.problem-card.bad li::before {
+  background: #ff4444;
+}
+
+.problem-card.good {
+  border-color: var(--accent);
+}
+
+.problem-card.good h3 {
+  color: var(--accent);
+}
+
+.problem-card.good li::before {
+  background: var(--accent);
+}
+
+/* Analytics Preview */
+.analytics-preview {
+  margin-top: 48px;
+  text-align: center;
+}
+
+.analytics-preview h3 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 24px;
+  color: var(--text-muted);
+}
+
+.analytics-box {
+  font-family: var(--font-mono);
+  font-size: clamp(10px, 1.5vw, 13px);
+  line-height: 1.5;
+  color: var(--accent);
+  background: var(--code-bg);
+  border: 1px solid var(--accent-dim);
+  border-radius: 12px;
+  padding: 24px;
+  overflow-x: auto;
+  white-space: pre;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+/* Feature icons for retailers */
+.section-dark .feature {
+  background: var(--bg-tertiary);
+}
+
+.section-dark .feature-icon {
+  font-size: 24px;
+  background: transparent;
+  padding: 0;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .nav-links {
@@ -507,5 +634,14 @@ code {
     flex-direction: column;
     align-items: flex-start;
     gap: 8px;
+  }
+
+  .problem-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-ctas {
+    flex-direction: column;
+    align-items: center;
   }
 }

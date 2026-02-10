@@ -147,3 +147,79 @@ export interface RegistryIndex {
   /** Search index (simple text index) */
   searchIndex: Map<string, Set<string>>; // term -> URIs
 }
+
+// ============================================
+// Analytics Types
+// ============================================
+
+/**
+ * Query types for logging
+ */
+export type QueryType =
+  | "search"
+  | "get_product"
+  | "compare"
+  | "filter"
+  | "alternatives"
+  | "catalog_fetch"
+  | "product_fetch";
+
+/**
+ * Client types for analytics
+ */
+export type ClientType = "mcp" | "rest" | "cli" | "crawler" | "studio" | "agent" | "unknown";
+
+/**
+ * Known AI bot identifiers
+ */
+export const AI_BOT_PATTERNS: Record<string, string> = {
+  "GPTBot": "OpenAI",
+  "ChatGPT-User": "OpenAI",
+  "Claude-Web": "Anthropic",
+  "ClaudeBot": "Anthropic",
+  "Anthropic": "Anthropic",
+  "PerplexityBot": "Perplexity",
+  "Perplexity": "Perplexity",
+  "Google-Extended": "Google",
+  "Googlebot": "Google",
+  "Bingbot": "Microsoft",
+  "cohere-ai": "Cohere",
+  "YouBot": "You.com",
+};
+
+/**
+ * Query log entry
+ */
+export interface QueryLogEntry {
+  id?: string;
+  query_type: QueryType;
+  query_text?: string;
+  query_params?: Record<string, unknown>;
+  client_type: ClientType;
+  client_id?: string;
+  session_id?: string;
+  user_agent?: string;
+  ai_bot?: string; // Detected AI bot name (e.g., "OpenAI", "Anthropic")
+  domain?: string;
+  category?: string;
+  product_uri?: string;
+  results_count: number;
+  duration_ms: number;
+  created_at: Date;
+}
+
+/**
+ * Access statistics
+ */
+export interface AccessStats {
+  period: "today" | "week" | "month" | "all";
+  total_requests: number;
+  unique_products_accessed: number;
+  by_query_type: Record<QueryType, number>;
+  by_client_type: Record<ClientType, number>;
+  by_ai_bot: Record<string, number>;
+  top_products: Array<{ uri: string; name: string; count: number }>;
+  top_searches: Array<{ query: string; count: number }>;
+  top_categories: Array<{ category: string; count: number }>;
+  requests_by_hour: Array<{ hour: number; count: number }>;
+}

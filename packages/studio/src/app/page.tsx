@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Package, Sparkles, CheckCircle, FolderOpen, Upload, FolderOutput } from "lucide-react";
+import { Package, Sparkles, CheckCircle, FolderOpen, Upload, FolderOutput, Bot } from "lucide-react";
 
 export default function Home() {
   return (
@@ -12,6 +12,9 @@ export default function Home() {
             <h1 className="text-xl font-bold">PKP Studio</h1>
           </div>
           <nav className="flex gap-4">
+            <Link href="/catalog" className="text-sm hover:text-[var(--primary)]">
+              Catalog
+            </Link>
             <Link href="/products" className="text-sm hover:text-[var(--primary)]">
               Products
             </Link>
@@ -39,6 +42,17 @@ export default function Home() {
 
         {/* Quick Actions */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+          <Link
+            href="/catalog"
+            className="p-6 border border-[var(--primary)] rounded-lg hover:bg-[var(--muted)] transition-colors"
+          >
+            <Bot className="w-8 h-8 text-[var(--primary)] mb-3" />
+            <h3 className="font-semibold mb-1">AI View</h3>
+            <p className="text-sm text-[var(--muted-foreground)]">
+              See how AI agents view your products
+            </p>
+          </Link>
+
           <Link
             href="/products"
             className="p-6 border border-[var(--border)] rounded-lg hover:border-[var(--primary)] transition-colors"

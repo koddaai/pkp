@@ -11,6 +11,8 @@ import type {
   RegistrySearchOptions,
   RegistrySearchResult,
   RegistryStats,
+  QueryLogEntry,
+  AccessStats,
 } from "../types.js";
 
 /**
@@ -116,6 +118,25 @@ export interface RegistryStorage {
    * List all brands with product counts
    */
   listBrands(): Promise<Array<{ name: string; count: number }>>;
+
+  // ============================================
+  // Analytics Operations
+  // ============================================
+
+  /**
+   * Log a query for analytics
+   */
+  logQuery(entry: Omit<QueryLogEntry, "id" | "created_at">): Promise<void>;
+
+  /**
+   * Get access statistics
+   */
+  getAccessStats(period: "today" | "week" | "month" | "all"): Promise<AccessStats>;
+
+  /**
+   * Get recent queries (for debugging/monitoring)
+   */
+  getRecentQueries(limit: number): Promise<QueryLogEntry[]>;
 }
 
 /**

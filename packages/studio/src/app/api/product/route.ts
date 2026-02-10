@@ -2,6 +2,25 @@ import { NextRequest, NextResponse } from "next/server";
 import { readFile, writeFile } from "fs/promises";
 import { parseProductMd, validateProductMd } from "@pkprotocol/spec";
 
+interface Frontmatter {
+  sku?: string;
+  name?: string;
+  brand?: string;
+  category?: string;
+  subcategory?: string;
+  summary?: string;
+  price?: { value?: number; currency?: string };
+  availability?: string;
+  confidence?: {
+    specs?: { source?: string; level?: string };
+    price?: { source?: string; level?: string };
+  };
+  highlights?: string[];
+  tags?: string[];
+  identifiers?: { ean?: string; mpn?: string };
+  purchase_urls?: Array<{ retailer: string; url: string }>;
+}
+
 /**
  * GET /api/product?path=/path/to/product.md
  * Read a single product file
@@ -18,6 +37,29 @@ export async function GET(request: NextRequest) {
     const content = await readFile(filePath, "utf-8");
     const parsed = parseProductMd(content);
     const validation = validateProductMd(content);
+    const fm = parsed.frontmatter as Frontmatter | undefined;
+
+    // Build product object for catalog browser
+    const product = fm ? {
+      sku: String(fm.sku || ""),
+      name: String(fm.name || "Unnamed"),
+      brand: fm.brand ? String(fm.brand) : undefined,
+      category: String(fm.category || "uncategorized"),
+      subcategory: fm.subcategory ? String(fm.subcategory) : undefined,
+      summary: fm.summary ? String(fm.summary) : undefined,
+      price: fm.price?.value ? {
+        value: fm.price.value,
+        currency: fm.price.currency || "BRL",
+      } : undefined,
+      availability: fm.availability ? String(fm.availability) : undefined,
+      confidence: fm.confidence,
+      highlights: fm.highlights,
+      tags: fm.tags,
+      identifiers: fm.identifiers,
+      purchase_urls: fm.purchase_urls,
+      completeness: validation.completeness,
+      path: filePath,
+    } : null;
 
     return NextResponse.json({
       success: true,
@@ -25,6 +67,7 @@ export async function GET(request: NextRequest) {
       raw: content,
       frontmatter: parsed.frontmatter,
       content: parsed.content,
+      product,
       validation: {
         valid: validation.valid,
         errors: validation.errors,

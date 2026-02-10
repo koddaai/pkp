@@ -10,6 +10,7 @@ import type { RegistryStorage, StorageConfig } from "./storage/interface.js";
 import { createStorage } from "./storage/index.js";
 import { fetchCatalog, catalogToRegisteredDomain, catalogToIndexedProducts, fetchProduct } from "./indexer/crawler.js";
 import { resolveProductUri } from "./indexer/index.js";
+// AI bot detection patterns are defined in types.ts and used by storage implementations
 
 export interface RegistryServerOptions {
   /** Server name */
@@ -115,6 +116,8 @@ export async function createRegistryServer(options: RegistryServerOptions = {}):
       offset: z.number().optional().default(0).describe("Offset for pagination"),
     }),
     execute: async (args) => {
+      const startTime = Date.now();
+
       const results = await storage.search({
         query: args.query,
         domain: args.domain,
@@ -125,6 +128,24 @@ export async function createRegistryServer(options: RegistryServerOptions = {}):
         minCompleteness: args.min_completeness,
         limit: args.limit,
         offset: args.offset,
+      });
+
+      // Log the query for analytics
+      await storage.logQuery({
+        query_type: "search",
+        query_text: args.query,
+        query_params: {
+          domain: args.domain,
+          category: args.category,
+          brand: args.brand,
+          min_price: args.min_price,
+          max_price: args.max_price,
+        },
+        client_type: "mcp",
+        domain: args.domain,
+        category: args.category,
+        results_count: results.length,
+        duration_ms: Date.now() - startTime,
       });
 
       return JSON.stringify(
@@ -147,6 +168,7 @@ export async function createRegistryServer(options: RegistryServerOptions = {}):
       uri: z.string().describe("PKP URI in format pkp://domain/sku"),
     }),
     execute: async (args) => {
+      const startTime = Date.now();
       const parsed = resolveProductUri(args.uri);
       if (!parsed) {
         return JSON.stringify({ error: `Invalid PKP URI: ${args.uri}` });
@@ -159,6 +181,18 @@ export async function createRegistryServer(options: RegistryServerOptions = {}):
 
       try {
         const markdown = await fetchProduct(parsed.domain, indexed.product_url);
+
+        // Log the product access
+        await storage.logQuery({
+          query_type: "get_product",
+          product_uri: args.uri,
+          client_type: "mcp",
+          domain: parsed.domain,
+          category: indexed.category,
+          results_count: 1,
+          duration_ms: Date.now() - startTime,
+        });
+
         return JSON.stringify(
           {
             uri: args.uri,
@@ -429,6 +463,71 @@ export async function createRegistryServer(options: RegistryServerOptions = {}):
     },
   });
 
+  // Tool: get_access_stats
+  mcp.addTool({
+    name: "get_access_stats",
+    description:
+      "Get access statistics showing which AI agents and clients are accessing PKP data. Useful for monitoring adoption and understanding how products are being discovered.",
+    parameters: z.object({
+      period: z
+        .enum(["today", "week", "month", "all"])
+        .optional()
+        .default("week")
+        .describe("Time period for statistics"),
+    }),
+    execute: async (args) => {
+      const stats = await storage.getAccessStats(args.period);
+
+      return JSON.stringify(
+        {
+          period: stats.period,
+          summary: {
+            total_requests: stats.total_requests,
+            unique_products_accessed: stats.unique_products_accessed,
+          },
+          by_ai_bot: stats.by_ai_bot,
+          by_client_type: stats.by_client_type,
+          by_query_type: stats.by_query_type,
+          top_products: stats.top_products.slice(0, 5),
+          top_searches: stats.top_searches.slice(0, 5),
+          top_categories: stats.top_categories.slice(0, 5),
+        },
+        null,
+        2
+      );
+    },
+  });
+
+  // Tool: get_recent_queries
+  mcp.addTool({
+    name: "get_recent_queries",
+    description: "Get recent queries to the registry for debugging and monitoring purposes.",
+    parameters: z.object({
+      limit: z.number().optional().default(20).describe("Number of recent queries to return"),
+    }),
+    execute: async (args) => {
+      const queries = await storage.getRecentQueries(args.limit);
+
+      return JSON.stringify(
+        {
+          count: queries.length,
+          queries: queries.map((q) => ({
+            type: q.query_type,
+            query: q.query_text,
+            product: q.product_uri,
+            client: q.client_type,
+            ai_bot: q.ai_bot,
+            results: q.results_count,
+            duration_ms: q.duration_ms,
+            created_at: q.created_at.toISOString(),
+          })),
+        },
+        null,
+        2
+      );
+    },
+  });
+
   // Resource: registry stats
   mcp.addResource({
     uri: "pkp://registry/stats",
@@ -459,6 +558,30 @@ export async function createRegistryServer(options: RegistryServerOptions = {}):
               products: d.product_count,
               categories: d.categories,
             })),
+          },
+          null,
+          2
+        ),
+      };
+    },
+  });
+
+  // Resource: access analytics
+  mcp.addResource({
+    uri: "pkp://registry/analytics",
+    name: "Access Analytics",
+    description: "Weekly access statistics showing AI agent and client usage",
+    mimeType: "application/json",
+    async load() {
+      const stats = await storage.getAccessStats("week");
+      return {
+        text: JSON.stringify(
+          {
+            period: stats.period,
+            total_requests: stats.total_requests,
+            ai_bots: stats.by_ai_bot,
+            top_products: stats.top_products.slice(0, 10),
+            top_searches: stats.top_searches.slice(0, 10),
           },
           null,
           2

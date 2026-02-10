@@ -12,6 +12,10 @@ import type {
   RegistrySearchOptions,
   RegistrySearchResult,
   RegistryStats,
+  QueryLogEntry,
+  AccessStats,
+  QueryType,
+  ClientType,
 } from "../types.js";
 import type { RegistryStorage, PostgreSQLConfig } from "./interface.js";
 
@@ -523,5 +527,307 @@ export class PostgreSQLStorage implements RegistryStorage {
       name: row.name as string,
       count: Number(row.count) || 0,
     }));
+  }
+
+  // ============================================
+  // Analytics Operations
+  // ============================================
+
+  async logQuery(entry: Omit<QueryLogEntry, "id" | "created_at">): Promise<void> {
+    const query = `
+      INSERT INTO pkp_query_log (
+        query_type, query_text, query_params,
+        client_type, client_id, session_id, user_agent,
+        domain, category, product_uri,
+        results_count, duration_ms
+      ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12)
+    `;
+
+    try {
+      await this.pool.query(query, [
+        entry.query_type,
+        entry.query_text ?? null,
+        entry.query_params ? JSON.stringify(entry.query_params) : null,
+        entry.client_type,
+        entry.client_id ?? null,
+        entry.session_id ?? null,
+        entry.user_agent ?? null,
+        entry.domain ?? null,
+        entry.category ?? null,
+        entry.product_uri ?? null,
+        entry.results_count,
+        entry.duration_ms,
+      ]);
+    } catch (error) {
+      // Don't fail the main operation if logging fails
+      console.error("[Analytics] Failed to log query:", error);
+    }
+  }
+
+  async getAccessStats(period: "today" | "week" | "month" | "all"): Promise<AccessStats> {
+    let interval: string;
+    switch (period) {
+      case "today":
+        interval = "created_at >= CURRENT_DATE";
+        break;
+      case "week":
+        interval = "created_at >= NOW() - INTERVAL '7 days'";
+        break;
+      case "month":
+        interval = "created_at >= NOW() - INTERVAL '30 days'";
+        break;
+      default:
+        interval = "1=1";
+    }
+
+    // Main stats query
+    const statsQuery = `
+      SELECT
+        COUNT(*) as total_requests,
+        COUNT(DISTINCT product_uri) FILTER (WHERE product_uri IS NOT NULL) as unique_products
+      FROM pkp_query_log
+      WHERE ${interval}
+    `;
+
+    // By query type
+    const queryTypeQuery = `
+      SELECT query_type, COUNT(*) as count
+      FROM pkp_query_log
+      WHERE ${interval}
+      GROUP BY query_type
+    `;
+
+    // By client type
+    const clientTypeQuery = `
+      SELECT client_type, COUNT(*) as count
+      FROM pkp_query_log
+      WHERE ${interval}
+      GROUP BY client_type
+    `;
+
+    // By AI bot (from user_agent)
+    const aiBotQuery = `
+      SELECT
+        CASE
+          WHEN user_agent ILIKE '%GPTBot%' OR user_agent ILIKE '%ChatGPT%' THEN 'OpenAI'
+          WHEN user_agent ILIKE '%Claude%' OR user_agent ILIKE '%Anthropic%' THEN 'Anthropic'
+          WHEN user_agent ILIKE '%Perplexity%' THEN 'Perplexity'
+          WHEN user_agent ILIKE '%Google%' THEN 'Google'
+          WHEN user_agent ILIKE '%Bing%' THEN 'Microsoft'
+          ELSE 'Other'
+        END as ai_bot,
+        COUNT(*) as count
+      FROM pkp_query_log
+      WHERE ${interval} AND user_agent IS NOT NULL
+      GROUP BY ai_bot
+    `;
+
+    // Top products
+    const topProductsQuery = `
+      SELECT l.product_uri as uri, p.name, COUNT(*) as count
+      FROM pkp_query_log l
+      LEFT JOIN pkp_registry_index p ON l.product_uri = p.uri
+      WHERE ${interval} AND l.product_uri IS NOT NULL
+      GROUP BY l.product_uri, p.name
+      ORDER BY count DESC
+      LIMIT 10
+    `;
+
+    // Top searches
+    const topSearchesQuery = `
+      SELECT query_text as query, COUNT(*) as count
+      FROM pkp_query_log
+      WHERE ${interval} AND query_type = 'search' AND query_text IS NOT NULL
+      GROUP BY query_text
+      ORDER BY count DESC
+      LIMIT 10
+    `;
+
+    // Top categories
+    const topCategoriesQuery = `
+      SELECT category, COUNT(*) as count
+      FROM pkp_query_log
+      WHERE ${interval} AND category IS NOT NULL
+      GROUP BY category
+      ORDER BY count DESC
+      LIMIT 10
+    `;
+
+    // Requests by hour
+    const byHourQuery = `
+      SELECT EXTRACT(HOUR FROM created_at)::int as hour, COUNT(*) as count
+      FROM pkp_query_log
+      WHERE ${interval}
+      GROUP BY hour
+      ORDER BY hour
+    `;
+
+    try {
+      const [
+        statsResult,
+        queryTypeResult,
+        clientTypeResult,
+        aiBotResult,
+        topProductsResult,
+        topSearchesResult,
+        topCategoriesResult,
+        byHourResult,
+      ] = await Promise.all([
+        this.pool.query(statsQuery),
+        this.pool.query(queryTypeQuery),
+        this.pool.query(clientTypeQuery),
+        this.pool.query(aiBotQuery),
+        this.pool.query(topProductsQuery),
+        this.pool.query(topSearchesQuery),
+        this.pool.query(topCategoriesQuery),
+        this.pool.query(byHourQuery),
+      ]);
+
+      // Build query type map
+      const byQueryType: Record<QueryType, number> = {
+        search: 0,
+        get_product: 0,
+        compare: 0,
+        filter: 0,
+        alternatives: 0,
+        catalog_fetch: 0,
+        product_fetch: 0,
+      };
+      for (const row of queryTypeResult.rows) {
+        byQueryType[row.query_type as QueryType] = Number(row.count) || 0;
+      }
+
+      // Build client type map
+      const byClientType: Record<ClientType, number> = {
+        mcp: 0,
+        rest: 0,
+        cli: 0,
+        crawler: 0,
+        studio: 0,
+        agent: 0,
+        unknown: 0,
+      };
+      for (const row of clientTypeResult.rows) {
+        byClientType[row.client_type as ClientType] = Number(row.count) || 0;
+      }
+
+      // Build AI bot map
+      const byAiBot: Record<string, number> = {};
+      for (const row of aiBotResult.rows) {
+        if (row.ai_bot !== "Other") {
+          byAiBot[row.ai_bot as string] = Number(row.count) || 0;
+        }
+      }
+
+      // Build hour array
+      const requestsByHour: Array<{ hour: number; count: number }> = [];
+      const hourMap = new Map<number, number>();
+      for (const row of byHourResult.rows) {
+        hourMap.set(Number(row.hour), Number(row.count) || 0);
+      }
+      for (let hour = 0; hour < 24; hour++) {
+        requestsByHour.push({ hour, count: hourMap.get(hour) || 0 });
+      }
+
+      return {
+        period,
+        total_requests: Number(statsResult.rows[0]?.total_requests) || 0,
+        unique_products_accessed: Number(statsResult.rows[0]?.unique_products) || 0,
+        by_query_type: byQueryType,
+        by_client_type: byClientType,
+        by_ai_bot: byAiBot,
+        top_products: topProductsResult.rows.map((row) => ({
+          uri: row.uri as string,
+          name: (row.name as string) || row.uri,
+          count: Number(row.count) || 0,
+        })),
+        top_searches: topSearchesResult.rows.map((row) => ({
+          query: row.query as string,
+          count: Number(row.count) || 0,
+        })),
+        top_categories: topCategoriesResult.rows.map((row) => ({
+          category: row.category as string,
+          count: Number(row.count) || 0,
+        })),
+        requests_by_hour: requestsByHour,
+      };
+    } catch (error) {
+      console.error("[Analytics] Failed to get stats:", error);
+      // Return empty stats on error
+      return {
+        period,
+        total_requests: 0,
+        unique_products_accessed: 0,
+        by_query_type: {
+          search: 0,
+          get_product: 0,
+          compare: 0,
+          filter: 0,
+          alternatives: 0,
+          catalog_fetch: 0,
+          product_fetch: 0,
+        },
+        by_client_type: {
+          mcp: 0,
+          rest: 0,
+          cli: 0,
+          crawler: 0,
+          studio: 0,
+          agent: 0,
+          unknown: 0,
+        },
+        by_ai_bot: {},
+        top_products: [],
+        top_searches: [],
+        top_categories: [],
+        requests_by_hour: Array.from({ length: 24 }, (_, hour) => ({ hour, count: 0 })),
+      };
+    }
+  }
+
+  async getRecentQueries(limit: number): Promise<QueryLogEntry[]> {
+    const query = `
+      SELECT
+        id, query_type, query_text, query_params,
+        client_type, client_id, session_id, user_agent,
+        domain, category, product_uri,
+        results_count, duration_ms, created_at
+      FROM pkp_query_log
+      ORDER BY created_at DESC
+      LIMIT $1
+    `;
+
+    const result = await this.pool.query(query, [limit]);
+
+    return result.rows.map((row) => ({
+      id: row.id as string,
+      query_type: row.query_type as QueryType,
+      query_text: (row.query_text as string) ?? undefined,
+      query_params: row.query_params ? JSON.parse(row.query_params) : undefined,
+      client_type: row.client_type as ClientType,
+      client_id: (row.client_id as string) ?? undefined,
+      session_id: (row.session_id as string) ?? undefined,
+      user_agent: (row.user_agent as string) ?? undefined,
+      ai_bot: this.detectAiBot(row.user_agent as string),
+      domain: (row.domain as string) ?? undefined,
+      category: (row.category as string) ?? undefined,
+      product_uri: (row.product_uri as string) ?? undefined,
+      results_count: Number(row.results_count) || 0,
+      duration_ms: Number(row.duration_ms) || 0,
+      created_at: new Date(row.created_at as string),
+    }));
+  }
+
+  private detectAiBot(userAgent: string | null): string | undefined {
+    if (!userAgent) return undefined;
+
+    const ua = userAgent.toLowerCase();
+    if (ua.includes("gptbot") || ua.includes("chatgpt")) return "OpenAI";
+    if (ua.includes("claude") || ua.includes("anthropic")) return "Anthropic";
+    if (ua.includes("perplexity")) return "Perplexity";
+    if (ua.includes("google")) return "Google";
+    if (ua.includes("bing")) return "Microsoft";
+
+    return undefined;
   }
 }

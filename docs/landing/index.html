@@ -18,8 +18,8 @@
         <span class="logo-bracket">[</span>PKP<span class="logo-bracket">]</span>
       </a>
       <div class="nav-links">
-        <a href="https://koddaai.github.io/pkp/" target="_blank">Docs</a>
-        <a href="https://github.com/koddaai/pkp" target="_blank">GitHub</a>
+        <a href="/docs/" target="_blank">Docs</a>
+        <a href="https://github.com/kodda-ai/pkp" target="_blank">GitHub</a>
         <a href="https://www.npmjs.com/org/pkprotocol" target="_blank">npm</a>
       </div>
     </div>
@@ -29,27 +29,118 @@
   <section class="hero">
     <div class="logo-text">[ PKP ]</div>
     <h1 class="hero-title">Product Knowledge Protocol</h1>
-    <p class="hero-tagline">Open standard for AI agent product knowledge</p>
+    <p class="hero-tagline">Control how AI talks about your products</p>
 
-    <div class="install-box">
-      <code>npm install -g @pkprotocol/cli</code>
-      <button class="copy-btn" onclick="copyInstall()">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
-          <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
-        </svg>
-      </button>
+    <p class="hero-subtitle">AI agents already recommend products. Without PKP, they make up specs, show wrong prices, and link to competitors.</p>
+
+    <div class="hero-ctas">
+      <a href="#for-retailers" class="btn btn-primary">For Retailers</a>
+      <a href="#for-developers" class="btn btn-secondary">For Developers</a>
     </div>
   </section>
 
-  <!-- What is PKP -->
-  <section class="section">
+  <!-- Problem Section -->
+  <section class="section problem-section">
     <div class="container">
-      <h2 class="section-title">The missing layer in agentic commerce</h2>
+      <h2 class="section-title">The Problem</h2>
+      <p class="section-desc">ChatGPT, Claude, and Perplexity are already recommending products to millions of users.</p>
+
+      <div class="problem-grid">
+        <div class="problem-card bad">
+          <h3>Without PKP</h3>
+          <ul>
+            <li>AI invents or uses outdated specs</li>
+            <li>Prices are wrong or missing</li>
+            <li>Links go to competitors or are broken</li>
+            <li>AI describes your product however it wants</li>
+            <li>No tracking - you don't know it's happening</li>
+          </ul>
+        </div>
+        <div class="problem-card good">
+          <h3>With PKP</h3>
+          <ul>
+            <li>Official specs directly from you</li>
+            <li>Current prices with affiliate tracking</li>
+            <li>Links always point to your store</li>
+            <li>You control the narrative with preferred terms</li>
+            <li>Analytics show which AI agents access your data</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- For Retailers Section -->
+  <section id="for-retailers" class="section section-dark">
+    <div class="container">
+      <h2 class="section-title">For Retailers</h2>
+      <p class="section-desc">Own your product narrative in the AI era</p>
+
+      <div class="features-grid">
+        <div class="feature">
+          <div class="feature-icon">📊</div>
+          <h3>See Who's Accessing</h3>
+          <p>Real-time analytics showing GPTBot, ClaudeBot, PerplexityBot, and other AI agents accessing your data.</p>
+        </div>
+        <div class="feature">
+          <div class="feature-icon">🔗</div>
+          <h3>Track Conversions</h3>
+          <p>Every link includes your affiliate/tracking parameters. Measure ROI from AI recommendations.</p>
+        </div>
+        <div class="feature">
+          <div class="feature-icon">✏️</div>
+          <h3>Control the Narrative</h3>
+          <p>Set preferred terms ("Galaxy AI" not "Samsung AI") and highlights that AI must use.</p>
+        </div>
+        <div class="feature">
+          <div class="feature-icon">🔄</div>
+          <h3>Always Current</h3>
+          <p>Update prices and availability in real-time. AI agents always see the latest info.</p>
+        </div>
+      </div>
+
+      <div class="analytics-preview">
+        <h3>Analytics Dashboard Preview</h3>
+        <pre class="analytics-box">
+┌─────────────────────────────────────────────────┐
+│  PKP Analytics - Last 7 Days                    │
+├─────────────────────────────────────────────────┤
+│  Total Requests: 12,847                         │
+│                                                 │
+│  By AI Agent:                                   │
+│  ├── GPTBot (OpenAI)      4,560 (35%)          │
+│  ├── Claude-Web           3,120 (24%)          │
+│  ├── PerplexityBot        2,010 (16%)          │
+│  ├── Googlebot            1,890 (15%)          │
+│  └── Others               1,267 (10%)          │
+│                                                 │
+│  Top Products Accessed:                         │
+│  1. Galaxy S25 Ultra       892 views           │
+│  2. iPhone 16 Pro Max      756 views           │
+│  3. MacBook Air M4         654 views           │
+└─────────────────────────────────────────────────┘</pre>
+      </div>
+    </div>
+  </section>
+
+  <!-- For Developers -->
+  <section id="for-developers" class="section">
+    <div class="container">
+      <h2 class="section-title">For Developers</h2>
       <p class="section-desc">
-        PKP solves <strong>"what to buy and why"</strong> before payment protocols kick in.
-        Structured product data that AI agents can discover, compare, and recommend.
+        Open standard for structured product data. <strong>Web-native, agent-first.</strong>
+        PKP solves "what to buy and why" before payment protocols kick in.
       </p>
+
+      <div class="install-box" style="margin-bottom: 2rem;">
+        <code>npm install -g @pkprotocol/cli</code>
+        <button class="copy-btn" onclick="copyInstall()">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+            <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+          </svg>
+        </button>
+      </div>
 
       <div class="features-grid">
         <div class="feature">
@@ -258,8 +349,8 @@ Yes, all major bands including mmWave.</code></pre>
         <code>pkp build</code>
       </div>
       <div class="cta-links">
-        <a href="https://koddaai.github.io/pkp/guide/getting-started" class="btn btn-primary">Read the Docs</a>
-        <a href="https://github.com/koddaai/pkp" class="btn btn-secondary">View on GitHub</a>
+        <a href="/docs/guide/getting-started" class="btn btn-primary">Read the Docs</a>
+        <a href="https://github.com/kodda-ai/pkp" class="btn btn-secondary">View on GitHub</a>
       </div>
     </div>
   </section>
@@ -269,9 +360,9 @@ Yes, all major bands including mmWave.</code></pre>
     <div class="container">
       <p>Built by <a href="https://kodda.ai" target="_blank">Kodda.ai</a></p>
       <p class="footer-links">
-        <a href="https://github.com/koddaai/pkp">GitHub</a>
+        <a href="https://github.com/kodda-ai/pkp">GitHub</a>
         <a href="https://www.npmjs.com/org/pkprotocol">npm</a>
-        <a href="https://koddaai.github.io/pkp/">Docs</a>
+        <a href="/docs/">Docs</a>
       </p>
     </div>
   </footer>

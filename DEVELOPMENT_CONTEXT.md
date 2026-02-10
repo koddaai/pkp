@@ -566,6 +566,92 @@ git push origin gh-pages
    - `pkp diff` - Comparar dois PRODUCT.md
    - `pkp publish` - Deploy para diretorio
 
+### Em Andamento (v0.3.0)
+
+**Foco: Go-to-market para varejistas**
+
+1. **Analytics de Acesso** (prioridade alta)
+   - Middleware de logging no MCP server
+   - Deteccao de User-Agent (GPTBot, Claude-Web, PerplexityBot, etc)
+   - Dashboard de metricas: requests por agent, produtos mais acessados
+   - Tabela: `pkp_access_logs` (timestamp, user_agent, product_sku, source_ip)
+
+2. **Landing Page com Proposta de Valor** (prioridade alta)
+   - Hero: "Controle como AI fala dos seus produtos"
+   - Problema/Solucao claro
+   - Beneficios mensuraveis (conversoes, brand safety)
+   - CTA para registro
+
+3. **Catalog Browser Publico** (prioridade media)
+   - Interface para navegar produtos PKP-enabled
+   - "Como a AI ve este produto"
+   - Busca por categoria/marca
+
+4. **Dashboard do Publisher** (prioridade media)
+   - Login para varejistas
+   - Meus produtos
+   - Analytics de acesso aos meus dados
+   - Editar/atualizar
+
+### Importacao de Dados (Awin)
+
+Integracao com Awin para bootstrap do catalogo:
+- **API Key:** [REDACTED - use .env]
+- **Publisher ID:** [REDACTED]
+- **Feed List:** https://ui.awin.com/productdata-darwin-download/publisher/[REDACTED]/.../feedList
+
+**Varejistas Brasileiros Disponiveis:**
+| Varejista | Feed ID | Produtos |
+|-----------|---------|----------|
+| Samsung BR | 89199 | 691 |
+| Kabum BR | - | 5,928 |
+| Adidas BR | - | 26,346 |
+| Centauro BR | - | 24,353 |
+| Mizuno BR | - | 6,708 |
+| Cobasi BR | - | 8,256 |
+| LG BR | - | 2,582 |
+| Consul BR | - | 2,096 |
+| Electrolux BR | - | 273 |
+| Stanley BR | - | 122 |
+
+**Mapeamento Awin → PKP:**
+```
+merchant_product_id → identifiers.mpn
+brand_name → brand
+product_name → name
+merchant_category → category
+description → summary + specs (parsed)
+search_price → price.value
+product_GTIN → gtin + identifiers.ean
+merchant_deep_link → canonical.url
+aw_deep_link → purchase_urls[].url
+```
+
+**Produto Teste Importado:**
+- `examples/kodda-catalog/products/samsung-secadora-dv20b9750cv-az.md`
+- Validado: 100% complete
+
+### Proposta de Valor para Varejistas
+
+**Problema:**
+- AI agents (ChatGPT, Claude, Perplexity) ja recomendam produtos
+- Sem PKP, inventam specs, precos errados, links quebrados
+- Varejista perde controle da narrativa
+
+**Solucao PKP:**
+| Aspecto | Sem PKP | Com PKP |
+|---------|---------|---------|
+| Specs | AI inventa | Specs oficiais |
+| Preco | Desatualizado | Preco atual + link |
+| Link compra | Generico/quebrado | Link com tracking |
+| Narrativa | AI decide | preferred_terms do varejista |
+| Comparacao | AI compara como quer | comparison_axes definidos |
+
+**ROI Mensuravel:**
+- Conversoes via links PKP (rastreavel)
+- Reducao de reclamacoes sobre info errada
+- Brand safety - controle do que AI fala
+
 ### Futuro
 - Deploy do Registry Server (infra Kodda)
 - Integracoes (Claude Desktop, Cursor, etc)
@@ -657,4 +743,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-10*
-*Status: v0.2.0 publicado no npm (@pkprotocol/*) - Landing page em pkp.kodda.ai (gh-pages), Docs VitePress completos em pkp.kodda.ai/docs/ (gh-pages), DNS via Cloudflare CNAME, GitHub repo koddaai/pkp, 15 categorias, CLI com AI generation + auto-detect + stats/diff/publish, Catalog Server, Registry Server com PostgreSQL, Skills, PKP Studio com editor visual + preview + batch import + export, 201 testes E2E*
+*Status: v0.2.0 publicado - Iniciando v0.3.0 (go-to-market). Integracao Awin validada, 1 produto Samsung importado. Proximo: analytics de acesso + landing page com proposta de valor para varejistas.*

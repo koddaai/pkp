@@ -11,6 +11,10 @@ import type {
   RegistrySearchOptions,
   RegistrySearchResult,
   RegistryStats,
+  QueryLogEntry,
+  AccessStats,
+  QueryType,
+  ClientType,
 } from "../types.js";
 import type { RegistryStorage } from "./interface.js";
 
@@ -73,6 +77,8 @@ export class InMemoryStorage implements RegistryStorage {
   private productsByDomain = new Map<string, IndexedProduct[]>();
   private productsByCategory = new Map<string, IndexedProduct[]>();
   private searchIndex = new Map<string, Set<string>>(); // term -> URIs
+  private queryLogs: QueryLogEntry[] = [];
+  private readonly MAX_QUERY_LOGS = 10000; // Keep last 10k queries in memory
 
   async initialize(): Promise<void> {
     // Nothing to initialize for in-memory storage
@@ -387,5 +393,154 @@ export class InMemoryStorage implements RegistryStorage {
     }
 
     return result.sort((a, b) => b.count - a.count);
+  }
+
+  // ============================================
+  // Analytics Operations
+  // ============================================
+
+  async logQuery(entry: Omit<QueryLogEntry, "id" | "created_at">): Promise<void> {
+    const logEntry: QueryLogEntry = {
+      ...entry,
+      id: crypto.randomUUID(),
+      created_at: new Date(),
+    };
+
+    this.queryLogs.push(logEntry);
+
+    // Keep only last MAX_QUERY_LOGS entries
+    if (this.queryLogs.length > this.MAX_QUERY_LOGS) {
+      this.queryLogs = this.queryLogs.slice(-this.MAX_QUERY_LOGS);
+    }
+  }
+
+  async getAccessStats(period: "today" | "week" | "month" | "all"): Promise<AccessStats> {
+    const now = new Date();
+    let cutoff: Date;
+
+    switch (period) {
+      case "today":
+        cutoff = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+        break;
+      case "week":
+        cutoff = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+        break;
+      case "month":
+        cutoff = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
+        break;
+      default:
+        cutoff = new Date(0);
+    }
+
+    const filteredLogs = this.queryLogs.filter((log) => log.created_at >= cutoff);
+
+    // Count by query type
+    const byQueryType: Record<QueryType, number> = {
+      search: 0,
+      get_product: 0,
+      compare: 0,
+      filter: 0,
+      alternatives: 0,
+      catalog_fetch: 0,
+      product_fetch: 0,
+    };
+
+    // Count by client type
+    const byClientType: Record<ClientType, number> = {
+      mcp: 0,
+      rest: 0,
+      cli: 0,
+      crawler: 0,
+      studio: 0,
+      agent: 0,
+      unknown: 0,
+    };
+
+    // Count by AI bot
+    const byAiBot: Record<string, number> = {};
+
+    // Count products accessed
+    const productCounts = new Map<string, number>();
+
+    // Count searches
+    const searchCounts = new Map<string, number>();
+
+    // Count categories
+    const categoryCounts = new Map<string, number>();
+
+    // Count by hour
+    const hourCounts = new Map<number, number>();
+
+    for (const log of filteredLogs) {
+      byQueryType[log.query_type]++;
+      byClientType[log.client_type]++;
+
+      if (log.ai_bot) {
+        byAiBot[log.ai_bot] = (byAiBot[log.ai_bot] || 0) + 1;
+      }
+
+      if (log.product_uri) {
+        productCounts.set(log.product_uri, (productCounts.get(log.product_uri) || 0) + 1);
+      }
+
+      if (log.query_text && log.query_type === "search") {
+        searchCounts.set(log.query_text, (searchCounts.get(log.query_text) || 0) + 1);
+      }
+
+      if (log.category) {
+        categoryCounts.set(log.category, (categoryCounts.get(log.category) || 0) + 1);
+      }
+
+      const hour = log.created_at.getHours();
+      hourCounts.set(hour, (hourCounts.get(hour) || 0) + 1);
+    }
+
+    // Get top products with names
+    const topProducts = Array.from(productCounts.entries())
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 10)
+      .map(([uri, count]) => {
+        const product = this.products.get(uri);
+        return {
+          uri,
+          name: product?.name || uri,
+          count,
+        };
+      });
+
+    // Get top searches
+    const topSearches = Array.from(searchCounts.entries())
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 10)
+      .map(([query, count]) => ({ query, count }));
+
+    // Get top categories
+    const topCategories = Array.from(categoryCounts.entries())
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 10)
+      .map(([category, count]) => ({ category, count }));
+
+    // Requests by hour (0-23)
+    const requestsByHour = [];
+    for (let hour = 0; hour < 24; hour++) {
+      requestsByHour.push({ hour, count: hourCounts.get(hour) || 0 });
+    }
+
+    return {
+      period,
+      total_requests: filteredLogs.length,
+      unique_products_accessed: productCounts.size,
+      by_query_type: byQueryType,
+      by_client_type: byClientType,
+      by_ai_bot: byAiBot,
+      top_products: topProducts,
+      top_searches: topSearches,
+      top_categories: topCategories,
+      requests_by_hour: requestsByHour,
+    };
+  }
+
+  async getRecentQueries(limit: number): Promise<QueryLogEntry[]> {
+    return this.queryLogs.slice(-limit).reverse();
   }
 }
