@@ -2,8 +2,12 @@
 
 **Projeto:** Product Knowledge Protocol (PKP)
 **Autor:** Pedro / Kodda.ai
-**Versao:** v1.0.0
-**Ultima Atualizacao:** 2026-02-09
+**Versao:** v0.2.0
+**Ultima Atualizacao:** 2026-02-10
+**GitHub:** https://github.com/koddaai/pkp
+**Landing:** https://pkp.kodda.ai
+**Docs:** https://pkp.kodda.ai/docs/
+**npm:** https://www.npmjs.com/org/pkprotocol
 
 ---
 
@@ -450,7 +454,7 @@ Localizadas em `/migrations/`:
 
 ## Documentacao
 
-Site de documentacao usando VitePress, deploy automatico no GitHub Pages.
+Site de documentacao usando VitePress, hospedado em https://pkp.kodda.ai/docs/
 
 ```bash
 # Desenvolvimento local
@@ -488,7 +492,45 @@ docs/
     └── registry-server.md
 ```
 
-**Deploy:** Push para `main` com alteracoes em `docs/` dispara deploy automatico.
+---
+
+## Deploy
+
+### Estrutura de Branches
+
+| Branch | Conteudo |
+|--------|----------|
+| `main` | Codigo fonte, docs source |
+| `gh-pages` | Landing page + docs buildados |
+
+### URLs
+
+| URL | Descricao |
+|-----|-----------|
+| https://pkp.kodda.ai | Landing page |
+| https://pkp.kodda.ai/docs/ | Documentacao VitePress |
+| https://github.com/koddaai/pkp | Repositorio GitHub |
+| https://www.npmjs.com/org/pkprotocol | Organizacao npm |
+
+### DNS (Cloudflare)
+
+```
+pkp.kodda.ai CNAME koddaai.github.io
+```
+
+### Atualizar Landing/Docs
+
+```bash
+# 1. Build docs (na branch main)
+cd docs && pnpm vitepress build
+
+# 2. Copiar para gh-pages
+git checkout gh-pages
+rm -rf docs && mkdir docs
+cp -r /path/to/docs/.vitepress/dist/* docs/
+git add docs/ && git commit -m "Update docs"
+git push origin gh-pages
+```
 
 ---
 
@@ -585,4 +627,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-10*
-*Status: v0.2.0 publicado no npm (@pkprotocol/*) - 15 categorias, CLI com AI generation + auto-detect, Catalog Server, Registry Server com PostgreSQL, Skills, PKP Studio com editor visual, 201 testes E2E, Docs!*
+*Status: v0.2.0 publicado no npm (@pkprotocol/*) - Landing page em pkp.kodda.ai, Docs em pkp.kodda.ai/docs/, GitHub repo koddaai/pkp, 15 categorias, CLI com AI generation + auto-detect, Catalog Server, Registry Server com PostgreSQL, Skills, PKP Studio com editor visual, 201 testes E2E*
