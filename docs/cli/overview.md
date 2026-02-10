@@ -17,6 +17,9 @@ npm install -g pkp
 | [`pkp build`](/cli/build) | Build catalog for deployment |
 | [`pkp serve`](/cli/serve) | Serve catalog locally |
 | [`pkp generate`](/cli/generate) | Generate products with AI |
+| [`pkp stats`](/cli/stats) | Show catalog statistics |
+| [`pkp diff`](/cli/diff) | Compare two PRODUCT.md files |
+| [`pkp publish`](/cli/publish) | Publish catalog to directory |
 
 ## Global Options
 
@@ -42,6 +45,15 @@ pkp serve ./dist --port 3000
 
 # Generate with AI (requires ANTHROPIC_API_KEY)
 pkp generate -u https://example.com/product -c notebooks
+
+# Show catalog statistics
+pkp stats ./products
+
+# Compare two PRODUCT.md files
+pkp diff old.md new.md
+
+# Publish to directory
+pkp publish /var/www/pkp --source ./dist
 ```
 
 ## Environment Variables
