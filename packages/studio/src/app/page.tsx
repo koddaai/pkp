@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Package, Sparkles, CheckCircle, FolderOpen } from "lucide-react";
+import { Package, Sparkles, CheckCircle, FolderOpen, Upload, FolderOutput } from "lucide-react";
 
 export default function Home() {
   return (
@@ -17,6 +17,12 @@ export default function Home() {
             </Link>
             <Link href="/generate" className="text-sm hover:text-[var(--primary)]">
               Generate
+            </Link>
+            <Link href="/batch" className="text-sm hover:text-[var(--primary)]">
+              Batch Import
+            </Link>
+            <Link href="/export" className="text-sm hover:text-[var(--primary)]">
+              Export
             </Link>
           </nav>
         </div>
@@ -52,6 +58,28 @@ export default function Home() {
             <h3 className="font-semibold mb-1">Generate Product</h3>
             <p className="text-sm text-[var(--muted-foreground)]">
               Create PRODUCT.md from a URL using AI
+            </p>
+          </Link>
+
+          <Link
+            href="/batch"
+            className="p-6 border border-[var(--border)] rounded-lg hover:border-[var(--primary)] transition-colors"
+          >
+            <Upload className="w-8 h-8 text-[var(--primary)] mb-3" />
+            <h3 className="font-semibold mb-1">Batch Import</h3>
+            <p className="text-sm text-[var(--muted-foreground)]">
+              Import multiple products from URLs
+            </p>
+          </Link>
+
+          <Link
+            href="/export"
+            className="p-6 border border-[var(--border)] rounded-lg hover:border-[var(--primary)] transition-colors"
+          >
+            <FolderOutput className="w-8 h-8 text-[var(--primary)] mb-3" />
+            <h3 className="font-semibold mb-1">Export Catalog</h3>
+            <p className="text-sm text-[var(--muted-foreground)]">
+              Generate .well-known/pkp/ for deployment
             </p>
           </Link>
 

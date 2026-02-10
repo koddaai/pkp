@@ -11,7 +11,10 @@ import {
   RefreshCw,
   FileText,
   Code,
+  Eye,
+  EyeOff,
 } from "lucide-react";
+import ReactMarkdown from "react-markdown";
 import yaml from "yaml";
 
 interface ValidationResult {
@@ -72,6 +75,7 @@ function EditPageContent() {
   const [error, setError] = useState<string | null>(null);
   const [mode, setMode] = useState<"form" | "raw">("form");
   const [hasChanges, setHasChanges] = useState(false);
+  const [showPreview, setShowPreview] = useState(false);
 
   // Form fields
   const [sku, setSku] = useState("");
@@ -442,17 +446,68 @@ function EditPageContent() {
 
               {/* Content */}
               <section>
-                <h2 className="text-lg font-semibold mb-4">Content (Markdown)</h2>
-                <textarea
-                  value={markdownContent}
-                  onChange={(e) => {
-                    setMarkdownContent(e.target.value);
-                    handleFormChange();
-                  }}
-                  rows={15}
-                  className="w-full px-3 py-2 border border-[var(--border)] rounded-md bg-[var(--background)] font-mono text-sm"
-                  placeholder="## Highlights&#10;- Feature 1&#10;- Feature 2&#10;&#10;## FAQ&#10;..."
-                />
+                <div className="flex items-center justify-between mb-4">
+                  <h2 className="text-lg font-semibold">Content (Markdown)</h2>
+                  <button
+                    onClick={() => setShowPreview(!showPreview)}
+                    className={`flex items-center gap-2 px-3 py-1.5 text-sm rounded-md border ${
+                      showPreview
+                        ? "bg-[var(--primary)] text-white border-[var(--primary)]"
+                        : "border-[var(--border)] hover:bg-[var(--muted)]"
+                    }`}
+                  >
+                    {showPreview ? (
+                      <>
+                        <EyeOff className="w-4 h-4" />
+                        Hide Preview
+                      </>
+                    ) : (
+                      <>
+                        <Eye className="w-4 h-4" />
+                        Show Preview
+                      </>
+                    )}
+                  </button>
+                </div>
+
+                {showPreview ? (
+                  <div className="grid grid-cols-2 gap-4">
+                    <div>
+                      <label className="block text-xs font-medium text-[var(--muted-foreground)] mb-2">
+                        Editor
+                      </label>
+                      <textarea
+                        value={markdownContent}
+                        onChange={(e) => {
+                          setMarkdownContent(e.target.value);
+                          handleFormChange();
+                        }}
+                        rows={20}
+                        className="w-full px-3 py-2 border border-[var(--border)] rounded-md bg-[var(--background)] font-mono text-sm"
+                        placeholder="## Highlights&#10;- Feature 1&#10;- Feature 2&#10;&#10;## FAQ&#10;..."
+                      />
+                    </div>
+                    <div>
+                      <label className="block text-xs font-medium text-[var(--muted-foreground)] mb-2">
+                        Preview
+                      </label>
+                      <div className="h-[480px] overflow-auto px-4 py-3 border border-[var(--border)] rounded-md bg-[var(--background)] prose prose-sm max-w-none">
+                        <ReactMarkdown>{markdownContent || "*No content yet*"}</ReactMarkdown>
+                      </div>
+                    </div>
+                  </div>
+                ) : (
+                  <textarea
+                    value={markdownContent}
+                    onChange={(e) => {
+                      setMarkdownContent(e.target.value);
+                      handleFormChange();
+                    }}
+                    rows={15}
+                    className="w-full px-3 py-2 border border-[var(--border)] rounded-md bg-[var(--background)] font-mono text-sm"
+                    placeholder="## Highlights&#10;- Feature 1&#10;- Feature 2&#10;&#10;## FAQ&#10;..."
+                  />
+                )}
               </section>
             </div>
           )}
