@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "agm30045803-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Led Máquina De Lava e Seca Roupas LG WD1316ADA7 AGM30045803 - AGM30045803"
+category: "eletrodomesticos"
+subcategory: "lavadora"
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "AGM30045803.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/agm30045803-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/agm30045803/"
+
+# === DESCOBERTA (L0) ===
+summary: "Lâmpada de diodos emissor de luz (led) Formato de bulbos potência de 1,12W 12VDC 0,08A Drive integrado com fiação e conector Próprio para uso em máquina lava e seca roupas Modelo LG: WD1316AD"
+tags: ["lg"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 132.05
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.729Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478675525&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.729Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.729Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478675525
+---
+
+## Descricao
+
+Lâmpada de diodos emissor de luz (led) Formato de bulbos potência de 1,12W 12VDC  0,08A Drive integrado com fiação e conector Próprio para uso em máquina lava e seca roupas Modelo LG: WD1316AD

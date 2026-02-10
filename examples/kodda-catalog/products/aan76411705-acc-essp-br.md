@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "aan76411705-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Base (pedestal) TV LG 50UM7360PSA, 49UK6300PSB - AAN76411705 - AAN76411705 | LG BR"
+category: "tvs"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "AAN76411705.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/aan76411705-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan76411705/"
+
+# === DESCOBERTA (L0) ===
+summary: "Descubra a LG AAN76411705. Clique para ver imagens, análises e especificações técnicas da LG Base (pedestal) TV LG 50UM7360PSA, 49UK6300PSB - AAN76411705"
+tags: ["lg"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 101.19
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.706Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478675182&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.706Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.706Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478675182
+---
+
+## Descricao
+
+Descubra a LG AAN76411705. Clique para ver imagens, análises e especificações técnicas da LG Base (pedestal) TV LG 50UM7360PSA, 49UK6300PSB - AAN76411705

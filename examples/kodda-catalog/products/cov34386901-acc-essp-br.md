@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "cov34386901-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Controle remoto Sound Bar LG OJ98 - COV34386901 - COV34386901 | LG BR"
+category: "tvs"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "COV34386901.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/cov34386901-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/cov34386901/"
+
+# === DESCOBERTA (L0) ===
+summary: "Descubra a LG COV34386901. Clique para ver imagens, análises e especificações técnicas da LG Controle remoto Sound Bar LG OJ98 - COV34386901"
+tags: ["lg"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 103.55
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.768Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478675757&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.768Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.768Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478675757
+---
+
+## Descricao
+
+Descubra a LG COV34386901. Clique para ver imagens, análises e especificações técnicas da LG Controle remoto Sound Bar LG OJ98 - COV34386901

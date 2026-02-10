@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "jw3861-tamanho-unico"
+gtin: "4068807864818"
+brand: "Adidas"
+name: "Mochila Adicolor Unisex adidas"
+category: "notebooks"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "JW3861_TAMANHO ÚNICO"
+  ean: "4068807864818"
+
+# === URI CANONICO ===
+uri: "pkp://adidas.com.br/jw3861-tamanho-unico"
+canonical:
+  domain: "adidas.com.br"
+  url: "http://www.adidas.com.br/mochila-adicolor/JW3861.html"
+
+# === DESCOBERTA (L0) ===
+summary: "Mochila Adicolor - Marrom, compre na adidas.com.br! Mochila Adicolor - Marrom em vários estilos e cores na página oficial da loja online adidas Brasil. Carregada para suas aventuras diárias, esta mochila adidas se movimenta facilmente ao longo do dia. Guarde seu notebook, garrafa d'água e o que mais você precisar no espaçoso compartimento principal, enquanto itens menores encontram seu lugar no bolso frontal com zíper e nos slip-ins laterais. Ajuste as alças acolchoadas para conforto personal..."
+tags: ["adidas", "ai", "pro"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 199.99
+  source: "retailer"
+  updated_at: "2026-02-10T19:40:22.990Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "Adidas BR"
+    url: "https://www.awin1.com/pclick.php?p=41837097981&a=2753646&m=79926"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:40:22.990Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:40:22.990Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin Adidas BR (feed_id: 95015)
+# Data de importacao: 2026-02-10
+# aw_product_id: 41837097981
+---
+
+## Descricao
+
+Mochila Adicolor - Marrom, compre na adidas.com.br! Mochila Adicolor - Marrom em vários estilos e cores na página oficial da loja online adidas Brasil. Carregada para suas aventuras diárias, esta mochila adidas se movimenta facilmente ao longo do dia. Guarde seu notebook, garrafa d'água e o que mais você precisar no espaçoso compartimento principal, enquanto itens menores encontram seu lugar no bolso frontal com zíper e nos slip-ins laterais. Ajuste as alças acolchoadas para conforto personalizado e você vai encarar a sua rotina com esta peça versátil para o dia a dia.  Este produto é feito com pelo menos 50% de materiais reciclados. Ao escolher o reciclado, podemos reutilizar materiais já criados, o que ajuda a reduzir o desperdício e a nossa dependência de recursos finitos, além de reduzir a pegada dos produtos que fabricamos.

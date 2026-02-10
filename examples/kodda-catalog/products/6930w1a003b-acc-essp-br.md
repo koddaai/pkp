@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "6930w1a003b-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Termostato Forno Micro-onda LG MH8048AP, MH6346SSA, MH7043R - 6930W1A003B - 6930W1A003B | LG BR"
+category: "eletrodomesticos"
+subcategory: "forno"
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "6930W1A003B.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/6930w1a003b-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/6930w1a003b/"
+
+# === DESCOBERTA (L0) ===
+summary: "Descubra a LG 6930W1A003B. Clique para ver imagens, análises e especificações técnicas da LG Termostato Forno Micro-onda LG MH8048AP, MH6346SSA, MH7043R - 6930W1A003B"
+tags: ["lg"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 46.55
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.702Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478675123&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.702Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.702Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478675123
+---
+
+## Descricao
+
+Descubra a LG 6930W1A003B. Clique para ver imagens, análises e especificações técnicas da LG Termostato Forno Micro-onda LG MH8048AP, MH6346SSA, MH7043R - 6930W1A003B

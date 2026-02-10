@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "oled65b5-s40t-essp-br"
+# gtin: null
+brand: "LG"
+name: "Smart TV LG OLED AI B5 4K de 65\" 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital - OLED65B5.S40T"
+category: "tvs"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "OLED65B5.S40T.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/oled65b5-s40t-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/tvs-e-soundbars/combos-de-tv/oled65b5-s40t/"
+
+# === DESCOBERTA (L0) ===
+summary: "Smart TV LG OLED AI B5 4K de 65\" 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital"
+tags: ["lg", "smart", "ai", "4k", "oled", "dolby"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 7342.34
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.879Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478677124&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.879Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.879Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  screen_size: 65
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478677124
+---
+
+## Descricao
+
+Smart TV LG OLED AI B5 4K de 65" 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital

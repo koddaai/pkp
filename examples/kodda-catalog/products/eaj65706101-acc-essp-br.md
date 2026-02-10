@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "eaj65706101-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Tela de cristal líquido (BA) TV LG 65UM7650PSB - EAJ65706101 - EAJ65706101"
+category: "tvs"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "EAJ65706101.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/eaj65706101-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65706101/"
+
+# === DESCOBERTA (L0) ===
+summary: "Get more information on the LG EAJ65706101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG 65UM7650PSB - EAJ65706101."
+tags: ["lg"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 3115.05
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.787Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478676064&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.787Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.787Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478676064
+---
+
+## Descricao
+
+Get more information on the LG EAJ65706101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG 65UM7650PSB - EAJ65706101.

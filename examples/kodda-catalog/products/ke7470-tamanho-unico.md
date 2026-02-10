@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "ke7470-tamanho-unico"
+gtin: "4068818697481"
+brand: "Adidas"
+name: "Bolsa Metálica Pequena Unisex adidas"
+category: "outros"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "KE7470_TAMANHO ÚNICO"
+  ean: "4068818697481"
+
+# === URI CANONICO ===
+uri: "pkp://adidas.com.br/ke7470-tamanho-unico"
+canonical:
+  domain: "adidas.com.br"
+  url: "http://www.adidas.com.br/bolsa-metalica-pequena/KE7470.html"
+
+# === DESCOBERTA (L0) ===
+summary: "Bolsa Metálica Pequena - Cinza, compre na adidas.com.br! Bolsa Metálica Pequena - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. Essa bolsa versátil da adidas é a sua escolha para o uso diário. Seu tamanho compacto é perfeito para transportar seus itens essenciais, e um bolso extra ajuda a manter tudo organizado. Os detalhes metálico acrescentam um toque moderno."
+tags: ["adidas", "ai"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 249.99
+  source: "retailer"
+  updated_at: "2026-02-10T19:40:23.491Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "Adidas BR"
+    url: "https://www.awin1.com/pclick.php?p=43696032299&a=2753646&m=79926"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:40:23.491Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:40:23.491Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin Adidas BR (feed_id: 95015)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43696032299
+---
+
+## Descricao
+
+Bolsa Metálica Pequena - Cinza, compre na adidas.com.br! Bolsa Metálica Pequena - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. Essa bolsa versátil da adidas é a sua escolha para o uso diário. Seu tamanho compacto é perfeito para transportar seus itens essenciais, e um bolso extra ajuda a manter tudo organizado. Os detalhes metálico acrescentam um toque moderno.

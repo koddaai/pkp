@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "383eer2001a-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Filtro da bomba de drenagem para lavadoras de carga frontal - 383EER2001A"
+category: "eletrodomesticos"
+subcategory: "lavadora"
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "383EER2001A.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/383eer2001a-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/care-accessories/washing-machines/filter/383eer2001a/"
+
+# === DESCOBERTA (L0) ===
+summary: "Obtenha mais informações sobre o produto 383EER2001A. Clique para ver imagens, avaliações e especificações técnicas do filtro da bomba de drenagem para lavadoras de carga frontal."
+tags: ["lg", "ai", "pro"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 75.05
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.681Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478674827&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.681Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.681Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478674827
+---
+
+## Descricao
+
+Obtenha mais informações sobre o produto 383EER2001A. Clique para ver imagens, avaliações e especificações técnicas do filtro da bomba de drenagem para lavadoras de carga frontal.

@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "aeg33121501-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Resistência de Aquecimento Lava e Seca LG WD-13436RD, WD17BV2S6B, WM4070HVA - AEG33121501 - AEG33121501"
+category: "eletrodomesticos"
+subcategory: "lava-e-seca"
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "AEG33121501.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/aeg33121501-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/aeg33121501/"
+
+# === DESCOBERTA (L0) ===
+summary: "Get more information on the LG AEG33121501. Click for pictures, reviews, and tech specs for the LG Resistência de Aquecimento Lava e Seca LG WD-13436RD, WD17BV2S6B, WM4070HVA - AEG33121501."
+tags: ["lg"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 398.05
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.719Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478675377&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.719Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.719Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478675377
+---
+
+## Descricao
+
+Get more information on the LG AEG33121501. Click for pictures, reviews, and tech specs for the LG Resistência de Aquecimento Lava e Seca LG WD-13436RD, WD17BV2S6B, WM4070HVA - AEG33121501.

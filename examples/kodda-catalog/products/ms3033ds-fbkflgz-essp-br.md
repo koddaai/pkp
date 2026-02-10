@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "ms3033ds-fbkflgz-essp-br"
+# gtin: null
+brand: "LG"
+name: "Micro-ondas LG NeoChef 30 litros Preto Limpa Fácil MS3033DS - 127v - MS3033DS"
+category: "eletrodomesticos"
+subcategory: "micro-ondas"
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "MS3033DS.FBKFLGZ.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/ms3033ds-fbkflgz-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/micro-ondas/micro-ondas-solo/ms3033ds/"
+
+# === DESCOBERTA (L0) ===
+summary: "Explore o Micro-ondas Preto LG NeoChef 30L MS3033DS. Design moderno, eficiência e tecnologia avançada para facilitar sua cozinha. Compra agora!"
+tags: ["lg"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 901.55
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.877Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478677090&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.877Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.877Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  capacity: {"value":30,"unit":"l"}
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478677090
+---
+
+## Descricao
+
+Explore o Micro-ondas Preto LG NeoChef 30L MS3033DS. Design moderno, eficiência e tecnologia avançada para facilitar sua cozinha. Compra agora!

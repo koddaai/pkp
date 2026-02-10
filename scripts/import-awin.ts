@@ -167,7 +167,7 @@ function generateSummary(product: AwinProduct): string {
   return summary;
 }
 
-function convertToProductMd(product: AwinProduct): string {
+function convertToProductMd(product: AwinProduct, retailerName: string, retailerDomain: string, feedId: string): string {
   const sku = slugify(product.merchant_product_id || product.aw_product_id);
   const { category, subcategory } = detectCategory(product);
   const specs = extractSpecs(product);
@@ -181,7 +181,7 @@ function convertToProductMd(product: AwinProduct): string {
 schema: pkp/1.0
 sku: "${sku}"
 ${product.product_GTIN ? `gtin: "${product.product_GTIN}"` : '# gtin: null'}
-brand: "${product.brand_name || 'Samsung'}"
+brand: "${product.brand_name || 'Generic'}"
 name: "${product.product_name.replace(/"/g, '\\"')}"
 category: "${category}"
 ${subcategory ? `subcategory: "${subcategory}"` : ''}
@@ -192,9 +192,9 @@ identifiers:
   ${product.product_GTIN ? `ean: "${product.product_GTIN}"` : '# ean: null'}
 
 # === URI CANONICO ===
-uri: "pkp://shop.samsung.com/${sku}"
+uri: "pkp://${retailerDomain}/${sku}"
 canonical:
-  domain: "shop.samsung.com"
+  domain: "${retailerDomain}"
   url: "${product.merchant_deep_link}"
 
 # === DESCOBERTA (L0) ===
@@ -212,7 +212,7 @@ availability: "${product.stock_status === 'out of stock' ? 'out-of-stock' : 'in-
 
 # === ONDE COMPRAR ===
 purchase_urls:
-  - retailer: "Samsung Shop BR"
+  - retailer: "${retailerName}"
     url: "${product.aw_deep_link}"
     ap2_enabled: false
 
@@ -232,7 +232,7 @@ specs:
 ${Object.entries(specs).map(([k, v]) => `  ${k}: ${JSON.stringify(v)}`).join('\n') || '  # No specs extracted'}
 
 # === FONTE DOS DADOS ===
-# Importado do feed Awin Samsung BR (feed_id: 89199)
+# Importado do feed Awin ${retailerName} (feed_id: ${feedId})
 # Data de importacao: ${now.split('T')[0]}
 # aw_product_id: ${product.aw_product_id}
 ---
@@ -276,12 +276,31 @@ async function fetchAwinFeed(feedId: string): Promise<AwinProduct[]> {
   return records;
 }
 
+// Retailer configurations (Feed ID -> retailer info)
+const RETAILER_CONFIG: Record<string, { name: string; domain: string }> = {
+  // Already imported
+  '89199': { name: 'Samsung Shop BR', domain: 'shop.samsung.com' },
+  '46967': { name: 'Kabum', domain: 'kabum.com.br' },
+  // To import
+  '47015': { name: 'Electrolux BR', domain: 'loja.electrolux.com.br' },
+  '48117': { name: 'Cobasi', domain: 'cobasi.com.br' },
+  '72033': { name: 'Stanley BR', domain: 'stanley1913.com.br' },
+  '85451': { name: 'Mizuno BR', domain: 'mizuno.com.br' },
+  '103134': { name: 'LG BR', domain: 'lg.com' },
+  '91869': { name: 'Centauro', domain: 'centauro.com.br' },
+  '95015': { name: 'Adidas BR', domain: 'adidas.com.br' },
+  '97009': { name: 'Panasonic BR', domain: 'panasonic.com' },
+  '113048': { name: 'Consul BR', domain: 'consul.com.br' },
+};
+
 async function main() {
   const args = process.argv.slice(2);
   let feedId = '89199'; // Default: Samsung BR
   let outputDir = './examples/kodda-catalog/products';
   let limit = 0; // 0 = no limit
   let skipExisting = true;
+  let retailerName = '';
+  let retailerDomain = '';
 
   // Parse args
   for (let i = 0; i < args.length; i++) {
@@ -293,11 +312,22 @@ async function main() {
       limit = parseInt(args[++i]);
     } else if (args[i] === '--overwrite') {
       skipExisting = false;
+    } else if (args[i] === '--retailer' && args[i + 1]) {
+      retailerName = args[++i];
+    } else if (args[i] === '--domain' && args[i + 1]) {
+      retailerDomain = args[++i];
     }
   }
 
+  // Use config or args for retailer info
+  const config = RETAILER_CONFIG[feedId];
+  if (!retailerName) retailerName = config?.name || 'Unknown Retailer';
+  if (!retailerDomain) retailerDomain = config?.domain || 'unknown.com';
+
   console.log(`\nAwin Feed Import`);
   console.log(`================`);
+  console.log(`Retailer: ${retailerName}`);
+  console.log(`Domain: ${retailerDomain}`);
   console.log(`Feed ID: ${feedId}`);
   console.log(`Output: ${outputDir}`);
   console.log(`Limit: ${limit || 'none'}`);
@@ -329,7 +359,7 @@ async function main() {
         continue;
       }
 
-      const md = convertToProductMd(product);
+      const md = convertToProductMd(product, retailerName, retailerDomain, feedId);
       writeFileSync(filepath, md, 'utf-8');
       imported++;
 

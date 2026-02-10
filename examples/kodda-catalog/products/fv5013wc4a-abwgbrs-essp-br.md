@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "fv5013wc4a-abwgbrs-essp-br"
+# gtin: null
+brand: "LG"
+name: "Lavadora Smart VC4 13kg Branca AIDD™ - FV5013WC4A"
+category: "eletrodomesticos"
+subcategory: "lavadora"
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "FV5013WC4A.ABWGBRS.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/fv5013wc4a-abwgbrs-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/lavanderia/maquinas-de-lavar/fv5013wc4a/"
+
+# === DESCOBERTA (L0) ===
+summary: "Descubra a LG FV5013WC4A. Clique para ver imagens, análises e especificações técnicas da LG Lavadora Smart VC4 13kg Branca AIDD™."
+tags: ["lg", "smart", "ai"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 2944.05
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.865Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478676905&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.865Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.865Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  capacity: {"value":13,"unit":"kg"}
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478676905
+---
+
+## Descricao
+
+Descubra a LG FV5013WC4A. Clique para ver imagens, análises e especificações técnicas da LG Lavadora Smart VC4 13kg Branca AIDD™.

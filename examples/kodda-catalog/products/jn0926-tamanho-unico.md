@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "jn0926-tamanho-unico"
+gtin: "4068808249843"
+brand: "Adidas"
+name: "Mochila  Glow Mulher adidas"
+category: "outros"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "JN0926_TAMANHO ÚNICO"
+  ean: "4068808249843"
+
+# === URI CANONICO ===
+uri: "pkp://adidas.com.br/jn0926-tamanho-unico"
+canonical:
+  domain: "adidas.com.br"
+  url: "http://www.adidas.com.br/mochila-adidas-glow/JN0926.html"
+
+# === DESCOBERTA (L0) ===
+summary: "Mochila adidas Glow - Prata, compre na adidas.com.br! Mochila adidas Glow - Prata em vários estilos e cores na página oficial da loja online adidas Brasil. Esta mochila da adidas foi feita para brilhar. O logotipo metálico 3 Barras chama a atenção quando você se movimenta, e o ripstop de poliéster durável resiste ao uso diário. Feche o zíper de seus itens essenciais e ajuste as alças para um ajuste personalizado."
+tags: ["adidas", "ai"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 199.99
+  source: "retailer"
+  updated_at: "2026-02-10T19:40:22.172Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "Adidas BR"
+    url: "https://www.awin1.com/pclick.php?p=43884019449&a=2753646&m=79926"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:40:22.172Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:40:22.172Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin Adidas BR (feed_id: 95015)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43884019449
+---
+
+## Descricao
+
+Mochila adidas Glow - Prata, compre na adidas.com.br! Mochila adidas Glow - Prata em vários estilos e cores na página oficial da loja online adidas Brasil. Esta mochila da adidas foi feita para brilhar. O logotipo metálico 3 Barras chama a atenção quando você se movimenta, e o ripstop de poliéster durável resiste ao uso diário. Feche o zíper de seus itens essenciais e ajuste as alças para um ajuste personalizado.

@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "ke5658-tamanho-unico"
+gtin: "4068805188084"
+brand: "Adidas"
+name: "Mochila Essentials Back TO Campus Bars Unisex adidas"
+category: "outros"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "KE5658_TAMANHO ÚNICO"
+  ean: "4068805188084"
+
+# === URI CANONICO ===
+uri: "pkp://adidas.com.br/ke5658-tamanho-unico"
+canonical:
+  domain: "adidas.com.br"
+  url: "http://www.adidas.com.br/mochila-essentials-back-to-campus-bars/KE5658.html"
+
+# === DESCOBERTA (L0) ===
+summary: "MOCHILA ESSENTIALS BACK TO CAMPUS BARS - Borgonha, compre na adidas.com.br! MOCHILA ESSENTIALS BACK TO CAMPUS BARS - Borgonha em vários estilos e cores na página oficial da loja online adidas Brasil. A MOCHILA ESSENTIALS BACK TO CAMPUS BARS é a escolha ideal para ter estilo e funcionalidade. Projetada com uma silhueta clássica, essa mochila é feita para aqueles que apreciam uma mistura de estética moderna e tradicional. Sua estrutura em malha plana oferece durabilidade, tornando-a uma companh..."
+tags: ["adidas", "ai", "pro"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 249.99
+  source: "retailer"
+  updated_at: "2026-02-10T19:40:23.483Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "Adidas BR"
+    url: "https://www.awin1.com/pclick.php?p=43112275312&a=2753646&m=79926"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:40:23.483Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:40:23.483Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin Adidas BR (feed_id: 95015)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43112275312
+---
+
+## Descricao
+
+MOCHILA ESSENTIALS BACK TO CAMPUS BARS - Borgonha, compre na adidas.com.br! MOCHILA ESSENTIALS BACK TO CAMPUS BARS - Borgonha em vários estilos e cores na página oficial da loja online adidas Brasil. A MOCHILA ESSENTIALS BACK TO CAMPUS BARS é a escolha ideal para ter estilo e funcionalidade. Projetada com uma silhueta clássica, essa mochila é feita para aqueles que apreciam uma mistura de estética moderna e tradicional.  Sua estrutura em malha plana oferece durabilidade, tornando-a uma companheira confiável para suas aventuras, enquanto o painel traseiro em malha elástica proporciona ventilação, ajudando você a se sentir confortável em movimento. Com um compartimento principal espaçoso, você tem acesso fácil ao seu equipamento.  Alças de ombro ajustáveis e uma alça de transporte superior oferecem opções versáteis de transporte, enquanto o bolso embutido na parte traseira oferece a você acesso rápido aos seus itens essenciais.  Confeccionada com atenção aos detalhes, esta mochila não é apenas para carregar seus pertences. Também se trata de fazer uma declaração. Não importa se você está indo para o campus ou explorando a cidade, esta mochila tem tudo o que você precisa.

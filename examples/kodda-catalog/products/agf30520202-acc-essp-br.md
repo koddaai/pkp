@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "agf30520202-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Peça - Tela de cristal líquido (Módulo) Monitor LG - AGF30520202 - AGF30520202"
+category: "monitors"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "AGF30520202.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/agf30520202-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/agf30520202/"
+
+# === DESCOBERTA (L0) ===
+summary: "Módulo de visualização de tela (Ecrã), plana, modelo: MV238FHM-NG1, de 23,8 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de cristal líquido.Display completo Não acompanha demais peças que constituem o produto (gabinete, cabos, placas principais)"
+tags: ["lg", "ai", "pro"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 550.05
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.724Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478675449&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.724Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.724Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  screen_size: 8
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478675449
+---
+
+## Descricao
+
+Módulo de visualização de tela (Ecrã), plana, modelo: MV238FHM-NG1, de 23,8 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de cristal líquido.Display completo Não acompanha demais peças que constituem o produto (gabinete, cabos, placas principais)

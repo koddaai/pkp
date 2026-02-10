@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "eat65167004-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Placa Wi-Fi LGSBWAC95 TV LG 82UP8050PSB, 65NANO85SPA, OLED55C1PSA - EAT65167004 - EAT65167004"
+category: "tvs"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "EAT65167004.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/eat65167004-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eat65167004/"
+
+# === DESCOBERTA (L0) ===
+summary: "Get more information on the LG EAT65167004. Click for pictures, reviews, and tech specs for the LG Placa Wi-Fi LGSBWAC95 TV LG 82UP8050PSB, 65NANO85SPA, OLED55C1PSA - EAT65167004."
+tags: ["lg", "oled"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 255.55
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.793Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478676168&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.793Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.793Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478676168
+---
+
+## Descricao
+
+Get more information on the LG EAT65167004. Click for pictures, reviews, and tech specs for the LG Placa Wi-Fi LGSBWAC95 TV LG 82UP8050PSB, 65NANO85SPA, OLED55C1PSA - EAT65167004.

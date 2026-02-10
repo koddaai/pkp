@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "75qned70asa-bwz-essp-br"
+# gtin: null
+brand: "LG"
+name: "Smart TV LG QNED AI 4K QNED70 de 75 polegadas 2025 - 75QNED70ASA"
+category: "tvs"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "75QNED70ASA.BWZ.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/75qned70asa-bwz-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/tvs-e-soundbars/qned/75qned70asa/"
+
+# === DESCOBERTA (L0) ===
+summary: "Descubra a LG QNED 75 polegadas 4K Smart TV com tecnologia avançada, cores vivas, contraste preciso e áudio imersivo para transformar sua experiência em casa. Saiba mais!"
+tags: ["lg", "smart", "ai", "4k"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 5699.05
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.702Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478675130&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.702Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.702Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  screen_size: 75
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478675130
+---
+
+## Descricao
+
+Descubra a LG QNED 75 polegadas 4K Smart TV com tecnologia avançada, cores vivas, contraste preciso e áudio imersivo para transformar sua experiência em casa. Saiba mais!

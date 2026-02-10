@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "aha36804305-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Bomba centrífuga Ar Condicionado LG AMNW09GTUC0, AMNW12GTUC0, AMNW18GTTC0 - AHA36804305 - AHA36804305 | LG BR"
+category: "eletrodomesticos"
+subcategory: "ar-condicionado"
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "AHA36804305.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/aha36804305-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aha36804305/"
+
+# === DESCOBERTA (L0) ===
+summary: "Descubra a LG AHA36804305. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Ar Condicionado LG AMNW09GTUC0, AMNW12GTUC0, AMNW18GTTC0 - AHA36804305"
+tags: ["lg"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 208.05
+  source: "retailer"
+  updated_at: "2026-02-10T19:41:04.747Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=43478675569&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.747Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-10T19:41:04.747Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-02-10
+# aw_product_id: 43478675569
+---
+
+## Descricao
+
+Descubra a LG AHA36804305. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Ar Condicionado LG AMNW09GTUC0, AMNW12GTUC0, AMNW18GTTC0 - AHA36804305
