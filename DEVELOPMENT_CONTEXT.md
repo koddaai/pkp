@@ -2,11 +2,12 @@
 
 **Projeto:** Product Knowledge Protocol (PKP)
 **Autor:** Pedro / Kodda.ai
-**Versao:** v0.2.0
+**Versao:** v0.3.0
 **Ultima Atualizacao:** 2026-02-10
 **GitHub:** https://github.com/koddaai/pkp
 **Landing:** https://pkp.kodda.ai
 **Docs:** https://pkp.kodda.ai/docs/
+**Studio:** https://pkp-studio.vercel.app
 **npm:** https://www.npmjs.com/org/pkprotocol
 
 ---
@@ -296,6 +297,8 @@ console.log(CONSUMER_SKILL.systemPrompt);
 
 Interface web para gerenciar catalogos PKP, construida com Next.js.
 
+**URL de Producao:** https://pkp-studio.vercel.app
+
 ```bash
 # Desenvolvimento
 cd packages/studio
@@ -307,14 +310,29 @@ pnpm start
 ```
 
 **Features:**
-- Dashboard com estatisticas do catalogo
-- Navegacao e busca de produtos
+- Dashboard com estatisticas do catalogo (77k+ produtos importados)
+- Navegacao e busca de produtos com filtros por categoria e marca
+- Analytics de acessos por AI agents (rastreamento de buscas)
 - Editor visual de PRODUCT.md com validacao em tempo real
 - Preview Markdown em split-view no editor
 - Geracao de PRODUCT.md via AI (requer ANTHROPIC_API_KEY)
 - Batch import de multiplas URLs
 - Export para .well-known/pkp/
 - Validacao de produtos
+
+**Deploy Vercel:**
+O Studio e deployado automaticamente no Vercel com integracao GitHub.
+
+```bash
+# Estrutura de deploy (packages/studio/vercel.json)
+{
+  "framework": "nextjs",
+  "installCommand": "cd ../.. && pnpm install --frozen-lockfile",
+  "buildCommand": "cd ../.. && pnpm --filter @pkprotocol/spec build && ..."
+}
+```
+
+O script `prebuild` copia o `manifest.json` do catalogo para `public/data/` para servir estaticamente.
 
 **Paginas:**
 | Rota | Descricao |
@@ -422,15 +440,30 @@ Precedencia (maior para menor):
 
 ---
 
-## Catalogo de Exemplo
+## Catalogo Kodda
 
-Localizado em `examples/kodda-catalog/` com 10 produtos:
-- 3 smartphones (Galaxy S25 Ultra, iPhone 16 Pro Max, Pixel 9 Pro XL)
-- 2 notebooks (MacBook Air M4, Dell XPS 15)
-- 1 TV (Samsung Neo QLED 65")
-- 1 eletrodomestico (Lava-loucas Electrolux)
-- 2 moda (Nike Air Max 90, Adidas Ultraboost Light)
-- 1 game (PlayStation 5 Pro)
+Localizado em `examples/kodda-catalog/` com **77.326 produtos** importados via Awin.
+
+**Varejistas no Catalogo:**
+| Varejista | Produtos |
+|-----------|----------|
+| Kabum BR | 5,928 |
+| Adidas BR | 26,346 |
+| Centauro BR | 24,353 |
+| Mizuno BR | 6,708 |
+| Cobasi BR | 8,256 |
+| LG BR | 2,582 |
+| Consul BR | 2,096 |
+| Samsung BR | 691 |
+| Electrolux BR | 273 |
+| Stanley BR | 122 |
+
+**Categorias Principais:**
+- Moda/Esportes (Adidas, Centauro, Mizuno)
+- Eletronicos (Kabum, LG, Samsung)
+- Casa (Cobasi, Consul, Electrolux, Stanley)
+
+**GitHub Action:** Atualiza catalogo diariamente via cron (`update-catalog.yml`)
 
 ---
 
@@ -518,6 +551,7 @@ docs/
 |-----|-----------|
 | https://pkp.kodda.ai | Landing page |
 | https://pkp.kodda.ai/docs/ | Documentacao VitePress |
+| https://pkp-studio.vercel.app | PKP Studio (Catalog Browser + Analytics) |
 | https://github.com/koddaai/pkp | Repositorio GitHub |
 | https://www.npmjs.com/org/pkprotocol | Organizacao npm |
 
@@ -566,28 +600,36 @@ git push origin gh-pages
    - `pkp diff` - Comparar dois PRODUCT.md
    - `pkp publish` - Deploy para diretorio
 
-### Em Andamento (v0.3.0)
+### Concluidos (v0.3.0)
 
-**Foco: Go-to-market para varejistas**
+10. ✅ **Analytics de Acesso AI**
+    - Middleware de logging nas rotas de API
+    - Deteccao de User-Agent (GPTBot, Claude-Web, PerplexityBot, Anthropic-AI, etc)
+    - Dashboard de analytics no Studio (/analytics)
+    - Metricas: requests por agent, produtos mais acessados, busca por periodo
 
-1. **Analytics de Acesso** (prioridade alta)
-   - Middleware de logging no MCP server
-   - Deteccao de User-Agent (GPTBot, Claude-Web, PerplexityBot, etc)
-   - Dashboard de metricas: requests por agent, produtos mais acessados
-   - Tabela: `pkp_access_logs` (timestamp, user_agent, product_sku, source_ip)
+11. ✅ **Catalog Browser Publico**
+    - PKP Studio deployado em https://pkp-studio.vercel.app
+    - Interface para navegar 77k+ produtos
+    - Busca por categoria/marca
+    - Filtros e ordenacao
 
-2. **Landing Page com Proposta de Valor** (prioridade alta)
+12. ✅ **Importacao Massiva Awin**
+    - 77.326 produtos importados de 10 varejistas brasileiros
+    - GitHub Action para atualizacao diaria automatica
+    - Mapeamento completo Awin → PKP
+
+### Em Andamento (v0.4.0)
+
+**Foco: Dashboard do Publisher**
+
+1. **Landing Page com Proposta de Valor** (prioridade alta)
    - Hero: "Controle como AI fala dos seus produtos"
    - Problema/Solucao claro
    - Beneficios mensuraveis (conversoes, brand safety)
    - CTA para registro
 
-3. **Catalog Browser Publico** (prioridade media)
-   - Interface para navegar produtos PKP-enabled
-   - "Como a AI ve este produto"
-   - Busca por categoria/marca
-
-4. **Dashboard do Publisher** (prioridade media)
+2. **Dashboard do Publisher** (prioridade media)
    - Login para varejistas
    - Meus produtos
    - Analytics de acesso aos meus dados
@@ -743,4 +785,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-10*
-*Status: v0.2.0 publicado - Iniciando v0.3.0 (go-to-market). Integracao Awin validada, 1 produto Samsung importado. Proximo: analytics de acesso + landing page com proposta de valor para varejistas.*
+*Status: v0.3.0 concluido - 77k+ produtos importados, Studio deployado no Vercel, analytics de AI tracking implementado. Proximo: landing page com proposta de valor + dashboard do publisher.*
