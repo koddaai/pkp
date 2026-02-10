@@ -1,0 +1,7 @@
+# PKP Discovery File
+# See: https://pkp.kodda.ai/docs/
+
+catalog: /.well-known/pkp/catalog.json
+manifest: /.well-known/pkp/manifest.json
+products: 77326
+updated: 2026-02-10

@@ -1,0 +1,60 @@
+{
+  "schema": "pkp/1.0",
+  "type": "catalog",
+  "publisher": {
+    "name": "Kodda.ai",
+    "type": "aggregator",
+    "domain": "pkp.kodda.ai",
+    "contact": "pkp@kodda.ai"
+  },
+  "description": "Product Knowledge Protocol catalog with 77k+ products from Brazilian retailers",
+  "total_products": 77326,
+  "categories": [
+    "eletrodomesticos",
+    "moda",
+    "notebooks",
+    "celulares/smartphones",
+    "monitors",
+    "tablets",
+    "audio",
+    "tvs",
+    "cameras",
+    "smartwatches",
+    "games",
+    "acessorios",
+    "informatica"
+  ],
+  "brands_count": 150,
+  "top_brands": [
+    "Adidas",
+    "Nike",
+    "LG",
+    "Centauro",
+    "Mizuno",
+    "Samsung",
+    "Apple",
+    "Corsair",
+    "Dell"
+  ],
+  "sources": [
+    "Kabum BR",
+    "Adidas BR",
+    "Centauro BR",
+    "Mizuno BR",
+    "Cobasi BR",
+    "LG BR",
+    "Consul BR",
+    "Samsung BR",
+    "Electrolux BR",
+    "Stanley BR"
+  ],
+  "updated_at": "2026-02-10T20:00:00Z",
+  "data_files": {
+    "manifest": "/.well-known/pkp/manifest.json",
+    "products_dir": "/.well-known/pkp/products/"
+  },
+  "api": {
+    "studio": "https://pkp-studio.vercel.app",
+    "docs": "https://pkp.kodda.ai/docs/"
+  }
+}

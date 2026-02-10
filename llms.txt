@@ -1,0 +1,35 @@
+# PKP - Product Knowledge Protocol
+# https://pkp.kodda.ai
+
+> PKP is an open protocol for representing product knowledge in a format optimized for AI agents.
+
+This site contains a catalog of 77,000+ products from Brazilian retailers in PKP format.
+
+## Product Data Location
+- Catalog index: https://pkp.kodda.ai/.well-known/pkp/catalog.json
+- Full manifest: https://pkp.kodda.ai/.well-known/pkp/manifest.json (77k products)
+
+## What is PKP?
+PKP (Product Knowledge Protocol) is a standardized format for product information that AI agents can consume.
+Each product includes structured specs, pricing, confidence levels, and AI-friendly summaries.
+
+## Categories Available
+- Electronics: smartphones, notebooks, tablets, monitors, TVs, audio
+- Home: appliances (eletrodomesticos)
+- Fashion: moda (Adidas, Nike, Centauro, Mizuno)
+- Pets: pet supplies (Cobasi)
+
+## For AI Agents
+To search products, fetch:
+GET https://pkp.kodda.ai/.well-known/pkp/manifest.json
+
+Response includes:
+- 77,326 products
+- Categories, brands, prices
+- Product summaries optimized for AI understanding
+
+## Documentation
+Full protocol documentation: https://pkp.kodda.ai/docs/
+
+## Studio Interface
+Browse products visually: https://pkp-studio.vercel.app
