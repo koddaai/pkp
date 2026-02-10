@@ -1,8 +1,9 @@
 import { NextRequest, NextResponse } from "next/server";
-import { readdir, readFile, stat } from "fs/promises";
+import { readFile } from "fs/promises";
 import { existsSync } from "fs";
 import { join } from "path";
 import { trackEvent, getTrackingInfo } from "@/lib/analytics";
+import { config } from "@/lib/config";
 
 interface ProductSummary {
   sku: string;
@@ -43,22 +44,16 @@ export async function GET(request: NextRequest) {
   const statsOnly = searchParams.get("statsOnly") === "true";
   const indexOnly = searchParams.get("indexOnly") === "true"; // Legacy support
 
-  if (!catalogPath) {
-    return NextResponse.json({ error: "Path is required" }, { status: 400 });
-  }
+  // Use default catalog path if not provided
+  const effectivePath = catalogPath || config.defaultCatalogPath;
 
   try {
-    // Resolve path
-    const resolvedPath = catalogPath.startsWith("/")
-      ? catalogPath
-      : join(process.cwd(), "..", "..", catalogPath);
-
     // Try to load manifest
-    const manifest = await loadManifest(resolvedPath);
+    const manifest = await loadManifest(effectivePath);
 
     if (!manifest) {
       return NextResponse.json({
-        error: "No manifest.json found. Run: npx tsx scripts/build-manifest.ts --catalog " + catalogPath,
+        error: "No manifest.json found. Run: npx tsx scripts/build-manifest.ts --catalog " + effectivePath,
         needsManifest: true,
       }, { status: 404 });
     }
@@ -124,7 +119,15 @@ export async function GET(request: NextRequest) {
 }
 
 async function loadManifest(catalogPath: string): Promise<CatalogManifest | null> {
-  const manifestPath = join(catalogPath, "manifest.json");
+  // In Vercel/production, try public/data/manifest.json first
+  const publicManifestPath = join(process.cwd(), "public", "data", "manifest.json");
+  const localManifestPath = catalogPath.startsWith("/")
+    ? join(catalogPath, "manifest.json")
+    : join(process.cwd(), "..", "..", catalogPath, "manifest.json");
+
+  const manifestPath = config.isVercel && existsSync(publicManifestPath)
+    ? publicManifestPath
+    : localManifestPath;
 
   // Check cache
   if (manifestCache &&

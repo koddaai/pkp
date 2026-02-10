@@ -5,6 +5,7 @@
   "description": "PKP Studio - Web interface for managing PKP catalogs",
   "scripts": {
     "dev": "next dev -p 3456",
+    "prebuild": "tsx scripts/prepare-deploy.ts",
     "build": "next build",
     "start": "next start -p 3456",
     "lint": "next lint"

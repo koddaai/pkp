@@ -1,6 +1,7 @@
 import { readFile, writeFile, mkdir } from "fs/promises";
 import { existsSync } from "fs";
 import { join } from "path";
+import { config } from "./config";
 
 interface TrackEvent {
   timestamp: string;
@@ -118,8 +119,14 @@ export interface TrackOptions {
 /**
  * Track an analytics event
  * This function is async but doesn't block - errors are logged but not thrown
+ * In production/Vercel, writes are disabled (read-only mode)
  */
 export async function trackEvent(options: TrackOptions): Promise<void> {
+  // Skip tracking in production if writes are disabled
+  if (!config.analytics.writeEnabled) {
+    return;
+  }
+
   try {
     const aiAgent = detectAIAgent(options.userAgent);
 
