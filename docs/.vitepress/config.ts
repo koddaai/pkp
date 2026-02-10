@@ -9,12 +9,7 @@ export default defineConfig({
     /^http:\/\/localhost/,
   ],
 
-  head: [
-    ["link", { rel: "icon", type: "image/svg+xml", href: "/logo.svg" }],
-  ],
-
   themeConfig: {
-    logo: "/logo.svg",
 
     nav: [
       { text: "Guide", link: "/guide/getting-started" },

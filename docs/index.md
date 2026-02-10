@@ -14,21 +14,13 @@ hero:
       link: https://github.com/kodda-ai/pkp
 
 features:
-  - icon:
-      src: /icons/web.svg
-    title: Web-native
+  - title: Web-native
     details: Data lives in /.well-known/pkp/ on vendor domains. No central database required.
-  - icon:
-      src: /icons/ai.svg
-    title: Agent-first
+  - title: Agent-first
     details: Designed for AI agents to discover, compare, and recommend products intelligently.
-  - icon:
-      src: /icons/trust.svg
-    title: Explicit Confidence
+  - title: Explicit Confidence
     details: Every data block has source attribution and verification timestamps.
-  - icon:
-      src: /icons/compare.svg
-    title: Comparable by Design
+  - title: Comparable by Design
     details: Category-specific schemas ensure products can be meaningfully compared.
 ---
 
