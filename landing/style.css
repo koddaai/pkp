@@ -112,13 +112,13 @@ code {
   padding: 120px 24px 80px;
 }
 
-.ascii-art {
+.logo-text {
   font-family: var(--font-mono);
-  font-size: clamp(8px, 2vw, 14px);
-  line-height: 1.2;
+  font-size: clamp(48px, 12vw, 120px);
+  font-weight: 700;
   color: var(--accent);
   margin-bottom: 32px;
-  white-space: pre;
+  letter-spacing: 0.1em;
 }
 
 .hero-title {
