@@ -1,0 +1,29 @@
+# PKP Catalog Configuration
+# Used by `pkp build` to generate .well-known/pkp/
+
+publisher:
+  name: "Kodda.ai"
+  type: "aggregator"
+  domain: "pkp.kodda.ai"
+  contact: "pkp@kodda.ai"
+
+# Source directories to scan for PRODUCT.md files
+sources:
+  - "./smartphones"
+  - "./notebooks"
+  - "./tvs"
+  - "./eletrodomesticos"
+  - "./moda"
+  - "./games"
+
+# Output directory for generated files
+output: "./dist"
+
+# Categories in this catalog
+categories:
+  - celulares/smartphones
+  - notebooks
+  - tvs
+  - eletrodomesticos
+  - moda
+  - games

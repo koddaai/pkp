@@ -1,0 +1,56 @@
+{
+  "name": "@pkp/registry-server",
+  "version": "0.1.0",
+  "description": "PKP Registry - Central discovery and indexing service",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodda-ai/pkp.git",
+    "directory": "packages/registry-server"
+  },
+  "homepage": "https://github.com/kodda-ai/pkp/tree/main/packages/registry-server#readme",
+  "bugs": {
+    "url": "https://github.com/kodda-ai/pkp/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "pkp-registry-server": "./dist/cli.js"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "node dist/cli.js",
+    "test": "vitest run",
+    "lint": "eslint src/",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "@pkp/spec": "workspace:*",
+    "@pkp/shared": "workspace:*",
+    "fastmcp": "^1.0.0",
+    "pg": "^8.13.0",
+    "undici": "^7.0.0",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.11.0",
+    "vitest": "^2.1.0",
+    "typescript": "^5.7.0",
+    "@types/node": "^22.0.0"
+  },
+  "author": "Pedro / Kodda.ai",
+  "license": "MIT"
+}

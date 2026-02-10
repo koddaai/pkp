@@ -1,0 +1,47 @@
+{
+  "name": "@pkp/static-generator",
+  "version": "0.1.0",
+  "description": "Generate .well-known/pkp/ from PRODUCT.md files",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodda-ai/pkp.git",
+    "directory": "packages/static-generator"
+  },
+  "homepage": "https://github.com/kodda-ai/pkp/tree/main/packages/static-generator#readme",
+  "bugs": {
+    "url": "https://github.com/kodda-ai/pkp/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "echo 'No tests yet'",
+    "lint": "eslint src/",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "@pkp/spec": "workspace:*",
+    "@pkp/shared": "workspace:*"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.0",
+    "typescript": "^5.7.0",
+    "@types/node": "^22.0.0"
+  },
+  "author": "Pedro / Kodda.ai",
+  "license": "MIT"
+}

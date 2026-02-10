@@ -1,0 +1,43 @@
+{
+  "name": "@pkp/shared",
+  "version": "0.1.0",
+  "description": "Shared utilities for PKP packages",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodda-ai/pkp.git",
+    "directory": "packages/shared"
+  },
+  "homepage": "https://github.com/kodda-ai/pkp/tree/main/packages/shared#readme",
+  "bugs": {
+    "url": "https://github.com/kodda-ai/pkp/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "echo 'No tests yet'",
+    "lint": "eslint src/",
+    "clean": "rm -rf dist"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.0",
+    "typescript": "^5.7.0",
+    "@types/node": "^22.0.0"
+  },
+  "author": "Pedro / Kodda.ai",
+  "license": "MIT"
+}
