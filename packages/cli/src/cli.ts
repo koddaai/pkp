@@ -1,7 +1,16 @@
 #!/usr/bin/env node
 
 import { Command } from "commander";
-import { initCommand, validateCommand, buildCommand, serveCommand, generateCommand } from "./commands/index.js";
+import {
+  initCommand,
+  validateCommand,
+  buildCommand,
+  serveCommand,
+  generateCommand,
+  statsCommand,
+  diffCommand,
+  publishCommand,
+} from "./commands/index.js";
 
 const program = new Command();
 
@@ -77,6 +86,40 @@ program
     await generateCommand({
       ...options,
       concurrency: options.concurrency ? parseInt(options.concurrency, 10) : 3,
+    });
+  });
+
+// Stats command - Catalog statistics
+program
+  .command("stats [directory]")
+  .description("Show statistics for a PKP catalog")
+  .option("-v, --verbose", "Show detailed stats per file", false)
+  .option("-j, --json", "Output as JSON", false)
+  .action(async (directory: string | undefined, options: { verbose: boolean; json: boolean }) => {
+    await statsCommand(directory, options);
+  });
+
+// Diff command - Compare PRODUCT.md files
+program
+  .command("diff <file1> <file2>")
+  .description("Compare two PRODUCT.md files")
+  .option("-v, --verbose", "Show detailed diff output", false)
+  .option("-j, --json", "Output as JSON", false)
+  .action(async (file1: string, file2: string, options: { verbose: boolean; json: boolean }) => {
+    await diffCommand(file1, file2, options);
+  });
+
+// Publish command - Deploy catalog
+program
+  .command("publish <target>")
+  .description("Publish PKP catalog to a directory")
+  .option("-s, --source <dir>", "Source directory", "./dist")
+  .option("-v, --verbose", "Show detailed output", false)
+  .option("-n, --dry-run", "Show what would be published without copying", false)
+  .action(async (target: string, options: { source: string; verbose: boolean; dryRun: boolean }) => {
+    await publishCommand(options.source, target, {
+      verbose: options.verbose,
+      dryRun: options.dryRun,
     });
   });
 

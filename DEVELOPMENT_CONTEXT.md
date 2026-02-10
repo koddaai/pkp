@@ -111,6 +111,9 @@ pkp validate <path>         # Valida arquivos PRODUCT.md
 pkp build [dir]             # Gera .well-known/pkp/
 pkp serve [dir]             # Servidor local para testes
 pkp generate -u <url> [-c category]  # Gera PRODUCT.md via AI (categoria auto-detectada)
+pkp stats [dir]             # Estatisticas do catalogo
+pkp diff <file1> <file2>    # Compara dois PRODUCT.md
+pkp publish <target>        # Publica catalogo para diretorio
 ```
 
 ### pkp generate (AI Generation)
@@ -307,7 +310,10 @@ pnpm start
 - Dashboard com estatisticas do catalogo
 - Navegacao e busca de produtos
 - Editor visual de PRODUCT.md com validacao em tempo real
+- Preview Markdown em split-view no editor
 - Geracao de PRODUCT.md via AI (requer ANTHROPIC_API_KEY)
+- Batch import de multiplas URLs
+- Export para .well-known/pkp/
 - Validacao de produtos
 
 **Paginas:**
@@ -316,6 +322,8 @@ pnpm start
 | `/` | Dashboard com visao geral |
 | `/products` | Lista de produtos do catalogo |
 | `/generate` | Gerar PRODUCT.md de URL |
+| `/batch` | Batch import de multiplas URLs |
+| `/export` | Export para .well-known/pkp/ |
 | `/edit?path=<file>` | Editor visual de PRODUCT.md |
 
 **API Routes:**
@@ -325,6 +333,7 @@ pnpm start
 | `POST /api/generate` | Gera PRODUCT.md via Claude API |
 | `GET /api/product?path=<file>` | Le um arquivo PRODUCT.md |
 | `PUT /api/product` | Salva alteracoes em PRODUCT.md |
+| `POST /api/export` | Exporta catalogo para .well-known/pkp/ |
 
 **Editor PRODUCT.md (`/edit`):**
 - **Modo Form:** Edita campos estruturados (SKU, nome, marca, categoria, preco, summary)
@@ -543,23 +552,19 @@ git push origin gh-pages
 4. ✅ **Studio Editor** - Editor visual com validacao em tempo real
 5. ✅ **Landing page** - pkp.kodda.ai com design dark/minimalista
 6. ✅ **Docs VitePress** - pkp.kodda.ai/docs/
-
-### Em Andamento
-7. ⏳ **Docs: Paginas faltantes**
+7. ✅ **Docs: Paginas completas**
    - confidence.md (niveis de confianca)
    - schema.md (referencia completa do schema)
    - categories.md (detalhes de cada categoria)
    - skills.md (como usar os skills)
-
-8. ⏳ **Studio: Melhorias**
-   - Preview markdown em tempo real
-   - Batch import de URLs
-   - Export para .well-known/
-
-9. ⏳ **CLI: Novos comandos**
-   - `pkp diff` - Comparar versoes de PRODUCT.md
-   - `pkp publish` - Deploy para servidor/CDN
+8. ✅ **Studio: Melhorias**
+   - Preview markdown em tempo real (split-view)
+   - Batch import de URLs (/batch)
+   - Export para .well-known/pkp/ (/export)
+9. ✅ **CLI: Novos comandos**
    - `pkp stats` - Estatisticas do catalogo
+   - `pkp diff` - Comparar dois PRODUCT.md
+   - `pkp publish` - Deploy para diretorio
 
 ### Futuro
 - Deploy do Registry Server (infra Kodda)
@@ -652,4 +657,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-10*
-*Status: v0.2.0 publicado no npm (@pkprotocol/*) - Landing page em pkp.kodda.ai (gh-pages), Docs VitePress em pkp.kodda.ai/docs/ (gh-pages), DNS via Cloudflare CNAME, GitHub repo koddaai/pkp, 15 categorias, CLI com AI generation + auto-detect, Catalog Server, Registry Server com PostgreSQL, Skills, PKP Studio com editor visual, 201 testes E2E*
+*Status: v0.2.0 publicado no npm (@pkprotocol/*) - Landing page em pkp.kodda.ai (gh-pages), Docs VitePress completos em pkp.kodda.ai/docs/ (gh-pages), DNS via Cloudflare CNAME, GitHub repo koddaai/pkp, 15 categorias, CLI com AI generation + auto-detect + stats/diff/publish, Catalog Server, Registry Server com PostgreSQL, Skills, PKP Studio com editor visual + preview + batch import + export, 201 testes E2E*
