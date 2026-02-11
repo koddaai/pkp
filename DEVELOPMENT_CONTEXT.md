@@ -724,6 +724,53 @@ git push origin gh-pages
 - LLMs vao PRECISAR do dado para respostas de qualidade
 - Diferencial: PKP e mais estruturado que scraping de HTML
 
+### Seguranca: Checklist Pre-Deploy MCP Server
+
+**Riscos Mapeados:**
+
+| Categoria | Risco | Impacto | Mitigacao |
+|-----------|-------|---------|-----------|
+| **DDoS** | Flood de requests | Server down, custos | Rate limit 100 req/min por IP |
+| **DDoS** | Queries pesadas | CPU/memoria esgotados | Timeout 5s, max 100 resultados |
+| **Scraping** | Baixar todos os 77k produtos | Perda de vantagem | Paginacao obrigatoria, API key |
+| **Scraping** | Clone do catalogo | Concorrente espelha | Quotas diarias, monitoramento |
+| **Custos** | Uso excessivo free tier | Conta bloqueada | Quotas por tier (free/pro) |
+| **Custos** | AI interno (embeddings) | API costs disparam | Cache agressivo |
+| **Seguranca** | Injection em queries | SQL/NoSQL injection | Sanitizacao, parametrizacao |
+| **Seguranca** | Path traversal | Acesso a arquivos | Validacao SKUs, whitelist |
+| **Seguranca** | API keys expostas | Comprometimento | Env vars, nunca em logs |
+| **Legal** | LGPD | Multas | Nao armazenar dados pessoais |
+| **Legal** | ToS varejistas | Cease & desist | Verificar licencas Awin |
+| **Legal** | Precos errados | Reclamacoes | Disclaimer obrigatorio |
+
+**Checklist MVP (obrigatorio antes do deploy):**
+
+```
+[ ] Rate limiting: 100 req/min por IP
+[ ] API Key obrigatoria (free tier disponivel)
+[ ] Paginacao: max 100 produtos por request
+[ ] Timeout: 5s por query
+[ ] Input validation: sanitizar todos os parametros
+[ ] Logging: requests para detectar abuso
+[ ] Quotas: 1000 req/dia free tier
+[ ] Disclaimer: "precos sujeitos a alteracao"
+[ ] ToS: definir termos de uso
+```
+
+**Estrutura de Tiers:**
+
+| Tier | Requests/dia | Produtos/request | Bulk Export |
+|------|--------------|------------------|-------------|
+| Free | 1.000 | 50 | Nao |
+| Pro | 50.000 | 100 | Sim |
+| Enterprise | Ilimitado | 500 | Sim + SLA |
+
+**Nice to have (pos-MVP):**
+- Rate limit progressivo (delay aumenta com volume)
+- Honeypot endpoints para detectar scrapers
+- Fingerprinting para detectar mesma origem com IPs diferentes
+- Watermarking nos dados para rastrear vazamentos
+
 ### Importacao de Dados (Awin)
 
 Integracao com Awin para bootstrap do catalogo:
