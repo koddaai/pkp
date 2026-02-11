@@ -735,6 +735,22 @@ aw_deep_link → purchase_urls[].url
 - `examples/kodda-catalog/products/samsung-secadora-dv20b9750cv-az.md`
 - Validado: 100% complete
 
+### Posicionamento: PKP vs skills.sh
+
+**Analogia:**
+- `skills.sh` = diretorio central de habilidades para AI agents
+- `PKP Catalog` = diretorio central de conhecimento de produto para AI agents
+
+**Onde esta o moat?**
+
+O agent de comparacao em si vira commodity - qualquer um com acesso aos dados consegue fazer. O moat NAO esta no agent. Esta em 3 camadas:
+
+| Camada | Descricao | Modelo de Negocio |
+|--------|-----------|-------------------|
+| **Dados** | Base mais completa e atualizada. Network effect: mais varejistas → mais util → mais agents usam → mais varejistas | Volume, cobertura |
+| **Analytics** | Saber quais produtos AI agents recomendam. "Claude recomendou seu concorrente 3x mais essa semana" | SaaS para varejistas |
+| **Narrativa** | Varejista define como AI fala do produto. preferred_terms, comparison_axes, objecoes | SaaS premium |
+
 ### Proposta de Valor para Varejistas
 
 **Problema:**
@@ -756,7 +772,54 @@ aw_deep_link → purchase_urls[].url
 - Reducao de reclamacoes sobre info errada
 - Brand safety - controle do que AI fala
 
-### Futuro
+### Futuro (v0.5.0+)
+
+**Foco: Integracao x402 e Agentic Commerce**
+
+O PKP e a camada de conhecimento do stack de agentic commerce. O proximo passo e integrar com x402 para pagamentos.
+
+**Stack Completo:**
+```
+┌─────────────────────────────────────────────────┐
+│  USER: "Quero um notebook bom pra programar"    │
+└─────────────────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────┐
+│  PKP: Conhecimento do produto                   │
+│  - O que é? Specs, reviews, comparações         │
+│  - Por que esse? Alternativas, trade-offs       │
+│  - Onde comprar? Links, preços                  │
+└─────────────────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────┐
+│  x402/AP2: Pagamento                            │
+│  - Autorização do usuário                       │
+│  - Agent paga em USDC                           │
+│  - Micropagamentos ($0.001/request possível)    │
+└─────────────────────────────────────────────────┘
+                      ↓
+┌─────────────────────────────────────────────────┐
+│  UCP: Transação                                 │
+│  - Checkout, entrega, pós-venda                 │
+└─────────────────────────────────────────────────┘
+```
+
+**x402 Protocol:**
+- Protocolo de pagamento nativo HTTP (Coinbase + Cloudflare, set/2025)
+- Usa HTTP 402 "Payment Required" status code
+- Agent faz request → Server retorna 402 + detalhes → Agent paga em stablecoin → Server libera
+- Ja processou 100M+ payment flows
+- Suportado por Cloudflare, Google, Vercel
+- Integrado ao AP2 (Agent Payments Protocol) do Google
+- Ref: https://x402.org, https://docs.cdp.coinbase.com/x402/
+
+**Roadmap x402:**
+1. ⏳ Adicionar `x402_enabled: true` em `purchase_urls[]`
+2. ⏳ Endpoint de checkout PKP que retorna HTTP 402
+3. ⏳ SDK para varejistas integrarem pagamento
+4. ⏳ Dashboard de transacoes
+
+**Outras prioridades futuras:**
 - Deploy do Registry Server (infra Kodda)
 - Integracoes (Claude Desktop, Cursor, etc)
 - Marketing (posts, demo video)
@@ -847,4 +910,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-11*
-*Status: v0.3.2 - Vercel monorepo fix (vercel.json na raiz). CI/CD funcionando. 77k+ produtos, Studio no Vercel, API com tracking de AI agents. Proximo: landing page + dashboard do publisher.*
+*Status: v0.3.2 - CI/CD + Vercel funcionando. 77k+ produtos, Studio no Vercel, API com tracking. Roadmap: landing page → dashboard publisher → integracao x402 para agentic commerce.*
