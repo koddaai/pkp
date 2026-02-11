@@ -6,13 +6,42 @@
  *   npx ts-node scripts/import-awin.ts --feed-id 89199 --output ./examples/kodda-catalog/products
  */
 
-import { writeFileSync, mkdirSync, existsSync } from 'fs';
+import { writeFileSync, mkdirSync, existsSync, readFileSync } from 'fs';
 import { join } from 'path';
 import { parse } from 'csv-parse/sync';
 
-// Awin credentials
-const AWIN_API_KEY = '05481a438346d725f0ec7f8083b2d238';
-const AWIN_PUBLISHER_ID = '2753646';
+// Load .env file if exists
+function loadEnv() {
+  const envPath = join(process.cwd(), '.env');
+  if (existsSync(envPath)) {
+    const envContent = readFileSync(envPath, 'utf-8');
+    for (const line of envContent.split('\n')) {
+      const [key, ...valueParts] = line.split('=');
+      if (key && valueParts.length > 0) {
+        const value = valueParts.join('=').trim().replace(/^["']|["']$/g, '');
+        if (!process.env[key.trim()]) {
+          process.env[key.trim()] = value;
+        }
+      }
+    }
+  }
+}
+
+loadEnv();
+
+// Awin credentials from environment variables
+const AWIN_API_KEY = process.env.AWIN_API_KEY;
+const AWIN_PUBLISHER_ID = process.env.AWIN_PUBLISHER_ID;
+
+if (!AWIN_API_KEY || !AWIN_PUBLISHER_ID) {
+  console.error('Error: Missing Awin credentials.');
+  console.error('Please set AWIN_API_KEY and AWIN_PUBLISHER_ID in your .env file or environment.');
+  console.error('');
+  console.error('Example .env file:');
+  console.error('  AWIN_API_KEY=your-api-key-here');
+  console.error('  AWIN_PUBLISHER_ID=your-publisher-id');
+  process.exit(1);
+}
 
 // Category mapping from Awin categories to PKP categories
 const CATEGORY_MAP: Record<string, { category: string; subcategory?: string }> = {
