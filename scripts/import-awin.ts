@@ -320,6 +320,7 @@ const RETAILER_CONFIG: Record<string, { name: string; domain: string }> = {
   '95015': { name: 'Adidas BR', domain: 'adidas.com.br' },
   '97009': { name: 'Panasonic BR', domain: 'panasonic.com' },
   '113048': { name: 'Consul BR', domain: 'consul.com.br' },
+  '93360': { name: 'Nike BR', domain: 'nike.com.br' },
 };
 
 async function main() {

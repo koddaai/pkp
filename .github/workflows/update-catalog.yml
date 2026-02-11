@@ -58,6 +58,7 @@ jobs:
             ["Electrolux BR"]="47015"
             ["Stanley BR"]="72033"
             ["Panasonic BR"]="97009"
+            ["Nike BR"]="93360"
           )
 
           for retailer in "${!FEEDS[@]}"; do
