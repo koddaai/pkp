@@ -5,9 +5,16 @@
 
 This site contains a catalog of 77,000+ products from Brazilian retailers in PKP format.
 
-## Product Data Location
-- Catalog index: https://pkp.kodda.ai/.well-known/pkp/catalog.json
-- Full manifest: https://pkp.kodda.ai/.well-known/pkp/manifest.json (77k products)
+## API Endpoints (Recommended)
+Use these endpoints for product data - they include tracking and caching:
+
+- Catalog index: https://pkp-studio.vercel.app/api/pkp/catalog
+- Full manifest: https://pkp-studio.vercel.app/api/pkp/manifest (77k products)
+- Search: https://pkp-studio.vercel.app/api/products?search=iphone
+
+## Static Files (Alternative)
+- Catalog: https://pkp.kodda.ai/.well-known/pkp/catalog.json
+- Manifest: https://pkp.kodda.ai/.well-known/pkp/manifest.json
 
 ## What is PKP?
 PKP (Product Knowledge Protocol) is a standardized format for product information that AI agents can consume.
@@ -20,8 +27,11 @@ Each product includes structured specs, pricing, confidence levels, and AI-frien
 - Pets: pet supplies (Cobasi)
 
 ## For AI Agents
-To search products, fetch:
-GET https://pkp.kodda.ai/.well-known/pkp/manifest.json
+To search products:
+GET https://pkp-studio.vercel.app/api/products?search=notebook
+
+To get full catalog:
+GET https://pkp-studio.vercel.app/api/pkp/manifest
 
 Response includes:
 - 77,326 products
