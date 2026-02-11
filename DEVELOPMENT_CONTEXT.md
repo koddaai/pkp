@@ -666,6 +666,12 @@ git push origin gh-pages
     - Dashboard de analytics mostra requests em tempo real
     - `llms.txt` atualizado para apontar para endpoints com tracking
 
+15. ✅ **CI/CD Fixes**
+    - Regenerado `pnpm-lock.yaml` para compatibilidade com CI
+    - Criado test fixtures em `packages/catalog-server/tests/fixtures/`
+    - 10 produtos de exemplo para testes (evita dependencia de dados locais)
+    - CI e Release workflows passando (GitHub Actions)
+
 ### Em Andamento (v0.4.0)
 
 **Foco: Dashboard do Publisher**
@@ -832,4 +838,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-11*
-*Status: v0.3.0 concluido - 77k+ produtos, Studio no Vercel, API com tracking de AI agents (/api/pkp/catalog, /api/pkp/manifest), llms.txt apontando para endpoints trackados. Proximo: landing page + dashboard do publisher.*
+*Status: v0.3.1 - CI/CD corrigido (pnpm-lock.yaml + test fixtures). 77k+ produtos, Studio no Vercel, API com tracking de AI agents. Proximo: landing page + dashboard do publisher.*
