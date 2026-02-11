@@ -2,6 +2,8 @@ import { NextRequest, NextResponse } from "next/server";
 import { readFile } from "fs/promises";
 import { existsSync } from "fs";
 import { join } from "path";
+import { getApiStats } from "@/lib/api-analytics";
+import { config } from "@/lib/config";
 
 interface TrackEvent {
   timestamp: string;
@@ -44,6 +46,55 @@ export async function GET(request: NextRequest) {
   const days = parseInt(searchParams.get("days") || "30");
   const includeEvents = searchParams.get("events") === "true";
 
+  // In production (Vercel), use in-memory API stats
+  if (config.isVercel) {
+    const apiStats = getApiStats();
+
+    // Convert API stats to response format
+    const aiAgents = Object.entries(apiStats.by_agent)
+      .filter(([name]) => name !== "Human/Browser")
+      .map(([name, count]) => ({ name, count }))
+      .sort((a, b) => b.count - a.count);
+
+    const aiRequests = Object.entries(apiStats.by_agent)
+      .filter(([name]) => name !== "Human/Browser")
+      .reduce((sum, [, count]) => sum + count, 0);
+
+    const humanRequests = apiStats.by_agent["Human/Browser"] || 0;
+
+    const dailyStats = Object.entries(apiStats.by_day)
+      .map(([date, total]) => ({ date, total, ai: 0, human: 0 }))
+      .sort((a, b) => a.date.localeCompare(b.date));
+
+    const recentAIVisits = apiStats.recent_events
+      .filter((e) => e.ai_agent)
+      .slice(-50)
+      .reverse()
+      .map((e) => ({
+        timestamp: e.timestamp,
+        agent: e.ai_agent,
+        event: e.event,
+        path: e.path,
+      }));
+
+    return NextResponse.json({
+      total_requests: apiStats.total_requests,
+      ai_requests: aiRequests,
+      human_requests: humanRequests,
+      ai_percentage: apiStats.total_requests > 0
+        ? Math.round((aiRequests / apiStats.total_requests) * 100)
+        : 0,
+      ai_agents: aiAgents,
+      top_products: [],
+      daily_stats: dailyStats,
+      recent_ai_visits: recentAIVisits,
+      by_path: apiStats.by_path,
+      source: "in-memory",
+      note: "Stats reset on deployment. For persistent stats, use external analytics.",
+    });
+  }
+
+  // In development, use file-based analytics
   const data = await loadAnalytics();
 
   if (!data) {
