@@ -2,7 +2,7 @@
 
 **Projeto:** Product Knowledge Protocol (PKP)
 **Autor:** Pedro / Kodda.ai
-**Versao:** v0.3.1
+**Versao:** v0.3.2
 **Ultima Atualizacao:** 2026-02-11
 **GitHub:** https://github.com/koddaai/pkp
 **Landing:** https://pkp.kodda.ai
@@ -324,13 +324,16 @@ pnpm start
 O Studio e deployado automaticamente no Vercel com integracao GitHub.
 
 ```bash
-# Estrutura de deploy (packages/studio/vercel.json)
+# Estrutura de deploy (/vercel.json na raiz do monorepo)
 {
   "framework": "nextjs",
-  "installCommand": "cd ../.. && pnpm install --frozen-lockfile",
-  "buildCommand": "cd ../.. && pnpm --filter @pkprotocol/spec build && ..."
+  "installCommand": "pnpm install --frozen-lockfile",
+  "buildCommand": "pnpm --filter @pkprotocol/spec build && ... && pnpm --filter @pkprotocol/studio run build",
+  "outputDirectory": "packages/studio/.next"
 }
 ```
+
+**Importante:** Root Directory no Vercel deve estar **em branco** (usa raiz do repo).
 
 O script `prebuild` copia o `manifest.json` do catalogo para `public/data/` para servir estaticamente.
 
@@ -672,6 +675,12 @@ git push origin gh-pages
     - 10 produtos de exemplo para testes (evita dependencia de dados locais)
     - CI e Release workflows passando (GitHub Actions)
 
+16. ✅ **Vercel Monorepo Fix**
+    - Movido `vercel.json` de `packages/studio/` para raiz do monorepo
+    - Adicionado `next` em devDependencies da raiz (para deteccao de framework)
+    - outputDirectory aponta para `packages/studio/.next`
+    - Necessario: Root Directory em branco no Vercel (usa raiz do repo)
+
 ### Em Andamento (v0.4.0)
 
 **Foco: Dashboard do Publisher**
@@ -838,4 +847,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-11*
-*Status: v0.3.1 - CI/CD corrigido (pnpm-lock.yaml + test fixtures). 77k+ produtos, Studio no Vercel, API com tracking de AI agents. Proximo: landing page + dashboard do publisher.*
+*Status: v0.3.2 - Vercel monorepo fix (vercel.json na raiz). CI/CD funcionando. 77k+ produtos, Studio no Vercel, API com tracking de AI agents. Proximo: landing page + dashboard do publisher.*
