@@ -15,8 +15,8 @@ describe("Catalog Search", () => {
   let catalog: LoadedCatalog;
 
   beforeAll(async () => {
-    // Load the kodda-catalog example
-    const catalogPath = join(__dirname, "..", "..", "..", "examples", "kodda-catalog", "dist");
+    // Load the test fixtures
+    const catalogPath = join(__dirname, "fixtures");
     catalog = await loadCatalog(catalogPath);
   });
 

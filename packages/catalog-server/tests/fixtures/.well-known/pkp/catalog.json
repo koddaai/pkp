@@ -1,0 +1,203 @@
+{
+  "schema": "pkp/1.0",
+  "type": "catalog",
+  "publisher": {
+    "name": "Kodda.ai",
+    "type": "aggregator",
+    "domain": "pkp.kodda.ai",
+    "contact": "pkp@kodda.ai"
+  },
+  "categories": [
+    "celulares/smartphones",
+    "notebooks",
+    "tvs",
+    "eletrodomesticos",
+    "moda",
+    "games"
+  ],
+  "total_products": 10,
+  "updated_at": "2026-02-09T20:54:13.951Z",
+  "products": [
+    {
+      "sku": "SM-S926BZKDZTO",
+      "uri": "pkp://pkp.kodda.ai/SM-S926BZKDZTO",
+      "name": "Galaxy S25 Ultra 256GB",
+      "category": "celulares/smartphones",
+      "summary": "Smartphone premium Samsung com S Pen integrada, camera 200MP, tela 6.9 AMOLED 120Hz, chip Snapdragon 8 Elite. Ideal para produtividade, fotografia profissional e multitarefa pesada. 7 anos de atualizacoes garantidas.",
+      "price": {
+        "type": "msrp",
+        "currency": "BRL",
+        "value": 10499,
+        "map": 9999,
+        "source": "manufacturer",
+        "updated_at": "2026-02-09T12:00:00Z"
+      },
+      "confidence_source": "ai-generated",
+      "completeness_score": 1,
+      "url": "/.well-known/pkp/products/sm-s926bzkdzto.md",
+      "updated_at": "2026-02-09T20:54:13.951Z"
+    },
+    {
+      "sku": "iphone-16-pro-max-256gb",
+      "uri": "pkp://pkp.kodda.ai/iphone-16-pro-max-256gb",
+      "name": "iPhone 16 Pro Max 256GB",
+      "category": "celulares/smartphones",
+      "summary": "iPhone topo de linha da Apple com chip A18 Pro, camera 48MP com zoom optico 5x, tela Super Retina XDR de 6.9 polegadas, botao de acao e controle de camera. Integracao perfeita com ecossistema Apple. 6 anos de atualizacoes de software.",
+      "price": {
+        "type": "msrp",
+        "currency": "BRL",
+        "value": 12499,
+        "source": "manufacturer",
+        "updated_at": "2026-02-09T12:00:00Z"
+      },
+      "confidence_source": "ai-generated",
+      "completeness_score": 1,
+      "url": "/.well-known/pkp/products/iphone-16-pro-max-256gb.md",
+      "updated_at": "2026-02-09T20:54:13.951Z"
+    },
+    {
+      "sku": "pixel-9-pro-xl",
+      "uri": "pkp://pkp.kodda.ai/pixel-9-pro-xl",
+      "name": "Google Pixel 9 Pro XL 256GB",
+      "category": "celulares/smartphones",
+      "summary": "Smartphone Google com a melhor camera computacional do mercado, chip Tensor G4, 7 anos de atualizacoes e Android puro. IA generativa integrada com Gemini. Ideal para quem quer a experiencia Android mais pura e recursos de IA avancados.",
+      "price": {
+        "type": "msrp",
+        "currency": "BRL",
+        "value": 8499,
+        "source": "manufacturer",
+        "updated_at": "2026-02-09T12:00:00Z"
+      },
+      "confidence_source": "ai-generated",
+      "completeness_score": 1,
+      "url": "/.well-known/pkp/products/pixel-9-pro-xl.md",
+      "updated_at": "2026-02-09T20:54:13.951Z"
+    },
+    {
+      "sku": "dell-xps-15-2025",
+      "uri": "pkp://pkp.kodda.ai/dell-xps-15-2025",
+      "name": "Dell XPS 15 (2025) Intel Core Ultra 7",
+      "category": "notebooks",
+      "summary": "Notebook premium Dell com tela OLED 3.5K de 15.6 polegadas, Intel Core Ultra 7, 16GB RAM e 512GB SSD. Design ultrafino com bordas minimas InfinityEdge. Ideal para profissionais que precisam de Windows com qualidade premium.",
+      "price": {
+        "type": "msrp",
+        "currency": "BRL",
+        "value": 13999,
+        "source": "manufacturer",
+        "updated_at": "2026-02-09T12:00:00Z"
+      },
+      "confidence_source": "ai-generated",
+      "completeness_score": 1,
+      "url": "/.well-known/pkp/products/dell-xps-15-2025.md",
+      "updated_at": "2026-02-09T20:54:13.951Z"
+    },
+    {
+      "sku": "macbook-air-m4-15-256gb",
+      "uri": "pkp://pkp.kodda.ai/macbook-air-m4-15-256gb",
+      "name": "MacBook Air M4 15 polegadas 256GB",
+      "category": "notebooks",
+      "summary": "Notebook ultrafino da Apple com chip M4, tela Liquid Retina de 15.3 polegadas, ate 18 horas de bateria e design sem ventoinha. Ideal para produtividade, edicao leve e consumo de midia. Silencioso e extremamente portatil.",
+      "price": {
+        "type": "msrp",
+        "currency": "BRL",
+        "value": 15499,
+        "source": "manufacturer",
+        "updated_at": "2026-02-09T12:00:00Z"
+      },
+      "confidence_source": "ai-generated",
+      "completeness_score": 1,
+      "url": "/.well-known/pkp/products/macbook-air-m4-15-256gb.md",
+      "updated_at": "2026-02-09T20:54:13.951Z"
+    },
+    {
+      "sku": "samsung-neo-qled-qn65qn85d",
+      "uri": "pkp://pkp.kodda.ai/samsung-neo-qled-qn65qn85d",
+      "name": "Samsung Neo QLED 65 QN85D 4K",
+      "category": "tvs",
+      "summary": "Smart TV Samsung Neo QLED 4K de 65 polegadas com Mini LED, processador Neural Quantum 4K, 120Hz nativo e Gaming Hub. Ideal para filmes HDR, esportes e gaming. Brilho superior para ambientes iluminados.",
+      "price": {
+        "type": "msrp",
+        "currency": "BRL",
+        "value": 6999,
+        "source": "manufacturer",
+        "updated_at": "2026-02-09T12:00:00Z"
+      },
+      "confidence_source": "ai-generated",
+      "completeness_score": 1,
+      "url": "/.well-known/pkp/products/samsung-neo-qled-qn65qn85d.md",
+      "updated_at": "2026-02-09T20:54:13.951Z"
+    },
+    {
+      "sku": "electrolux-lv14b",
+      "uri": "pkp://pkp.kodda.ai/electrolux-lv14b",
+      "name": "Lava-Loucas Electrolux LV14B 14 Servicos",
+      "category": "eletrodomesticos",
+      "summary": "Lava-loucas Electrolux de 14 servicos com 6 programas de lavagem, tecnologia BlueTouch e classificacao A de eficiencia. Ideal para familias de 4-6 pessoas. Economia de agua e tempo comparado a lavagem manual.",
+      "price": {
+        "type": "street",
+        "currency": "BRL",
+        "value": 3299,
+        "source": "retailer",
+        "updated_at": "2026-02-09T12:00:00Z"
+      },
+      "confidence_source": "ai-generated",
+      "completeness_score": 1,
+      "url": "/.well-known/pkp/products/electrolux-lv14b.md",
+      "updated_at": "2026-02-09T20:54:13.951Z"
+    },
+    {
+      "sku": "adidas-ultraboost-light-black",
+      "uri": "pkp://pkp.kodda.ai/adidas-ultraboost-light-black",
+      "name": "Adidas Ultraboost Light Preto",
+      "category": "moda",
+      "summary": "Tenis de corrida Adidas Ultraboost Light com espuma BOOST mais leve da historia, cabedal Primeknit e outsole Continental. 30% mais leve que versoes anteriores. Ideal para corridas de longa distancia e uso diario com maximo conforto.",
+      "price": {
+        "type": "msrp",
+        "currency": "BRL",
+        "value": 1199.99,
+        "source": "manufacturer",
+        "updated_at": "2026-02-09T12:00:00Z"
+      },
+      "confidence_source": "ai-generated",
+      "completeness_score": 1,
+      "url": "/.well-known/pkp/products/adidas-ultraboost-light-black.md",
+      "updated_at": "2026-02-09T20:54:13.951Z"
+    },
+    {
+      "sku": "nike-air-max-90-white",
+      "uri": "pkp://pkp.kodda.ai/nike-air-max-90-white",
+      "name": "Nike Air Max 90 Branco",
+      "category": "moda",
+      "summary": "Tenis classico Nike Air Max 90 na cor branca. Design icone dos anos 90 com tecnologia Air visivel no calcanhar. Versatil para uso casual diario, combina com diversos estilos. Conforto comprovado por decadas.",
+      "price": {
+        "type": "msrp",
+        "currency": "BRL",
+        "value": 899.99,
+        "source": "manufacturer",
+        "updated_at": "2026-02-09T12:00:00Z"
+      },
+      "confidence_source": "ai-generated",
+      "completeness_score": 1,
+      "url": "/.well-known/pkp/products/nike-air-max-90-white.md",
+      "updated_at": "2026-02-09T20:54:13.951Z"
+    },
+    {
+      "sku": "playstation-5-pro",
+      "uri": "pkp://pkp.kodda.ai/playstation-5-pro",
+      "name": "PlayStation 5 Pro",
+      "category": "games",
+      "summary": "Console de videogame Sony PlayStation 5 Pro com GPU 67% mais potente, 2TB SSD, ray tracing avancado e upscaling PSSR. Roda jogos em 4K 60fps ou 8K. Versao mais poderosa do PlayStation 5, ideal para gamers que querem graficos maximos.",
+      "price": {
+        "type": "msrp",
+        "currency": "BRL",
+        "value": 5499,
+        "source": "manufacturer",
+        "updated_at": "2026-02-09T12:00:00Z"
+      },
+      "confidence_source": "ai-generated",
+      "completeness_score": 1,
+      "url": "/.well-known/pkp/products/playstation-5-pro.md",
+      "updated_at": "2026-02-09T20:54:13.951Z"
+    }
+  ]
+}
