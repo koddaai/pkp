@@ -817,12 +817,75 @@ git push origin gh-pages
 - Fingerprinting para detectar mesma origem com IPs diferentes
 - Watermarking nos dados para rastrear vazamentos
 
+### Analise Critica de Riscos
+
+**Riscos de Adocao (ALTO):**
+
+| Problema | Impacto | Mitigacao | Status |
+|----------|---------|-----------|--------|
+| Chicken-and-egg | AI nao usa se nao conhece, varejista nao publica se AI nao usa | Bootstrap com Awin, mostrar analytics | 🔴 Nao validado |
+| Nenhum varejista real | 77k produtos sao de feed Awin, nao publicacao direta | Conseguir 1 varejista piloto | 🔴 Pendente |
+| LLMs nao descobrem protocolos | .well-known e ignorado | MCP, Custom GPT, SEO | 🟡 Parcial |
+| schema.org/Product existe | Padrao estabelecido, Google ja usa | Diferenciar: PKP e para AI, nao SEO | 🟡 Messaging |
+| MCP e so Anthropic | Claude Desktop/Cursor, nao ChatGPT/Gemini | Estrategia multi-LLM | 🟢 Planejado |
+
+**Riscos de Qualidade de Dados (ALTO):**
+
+| Problema | Impacto | Mitigacao | Status |
+|----------|---------|-----------|--------|
+| Dados Awin sao genericos | Sem specs detalhadas, so nome/preco/link | Enriquecer com AI | 🔴 Nao feito |
+| Precos desatualizados | Usuario reclama, varejista reclama | Disclaimer + TTL curto | 🔴 Sem disclaimer |
+| 77k produtos, maioria moda | Pouca cobertura de eletronicos | Importar mais feeds | 🟡 Parcial |
+| Sem sync real-time | Produto some, preco muda, link quebra | Webhook de atualizacao | 🔴 Nao implementado |
+
+**Riscos Tecnicos (MEDIO):**
+
+| Problema | Impacto | Mitigacao | Status |
+|----------|---------|-----------|--------|
+| Vercel free tier | Limits de requests, cold starts | Monitorar, upgrade se necessario | 🟢 OK por agora |
+| Analytics in-memory | Perde dados no redeploy | Persistir em banco/arquivo | 🔴 Nao feito |
+| MCP nao deployado | Feature principal nao disponivel | Priorizar deploy | 🔴 Pendente |
+| Single point of failure | Um dominio, um repo, uma pessoa | Backup, documentacao | 🟡 Docs OK |
+
+**Riscos Legais (MEDIO):**
+
+| Problema | Impacto | Mitigacao | Status |
+|----------|---------|-----------|--------|
+| ToS Awin | Podem cortar acesso se violar termos | Revisar contrato | 🟡 A verificar |
+| Precos errados | Liability se causar dano | Disclaimer obrigatorio | 🔴 Nao implementado |
+| LGPD | Se tiver qualquer dado pessoal | Revisar schema, nao armazenar PII | 🟢 OK |
+
+**Riscos de Modelo de Negocio (ALTO):**
+
+| Problema | Impacto | Mitigacao | Status |
+|----------|---------|-----------|--------|
+| Sem revenue | Projeto nao sustentavel | Definir modelo antes de escalar | 🔴 Nao definido |
+| Quem paga? | Varejista? AI company? Usuario? | Testar analytics como valor | 🔴 Nao validado |
+| Analytics nao validado | Varejista pode nao querer pagar | Conseguir 1 cliente piloto | 🔴 Pendente |
+
+**Perguntas Criticas Nao Respondidas:**
+1. Algum AI agent ja consultou o PKP espontaneamente?
+2. Se usuario perguntar "melhor notebook ate R$5000", PKP tem dados de qualidade?
+3. Alguem pagaria por isso hoje?
+
+### Acoes Imediatas (Checklist)
+
+```
+[x] Remover API key Awin do MD publico
+[ ] Verificar se algum AI ja consultou PKP (analytics)
+[ ] Adicionar disclaimer de precos nos endpoints
+[ ] Implementar rate limiting basico
+[ ] Persistir analytics em arquivo
+[ ] Importar mais feeds de eletronicos (Kabum, Samsung)
+[ ] Conseguir 1 varejista piloto para validar proposta
+```
+
 ### Importacao de Dados (Awin)
 
 Integracao com Awin para bootstrap do catalogo:
-- **API Key:** [REDACTED - use .env]
-- **Publisher ID:** [REDACTED]
-- **Feed List:** https://ui.awin.com/productdata-darwin-download/publisher/[REDACTED]/.../feedList
+- **API Key:** Ver `.env` local (NAO commitar)
+- **Publisher ID:** Ver `.env` local
+- **Feed List:** Acessar via dashboard Awin
 
 **Varejistas Brasileiros Disponiveis:**
 | Varejista | Feed ID | Produtos |
@@ -1045,4 +1108,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-11*
-*Status: v0.3.2 - REST API publica ja funciona (80% dos casos). Roadmap multi-LLM: REST API ✅ → MCP Server → Custom GPT → SEO. Cada LLM tem seu approach, nao existe protocolo universal.*
+*Status: v0.3.2 - REST API funcionando. Analise critica: riscos de adocao e qualidade de dados sao ALTOS. Proximos passos: validar se AI usa PKP, adicionar disclaimer, conseguir 1 varejista piloto.*
