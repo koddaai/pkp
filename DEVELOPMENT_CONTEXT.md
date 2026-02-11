@@ -2,8 +2,8 @@
 
 **Projeto:** Product Knowledge Protocol (PKP)
 **Autor:** Pedro / Kodda.ai
-**Versao:** v0.3.0
-**Ultima Atualizacao:** 2026-02-10
+**Versao:** v0.3.1
+**Ultima Atualizacao:** 2026-02-11
 **GitHub:** https://github.com/koddaai/pkp
 **Landing:** https://pkp.kodda.ai
 **Docs:** https://pkp.kodda.ai/docs/
@@ -559,13 +559,21 @@ docs/
 
 Dados PKP publicados para descoberta por AI agents:
 
+**API Endpoints (com tracking):**
+| URL | Conteudo |
+|-----|----------|
+| https://pkp-studio.vercel.app/api/pkp/catalog | Indice do catalogo (com tracking) |
+| https://pkp-studio.vercel.app/api/pkp/manifest | 77k produtos (com tracking) |
+| https://pkp-studio.vercel.app/api/products?search=X | Busca de produtos |
+
+**Arquivos Estaticos:**
 | URL | Conteudo |
 |-----|----------|
 | https://pkp.kodda.ai/llms.txt | Guia para AI agents |
 | https://pkp.kodda.ai/pkp.txt | Ponteiro PKP |
 | https://pkp.kodda.ai/robots.txt | Permite crawlers AI (GPTBot, ClaudeBot, etc) |
 | https://pkp.kodda.ai/sitemap.xml | Sitemap para indexacao |
-| https://pkp.kodda.ai/.well-known/pkp/catalog.json | Indice do catalogo (metadados) |
+| https://pkp.kodda.ai/.well-known/pkp/catalog.json | Indice do catalogo (estatico) |
 | https://pkp.kodda.ai/.well-known/pkp/manifest.json | 77k produtos completos (23MB) |
 
 **Crawlers Permitidos:**
@@ -576,7 +584,7 @@ Dados PKP publicados para descoberta por AI agents:
 
 **Arquivos Criados:**
 - `.nojekyll` - Desabilita Jekyll para servir `.well-known/`
-- `llms.txt` - Formato emergente para guiar AI agents
+- `llms.txt` - Formato emergente para guiar AI agents (aponta para API com tracking)
 - `robots.txt` - Permite todos os crawlers AI
 
 ### DNS (Cloudflare)
@@ -649,6 +657,14 @@ git push origin gh-pages
     - `robots.txt` permitindo GPTBot, ClaudeBot, PerplexityBot
     - `sitemap.xml` para indexacao
     - `.nojekyll` para servir arquivos corretamente no GitHub Pages
+
+14. ✅ **API Proxy com Tracking**
+    - `/api/pkp/catalog` - Indice do catalogo com deteccao de AI
+    - `/api/pkp/manifest` - 77k produtos com deteccao de AI
+    - `api-analytics.ts` - Tracking in-memory para Vercel
+    - Detecta User-Agents: GPTBot, ClaudeBot, PerplexityBot, Anthropic-AI, etc
+    - Dashboard de analytics mostra requests em tempo real
+    - `llms.txt` atualizado para apontar para endpoints com tracking
 
 ### Em Andamento (v0.4.0)
 
@@ -815,5 +831,5 @@ manufacturer > retailer > aggregator > community
 
 ---
 
-*Ultima sessao: 2026-02-10*
-*Status: v0.3.0 concluido - 77k+ produtos importados, Studio no Vercel, AI tracking, catalogo publico para crawlers (llms.txt, robots.txt, .well-known/pkp/). Proximo: landing page com proposta de valor + dashboard do publisher.*
+*Ultima sessao: 2026-02-11*
+*Status: v0.3.0 concluido - 77k+ produtos, Studio no Vercel, API com tracking de AI agents (/api/pkp/catalog, /api/pkp/manifest), llms.txt apontando para endpoints trackados. Proximo: landing page + dashboard do publisher.*
