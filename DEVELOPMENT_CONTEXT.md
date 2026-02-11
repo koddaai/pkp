@@ -686,43 +686,89 @@ git push origin gh-pages
 **Insight Chave (validado com LLMs):**
 > "LLMs nao consomem protocolos. Plataformas e frameworks consomem."
 > O .well-known so funciona se clientes forem programados para consultar.
-> O acelerador real e MCP Server registrado como tool.
+> Cada LLM tem seu proprio approach - nao existe protocolo universal.
 
-**Prioridade Revisada: MCP Server Publico**
+**Realidade Multi-LLM:**
 
-1. **Deploy MCP Server Hospedado** (prioridade critica)
+| Plataforma | Suporta MCP? | Como acessa PKP |
+|------------|--------------|-----------------|
+| Claude Desktop | ✅ Sim | MCP nativo |
+| Cursor | ✅ Sim | MCP nativo |
+| Claude Web | ❌ Nao | Web fetch (API publica) |
+| ChatGPT | ❌ Nao | Web browsing / Custom GPT |
+| GPT API | ❌ Nao | Function calling |
+| Gemini | ❌ Nao | Function calling / Extensions |
+| Perplexity | ❌ Nao | Web search (indexa APIs) |
+| Manus | ❌ Nao | Web fetch |
+
+**Arquitetura Universal:**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    PKP DATA (77k produtos)                  │
+└─────────────────────────────────────────────────────────────┘
+                            ↑
+┌─────────────────────────────────────────────────────────────┐
+│              PKP REST API (universal) ✅ JA EXISTE          │
+│       GET /api/products?search=notebook&max_price=5000      │
+└─────────────────────────────────────────────────────────────┘
+        ↑              ↑              ↑              ↑
+   ┌────┴────┐    ┌────┴────┐   ┌────┴────┐   ┌────┴────┐
+   │   MCP   │    │ OpenAI  │   │ Gemini  │   │  Web    │
+   │ Server  │    │ Custom  │   │ Extension│  │ Fetch   │
+   │         │    │   GPT   │   │         │   │         │
+   └────┬────┘    └────┬────┘   └────┬────┘   └────┬────┘
+        ↓              ↓              ↓              ↓
+    Claude         ChatGPT        Gemini       Perplexity
+    Desktop        Plus users     API          Claude Web
+    Cursor                                     Manus
+```
+
+**Prioridade Revisada: Estrategia Multi-LLM**
+
+| # | Item | Alcance | Status |
+|---|------|---------|--------|
+| 1 | **REST API publica** | Qualquer LLM com web access | ✅ Ja funciona |
+| 2 | **MCP Server hospedado** | Claude Desktop, Cursor | 🔄 Deploy pendente |
+| 3 | **Custom GPT (OpenAI)** | ChatGPT Plus users | ⏳ Criar |
+| 4 | **SEO/Indexacao** | Perplexity, search-grounded LLMs | ⏳ Melhorar |
+| 5 | **Landing + Dashboard** | Varejistas | ⏳ Criar |
+
+**Detalhes por integracao:**
+
+1. **REST API Publica** ✅ JA FUNCIONA
+   - `https://pkp-studio.vercel.app/api/products?search=X`
+   - `https://pkp-studio.vercel.app/api/pkp/catalog`
+   - Qualquer LLM com web fetch acessa
+   - Rate limit do Vercel protege
+
+2. **MCP Server Hospedado** 🔄 PENDENTE
    - Hospedar `@pkprotocol/catalog-server` publicamente
    - Endpoint: `mcp.pkp.kodda.ai` ou similar
-   - Tools expostas: `pkp_search`, `pkp_compare`, `pkp_product`
-   - Exemplo de uso: `pkp_search(category="notebooks", max_price=10000)`
+   - Tools: `pkp_search`, `pkp_compare`, `pkp_product`
+   - Apenas Claude Desktop e Cursor usam MCP
 
-2. **Registro em Diretorios MCP** (prioridade alta)
-   - Claude Desktop - config oficial
-   - Cursor - marketplace de tools
-   - Outros clientes MCP
-   - Submeter para listas de MCP servers
+3. **Custom GPT** ⏳ CRIAR
+   - GPT no ChatGPT que chama a REST API do PKP
+   - Prompt: "Consulte produtos brasileiros via PKP"
+   - Actions apontando para `/api/products`
+   - Alcanca usuarios ChatGPT Plus
 
-3. **SEO/Indexabilidade** (prioridade media)
-   - Dados PKP aparecerem em web search
-   - LLMs consomem organicamente via search grounding
-   - schema.org/Product markup nas paginas
+4. **SEO/Indexabilidade** ⏳ MELHORAR
+   - Perplexity indexa paginas web, nao APIs
+   - Criar paginas HTML por produto para indexacao
+   - schema.org/Product markup
    - Sitemap com produtos individuais
 
-4. **Landing Page + Dashboard Publisher** (prioridade media)
-   - Hero: "Controle como AI fala dos seus produtos"
-   - Dashboard para varejistas
-   - Analytics de acesso
+**Custos por integracao:**
 
-**Por que MCP e o game-changer:**
-- LLMs precisam de uma tool para chamar, nao dados para descobrir
-- `pkp_search(query, filters)` > consultar .well-known manualmente
-- Dados estruturados + precos reais + comparacao facilitada
-- Motivo concreto para LLMs consultarem
+| Integracao | Quem paga tokens LLM | Quem paga infra |
+|------------|----------------------|-----------------|
+| REST API | Usuario (sua LLM) | Kodda (Vercel) |
+| MCP Server | Usuario (Claude) | Kodda (VPS) |
+| Custom GPT | Usuario (ChatGPT) | Kodda (Vercel) |
 
-**Adocao em massa (longo prazo):**
-- Se grandes varejistas (Magalu, Americanas, Amazon BR) publicarem PKP
-- LLMs vao PRECISAR do dado para respostas de qualidade
-- Diferencial: PKP e mais estruturado que scraping de HTML
+**Conclusao:** REST API ja cobre 80% dos casos. MCP e Custom GPT sao bonus para integracao mais profunda.
 
 ### Seguranca: Checklist Pre-Deploy MCP Server
 
@@ -999,4 +1045,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-11*
-*Status: v0.3.2 - CI/CD + Vercel funcionando. 77k+ produtos, Studio no Vercel, API com tracking. Roadmap revisado: MCP Server publico (prioridade critica) → registro em diretorios → SEO → x402.*
+*Status: v0.3.2 - REST API publica ja funciona (80% dos casos). Roadmap multi-LLM: REST API ✅ → MCP Server → Custom GPT → SEO. Cada LLM tem seu approach, nao existe protocolo universal.*
