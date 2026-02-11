@@ -683,10 +683,26 @@ git push origin gh-pages
 
 ### Em Andamento (v0.4.0)
 
+**Definicao Estrategica (validado com ChatGPT):**
+
+> PKP e a camada de conhecimento de produto no stack de agentic commerce.
+> Nao e marketplace. Nao e protocolo universal generico.
+
+```
+PKP = Protocolo de conhecimento de produto para AI agents
+├── Formato padrao (PRODUCT.md) - como schema.org mas para AI
+├── Catalogo publico (77k produtos) - prova de conceito
+├── Tools para AI (MCP, Custom GPT) - como AI acessa
+└── Analytics para varejistas - como monetiza
+
+O jogo: ser o "schema.org de produtos para AI agents"
+        antes que Google/Amazon facam o mesmo.
+```
+
 **Insight Chave (validado com LLMs):**
-> "LLMs nao consomem protocolos. Plataformas e frameworks consomem."
-> O .well-known so funciona se clientes forem programados para consultar.
-> Cada LLM tem seu proprio approach - nao existe protocolo universal.
+> "LLMs nao descobrem endpoints sozinhos. Precisam de integracao explicita."
+> "LLMs nao adotam padroes. Desenvolvedores adotam."
+> "Se PKP virar so mais um endpoint REST, ninguem integra."
 
 **Realidade Multi-LLM:**
 
@@ -695,10 +711,10 @@ git push origin gh-pages
 | Claude Desktop | ✅ Sim | MCP nativo |
 | Cursor | ✅ Sim | MCP nativo |
 | Claude Web | ❌ Nao | Web fetch (API publica) |
-| ChatGPT | ❌ Nao | Web browsing / Custom GPT |
+| ChatGPT | ❌ Nao | Custom GPT com Actions |
 | GPT API | ❌ Nao | Function calling |
 | Gemini | ❌ Nao | Function calling / Extensions |
-| Perplexity | ❌ Nao | Web search (indexa APIs) |
+| Perplexity | ❌ Nao | Web search |
 | Manus | ❌ Nao | Web fetch |
 
 **Arquitetura Universal:**
@@ -714,61 +730,95 @@ git push origin gh-pages
 └─────────────────────────────────────────────────────────────┘
         ↑              ↑              ↑              ↑
    ┌────┴────┐    ┌────┴────┐   ┌────┴────┐   ┌────┴────┐
-   │   MCP   │    │ OpenAI  │   │ Gemini  │   │  Web    │
-   │ Server  │    │ Custom  │   │ Extension│  │ Fetch   │
-   │         │    │   GPT   │   │         │   │         │
+   │   MCP   │    │ Custom  │   │   SDK   │   │LangChain│
+   │ Server  │    │   GPT   │   │  Client │   │  Tool   │
    └────┬────┘    └────┬────┘   └────┬────┘   └────┬────┘
         ↓              ↓              ↓              ↓
-    Claude         ChatGPT        Gemini       Perplexity
-    Desktop        Plus users     API          Claude Web
-    Cursor                                     Manus
+    Claude         ChatGPT        Devs          AI Apps
+    Desktop        Plus           (npm)         (Python)
 ```
 
-**Prioridade Revisada: Estrategia Multi-LLM**
+**Prioridade REVISADA (apos feedback ChatGPT):**
 
-| # | Item | Alcance | Status |
-|---|------|---------|--------|
-| 1 | **REST API publica** | Qualquer LLM com web access | ✅ Ja funciona |
-| 2 | **MCP Server hospedado** | Claude Desktop, Cursor | 🔄 Deploy pendente |
-| 3 | **Custom GPT (OpenAI)** | ChatGPT Plus users | ⏳ Criar |
-| 4 | **SEO/Indexacao** | Perplexity, search-grounded LLMs | ⏳ Melhorar |
-| 5 | **Landing + Dashboard** | Varejistas | ⏳ Criar |
+| # | Item | Justificativa | Esforco | Status |
+|---|------|---------------|---------|--------|
+| 1 | **Custom GPT** | Mais rapido, atinge ChatGPT Plus users | Baixo | ⏳ Criar |
+| 2 | **Melhorar filtros API** | `?min_price=&max_price=&brand=&sort=` | Baixo | 🔄 Parcial |
+| 3 | **MCP Server hospedado** | Claude Desktop, Cursor | Medio | 🔄 Pendente |
+| 4 | **SDK JavaScript** | `npm install @pkprotocol/client` | Medio | ⏳ Criar |
+| 5 | **LangChain Tool** | Integracao com ecossistema AI | Medio | ⏳ Criar |
+
+**Desprioritizado:**
+
+| Item | Motivo |
+|------|--------|
+| SEO/Indexabilidade | LLMs nao crawleam, desenvolvedores adotam |
+| Landing page bonita | Nao gera adocao tecnica |
+| Embeddings/Vector | Over-engineering antes de validar PMF |
 
 **Detalhes por integracao:**
 
-1. **REST API Publica** ✅ JA FUNCIONA
-   - `https://pkp-studio.vercel.app/api/products?search=X`
-   - `https://pkp-studio.vercel.app/api/pkp/catalog`
-   - Qualquer LLM com web fetch acessa
-   - Rate limit do Vercel protege
+1. **Custom GPT** ⏳ PRIORIDADE ALTA
+   - GPT no ChatGPT que chama a REST API do PKP
+   - Schema OpenAI Function Calling:
+   ```json
+   {
+     "name": "search_products",
+     "description": "Busca produtos brasileiros por nome, categoria, marca ou preco",
+     "parameters": {
+       "search": "string",
+       "category": "string",
+       "brand": "string",
+       "min_price": "number",
+       "max_price": "number"
+     }
+   }
+   ```
+   - Publicar no GPT Store
+   - Alcanca milhoes de usuarios ChatGPT Plus
 
-2. **MCP Server Hospedado** 🔄 PENDENTE
+2. **Melhorar Filtros API** 🔄 EM ANDAMENTO
+   - Adicionar: `?min_price=`, `?max_price=`, `?brand=`, `?sort=`
+   - Padronizar response JSON
+   - Quanto mais estruturado → melhor raciocinio da LLM
+
+3. **MCP Server Hospedado** 🔄 PENDENTE
    - Hospedar `@pkprotocol/catalog-server` publicamente
    - Endpoint: `mcp.pkp.kodda.ai` ou similar
    - Tools: `pkp_search`, `pkp_compare`, `pkp_product`
    - Apenas Claude Desktop e Cursor usam MCP
 
-3. **Custom GPT** ⏳ CRIAR
-   - GPT no ChatGPT que chama a REST API do PKP
-   - Prompt: "Consulte produtos brasileiros via PKP"
-   - Actions apontando para `/api/products`
-   - Alcanca usuarios ChatGPT Plus
+4. **SDK JavaScript** ⏳ CRIAR
+   ```bash
+   npm install @pkprotocol/client
+   ```
+   ```typescript
+   import { PKPClient } from '@pkprotocol/client';
+   const pkp = new PKPClient();
+   const products = await pkp.search({ query: 'notebook', maxPrice: 5000 });
+   ```
+   - Facilita integracao para desenvolvedores
+   - Reduz fricção de adocao
 
-4. **SEO/Indexabilidade** ⏳ MELHORAR
-   - Perplexity indexa paginas web, nao APIs
-   - Criar paginas HTML por produto para indexacao
-   - schema.org/Product markup
-   - Sitemap com produtos individuais
+5. **LangChain Tool** ⏳ CRIAR
+   ```python
+   from langchain_pkp import PKPSearchTool
+   tool = PKPSearchTool()
+   agent.add_tool(tool)
+   ```
+   - Integracao com ecossistema Python AI
+   - LangChain, LlamaIndex, CrewAI
 
 **Custos por integracao:**
 
 | Integracao | Quem paga tokens LLM | Quem paga infra |
 |------------|----------------------|-----------------|
 | REST API | Usuario (sua LLM) | Kodda (Vercel) |
-| MCP Server | Usuario (Claude) | Kodda (VPS) |
 | Custom GPT | Usuario (ChatGPT) | Kodda (Vercel) |
+| MCP Server | Usuario (Claude) | Kodda (VPS) |
+| SDK/LangChain | Usuario | Kodda (Vercel) |
 
-**Conclusao:** REST API ja cobre 80% dos casos. MCP e Custom GPT sao bonus para integracao mais profunda.
+**Conclusao:** Custom GPT e o caminho mais rapido para validar. SDK e LangChain Tool sao o caminho para adocao por desenvolvedores.
 
 ### Seguranca: Checklist Pre-Deploy MCP Server
 
@@ -872,12 +922,14 @@ git push origin gh-pages
 
 ```
 [x] Remover API key Awin do MD publico
-[ ] Verificar se algum AI ja consultou PKP (analytics)
+[x] Mover credenciais Awin para .env
+[x] Verificar se algum AI ja consultou PKP (resultado: ZERO acessos reais)
+[ ] Criar Custom GPT no ChatGPT (PRIORIDADE #1)
+[ ] Adicionar filtros: ?min_price=, ?max_price=, ?brand=, ?sort=
 [ ] Adicionar disclaimer de precos nos endpoints
-[ ] Implementar rate limiting basico
-[ ] Persistir analytics em arquivo
-[ ] Importar mais feeds de eletronicos (Kabum, Samsung)
-[ ] Conseguir 1 varejista piloto para validar proposta
+[ ] Publicar Custom GPT no GPT Store
+[ ] Criar @pkprotocol/client SDK
+[ ] Criar LangChain PKP Tool
 ```
 
 ### Importacao de Dados (Awin)
@@ -1108,4 +1160,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-11*
-*Status: v0.3.2 - REST API funcionando. Analise critica: riscos de adocao e qualidade de dados sao ALTOS. Proximos passos: validar se AI usa PKP, adicionar disclaimer, conseguir 1 varejista piloto.*
+*Status: v0.3.2 - Rota ajustada apos feedback de LLMs. Prioridade: Custom GPT > Filtros API > MCP > SDK > LangChain. "LLMs nao descobrem endpoints, precisam de integracao explicita."*
