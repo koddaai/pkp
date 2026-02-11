@@ -2,13 +2,15 @@ name: Update Catalog
 
 on:
   schedule:
-    # Runs daily at 6am UTC (3am BRT)
-    - cron: '0 6 * * *'
+    # Runs 3x daily to keep prices updated
+    - cron: '0 6 * * *'   # 06:00 UTC (03:00 BRT)
+    - cron: '0 12 * * *'  # 12:00 UTC (09:00 BRT)
+    - cron: '0 20 * * *'  # 20:00 UTC (17:00 BRT)
   workflow_dispatch:
     # Allow manual trigger from GitHub UI
     inputs:
-      overwrite:
-        description: 'Overwrite existing products (update prices/stock)'
+      skip_existing:
+        description: 'Skip existing products (only add new)'
         required: false
         default: 'false'
         type: boolean
@@ -26,19 +28,20 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Setup pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 8
+        uses: pnpm/action-setup@v4
 
       - name: Install dependencies
         run: pnpm install
 
       - name: Import products from Awin feeds
         env:
-          OVERWRITE_FLAG: ${{ github.event.inputs.overwrite == 'true' && '--overwrite' || '' }}
+          AWIN_API_KEY: ${{ secrets.AWIN_API_KEY }}
+          AWIN_PUBLISHER_ID: ${{ secrets.AWIN_PUBLISHER_ID }}
+          # Default: overwrite to update prices. Skip only if manually requested.
+          OVERWRITE_FLAG: ${{ github.event.inputs.skip_existing == 'true' && '' || '--overwrite' }}
         run: |
           echo "Starting catalog update at $(date)"
 
