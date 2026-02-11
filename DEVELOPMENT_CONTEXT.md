@@ -683,19 +683,46 @@ git push origin gh-pages
 
 ### Em Andamento (v0.4.0)
 
-**Foco: Dashboard do Publisher**
+**Insight Chave (validado com LLMs):**
+> "LLMs nao consomem protocolos. Plataformas e frameworks consomem."
+> O .well-known so funciona se clientes forem programados para consultar.
+> O acelerador real e MCP Server registrado como tool.
 
-1. **Landing Page com Proposta de Valor** (prioridade alta)
+**Prioridade Revisada: MCP Server Publico**
+
+1. **Deploy MCP Server Hospedado** (prioridade critica)
+   - Hospedar `@pkprotocol/catalog-server` publicamente
+   - Endpoint: `mcp.pkp.kodda.ai` ou similar
+   - Tools expostas: `pkp_search`, `pkp_compare`, `pkp_product`
+   - Exemplo de uso: `pkp_search(category="notebooks", max_price=10000)`
+
+2. **Registro em Diretorios MCP** (prioridade alta)
+   - Claude Desktop - config oficial
+   - Cursor - marketplace de tools
+   - Outros clientes MCP
+   - Submeter para listas de MCP servers
+
+3. **SEO/Indexabilidade** (prioridade media)
+   - Dados PKP aparecerem em web search
+   - LLMs consomem organicamente via search grounding
+   - schema.org/Product markup nas paginas
+   - Sitemap com produtos individuais
+
+4. **Landing Page + Dashboard Publisher** (prioridade media)
    - Hero: "Controle como AI fala dos seus produtos"
-   - Problema/Solucao claro
-   - Beneficios mensuraveis (conversoes, brand safety)
-   - CTA para registro
+   - Dashboard para varejistas
+   - Analytics de acesso
 
-2. **Dashboard do Publisher** (prioridade media)
-   - Login para varejistas
-   - Meus produtos
-   - Analytics de acesso aos meus dados
-   - Editar/atualizar
+**Por que MCP e o game-changer:**
+- LLMs precisam de uma tool para chamar, nao dados para descobrir
+- `pkp_search(query, filters)` > consultar .well-known manualmente
+- Dados estruturados + precos reais + comparacao facilitada
+- Motivo concreto para LLMs consultarem
+
+**Adocao em massa (longo prazo):**
+- Se grandes varejistas (Magalu, Americanas, Amazon BR) publicarem PKP
+- LLMs vao PRECISAR do dado para respostas de qualidade
+- Diferencial: PKP e mais estruturado que scraping de HTML
 
 ### Importacao de Dados (Awin)
 
@@ -740,6 +767,21 @@ aw_deep_link → purchase_urls[].url
 **Analogia:**
 - `skills.sh` = diretorio central de habilidades para AI agents
 - `PKP Catalog` = diretorio central de conhecimento de produto para AI agents
+
+**Insight Critico:**
+```
+LLMs nao consomem protocolos espontaneamente.
+Plataformas e frameworks consomem.
+.well-known so funciona se houver padrao amplamente adotado.
+```
+
+**O que acelera adocao:**
+| Estrategia | Impacto | Status |
+|------------|---------|--------|
+| MCP Server como tool | Game-changer - LLMs chamam diretamente | ✅ Implementado, ⏳ Deploy publico |
+| SEO/Indexabilidade | Organico - LLMs consomem via search | ⏳ Parcial |
+| Adocao varejistas | Network effect - LLMs precisam do dado | ⏳ Bootstrap via Awin |
+| Integracao x402 | Pagamento direto no agent | ⏳ Futuro |
 
 **Onde esta o moat?**
 
@@ -910,4 +952,4 @@ manufacturer > retailer > aggregator > community
 ---
 
 *Ultima sessao: 2026-02-11*
-*Status: v0.3.2 - CI/CD + Vercel funcionando. 77k+ produtos, Studio no Vercel, API com tracking. Roadmap: landing page → dashboard publisher → integracao x402 para agentic commerce.*
+*Status: v0.3.2 - CI/CD + Vercel funcionando. 77k+ produtos, Studio no Vercel, API com tracking. Roadmap revisado: MCP Server publico (prioridade critica) → registro em diretorios → SEO → x402.*
