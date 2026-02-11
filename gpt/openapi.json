@@ -1,0 +1,195 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "PKP Catalog API",
+    "description": "API para consultar produtos brasileiros do PKP (Product Knowledge Protocol). Catalogo com 77.000+ produtos de varejistas como Samsung, LG, Kabum, Adidas, Centauro, etc.",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://pkp-studio.vercel.app"
+    }
+  ],
+  "paths": {
+    "/api/products": {
+      "get": {
+        "operationId": "searchProducts",
+        "summary": "Buscar produtos no catalogo PKP",
+        "description": "Busca produtos por nome, marca ou categoria. Retorna lista com SKU, nome, marca, categoria e preco.",
+        "parameters": [
+          {
+            "name": "search",
+            "in": "query",
+            "description": "Termo de busca (nome do produto, marca, ou palavra-chave)",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "category",
+            "in": "query",
+            "description": "Filtrar por categoria. Opcoes: notebooks, celulares/smartphones, tvs, tablets, audio, monitors, smartwatches, cameras, eletrodomesticos, moda, games, acessorios",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "enum": [
+                "notebooks",
+                "celulares/smartphones",
+                "tvs",
+                "tablets",
+                "audio",
+                "monitors",
+                "smartwatches",
+                "cameras",
+                "eletrodomesticos",
+                "moda",
+                "games",
+                "acessorios",
+                "informatica"
+              ]
+            }
+          },
+          {
+            "name": "brand",
+            "in": "query",
+            "description": "Filtrar por marca exata (ex: Samsung, Apple, LG, Adidas)",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "Numero maximo de resultados (padrao: 10, max: 50)",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "default": 10,
+              "minimum": 1,
+              "maximum": 50
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "Pular N resultados (para paginacao)",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "default": 0,
+              "minimum": 0
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Lista de produtos encontrados",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "products": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "sku": {
+                            "type": "string",
+                            "description": "Codigo unico do produto"
+                          },
+                          "name": {
+                            "type": "string",
+                            "description": "Nome do produto"
+                          },
+                          "brand": {
+                            "type": "string",
+                            "description": "Marca do produto"
+                          },
+                          "category": {
+                            "type": "string",
+                            "description": "Categoria do produto"
+                          },
+                          "price": {
+                            "type": "object",
+                            "properties": {
+                              "value": {
+                                "type": "number",
+                                "description": "Preco em reais"
+                              },
+                              "currency": {
+                                "type": "string",
+                                "description": "Moeda (BRL)"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "total": {
+                      "type": "integer",
+                      "description": "Total de produtos encontrados"
+                    },
+                    "limit": {
+                      "type": "integer",
+                      "description": "Limite usado na busca"
+                    },
+                    "offset": {
+                      "type": "integer",
+                      "description": "Offset usado na busca"
+                    },
+                    "hasMore": {
+                      "type": "boolean",
+                      "description": "Se existem mais resultados"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/products?statsOnly=true": {
+      "get": {
+        "operationId": "getCatalogStats",
+        "summary": "Obter estatisticas do catalogo",
+        "description": "Retorna estatisticas gerais: total de produtos, categorias disponiveis, marcas, etc.",
+        "responses": {
+          "200": {
+            "description": "Estatisticas do catalogo",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "total": {
+                      "type": "integer",
+                      "description": "Total de produtos no catalogo"
+                    },
+                    "categories": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      },
+                      "description": "Lista de categorias disponiveis"
+                    },
+                    "brands": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      },
+                      "description": "Lista de marcas disponiveis"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
