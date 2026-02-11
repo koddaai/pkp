@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "jz0607-tamanho-unico"
 gtin: "4068805210808"
 brand: "Adidas"
-name: "Bolsa Esportiva Média Training Defender Unisex adidas"
+name: "Mala Duffle Média Training Defender Unisex adidas"
 category: "outros"
 
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://adidas.com.br/jz0607-tamanho-unico"
 canonical:
   domain: "adidas.com.br"
-  url: "http://www.adidas.com.br/bolsa-esportiva-media-training-defender/JZ0607.html"
+  url: "http://www.adidas.com.br/mala-duffle-media-training-defender/JZ0607.html"
 
 # === DESCOBERTA (L0) ===
-summary: "BOLSA ESPORTIVA MÉDIA TRAINING DEFENDER - Preto, compre na adidas.com.br! BOLSA ESPORTIVA MÉDIA TRAINING DEFENDER - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Vá para a academia com confiança e estilo levando a bolsa esportiva média Training Defender. Projetada para quem exige desempenho e durabilidade, essa bolsa é sua companheira ideal de treino. A estrutura leve em ripstop oferece um acabamento resistente, enquanto a alça de ombro destacável oferece opç..."
+summary: "MALA DUFFLE MÉDIA TRAINING DEFENDER - Preto, compre na adidas.com.br! MALA DUFFLE MÉDIA TRAINING DEFENDER - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A mala duffel média Training Defender leva você à academia com confiança e estilo. Criada para quem exige desempenho e durabilidade, ela se torna a parceira ideal para treinos intensos e rotinas cheias de movimento. A estrutura leve em ripstop garante resistência, enquanto a alça de ombro destacável oferece ..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 349.99
   source: "retailer"
-  updated_at: "2026-02-10T19:40:23.111Z"
+  updated_at: "2026-02-11T17:45:24.559Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-10T19:40:23.111Z"
+    verified_at: "2026-02-11T17:45:24.559Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-10T19:40:23.111Z"
+    verified_at: "2026-02-11T17:45:24.559Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Adidas BR (feed_id: 95015)
-# Data de importacao: 2026-02-10
+# Data de importacao: 2026-02-11
 # aw_product_id: 43773771159
 ---
 
 ## Descricao
 
-BOLSA ESPORTIVA MÉDIA TRAINING DEFENDER - Preto, compre na adidas.com.br! BOLSA ESPORTIVA MÉDIA TRAINING DEFENDER - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Vá para a academia com confiança e estilo levando a bolsa esportiva média Training Defender. Projetada para quem exige desempenho e durabilidade, essa bolsa é sua companheira ideal de treino.  A estrutura leve em ripstop oferece um acabamento resistente, enquanto a alça de ombro destacável oferece opções versáteis de transporte para os dias em que você for direto para o treino.   O zíper bidirecional permite fácil acesso, enquanto o design acolchoado proporciona um ajuste confortável. Os orifícios de ventilação com corte à laser ajudam você a manter seus pertences bem ventilados e prontos para a ação.   Não importa se você está indo para a academia ou viajando, essa bolsa esportiva média foi feita para acompanhar seu estilo de vida ativo. Com a adidas, é mais do que apenas um acessório. É um estilo de vida.
+MALA DUFFLE MÉDIA TRAINING DEFENDER - Preto, compre na adidas.com.br! MALA DUFFLE MÉDIA TRAINING DEFENDER - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A mala duffel média Training Defender leva você à academia com confiança e estilo. Criada para quem exige desempenho e durabilidade, ela se torna a parceira ideal para treinos intensos e rotinas cheias de movimento.  A estrutura leve em ripstop garante resistência, enquanto a alça de ombro destacável oferece versatilidade para diferentes formas de transporte. O zíper bidirecional facilita o acesso, e o design acolchoado proporciona conforto. Os orifícios de ventilação cortados a laser ajudam a manter seu equipamento arejado e pronto para a ação.  Seja para academia ou viagens rápidas, essa mala duffel acompanha seu estilo de vida ativo. Com a adidas, ela vai além de um acessório, é um estilo de vida.  Essa mala foi projetada para treinos híbridos e desempenho versátil.
