@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 15111.14
   source: "retailer"
-  updated_at: "2026-02-12T20:34:11.351Z"
+  updated_at: "2026-02-13T06:54:18.692Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-12T20:34:11.351Z"
+    verified_at: "2026-02-13T06:54:18.692Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-12T20:34:11.351Z"
+    verified_at: "2026-02-13T06:54:18.692Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -56,7 +56,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Samsung Shop BR (feed_id: 89199)
-# Data de importacao: 2026-02-12
+# Data de importacao: 2026-02-13
 # aw_product_id: 37995025299
 ---
 
