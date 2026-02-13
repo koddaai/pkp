@@ -3,7 +3,7 @@
 **Projeto:** Product Knowledge Protocol (PKP)
 **Autor:** Pedro / Kodda.ai
 **Versao:** v0.3.2
-**Ultima Atualizacao:** 2026-02-11
+**Ultima Atualizacao:** 2026-02-13
 **GitHub:** https://github.com/koddaai/pkp
 **Landing:** https://pkp.kodda.ai
 **Docs:** https://pkp.kodda.ai/docs/
@@ -445,26 +445,33 @@ Precedencia (maior para menor):
 
 ## Catalogo Kodda
 
-Localizado em `examples/kodda-catalog/` com **77.326 produtos** importados via Awin.
+Localizado em `examples/kodda-catalog/` com **86.701 produtos** importados via Awin.
 
-**Varejistas no Catalogo:**
+**Varejistas no Catalogo (15):**
 | Varejista | Produtos |
 |-----------|----------|
-| Kabum BR | 5,928 |
 | Adidas BR | 26,346 |
 | Centauro BR | 24,353 |
-| Mizuno BR | 6,708 |
 | Cobasi BR | 8,256 |
+| Mizuno BR | 6,708 |
+| Kabum BR | 5,928 |
+| Nike BR | 4,799 |
 | LG BR | 2,582 |
 | Consul BR | 2,096 |
+| ASICS BR | 1,477 |
+| Lego BR | 706 |
 | Samsung BR | 691 |
 | Electrolux BR | 273 |
 | Stanley BR | 122 |
+| Emma BR | 53 |
+| Panasonic BR | 24 |
 
 **Categorias Principais:**
-- Moda/Esportes (Adidas, Centauro, Mizuno)
-- Eletronicos (Kabum, LG, Samsung)
+- Moda/Esportes (Adidas, Centauro, Mizuno, Nike, ASICS)
+- Eletronicos (Kabum, LG, Samsung, Panasonic)
 - Casa (Cobasi, Consul, Electrolux, Stanley)
+- Brinquedos (Lego)
+- Colchoes (Emma)
 
 **GitHub Action:** Atualiza catalogo diariamente via cron (`update-catalog.yml`)
 
@@ -1159,5 +1166,5 @@ manufacturer > retailer > aggregator > community
 
 ---
 
-*Ultima sessao: 2026-02-11*
-*Status: v0.3.2 - Rota ajustada apos feedback de LLMs. Prioridade: Custom GPT > Filtros API > MCP > SDK > LangChain. "LLMs nao descobrem endpoints, precisam de integracao explicita."*
+*Ultima sessao: 2026-02-13*
+*Status: v0.3.2 - Catalogo expandido para 86.7k produtos (15 varejistas). Adicionados: Nike BR, ASICS BR, Lego BR, Emma BR, Panasonic BR.*

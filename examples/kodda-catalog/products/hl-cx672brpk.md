@@ -14,9 +14,15 @@ identifiers:
   # ean: null
 
 # === URI CANONICO ===
+<<<<<<< HEAD
 uri: "pkp://panasonic.com/hl-cx672brpk"
 canonical:
   domain: "panasonic.com"
+=======
+uri: "pkp://panasonic.com.br/hl-cx672brpk"
+canonical:
+  domain: "panasonic.com.br"
+>>>>>>> f14d860036 (feat(catalog): add 5 new retailers (Emma, Panasonic, Lego, Nike, ASICS))
   url: "https://loja.panasonic.com.br/forno--eletrico-de-embutir-black-glass-hl-cx672brpk/p?idsku=397976"
 
 # === DESCOBERTA (L0) ===
@@ -29,7 +35,11 @@ price:
   currency: "BRL"
   value: 3999
   source: "retailer"
+<<<<<<< HEAD
   updated_at: "2026-02-13T12:45:01.982Z"
+=======
+  updated_at: "2026-02-13T18:50:09.631Z"
+>>>>>>> f14d860036 (feat(catalog): add 5 new retailers (Emma, Panasonic, Lego, Nike, ASICS))
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +53,19 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
+<<<<<<< HEAD
     verified_at: "2026-02-13T12:45:01.982Z"
   price:
     level: "medium"
     source: "retailer-feed"
     verified_at: "2026-02-13T12:45:01.982Z"
+=======
+    verified_at: "2026-02-13T18:50:09.631Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-13T18:50:09.631Z"
+>>>>>>> f14d860036 (feat(catalog): add 5 new retailers (Emma, Panasonic, Lego, Nike, ASICS))
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
