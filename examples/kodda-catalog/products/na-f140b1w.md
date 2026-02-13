@@ -14,15 +14,9 @@ identifiers:
   # ean: null
 
 # === URI CANONICO ===
-<<<<<<< HEAD
 uri: "pkp://panasonic.com/na-f140b1w"
 canonical:
   domain: "panasonic.com"
-=======
-uri: "pkp://panasonic.com.br/na-f140b1w"
-canonical:
-  domain: "panasonic.com.br"
->>>>>>> f14d860036 (feat(catalog): add 5 new retailers (Emma, Panasonic, Lego, Nike, ASICS))
   url: "https://loja.panasonic.com.br/maquina-de-lavar-panasonic-funcao-vanish-branco-mais-branco-14kg-branca-na-f140b1w/p?idsku=45141"
 
 # === DESCOBERTA (L0) ===
@@ -35,11 +29,7 @@ price:
   currency: "BRL"
   value: 1799
   source: "retailer"
-<<<<<<< HEAD
-  updated_at: "2026-02-13T12:45:01.982Z"
-=======
-  updated_at: "2026-02-13T18:50:09.633Z"
->>>>>>> f14d860036 (feat(catalog): add 5 new retailers (Emma, Panasonic, Lego, Nike, ASICS))
+  updated_at: "2026-02-13T20:37:56.111Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -53,19 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-<<<<<<< HEAD
-    verified_at: "2026-02-13T12:45:01.982Z"
+    verified_at: "2026-02-13T20:37:56.111Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-13T12:45:01.982Z"
-=======
-    verified_at: "2026-02-13T18:50:09.633Z"
-  price:
-    level: "medium"
-    source: "retailer-feed"
-    verified_at: "2026-02-13T18:50:09.633Z"
->>>>>>> f14d860036 (feat(catalog): add 5 new retailers (Emma, Panasonic, Lego, Nike, ASICS))
+    verified_at: "2026-02-13T20:37:56.111Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
