@@ -27,9 +27,9 @@ tags: ["panasonic", "ai", "pro"]
 price:
   type: "street"
   currency: "BRL"
-  value: 549
+  value: 579
   source: "retailer"
-  updated_at: "2026-02-23T06:58:53.125Z"
+  updated_at: "2026-02-23T12:52:17.038Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-23T06:58:53.125Z"
+    verified_at: "2026-02-23T12:52:17.038Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-23T06:58:53.125Z"
+    verified_at: "2026-02-23T12:52:17.038Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
