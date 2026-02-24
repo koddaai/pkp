@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-cd89nbru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/microondas-airfryer-nn-cd89nbrun/p?idsku=397982"
+  url: "https://loja.panasonic.com.br/microondas-airfryer-nn-cd89nbrun/p?idsku=397979"
 
 # === DESCOBERTA (L0) ===
 summary: "Mais receitas com a função Convecção, alimentos crocantes e sequinhos com a função Air Fryer e versatilidade com as funções Grill e Combinado. Retire o utensílio do jeito que colocou com Pega Fácil, design em preto fosco e amplo display.Função Air Fryer que frita sem óleoAlimentos sequinhos e crocantes fritos no micro-ondas sem usar óleo. E você ainda pode selecionar o tempo e a temperatura ou escolher uma das 11 receitas pré-programadas.Mais receitas com a função ConvecçãoA ventilação na par..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1699
   source: "retailer"
-  updated_at: "2026-02-24T06:54:48.187Z"
+  updated_at: "2026-02-24T12:53:57.420Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-24T06:54:48.187Z"
+    verified_at: "2026-02-24T12:53:57.420Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-24T06:54:48.187Z"
+    verified_at: "2026-02-24T12:53:57.420Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

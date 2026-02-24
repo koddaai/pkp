@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-st65lwru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/microondas-panasonic-900w-branco--st65lwru/p?idsku=45062"
+  url: "https://loja.panasonic.com.br/microondas-panasonic-900w-branco--st65lwru/p?idsku=45061"
 
 # === DESCOBERTA (L0) ===
 summary: "O Micro-ondas ST65L tem design sofisticado e 34 litros de capacidade, tecnologia Antibacteria Ag, tecnologia Pega Fácil, revestimento antiaderente para facilitar a limpeza, função Dupla Refeição e eficiência energética A.Dupla RefeiçãoA função pode ser ativada para aquecer 300g, 500g e 700g (peso total das duas porções) em pratos diferentes. Basta colocar uma refeição no prato giratório e outra na grelha.Retire o utensílio do jeito que colocou com Pega Fácil1Assim que o aquecimento termina, o..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 749
   source: "retailer"
-  updated_at: "2026-02-24T06:54:48.188Z"
+  updated_at: "2026-02-24T12:53:57.421Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-24T06:54:48.188Z"
+    verified_at: "2026-02-24T12:53:57.421Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-24T06:54:48.188Z"
+    verified_at: "2026-02-24T12:53:57.421Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
