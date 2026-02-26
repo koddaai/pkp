@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "jn7495-tamanho-unico"
+gtin: "4067905949267"
+brand: "Adidas"
+name: "Bolsa Adicolor Pequena Unisex adidas"
+category: "outros"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "JN7495_TAMANHO ÚNICO"
+  ean: "4067905949267"
+
+# === URI CANONICO ===
+uri: "pkp://adidas.com.br/jn7495-tamanho-unico"
+canonical:
+  domain: "adidas.com.br"
+  url: "http://www.adidas.com.br/bolsa-adicolor-pequena/JN7495.html"
+
+# === DESCOBERTA (L0) ===
+summary: "Bolsa Adicolor pequena - Cinza, compre na adidas.com.br! Bolsa Adicolor pequena - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. Quando a aventura bater à porta, essa bolsa Adicolor adidas arrojada está pronta para o desafio. A estrutura em sarja e malha elástica resiste a tudo, e a alça de ombro ajustável permite carregá-la como quiser. Os bolsos com zíper guardam seus itens essenciais para você se concentrar em aproveitar o momento. Produto feito com pelo me..."
+tags: ["adidas", "ai", "pro"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 79.99
+  source: "retailer"
+  updated_at: "2026-02-26T12:54:02.246Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "Adidas BR"
+    url: "https://www.awin1.com/pclick.php?p=44071882647&a=2753646&m=79926"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-26T12:54:02.246Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-02-26T12:54:02.246Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin Adidas BR (feed_id: 95015)
+# Data de importacao: 2026-02-26
+# aw_product_id: 44071882647
+---
+
+## Descricao
+
+Bolsa Adicolor pequena - Cinza, compre na adidas.com.br! Bolsa Adicolor pequena - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. Quando a aventura bater à porta, essa bolsa Adicolor adidas arrojada está pronta para o desafio. A estrutura em sarja e malha elástica resiste a tudo, e a alça de ombro ajustável permite carregá-la como quiser. Os bolsos com zíper guardam seus itens essenciais para você se concentrar em aproveitar o momento.  Produto feito com pelo menos 50% de materiais reciclados. Ao reutilizar materiais que já foram criados, ajudamos a reduzir os resíduos, a nossa dependência em recursos não renováveis, bem como a pegada dos produtos que fabricamos.
