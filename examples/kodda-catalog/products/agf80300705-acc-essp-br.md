@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf80300705-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de água para geladeira LT1000P (6 meses) - AGF80300705"
+name: "Filtro de água para geladeira LG LT1000P - AGF80300705"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/agf80300705-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/refrigerators/water-filter-filter/agf80300705/"
+  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/agf80300705/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AGF80300705. Clique para ver fotos, avaliações e especificações técnicas do filtro de água para geladeira LG LT1000P (6 meses)."
+summary: "Obtenha mais informações sobre o AGF80300705. Clique para ver fotos, avaliações e especificações técnicas do filtro de água para geladeira LG LT1000P."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-02-27T20:27:55.857Z"
+  updated_at: "2026-02-28T06:31:51.351Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-27T20:27:55.857Z"
+    verified_at: "2026-02-28T06:31:51.351Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-27T20:27:55.857Z"
+    verified_at: "2026-02-28T06:31:51.351Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-02-27
+# Data de importacao: 2026-02-28
 # aw_product_id: 43478675508
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre o AGF80300705. Clique para ver fotos, avaliações e especificações técnicas do filtro de água para geladeira LG LT1000P (6 meses).
+Obtenha mais informações sobre o AGF80300705. Clique para ver fotos, avaliações e especificações técnicas do filtro de água para geladeira LG LT1000P.
