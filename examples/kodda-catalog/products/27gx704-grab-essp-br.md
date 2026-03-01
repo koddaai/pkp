@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "27gx704-grab-essp-br"
+# gtin: null
+brand: "LG"
+name: "Combo Monitor LG OLED UltraGear™ 27GX704A-B 27\" + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA - 27GX704.GRAB"
+category: "monitors"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "27GX704.GRAB.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/27gx704-grab-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/promocoes/combos/27gx704-grab/"
+
+# === DESCOBERTA (L0) ===
+summary: "Get more information on the LG 27GX704.GRAB. Click for pictures, reviews, and tech specs for the LG Combo Monitor LG OLED UltraGear™ 27GX704A-B 27\" + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA."
+tags: ["lg", "bluetooth", "ai", "oled", "ultra"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 4244.75
+  source: "retailer"
+  updated_at: "2026-03-01T06:40:03.943Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=44092855071&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-03-01T06:40:03.943Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-03-01T06:40:03.943Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  screen_size: 27
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-03-01
+# aw_product_id: 44092855071
+---
+
+## Descricao
+
+Get more information on the LG 27GX704.GRAB. Click for pictures, reviews, and tech specs for the LG Combo Monitor LG OLED UltraGear™ 27GX704A-B 27" + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA.
