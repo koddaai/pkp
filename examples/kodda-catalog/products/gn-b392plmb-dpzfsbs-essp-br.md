@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/gn-b392plmb-dpzfsbs-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/geladeiras/geladeiras-duplex/gn-b392plmb-1/"
+  url: "https://www.lg.com/br/geladeiras/geladeiras-duplex/gn-b392plmb/"
 
 # === DESCOBERTA (L0) ===
 summary: "Descubra a eficiência da Geladeira Inox LG Top Freezer 395 litros 110V GN-B392PLMB com Compressor Smart Inverter. A escolha ideal para frescor prolongado!"
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "inverter", "pro"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3134.05
+  value: 3324.05
   source: "retailer"
-  updated_at: "2026-03-02T20:37:53.418Z"
+  updated_at: "2026-03-03T06:43:56.022Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-02T20:37:53.418Z"
+    verified_at: "2026-03-03T06:43:56.022Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-02T20:37:53.418Z"
+    verified_at: "2026-03-03T06:43:56.022Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -56,7 +56,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-03-02
+# Data de importacao: 2026-03-03
 # aw_product_id: 44092855074
 ---
 
