@@ -27,9 +27,9 @@ tags: ["lg", "bluetooth", "smart", "ai", "4k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2424.45
+  value: 2576.75
   source: "retailer"
-  updated_at: "2026-03-06T20:31:12.585Z"
+  updated_at: "2026-03-07T06:33:42.933Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-06T20:31:12.585Z"
+    verified_at: "2026-03-07T06:33:42.933Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-06T20:31:12.585Z"
+    verified_at: "2026-03-07T06:33:42.933Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-03-06
+# Data de importacao: 2026-03-07
 # aw_product_id: 43716775446
 ---
 
