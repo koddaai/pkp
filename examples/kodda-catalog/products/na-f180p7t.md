@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/na-f180p7t"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/maquina-de-lavar-panasonic-18kg-titanio-na-f180p7t/p?idsku=397996"
+  url: "https://loja.panasonic.com.br/maquina-de-lavar-panasonic-18kg-titanio-na-f180p7t/p?idsku=397995"
 
 # === DESCOBERTA (L0) ===
 summary: "A Máquina de Lavar 18kg na cor titânio tem a melhor lavagem e o menor consumo de água da categoria segundo o Inmetro.Possui Sistema Ciclone de lavagem sem agitador que não danifica as roupas; Smartsense, que pesa as roupas e escolhe a quantidade ideal de água; Antibacteria Ag que elimina 99,99% da proliferação de bactérias; programa exclusivo de lavagem Vanish, que melhora o desempenho da lavagem em 20%; alta capacidade para lavar até 18kg de roupa de uma vez. Além disso, possui cesto em inox..."
@@ -27,9 +27,9 @@ tags: ["panasonic", "smart", "ai", "8k", "pro"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2499
+  value: 3099
   source: "retailer"
-  updated_at: "2026-02-13T06:54:23.919Z"
+  updated_at: "2026-03-09T12:49:50.901Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-13T06:54:23.919Z"
+    verified_at: "2026-03-09T12:49:50.901Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-13T06:54:23.919Z"
+    verified_at: "2026-03-09T12:49:50.901Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-02-13
+# Data de importacao: 2026-03-09
 # aw_product_id: 38931326597
 ---
 

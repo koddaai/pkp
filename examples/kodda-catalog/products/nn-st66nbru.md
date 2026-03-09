@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-st66nbru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/forno-de-microondas-panasonic-34l-black-glass-nn-st66nbru/p?idsku=397977"
+  url: "https://loja.panasonic.com.br/forno-de-microondas-panasonic-34l-black-glass-nn-st66nbru/p?idsku=397978"
 
 # === DESCOBERTA (L0) ===
 summary: "O Micro-ondas ST66N tem 34 litros de capacidade, tecnologia Antibacteria Ag, revestimento antiaderente para facilitar a limpeza, tecnologia Pega Fácil, design sofisticado em Black Glass, função Dupla Refeição e eficiência energética A.Dupla RefeiçãoA função pode ser ativada para aquecer 300g, 500g e 700g (peso total das duas porções) em pratos diferentes. Basta colocar uma refeição no prato giratório e outra na grelha.Retire o utensílio do jeito que colocou com Pega Fácil (1)Assim que o aquec..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 769
   source: "retailer"
-  updated_at: "2026-03-08T20:26:03.425Z"
+  updated_at: "2026-03-09T12:49:50.903Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-08T20:26:03.425Z"
+    verified_at: "2026-03-09T12:49:50.903Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-08T20:26:03.425Z"
+    verified_at: "2026-03-09T12:49:50.903Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-03-08
+# Data de importacao: 2026-03-09
 # aw_product_id: 38931326590
 ---
 
