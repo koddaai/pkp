@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "in2869-tamanho-unico"
+gtin: "4067886391130"
+brand: "Adidas"
+name: "Bolsa Térmica Unisex adidas"
+category: "outros"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "IN2869_TAMANHO ÚNICO"
+  ean: "4067886391130"
+
+# === URI CANONICO ===
+uri: "pkp://adidas.com.br/in2869-tamanho-unico"
+canonical:
+  domain: "adidas.com.br"
+  url: "http://www.adidas.com.br/bolsa-termica/IN2869.html"
+
+# === DESCOBERTA (L0) ===
+summary: "Bolsa térmica - Preto, compre na adidas.com.br! Bolsa térmica - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Com esta bolsa térmica da adidas, você está totalmente equipado para uma tarde na academia ou na praia. Tem o tamanho perfeito para guardar lanches e bebidas, e seu design térmico os mantém refrescante até que você precise deles. Uma alça de transporte ajustável facilita o transporte do que o dia exigir. Este produto é fabricado com pelo menos 50% de ..."
+tags: ["adidas", "ai", "pro"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 179.99
+  source: "retailer"
+  updated_at: "2026-03-11T12:45:55.732Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "Adidas BR"
+    url: "https://www.awin1.com/pclick.php?p=44187593992&a=2753646&m=79926"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-03-11T12:45:55.732Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-03-11T12:45:55.732Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin Adidas BR (feed_id: 95015)
+# Data de importacao: 2026-03-11
+# aw_product_id: 44187593992
+---
+
+## Descricao
+
+Bolsa térmica - Preto, compre na adidas.com.br! Bolsa térmica - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Com esta bolsa térmica da adidas, você está totalmente equipado para uma tarde na academia ou na praia. Tem o tamanho perfeito para guardar lanches e bebidas, e seu design térmico os mantém refrescante até que você precise deles. Uma alça de transporte ajustável facilita o transporte do que o dia exigir.   Este produto é fabricado com pelo menos 50% de materiais reciclados. Ao reutilizar materiais que já foram criados, ajudamos a reduzir os resíduos, a nossa dependência em recursos não renováveis, bem como a pegada dos produtos que fabricamos.
