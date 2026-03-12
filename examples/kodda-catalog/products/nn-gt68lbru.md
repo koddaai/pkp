@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "nn-gt68lbru"
 # gtin: null
 brand: "Panasonic"
-name: "Microondas Panasonic Com SmartSense e Dupla Refeição 30L Preto - NN-GT68LBRU"
+name: "Micro-ondas Intuitive+ Panasonic GT68 com SmartSense e Grill 30L Black Glass - NN-GT68LBRU"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-gt68lbru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/microondas-panasonic-30l-900w-preto-gt68lbru/p?idsku=45065"
+  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-gt68-black-glass-nn-gt68lbru/p?idsku=45065"
 
 # === DESCOBERTA (L0) ===
 summary: "Cozimento perfeitoO GT68 permite um cozimento inteligente para cada tipo de alimento com a nova função Smartsense¹ , que determina o ponto certo para cada receita pré-programada por conta do sensor de vapor. São elas: arroz, batata, vegetais frescos, vegetais congelados, pizza congelada e carne.¹Restrita às 6 receitas pré-selecionadas para a função Smartsense listadas no manual.Dupla RefeiçãoSabe quando você vai almoçar com alguém e precisa esperar um prato ficar pronto para esquentar o outro..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1099
   source: "retailer"
-  updated_at: "2026-03-11T20:33:45.402Z"
+  updated_at: "2026-03-12T06:47:22.130Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-11T20:33:45.402Z"
+    verified_at: "2026-03-12T06:47:22.130Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-11T20:33:45.402Z"
+    verified_at: "2026-03-12T06:47:22.130Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-03-11
+# Data de importacao: 2026-03-12
 # aw_product_id: 38931326586
 ---
 

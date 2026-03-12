@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "nn-st55lmru"
 # gtin: null
 brand: "Panasonic"
-name: "Microondas Panasonic Dupla Refeição 27L Prata - NN-ST55LMRU"
+name: "Micro-ondas Ideal+ Panasonic ST55 Dupla Refeição 27 L Espelhado - NN-ST55LMRU"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-st55lmru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/microondas-panasonic-27l-800w-prata-st55msru/p?idsku=45059"
+  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st55-espelhado-nn-st55lmru/p?idsku=45059"
 
 # === DESCOBERTA (L0) ===
 summary: "Micro-ondas ST55L tem design sofisticado e 27 litros de capacidade, tecnologia Antibacteria Ag, tecnologia Pega Fácil, revestimento antiaderente para facilitar a limpeza, desodorizador, função Dupla Refeição e eficiência energética A.Dupla RefeiçãoA função pode ser ativada para aquecer 300g, 500g e 700g (peso total das duas porções) em pratos diferentes. Basta colocar uma refeição no prato giratório e outra na grelha.Retire o utensílio do jeito que colocou com Pega FácilAssim que o aqueciment..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 649
   source: "retailer"
-  updated_at: "2026-03-11T20:33:45.403Z"
+  updated_at: "2026-03-12T06:47:22.131Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-11T20:33:45.403Z"
+    verified_at: "2026-03-12T06:47:22.131Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-11T20:33:45.403Z"
+    verified_at: "2026-03-12T06:47:22.131Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-03-11
+# Data de importacao: 2026-03-12
 # aw_product_id: 38931326583
 ---
 

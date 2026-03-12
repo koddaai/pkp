@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "nn-st25lwru"
 # gtin: null
 brand: "Panasonic"
-name: "Microondas Panasonic Tecnologia Antibactéria AG 21L Branco - NN-ST25LWRU"
+name: "Micro-ondas Ideal+ Panasonic ST25 Tecnologia Antibactéria 21L Branco - NN-ST25LWRU"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-st25lwru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/microondas-panasonic-st25l-branco/p?idsku=45054"
+  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st25-branco-nn-st25lwru/p?idsku=45054"
 
 # === DESCOBERTA (L0) ===
 summary: "O Micro-ondas ST25L tem 21 litros de capacidade, tecnologia Antibacteria Ag, tecnologia Pega Fácil, revestimento antiaderente para facilitar a limpeza, design sofisticado, desodorizador e eficiência energética A.Dupla RefeiçãoA função pode ser ativada para aquecer 300g, 500g e 700g (peso total das duas porções) em pratos diferentes. Basta colocar uma refeição no prato giratório e outra na grelha.Retire o utensílio do jeito que colocou com Pega Fácil1Assim que o aquecimento termina, o prato fa..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 499
   source: "retailer"
-  updated_at: "2026-03-11T20:33:45.403Z"
+  updated_at: "2026-03-12T06:47:22.130Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-11T20:33:45.403Z"
+    verified_at: "2026-03-12T06:47:22.130Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-11T20:33:45.403Z"
+    verified_at: "2026-03-12T06:47:22.130Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-03-11
+# Data de importacao: 2026-03-12
 # aw_product_id: 38931326581
 ---
 

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "nn-cd89nbru"
 # gtin: null
 brand: "Panasonic"
-name: "Forno Microondas 4 em 1 Panasonic 30l Preto - NN-CD89NBRU"
+name: "Micro-ondas Intuitive+ Panasonic CD89 4 em 1 Airfryer 30L Black Glass - NN-CD89NBRU"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-cd89nbru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/microondas-airfryer-nn-cd89nbrun/p?idsku=397979"
+  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-cd89-black-glass-nn-cd89nbru/p?idsku=397979"
 
 # === DESCOBERTA (L0) ===
 summary: "Mais receitas com a função Convecção, alimentos crocantes e sequinhos com a função Air Fryer e versatilidade com as funções Grill e Combinado. Retire o utensílio do jeito que colocou com Pega Fácil, design em preto fosco e amplo display.Função Air Fryer que frita sem óleoAlimentos sequinhos e crocantes fritos no micro-ondas sem usar óleo. E você ainda pode selecionar o tempo e a temperatura ou escolher uma das 11 receitas pré-programadas.Mais receitas com a função ConvecçãoA ventilação na par..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1599
   source: "retailer"
-  updated_at: "2026-03-11T20:33:45.402Z"
+  updated_at: "2026-03-12T06:47:22.130Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-11T20:33:45.402Z"
+    verified_at: "2026-03-12T06:47:22.130Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-11T20:33:45.402Z"
+    verified_at: "2026-03-12T06:47:22.130Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-03-11
+# Data de importacao: 2026-03-12
 # aw_product_id: 38931326591
 ---
 
