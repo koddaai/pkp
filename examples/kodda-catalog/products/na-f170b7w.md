@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "na-f170b7w"
 # gtin: null
 brand: "Panasonic"
-name: "Máquina de lavar Ideal+ Panasonic 17kg Lavagem Eficiente SmartSense Branca - NA-F170B7W"
+name: "Máquina De Lavar Panasonic Lavagem Inteligente 17kg Branca - NA-F170B7W"
 category: "outros"
 
 
@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://panasonic.com/na-f170b7w"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/maquina-de-lavar-panasonic-17kg-branca-na-f170b7w/p?idsku=397993"
+  url: "https://loja.panasonic.com.br/maquina-de-lavar-panasonic-17kg-titanio-na-f170b7w/p?idsku=397993"
 
 # === DESCOBERTA (L0) ===
 summary: "Tenha mais economia e praticidade na lavanderia com a Máquina De Lavar Panasonic Lavagem Inteligente 17kg Branca - NA-F170B7W. Confira na loja online!"
-tags: ["panasonic", "smart", "ai"]
+tags: ["panasonic", "ai"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2499
   source: "retailer"
-  updated_at: "2026-03-13T06:44:53.245Z"
+  updated_at: "2026-03-13T12:44:16.824Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-13T06:44:53.245Z"
+    verified_at: "2026-03-13T12:44:16.824Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-13T06:44:53.245Z"
+    verified_at: "2026-03-13T12:44:16.824Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
