@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ky-w648clrpk"
 # gtin: null
 brand: "Panasonic"
-name: "Cooktop de Indução Panasonic 4 Zonas Painel Touch Preto - KY-W648CLRPK - 220v"
+name: "Cooktop de indução Intuitive+ Panasonic 4 zonas Painel Touch Black Glass - KY-W648CLRPK - 220v"
 category: "eletrodomesticos"
 subcategory: "cooktop"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/ky-w648clrpk"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/cooktop-de-inducao-ky-w648clrpk/p?idsku=38394"
+  url: "https://loja.panasonic.com.br/cooktop-de-inducao-panasonic-black-glass-ky-w648clrpk/p?idsku=38394"
 
 # === DESCOBERTA (L0) ===
 summary: "Inaugure uma nova era na sua cozinha! O aquecimento por indução, o painel Touch, a superfície de fácil limpeza e o acabamento em Black Glass do Cooktop de Indução Painel Touch Preto vão fazer toda a diferença no seu dia a dia.Design sofisticado e harmoniosoAlém de ter um acabamento em vidro, ele pode ser instalado de forma que fique completamente embutido no nicho, alinhando-se perfeitamente à bancada.Calor por induçãoCozinhar com indução é rápido e preciso e garante um aquecimento ágil. Além..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2699
   source: "retailer"
-  updated_at: "2026-03-12T20:35:08.705Z"
+  updated_at: "2026-03-13T06:44:53.244Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-12T20:35:08.705Z"
+    verified_at: "2026-03-13T06:44:53.244Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-12T20:35:08.705Z"
+    verified_at: "2026-03-13T06:44:53.244Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-03-12
+# Data de importacao: 2026-03-13
 # aw_product_id: 38931326575
 ---
 

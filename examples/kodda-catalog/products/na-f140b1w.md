@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "na-f140b1w"
 # gtin: null
 brand: "Panasonic"
-name: "Máquina de Lavar Panasonic função Vanish Branco mais Branco 14kg Branca - NA-F140B1W"
+name: "Máquina de lavar Ideal+ Panasonic 14Kg Lavagem Eficiente SmartSense Função Vanish Branca - NA-F140B1W"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/na-f140b1w"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/maquina-de-lavar-panasonic-funcao-vanish-branco-mais-branco-14kg-branca-na-f140b1w/p?idsku=45141"
+  url: "https://loja.panasonic.com.br/maquina-de-lavar-panasonic-14kg-branca-na-f140b1w/p?idsku=45141"
 
 # === DESCOBERTA (L0) ===
 summary: "A Máquina de Lavar 14kg branca tem a melhor lavagem da categoria segundo o Inmetro.Possui Sistema Ciclone de lavagem sem agitador que não danifica as roupas; Smartsense, que pesa as roupas e escolhe a quantidade ideal de água; Antibacteria Ag que elimina 99,99% da proliferação de bactérias; programa exclusivo de lavagem Vanish, que melhora o desempenho da lavagem em 20%; alta capacidade para lavar até 17kg de roupa de uma vez. Além disso, possui cesto em inox, filtro de fiapos, 8 programas de..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1799
   source: "retailer"
-  updated_at: "2026-03-12T20:35:08.705Z"
+  updated_at: "2026-03-13T06:44:53.244Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-12T20:35:08.705Z"
+    verified_at: "2026-03-13T06:44:53.244Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-12T20:35:08.705Z"
+    verified_at: "2026-03-13T06:44:53.244Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-03-12
+# Data de importacao: 2026-03-13
 # aw_product_id: 38931326588
 ---
 

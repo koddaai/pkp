@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "hl-cx668srpk"
 # gtin: null
 brand: "Panasonic"
-name: "Forno Elétrico de Embutir Panasonic Multifunções 80L Inox - HL-CX668SRPK - 220v"
+name: "Forno elétrico de embutir Intuitive+ Panasonic Multifunções com Grill e Convecção 80L Inox - HL-CX668SRPK - 220v"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/hl-cx668srpk"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/forno-eletrico-de-embutir-hl-cx668srpk/p?idsku=38390"
+  url: "https://loja.panasonic.com.br/forno-eletrico-de-embutir-panasonic-inox-hl-cx668srpk/p?idsku=38390"
 
 # === DESCOBERTA (L0) ===
 summary: "Com design integrado, alta capacidade, limpeza rápida, 9 funções para suas receitas e cozimento com ventilador, o Forno Elétrico de Embutir Inox é o seu grande aliado para arrasar no sabor das receitas.Design integrado em InoxDeixe sua cozinha com um visual harmonioso. O design do forno elétrico combina com os outros produtos Panasonic, como a geladeira, lava-louças, cooktop, coifa e micro-ondas.Capacidade de 80lVocê pode cozinhar grandes porções simultaneamente, porque ele conta com duas alt..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3689
   source: "retailer"
-  updated_at: "2026-03-12T20:35:08.704Z"
+  updated_at: "2026-03-13T06:44:53.243Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-12T20:35:08.704Z"
+    verified_at: "2026-03-13T06:44:53.243Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-12T20:35:08.704Z"
+    verified_at: "2026-03-13T06:44:53.243Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-03-12
+# Data de importacao: 2026-03-13
 # aw_product_id: 42808994393
 ---
 

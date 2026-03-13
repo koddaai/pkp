@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "np-6m2ftkbrp"
 # gtin: null
 brand: "Panasonic"
-name: "Lava-Louças de Embutir Panasonic 15 serviços e Função ECO Inox - NP-6M2FTKBRP - 220v"
+name: "Lava-louças de embutir Intuitive+ Panasonic 15 serviços e Função ECO Inox - NP-6M2FTKBRP - 220v"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/np-6m2ftkbrp"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/lava-loucas-de-embutir-np-6m2ftkbrp/p?idsku=38398"
+  url: "https://loja.panasonic.com.br/lava-loucas-de-embutir-panasonic-inox-np-6m2ftkbrp/p?idsku=38398"
 
 # === DESCOBERTA (L0) ===
 summary: "Garanta seu sossego na hora de lavar a louça. Além de oferecer mais espaço para pratos, copos, panelas e talheres, a Lava-Louças 15 Serviços faz a pré-lavagem para você e oferece oito ciclos de lavagem.Aproveite a praticidade de 15 serviçosLave panelas, tigelas, xícaras, copos e talheres para até 15 pessoas de uma só vez, em menos tempo..Sustentabilidade no dia a diaPoupe água com a função ECO. Com apenas 10 L por lavagem, essa função permite uma economia de cerca de 35% em comparação ao cicl..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5999
   source: "retailer"
-  updated_at: "2026-03-12T20:35:08.707Z"
+  updated_at: "2026-03-13T06:44:53.247Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-12T20:35:08.707Z"
+    verified_at: "2026-03-13T06:44:53.247Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-12T20:35:08.707Z"
+    verified_at: "2026-03-13T06:44:53.247Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-03-12
+# Data de importacao: 2026-03-13
 # aw_product_id: 38931326577
 ---
 
