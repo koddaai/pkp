@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agf80300705-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/agf80300705/"
+  url: "https://www.lg.com/br/care-accessories/refrigerators/water-filter-filter/agf80300705/"
 
 # === DESCOBERTA (L0) ===
 summary: "Obtenha mais informações sobre o AGF80300705. Clique para ver fotos, avaliações e especificações técnicas do filtro de água para geladeira LG LT1000P."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-03-13T20:34:35.716Z"
+  updated_at: "2026-03-14T06:40:07.917Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-13T20:34:35.716Z"
+    verified_at: "2026-03-14T06:40:07.917Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-13T20:34:35.716Z"
+    verified_at: "2026-03-14T06:40:07.917Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-03-13
+# Data de importacao: 2026-03-14
 # aw_product_id: 43478675508
 ---
 
