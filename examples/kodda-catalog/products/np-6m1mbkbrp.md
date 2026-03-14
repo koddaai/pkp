@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "np-6m1mbkbrp"
 # gtin: null
 brand: "Panasonic"
-name: "Lava-Louças Panasonic 15 serviços e Design Premium Preta - NP-6M1MBKBRP - 220v"
+name: "Lava-louças Intuitive+ Panasonic 15 serviços e Função ECO Black Glass - NP-6M1MBKBRP - 220v"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://panasonic.com/np-6m1mbkbrp"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/lava-loucas-np-6m1mbkbrp/p?idsku=38396"
+  url: "https://loja.panasonic.com.br/lava-loucas-panasonic-black-glass-np-6m1mbkbrp/p?idsku=38396"
 
 # === DESCOBERTA (L0) ===
 summary: "Até 15 serviços, possui um terceiro cesto e porta talheres para manter a louça bem organizada, realiza a pré-lavagem para você e, além disso, conta com acabamento em Black Glass, que traz sofisticação para a sua cozinha.Aproveite a praticidade de 15 serviçosLave panelas, tigelas, xícaras, copos e talheres para até 15 pessoas de uma só vez, em menos tempo..Sustentabilidade no dia a diaPoupe água com a função ECO. Com apenas 10 L por lavagem, essa função permite uma economia de cerca de 35% em ..."
-tags: ["panasonic", "ai", "premium", "pro"]
+tags: ["panasonic", "ai", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5999
   source: "retailer"
-  updated_at: "2026-03-14T06:39:47.348Z"
+  updated_at: "2026-03-14T12:37:58.606Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-14T06:39:47.348Z"
+    verified_at: "2026-03-14T12:37:58.606Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-14T06:39:47.348Z"
+    verified_at: "2026-03-14T12:37:58.606Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
