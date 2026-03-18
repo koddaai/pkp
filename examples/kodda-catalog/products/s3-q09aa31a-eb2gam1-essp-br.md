@@ -27,9 +27,9 @@ tags: ["lg", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2339.1
+  value: 2391.08
   source: "retailer"
-  updated_at: "2026-03-17T20:39:04.848Z"
+  updated_at: "2026-03-18T06:56:42.232Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-17T20:39:04.848Z"
+    verified_at: "2026-03-18T06:56:42.232Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-17T20:39:04.848Z"
+    verified_at: "2026-03-18T06:56:42.232Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-03-17
+# Data de importacao: 2026-03-18
 # aw_product_id: 43478677148
 ---
 
