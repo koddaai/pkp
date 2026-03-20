@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "kd7851-tamanho-unico"
 gtin: "4068817018782"
 brand: "Adidas"
-name: "Bolsa Adicolor Elongated Airliner Unisex adidas"
+name: "Bolsa Airliner Adicolor Alongada Unisex adidas"
 category: "outros"
 
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://adidas.com.br/kd7851-tamanho-unico"
 canonical:
   domain: "adidas.com.br"
-  url: "http://www.adidas.com.br/bolsa-adicolor-elongated-airliner/KD7851.html"
+  url: "http://www.adidas.com.br/bolsa-airliner-adicolor-alongada/KD7851.html"
 
 # === DESCOBERTA (L0) ===
-summary: "Bolsa ADICOLOR ELONGATED AIRLINER - Preto, compre na adidas.com.br! Bolsa ADICOLOR ELONGATED AIRLINER - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A bolsa Adicolor Elongated Airliner é o seu acessório de moda para o dia a dia, combinando estilo e praticidade. Com seu design elegante e recursos funcionais, essa bolsa é um item obrigatório para aqueles que abraçam o espírito Originals. Confeccionada em PU com acabamento granulado e texturizado, esta bolsa fo..."
+summary: "Bolsa Airliner Adicolor Alongada - Preto, compre na adidas.com.br! Bolsa Airliner Adicolor Alongada - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A Bolsa Airliner Adicolor Alongada é o seu acessório de moda preferido para o dia a dia, combinando estilo e praticidade. Com seu design elegante e recursos funcionais, esta bolsa é um item obrigatório para aqueles que abraçam o espírito Originals. Confeccionada em PU com acabamento granulado e texturizado, esta b..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 249.99
   source: "retailer"
-  updated_at: "2026-02-28T06:32:11.291Z"
+  updated_at: "2026-03-20T12:45:41.045Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-28T06:32:11.291Z"
+    verified_at: "2026-03-20T12:45:41.045Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-28T06:32:11.291Z"
+    verified_at: "2026-03-20T12:45:41.045Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Adidas BR (feed_id: 95015)
-# Data de importacao: 2026-02-28
+# Data de importacao: 2026-03-20
 # aw_product_id: 43342669704
 ---
 
 ## Descricao
 
-Bolsa ADICOLOR ELONGATED AIRLINER - Preto, compre na adidas.com.br! Bolsa ADICOLOR ELONGATED AIRLINER - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A bolsa Adicolor Elongated Airliner é o seu acessório de moda para o dia a dia, combinando estilo e praticidade. Com seu design elegante e recursos funcionais, essa bolsa é um item obrigatório para aqueles que abraçam o espírito Originals.  Confeccionada em PU com acabamento granulado e texturizado, esta bolsa foi projetada para se destacar, com friso contrastante e a icônica estampa Trefoil. As alças longas facilitam o transporte, quer você esteja indo para a academia ou saindo para um dia casual.   No interior, você encontrará um bolso com zíper para armazenamento, colocando seus itens essenciais ao seu alcance. O fechamento externo com zíper acrescenta um toque extra de conveniência, ajudando você a manter seus pertences juntos em um só lugar.  Se você é fã da adidas ou simplesmente adora uma bolsa estilosa, esta bolsa é essencial. É mais do que apenas um acessório. É uma declaração de seu estilo único e de seu amor pelos clássicos.
+Bolsa Airliner Adicolor Alongada - Preto, compre na adidas.com.br! Bolsa Airliner Adicolor Alongada - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A Bolsa Airliner Adicolor Alongada é o seu acessório de moda preferido para o dia a dia, combinando estilo e praticidade. Com seu design elegante e recursos funcionais, esta bolsa é um item obrigatório para aqueles que abraçam o espírito Originals.  Confeccionada em PU com acabamento granulado e texturizado, esta bolsa foi projetada para se destacar, com friso contrastante e a icônica estampa Trefoil. As alças longas facilitam o transporte, quer você esteja indo para a academia ou saindo para um dia casual.  No interior, você encontrará um bolso com zíper para armazenamento, colocando seus itens essenciais ao seu alcance. O fecho de zíper externo acrescenta um toque extra de conveniência, ajudando você a manter seus pertences juntos em um só lugar.  Se você é fã da adidas ou simplesmente adora uma bolsa estilosa, esta bolsa é essencial. É mais do que apenas um acessório. É uma declaração de seu estilo único e de seu amor pelos clássicos.
