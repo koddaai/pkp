@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "kf1572-tamanho-unico"
 gtin: "4068821954243"
 brand: "Adidas"
-name: "Garrafa Metal COM Emblema Oficial Copa DO Mundo Unisex adidas"
+name: "Garrafa de Metal com Emblema da Copa do Mundo da Fifa™ 26 Unisex adidas"
 category: "outros"
 
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://adidas.com.br/kf1572-tamanho-unico"
 canonical:
   domain: "adidas.com.br"
-  url: "http://www.adidas.com.br/garrafa-metal-com-emblema-oficial-copa-do-mundo/KF1572.html"
+  url: "http://www.adidas.com.br/garrafa-de-metal-com-emblema-da-copa-do-mundo-da-fifa-tm-26/KF1572.html"
 
 # === DESCOBERTA (L0) ===
-summary: "GARRAFA METAL COM EMBLEMA OFICIAL COPA DO MUNDO - Preto, compre na adidas.com.br! GARRAFA METAL COM EMBLEMA OFICIAL COPA DO MUNDO - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Quando se trata de futebol, o desempenho anda de mãos dadas com a hidratação. Apresentamos a GARRAFA METAL COM EMBLEMA OFICIAL COPA DO MUNDO, sua companheira ideal para se manter hidratado enquanto exibe sua paixão pelo futebol. Fabricada em aço inoxidável puro, esta garrafa foi proje..."
+summary: "Garrafa de Metal com Emblema da Copa do Mundo da FIFA™ 26 - Preto, compre na adidas.com.br! Garrafa de Metal com Emblema da Copa do Mundo da FIFA™ 26 - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Quando o assunto é futebol, desempenho e hidratação andam de mãos dadas. Apresentamos a Garrafa de Metal com Emblema Oficial da Copa do Mundo da FIFA™ 26, sua companheira ideal para se manter hidratado enquanto exibe sua paixão pelo futebol. Fabricada em aço inoxid..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 199.99
   source: "retailer"
-  updated_at: "2026-03-24T06:59:03.654Z"
+  updated_at: "2026-03-24T12:59:52.879Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-24T06:59:03.654Z"
+    verified_at: "2026-03-24T12:59:52.879Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-24T06:59:03.654Z"
+    verified_at: "2026-03-24T12:59:52.879Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-GARRAFA METAL COM EMBLEMA OFICIAL COPA DO MUNDO - Preto, compre na adidas.com.br! GARRAFA METAL COM EMBLEMA OFICIAL COPA DO MUNDO - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Quando se trata de futebol, o desempenho anda de mãos dadas com a hidratação. Apresentamos a GARRAFA METAL COM EMBLEMA OFICIAL COPA DO MUNDO, sua companheira ideal para se manter hidratado enquanto exibe sua paixão pelo futebol.  Fabricada em aço inoxidável puro, esta garrafa foi projetada para ajudar a manter suas bebidas na temperatura desejada por mais tempo, esteja você em campo ou torcendo nas arquibancadas.  Com seu design elegante e construção durável, ela foi feita para suportar os rigores do seu estilo de vida ativo. O design moldado por injeção oferece uma sensação de robustez, enquanto o emblema acrescenta um toque extra de autenticidade e orgulho à sua coleção.  Quer você esteja na academia, em uma caminhada ou simplesmente indo sobre o seu dia, essa garrafa mostra seu amor pelo jogo e ajuda você a se manter hidratado. Abrace o espírito do futebol com a adidas e faça cada gole valer a pena.
+Garrafa de Metal com Emblema da Copa do Mundo da FIFA™ 26 - Preto, compre na adidas.com.br! Garrafa de Metal com Emblema da Copa do Mundo da FIFA™ 26 - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Quando o assunto é futebol, desempenho e hidratação andam de mãos dadas. Apresentamos a Garrafa de Metal com Emblema Oficial da Copa do Mundo da FIFA™ 26, sua companheira ideal para se manter hidratado enquanto exibe sua paixão pelo futebol.  Fabricada em aço inoxidável puro, esta garrafa foi projetada para ajudar a manter suas bebidas na temperatura desejada por mais tempo, esteja você em campo ou torcendo nas arquibancadas.  Com seu design elegante e estrutura durável, ela foi criada para suportar os rigores do seu estilo de vida ativo. O design moldado por injeção oferece uma sensação de robustez, enquanto o emblema acrescenta um toque extra de autenticidade e orgulho à sua coleção.  Quer você esteja na academia, em uma caminhada ou simplesmente na sua rotina, essa garrafa mostra seu amor pelo jogo e ajuda você a se manter hidratado. Abrace o espírito do futebol com a adidas e faça cada gole valer a pena.
