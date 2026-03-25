@@ -20,7 +20,7 @@ canonical:
   url: "http://www.adidas.com.br/mochila-adidas-primelift/KE3780.html"
 
 # === DESCOBERTA (L0) ===
-summary: "MOCHILA ADIDAS PrimeLift - Roxo, compre na adidas.com.br! MOCHILA ADIDAS PrimeLift - Roxo em vários estilos e cores na página oficial da loja online adidas Brasil. Mantenha tudo organizado na correria do dia a dia com a mochila adidas PrimeLift. Com amplo espaço e detalhes inteligentes, ela mantém seus pertences sempre à mão. Confeccionada em tecido durável de malha plana, foi projetada para encarar os rigores do uso diário. As áreas de armazenamento incluem um compartimento externo para note..."
+summary: "Mochila adidas PrimeLift - Roxo, compre na adidas.com.br! Mochila adidas PrimeLift - Roxo em vários estilos e cores na página oficial da loja online adidas Brasil. Mantenha seus itens organizados mesmo quando você estiver em movimento com a mochila PrimeLift da adidas. Com amplo espaço e detalhes inteligentes, essa mochila mantém seus pertences sempre à mão. Projetada em tecido durável de malha plana, ela foi criada para enfrentar os rigores do uso diário. Os compartimentos incluem um externo..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 299.99
   source: "retailer"
-  updated_at: "2026-03-25T06:57:29.091Z"
+  updated_at: "2026-03-25T12:57:37.040Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-25T06:57:29.091Z"
+    verified_at: "2026-03-25T12:57:37.040Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-25T06:57:29.091Z"
+    verified_at: "2026-03-25T12:57:37.040Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-MOCHILA ADIDAS PrimeLift - Roxo, compre na adidas.com.br! MOCHILA ADIDAS PrimeLift - Roxo em vários estilos e cores na página oficial da loja online adidas Brasil. Mantenha tudo organizado na correria do dia a dia com a mochila adidas PrimeLift. Com amplo espaço e detalhes inteligentes, ela mantém seus pertences sempre à mão.  Confeccionada em tecido durável de malha plana, foi projetada para encarar os rigores do uso diário. As áreas de armazenamento incluem um compartimento externo para notebook ou tablet, um bolso lateral para garrafa de água e um bolso frontal com zíper para acesso rápido aos itens essenciais.  Para os dias mais intensos, o painel traseiro em malha elástica ajuda a reduzir a umidade, enquanto os cordões de compressão laterais mantêm o conteúdo firme e protegido. Na parte frontal, o logotipo Três Barras e as Três Listras flutuantes reforçam o visual esportivo, perfeito para a academia, o trabalho ou uma viagem de fim de semana.
+Mochila adidas PrimeLift - Roxo, compre na adidas.com.br! Mochila adidas PrimeLift - Roxo em vários estilos e cores na página oficial da loja online adidas Brasil. Mantenha seus itens organizados mesmo quando você estiver em movimento com a mochila PrimeLift da adidas. Com amplo espaço e detalhes inteligentes, essa mochila mantém seus pertences sempre à mão.  Projetada em tecido durável de malha plana, ela foi criada para enfrentar os rigores do uso diário. Os compartimentos incluem um externo para notebook ou tablet, um bolso lateral para garrafa e um bolso frontal com zíper para rápido acesso a itens essenciais.  Bônus para os dias mais corridos: o painel traseiro em malha elástica ajuda a combater a umidade, e os cordões de compressão laterais mantêm o conteúdo protegido. Na frente, um logotipo Três Barras e as Três Listras flutuantes mostram seu lado esportivo, ao ir para a academia ou uma viagem de fim de semana.
