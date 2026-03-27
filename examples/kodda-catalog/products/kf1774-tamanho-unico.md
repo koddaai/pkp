@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "kf1774-tamanho-unico"
 gtin: "4068819193852"
 brand: "Adidas"
-name: "Mochila Mercedes - AMG Petronas F1 DNA Três Listras Unisex adidas"
+name: "Mochila Mercedes - AMG Petronas F1 DNA 3 Listras Unisex adidas"
 category: "notebooks"
 
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://adidas.com.br/kf1774-tamanho-unico"
 canonical:
   domain: "adidas.com.br"
-  url: "http://www.adidas.com.br/mochila-mercedes---amg-petronas-f1-dna-tres-listras/KF1774.html"
+  url: "http://www.adidas.com.br/mochila-mercedes---amg-petronas-f1-dna-3-listras/KF1774.html"
 
 # === DESCOBERTA (L0) ===
-summary: "MOCHILA MERCEDES - AMG PETRONAS F1 DNA TRÊS LISTRAS - Preto, compre na adidas.com.br! MOCHILA MERCEDES - AMG PETRONAS F1 DNA TRÊS LISTRAS - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A MOCHILA MERCEDES - AMG PETRONAS F1 DNA TRÊS LISTRAS é a sua companheira de estilo e funcionalidade. Com seu design elegante que apresenta as icônicas Três Listras e as cores da equipe, esta mochila é indispensável para qualquer entusiasta do automobilismo. Projetada com prat..."
+summary: "MOCHILA MERCEDES - AMG PETRONAS F1 DNA 3 LISTRAS - Preto, compre na adidas.com.br! MOCHILA MERCEDES - AMG PETRONAS F1 DNA 3 LISTRAS - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A Mochila Mercedes - AMG Petronas F1 DNA 3 listras é a sua companheira de estilo e funcionalidade. Com seu design elegante que apresenta as icônicas 3 listras e as cores da equipe, esta mochila é indispensável para qualquer entusiasta do automobilismo. Projetada com praticidade em m..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 399.99
   source: "retailer"
-  updated_at: "2026-03-27T07:02:27.975Z"
+  updated_at: "2026-03-27T12:54:23.577Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-27T07:02:27.975Z"
+    verified_at: "2026-03-27T12:54:23.577Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-27T07:02:27.975Z"
+    verified_at: "2026-03-27T12:54:23.577Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-MOCHILA MERCEDES - AMG PETRONAS F1 DNA TRÊS LISTRAS - Preto, compre na adidas.com.br! MOCHILA MERCEDES - AMG PETRONAS F1 DNA TRÊS LISTRAS - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A MOCHILA MERCEDES - AMG PETRONAS F1 DNA TRÊS LISTRAS é a sua companheira de estilo e funcionalidade. Com seu design elegante que apresenta as icônicas Três Listras e as cores da equipe, esta mochila é indispensável para qualquer entusiasta do automobilismo.  Projetada com praticidade em mente, inclui um bolso embutido frontal para fácil acesso aos itens essenciais e um bolso interno dedicado ao notebook para manter sua tecnologia segura. As alças acolchoadas oferecem conforto durante longos dias em movimento, tornando-a uma escolha inteligente para deslocamentos ou viagens. Os materiais de alto desempenho permitem que o ar flua sobre o seu corpo, ajudando você a se sentir seco e confortável.  Fabricada com materiais duráveis, esta mochila não só tem uma ótima aparência, mas também resiste às exigências do uso diário. Não importa se você está indo para a pista ou para o escritório, esta mochila da adidas tem tudo o que você precisa.
+MOCHILA MERCEDES - AMG PETRONAS F1 DNA 3 LISTRAS - Preto, compre na adidas.com.br! MOCHILA MERCEDES - AMG PETRONAS F1 DNA 3 LISTRAS - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A Mochila Mercedes - AMG Petronas F1 DNA 3 listras é a sua companheira de estilo e funcionalidade. Com seu design elegante que apresenta as icônicas 3 listras e as cores da equipe, esta mochila é indispensável para qualquer entusiasta do automobilismo.  Projetada com praticidade em mente, ela inclui um bolso embutido frontal para fácil acesso aos itens essenciais e um bolso interno dedicado ao notebook para manter sua tecnologia segura. As alças acolchoadas oferecem conforto durante longos dias em movimento, tornando-a uma escolha inteligente para deslocamentos ou viagens. Os materiais de alto desempenho permitem que o ar flua sobre o seu corpo, ajudando você a se sentir seco e confortável.  Fabricada com materiais duráveis, esta mochila não só tem uma ótima aparência, mas também resiste às exigências do uso diário. Não importa se você está indo para a pista ou para o escritório, esta mochila da adidas tem tudo o que você precisa.
