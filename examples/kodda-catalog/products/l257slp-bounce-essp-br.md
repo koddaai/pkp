@@ -27,9 +27,9 @@ tags: ["lg", "bluetooth", "smart", "ai", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 11665.31
+  value: 9106.81
   source: "retailer"
-  updated_at: "2026-03-27T20:38:51.771Z"
+  updated_at: "2026-03-28T06:53:07.532Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-27T20:38:51.771Z"
+    verified_at: "2026-03-28T06:53:07.532Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-27T20:38:51.771Z"
+    verified_at: "2026-03-28T06:53:07.532Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-03-27
+# Data de importacao: 2026-03-28
 # aw_product_id: 43680093636
 ---
 

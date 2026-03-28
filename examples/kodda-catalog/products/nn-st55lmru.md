@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 639
   source: "retailer"
-  updated_at: "2026-03-27T20:38:36.828Z"
+  updated_at: "2026-03-28T06:52:54.013Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-27T20:38:36.828Z"
+    verified_at: "2026-03-28T06:52:54.013Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-27T20:38:36.828Z"
+    verified_at: "2026-03-28T06:52:54.013Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-03-27
+# Data de importacao: 2026-03-28
 # aw_product_id: 38931326583
 ---
 
