@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "jx0210-tamanho-unico"
+gtin: "4068808817950"
+brand: "Adidas"
+name: "Adicolor Clássico Mochila Unisex adidas"
+category: "notebooks"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "JX0210_TAMANHO ÚNICO"
+  ean: "4068808817950"
+
+# === URI CANONICO ===
+uri: "pkp://adidas.com.br/jx0210-tamanho-unico"
+canonical:
+  domain: "adidas.com.br"
+  url: "http://www.adidas.com.br/adicolor-classico-mochila/JX0210.html"
+
+# === DESCOBERTA (L0) ===
+summary: "Adicolor Clássico Mochila - Marrom, compre na adidas.com.br! Adicolor Clássico Mochila - Marrom em vários estilos e cores na página oficial da loja online adidas Brasil. Esta mochila da adidas permite que você leve o seu dia com tranquilidade, seja para a aula ou para explorar a cidade. O espaçoso compartimento principal tem espaço para seu notebook, roupas de ginástica ou qualquer outra coisa que você precise para o dia. Um bolso frontal extra e bolso lateral mantêm os itens menores facilmen..."
+tags: ["adidas"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 199.99
+  source: "retailer"
+  updated_at: "2026-03-31T20:42:38.472Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "Adidas BR"
+    url: "https://www.awin1.com/pclick.php?p=44360900899&a=2753646&m=79926"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-03-31T20:42:38.472Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-03-31T20:42:38.472Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin Adidas BR (feed_id: 95015)
+# Data de importacao: 2026-03-31
+# aw_product_id: 44360900899
+---
+
+## Descricao
+
+Adicolor Clássico Mochila - Marrom, compre na adidas.com.br! Adicolor Clássico Mochila - Marrom em vários estilos e cores na página oficial da loja online adidas Brasil. Esta mochila da adidas permite que você leve o seu dia com tranquilidade, seja para a aula ou para explorar a cidade. O espaçoso compartimento principal tem espaço para seu notebook, roupas de ginástica ou qualquer outra coisa que você precise para o dia. Um bolso frontal extra e bolso lateral mantêm os itens menores facilmente acessíveis. As alças confortável permitem que você carrega tudo com facilidade.
