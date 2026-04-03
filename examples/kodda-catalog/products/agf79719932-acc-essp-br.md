@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf79719932-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (módulo) Monitor LG 20M37AA-B - AGF79719932 - AGF79719932 | LG BR"
+name: "Tela de cristal líquido (módulo) Monitor LG 20M37AA-B - AGF79719932 - AGF79719932"
 category: "monitors"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-informatica/agf79719932/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGF79719932. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (módulo) Monitor LG 20M37AA-B - AGF79719932"
+summary: "Get more information on the LG AGF79719932. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG 20M37AA-B - AGF79719932."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 782.71
   source: "retailer"
-  updated_at: "2026-04-02T20:35:11.704Z"
+  updated_at: "2026-04-03T07:02:39.694Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-02T20:35:11.704Z"
+    verified_at: "2026-04-03T07:02:39.694Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-02T20:35:11.704Z"
+    verified_at: "2026-04-03T07:02:39.694Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-02
+# Data de importacao: 2026-04-03
 # aw_product_id: 43478675502
 ---
 
 ## Descricao
 
-Descubra a LG AGF79719932. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (módulo) Monitor LG 20M37AA-B - AGF79719932
+Get more information on the LG AGF79719932. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG 20M37AA-B - AGF79719932.
