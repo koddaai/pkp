@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27g411a-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraGear™ 27G411A-B, 144Hz (O/C), Tela IPS FHD 27\", 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10, sRGB 99% - 27G411A-B"
+name: "Monitor LG UltraGear™ G4, 27G411A-B, 144Hz (O/C), Tela IPS FHD 27\", 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10, sRGB 99% - 27G411A-B"
 category: "monitors"
 
 
@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/27g411a-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "LG UltraGear™ G4 27-inch 144Hz (O/C) FHD IPS Gaming Monitor | 27g411a with NVIDIA G-SYNCR compatible, SRGB 99% (Typ.)"
-tags: ["lg", "hdr", "ultra", "gaming"]
+summary: "Monitor LG 144Hz para jogar com tela IPS Full HD de 27\" e mais fluidez para partidas competitivas."
+tags: ["lg", "ai", "hdr", "ultra"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 841.56
+  value: 782.65
   source: "retailer"
-  updated_at: "2026-04-06T20:37:49.131Z"
+  updated_at: "2026-04-07T07:09:52.537Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-06T20:37:49.131Z"
+    verified_at: "2026-04-07T07:09:52.537Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-06T20:37:49.131Z"
+    verified_at: "2026-04-07T07:09:52.537Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 27
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-06
+# Data de importacao: 2026-04-07
 # aw_product_id: 43510245304
 ---
 
 ## Descricao
 
-LG UltraGear™ G4 27-inch 144Hz (O/C) FHD IPS Gaming Monitor | 27g411a with NVIDIA G-SYNCR compatible, SRGB 99% (Typ.)
+Monitor LG 144Hz para jogar com tela IPS Full HD de 27" e mais fluidez para partidas competitivas.
