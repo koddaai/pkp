@@ -27,15 +27,15 @@ tags: ["lg", "smart", "ai", "4k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 18239.09
+  value: 18238.86
   source: "retailer"
-  updated_at: "2026-02-13T20:38:12.739Z"
+  updated_at: "2026-04-09T07:15:38.758Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=43622799043&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=44423789495&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-13T20:38:12.739Z"
+    verified_at: "2026-04-09T07:15:38.758Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-02-13T20:38:12.739Z"
+    verified_at: "2026-04-09T07:15:38.758Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,8 +55,8 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-02-13
-# aw_product_id: 43622799043
+# Data de importacao: 2026-04-09
+# aw_product_id: 44423789495
 ---
 
 ## Descricao
