@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ke5759-tamanho-unico"
 gtin: "4068816350456"
 brand: "Adidas"
-name: "Fsbs Cross BDY Unisex adidas"
+name: "Bolsa Transversal Skateboarding Unisex adidas"
 category: "outros"
 
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://adidas.com.br/ke5759-tamanho-unico"
 canonical:
   domain: "adidas.com.br"
-  url: "http://www.adidas.com.br/fsbs-cross-bdy/KE5759.html"
+  url: "http://www.adidas.com.br/bolsa-transversal-skateboarding/KE5759.html"
 
 # === DESCOBERTA (L0) ===
-summary: "FSBS CROSS BDY - Cinza, compre na adidas.com.br! FSBS CROSS BDY - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. O Fsbs Cross Bdy é novo para essas características de filtro em nosso website, na categoria Unissex. Mas você já pode visualizar as imagens acima e ter mais detalhes, para conhecer o produto de diferentes ângulos em primeira mão. Se você já experimentou o Fsbs Cross Bdy antes, deixe um comentário a seguir para nos contar o que você achou. Ainda esta..."
+summary: "BOLSA TRANSVERSAL SKATEBOARDING - Cinza, compre na adidas.com.br! BOLSA TRANSVERSAL SKATEBOARDING - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. A Bolsa Transversal adidas Skateboarding foi criada para acompanhar as aventuras de quem vive em movimento. Seu design elegante e praticidade fazem dela a escolha ideal para quem valoriza funcionalidade com personalidade. Produzida com materiais duráveis, esta bolsa transversal mantém seus itens essenciais protegido..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 299.99
   source: "retailer"
-  updated_at: "2026-04-11T06:56:15.743Z"
+  updated_at: "2026-04-11T12:44:41.333Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-11T06:56:15.743Z"
+    verified_at: "2026-04-11T12:44:41.333Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-11T06:56:15.743Z"
+    verified_at: "2026-04-11T12:44:41.333Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-FSBS CROSS BDY - Cinza, compre na adidas.com.br! FSBS CROSS BDY - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. O Fsbs Cross Bdy é novo para essas características de filtro em nosso website, na categoria Unissex. Mas você já pode visualizar as imagens acima e ter mais detalhes, para conhecer o produto de diferentes ângulos em primeira mão. Se você já experimentou o Fsbs Cross Bdy antes, deixe um comentário a seguir para nos contar o que você achou.  Ainda estamos trabalhando para obter mais informações sobre o Fsbs Cross Bdy aqui, então não esqueça de retornar ao site em breve. Enquanto isso, aqui está o número do artigo do produto KE5759 para sua referência. Ele é classificado na categoria Bolsas e mochilas
+BOLSA TRANSVERSAL SKATEBOARDING - Cinza, compre na adidas.com.br! BOLSA TRANSVERSAL SKATEBOARDING - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. A Bolsa Transversal adidas Skateboarding foi criada para acompanhar as aventuras de quem vive em movimento. Seu design elegante e praticidade fazem dela a escolha ideal para quem valoriza funcionalidade com personalidade.  Produzida com materiais duráveis, esta bolsa transversal mantém seus itens essenciais protegidos. O fecho de zíper garante acesso rápido e seguro.  Seja para ir ao parque de skate ou explorar a cidade, o espaço interno amplo acomoda tudo o que você precisa, tornando a bolsa uma companheira confortável e versátil.  Mais do que um acessório prático, esta bolsa faz uma declaração. Leve a energia da adidas para suas sessões de skate.
