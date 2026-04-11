@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "55qned73-sh5a-essp-br"
+# gtin: null
+brand: "LG"
+name: "Combo Smart TV LG AI 4K QNED73 de 55\" 2026 + LG Soundbar SH5A Dolby Digital, DTS Surround 4.1 canais, 600W RMS - 55QNED73.SH5A"
+category: "tvs"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "55QNED73.SH5A.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/55qned73-sh5a-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/tvs-e-soundbars/qned/55qned73-sh5a/"
+
+# === DESCOBERTA (L0) ===
+summary: "Get more information on the LG 55QNED73.SH5A. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG AI 4K QNED73 de 55\" 2026 + LG Soundbar SH5A Dolby Digital, DTS Surround 4.1 canais, 600W RMS."
+tags: ["lg", "smart", "ai", "4k", "dolby"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 4327.24
+  source: "retailer"
+  updated_at: "2026-04-11T06:55:58.297Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=44442535695&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-04-11T06:55:58.297Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-04-11T06:55:58.297Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  screen_size: 55
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-04-11
+# aw_product_id: 44442535695
+---
+
+## Descricao
+
+Get more information on the LG 55QNED73.SH5A. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG AI 4K QNED73 de 55" 2026 + LG Soundbar SH5A Dolby Digital, DTS Surround 4.1 canais, 600W RMS.
