@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "s95tr-dbrallk-essp-br"
+# gtin: null
+brand: "LG"
+name: "LG Home Theater Soundbar S95TR com alto-falantes traseiros e som surround com configuração de canais 9.1.5 - S95TR"
+category: "audio"
+subcategory: "soundbar"
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "S95TR.DBRALLK.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/s95tr-dbrallk-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/audio/soundbars/s95tr/"
+
+# === DESCOBERTA (L0) ===
+summary: "Home Theater Soundbar LG S95TR – 810W RMS, Dolby Atmos, 9.1.5 Canais, Caixas de Som Traseiras, AI Room Calibration Pro, DTS:X, AI Sound Pro, Wow Synergy, Sem fios, Conexões Múltiplas"
+tags: ["lg", "ai", "dolby", "pro", "sem-fio"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 5224.05
+  source: "retailer"
+  updated_at: "2026-04-15T07:24:14.175Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=44479663165&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-04-15T07:24:14.175Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-04-15T07:24:14.175Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-04-15
+# aw_product_id: 44479663165
+---
+
+## Descricao
+
+Home Theater Soundbar LG S95TR – 810W RMS, Dolby Atmos, 9.1.5 Canais, Caixas de Som Traseiras, AI Room Calibration Pro, DTS:X, AI Sound Pro, Wow Synergy, Sem fios, Conexões Múltiplas
