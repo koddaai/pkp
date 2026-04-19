@@ -27,9 +27,9 @@ tags: ["lg", "bluetooth", "ai", "dolby", "pro", "sem-fio"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1169.1
+  value: 1172.35
   source: "retailer"
-  updated_at: "2026-04-18T20:36:33.776Z"
+  updated_at: "2026-04-19T07:12:26.316Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-18T20:36:33.776Z"
+    verified_at: "2026-04-19T07:12:26.316Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-18T20:36:33.776Z"
+    verified_at: "2026-04-19T07:12:26.316Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-18
+# Data de importacao: 2026-04-19
 # aw_product_id: 43478677188
 ---
 
