@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "kf1779-tamanho-unico"
 gtin: "4068819182726"
 brand: "Adidas"
-name: "MER DNA TT Homem adidas"
+name: "Bolsa Tote Mercedes - AMG Petronas Formula 1 Team DNA Homem adidas"
 category: "outros"
 
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://adidas.com.br/kf1779-tamanho-unico"
 canonical:
   domain: "adidas.com.br"
-  url: "http://www.adidas.com.br/mer-dna-tt/KF1779.html"
+  url: "http://www.adidas.com.br/bolsa-tote-mercedes---amg-petronas-formula-1-team-dna/KF1779.html"
 
 # === DESCOBERTA (L0) ===
-summary: "MER DNA TT - Preto, compre na adidas.com.br! MER DNA TT - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Celebre o mundo do automobilismo com a Bolsa TOTE MERCEDES - AMG PETRONAS F1 TEAM DNA. Quer você esteja indo para a pista de corrida ou apenas passeando, esta bolsa foi projetada para acompanhar seu estilo de vida dinâmico. Criada com precisão, esta bolsa oferece muito espaço para itens essenciais, com um bolso frontal especial para acesso rápido a itens me..."
+summary: "Bolsa Tote MERCEDES - AMG PETRONAS FORMULA 1 TEAM DNA - Preto, compre na adidas.com.br! Bolsa Tote MERCEDES - AMG PETRONAS FORMULA 1 TEAM DNA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Celebre o mundo do automobilismo com a bolsa tote Mercedes - AMG Petronas Formula 1 Team DNA. Quer você esteja indo para a pista de corrida ou apenas passeando, esta bolsa foi projetada para acompanhar seu estilo de vida dinâmico. Criada com precisão, esta bolsa oferece mu..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 399.99
   source: "retailer"
-  updated_at: "2026-04-21T07:28:03.877Z"
+  updated_at: "2026-04-21T13:13:10.639Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-21T07:28:03.877Z"
+    verified_at: "2026-04-21T13:13:10.639Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-21T07:28:03.877Z"
+    verified_at: "2026-04-21T13:13:10.639Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-MER DNA TT - Preto, compre na adidas.com.br! MER DNA TT - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Celebre o mundo do automobilismo com a Bolsa TOTE MERCEDES - AMG PETRONAS F1 TEAM DNA. Quer você esteja indo para a pista de corrida ou apenas passeando, esta bolsa foi projetada para acompanhar seu estilo de vida dinâmico.  Criada com precisão, esta bolsa oferece muito espaço para itens essenciais, com um bolso frontal especial para acesso rápido a itens menores. Sua estrutura em malha plana proporciona durabilidade, sendo uma companheira confiável para suas aventuras.  Abrace o espírito do time e deixe que seu estilo reflita seu amor pelo automobilismo. Apresentando o trabalho artesanal da adidas, esta bolsa traz uma mistura de desempenho e paixão, pronta para acompanhá-lo na estrada.
+Bolsa Tote MERCEDES - AMG PETRONAS FORMULA 1 TEAM DNA - Preto, compre na adidas.com.br! Bolsa Tote MERCEDES - AMG PETRONAS FORMULA 1 TEAM DNA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Celebre o mundo do automobilismo com a bolsa tote Mercedes - AMG Petronas Formula 1 Team DNA. Quer você esteja indo para a pista de corrida ou apenas passeando, esta bolsa foi projetada para acompanhar seu estilo de vida dinâmico.  Criada com precisão, esta bolsa oferece muito espaço para itens essenciais, com um bolso frontal especial para acesso rápido a itens menores. Sua construção em trama simples proporciona durabilidade, sendo uma companheira confiável para suas aventuras.  Abrace o espírito da equipe e deixe que seu estilo reflita seu amor pelo automobilismo. Apresentando o trabalho artesanal da adidas, esta bolsa traz uma mistura de desempenho e paixão, pronta para acompanhá-lo na estrada.
