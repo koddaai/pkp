@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-gt68lbru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-gt68-black-glass-nn-gt68lbru/p?idsku=45065"
+  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-gt68-black-glass-nn-gt68lbru/p?idsku=45066"
 
 # === DESCOBERTA (L0) ===
 summary: "Cozimento perfeitoO GT68 permite um cozimento inteligente para cada tipo de alimento com a nova função Smartsense¹ , que determina o ponto certo para cada receita pré-programada por conta do sensor de vapor. São elas: arroz, batata, vegetais frescos, vegetais congelados, pizza congelada e carne.¹Restrita às 6 receitas pré-selecionadas para a função Smartsense listadas no manual.Dupla RefeiçãoSabe quando você vai almoçar com alguém e precisa esperar um prato ficar pronto para esquentar o outro..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1299
   source: "retailer"
-  updated_at: "2026-04-23T20:52:33.604Z"
+  updated_at: "2026-04-24T07:54:20.442Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-23T20:52:33.604Z"
+    verified_at: "2026-04-24T07:54:20.442Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-23T20:52:33.604Z"
+    verified_at: "2026-04-24T07:54:20.442Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-04-23
+# Data de importacao: 2026-04-24
 # aw_product_id: 38931326586
 ---
 
