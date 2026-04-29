@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "kc9886-tamanho-unico"
 gtin: "4068805060977"
 brand: "Adidas"
-name: "Mala Duffel Estampada  Tiro Unisex adidas"
+name: "Mala Duffel Estampada Média  Tiro Unisex adidas"
 category: "outros"
 
 
@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://adidas.com.br/kc9886-tamanho-unico"
 canonical:
   domain: "adidas.com.br"
-  url: "http://www.adidas.com.br/mala-duffel-estampada-adidas-tiro/KC9886.html"
+  url: "http://www.adidas.com.br/mala-duffel-estampada-media-adidas-tiro/KC9886.html"
 
 # === DESCOBERTA (L0) ===
-summary: "MALA DUFFEL ESTAMPADA adidas TIRO - Cinza, compre na adidas.com.br! MALA DUFFEL ESTAMPADA adidas TIRO - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. A paixão e as cores do futebol mexicano e de seus fãs são a inspiração por trás da MALA DUFFEL ESTAMPADA adidas TIRO. Para uma peça que capta o espírito global do belo jogo. Feita com uma estrutura em malha plana, ela combina durabilidade e estilo para uma funcionalidade duradoura. O compartimento principal com ..."
-tags: ["adidas", "ai"]
+summary: "Mala Duffel Estampada Média adidas Tiro - Cinza, compre na adidas.com.br! Mala Duffel Estampada Média adidas Tiro - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. A paixão vibrante do futebol mexicano e a energia incomparável de seus torcedores inspiram a mala duffel estampada média adidas Tiro — uma peça criada para carregar o espírito global do belo jogo. Produzida em malha plana, ela une durabilidade e estilo para acompanhar sua rotina por muito tempo. O co..."
+tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 299.99
   source: "retailer"
-  updated_at: "2026-04-29T08:08:27.643Z"
+  updated_at: "2026-04-29T13:45:43.935Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-29T08:08:27.643Z"
+    verified_at: "2026-04-29T13:45:43.935Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-29T08:08:27.643Z"
+    verified_at: "2026-04-29T13:45:43.935Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-MALA DUFFEL ESTAMPADA adidas TIRO - Cinza, compre na adidas.com.br! MALA DUFFEL ESTAMPADA adidas TIRO - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. A paixão e as cores do futebol mexicano e de seus fãs são a inspiração por trás da MALA DUFFEL ESTAMPADA adidas TIRO. Para uma peça que capta o espírito global do belo jogo.  Feita com uma estrutura em malha plana, ela combina durabilidade e estilo para uma funcionalidade duradoura. O compartimento principal com zíper oferece fácil acesso e, graças ao seu tamanho generoso, pode conter tudo o que você precisa para um dia inteiro.  O design elegante mantém você com uma aparência elegante, enquanto o logotipo Três Barras da adidas completa o visual com uma presença ousada. Criada para facilitar o movimento e o uso duradouro, essa Mala Duffel carrega o espírito do jogo aonde quer que você vá.
+Mala Duffel Estampada Média adidas Tiro - Cinza, compre na adidas.com.br! Mala Duffel Estampada Média adidas Tiro - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. A paixão vibrante do futebol mexicano e a energia incomparável de seus torcedores inspiram a mala duffel estampada média adidas Tiro — uma peça criada para carregar o espírito global do belo jogo.  Produzida em malha plana, ela une durabilidade e estilo para acompanhar sua rotina por muito tempo. O compartimento principal com zíper garante acesso rápido e prático, enquanto o espaço generoso acomoda tudo o que você precisa para um dia inteiro de atividades.  O design moderno oferece um visual marcante, reforçado pelo icônico logo adidas Três Barras, que adiciona personalidade e presença. Feita para facilitar seus movimentos e suportar o uso diário, essa mala duffel leva a essência do futebol com você, aonde quer que vá.
