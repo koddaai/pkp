@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-st65lwru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st65-branco-nn-st65lwru/p?idsku=45062"
+  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st65-branco-nn-st65lwru/p?idsku=45061"
 
 # === DESCOBERTA (L0) ===
 summary: "O Micro-ondas ST65L tem design sofisticado e 34 litros de capacidade, tecnologia Antibacteria Ag, tecnologia Pega Fácil, revestimento antiaderente para facilitar a limpeza, função Dupla Refeição e eficiência energética A.Dupla RefeiçãoA função pode ser ativada para aquecer 300g, 500g e 700g (peso total das duas porções) em pratos diferentes. Basta colocar uma refeição no prato giratório e outra na grelha.Retire o utensílio do jeito que colocou com Pega Fácil1Assim que o aquecimento termina, o..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 859
   source: "retailer"
-  updated_at: "2026-04-28T21:06:43.033Z"
+  updated_at: "2026-04-29T08:07:48.488Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-28T21:06:43.033Z"
+    verified_at: "2026-04-29T08:07:48.488Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-28T21:06:43.033Z"
+    verified_at: "2026-04-29T08:07:48.488Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-04-28
+# Data de importacao: 2026-04-29
 # aw_product_id: 38931326584
 ---
 
