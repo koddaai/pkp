@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/combos-de-tv/oled65b5-s60tr/"
 
 # === DESCOBERTA (L0) ===
-summary: "Smart TV LG OLED AI B5 4K de 65\" 2025 + SoundBar S60TR 5.1 Canais, Bluetooth 5.3, Dolby Digital"
+summary: "Get more information on the LG OLED65B5.S60TR. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED B5 65 pol. + Soundbar LG S60TR 4K."
 tags: ["lg", "bluetooth", "smart", "ai", "4k", "oled", "dolby"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8548.29
   source: "retailer"
-  updated_at: "2026-04-30T21:00:23.704Z"
+  updated_at: "2026-05-01T08:06:49.008Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-30T21:00:23.704Z"
+    verified_at: "2026-05-01T08:06:49.008Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-30T21:00:23.704Z"
+    verified_at: "2026-05-01T08:06:49.008Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-30
+# Data de importacao: 2026-05-01
 # aw_product_id: 43478677125
 ---
 
 ## Descricao
 
-Smart TV LG OLED AI B5 4K de 65" 2025 + SoundBar S60TR 5.1 Canais, Bluetooth 5.3, Dolby Digital
+Get more information on the LG OLED65B5.S60TR. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED B5 65 pol. + Soundbar LG S60TR 4K.

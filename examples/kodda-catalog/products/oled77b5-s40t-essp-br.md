@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/combos-de-tv/oled77b5-s40t/"
 
 # === DESCOBERTA (L0) ===
-summary: "Smart TV LG OLED AI B5 4K de 77\" 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital"
+summary: "Get more information on the LG OLED77B5.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED B5 77 pol. + Soundbar LG S40T 4K."
 tags: ["lg", "smart", "ai", "4k", "oled", "dolby"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 13887.39
   source: "retailer"
-  updated_at: "2026-04-30T21:00:23.705Z"
+  updated_at: "2026-05-01T08:06:49.009Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-30T21:00:23.705Z"
+    verified_at: "2026-05-01T08:06:49.009Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-30T21:00:23.705Z"
+    verified_at: "2026-05-01T08:06:49.009Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-30
+# Data de importacao: 2026-05-01
 # aw_product_id: 43478677136
 ---
 
 ## Descricao
 
-Smart TV LG OLED AI B5 4K de 77" 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital
+Get more information on the LG OLED77B5.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED B5 77 pol. + Soundbar LG S40T 4K.

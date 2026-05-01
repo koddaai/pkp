@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear-oled/27gx790-grab/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 27GX790.GRAB. Click for pictures, reviews, and tech specs for the LG Combo Monitor LG OLED UltraGear™ 27GX790A-B 27\", 480Hz + Caixa de Som Bluetooth LG xboom Grab by will.i.am."
+summary: "Get more information on the LG 27GX790.GRAB. Click for pictures, reviews, and tech specs for the LG Combo Monitor LG OLED UltraGear™ 27GX790A-B 27\", 480Hz + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA."
 tags: ["lg", "bluetooth", "ai", "oled", "ultra"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 5825.75
+  value: 5999
   source: "retailer"
-  updated_at: "2026-04-28T21:07:01.252Z"
+  updated_at: "2026-05-01T08:06:48.747Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-28T21:07:01.252Z"
+    verified_at: "2026-05-01T08:06:48.747Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-28T21:07:01.252Z"
+    verified_at: "2026-05-01T08:06:48.747Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-28
+# Data de importacao: 2026-05-01
 # aw_product_id: 44570169877
 ---
 
 ## Descricao
 
-Get more information on the LG 27GX790.GRAB. Click for pictures, reviews, and tech specs for the LG Combo Monitor LG OLED UltraGear™ 27GX790A-B 27", 480Hz + Caixa de Som Bluetooth LG xboom Grab by will.i.am.
+Get more information on the LG 27GX790.GRAB. Click for pictures, reviews, and tech specs for the LG Combo Monitor LG OLED UltraGear™ 27GX790A-B 27", 480Hz + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA.

@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/oled/oled55b5-s70ty/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG OLED55B5.S70TY. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED AI B5 4K de 55 polegadas 2025 + Soundbar LG S70TY Dolby Atmos, Canais 3.1.1 e 400W RMS."
+summary: "Get more information on the LG OLED55B5.S70TY. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED B5 55 pol. + Soundbar LG S70TY 4K."
 tags: ["lg", "smart", "ai", "4k", "oled", "dolby"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 6667.34
+  value: 5983.1
   source: "retailer"
-  updated_at: "2026-04-30T21:00:23.703Z"
+  updated_at: "2026-05-01T08:06:49.006Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-30T21:00:23.703Z"
+    verified_at: "2026-05-01T08:06:49.006Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-30T21:00:23.703Z"
+    verified_at: "2026-05-01T08:06:49.006Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-30
+# Data de importacao: 2026-05-01
 # aw_product_id: 44479663161
 ---
 
 ## Descricao
 
-Get more information on the LG OLED55B5.S70TY. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED AI B5 4K de 55 polegadas 2025 + Soundbar LG S70TY Dolby Atmos, Canais 3.1.1 e 400W RMS.
+Get more information on the LG OLED55B5.S70TY. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED B5 55 pol. + Soundbar LG S70TY 4K.

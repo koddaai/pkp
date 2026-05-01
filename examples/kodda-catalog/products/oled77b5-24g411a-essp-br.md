@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/promocoes/combos/oled77b5-24g411a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG OLED77B5.24G411A. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED evo AI B5 77\" 2025 + Monitor LG UltraGear™ 24G411A-B, 144Hz (O/C), Tela IPS FHD 24\"."
-tags: ["lg", "smart", "ai", "oled", "ultra"]
+summary: "Get more information on the LG OLED77B5.24G411A. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED B5 77 pol. + Soundbar LG 24G411A 4K."
+tags: ["lg", "smart", "ai", "4k", "oled", "ultra"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 14499.49
+  value: 14344.05
   source: "retailer"
-  updated_at: "2026-04-30T21:00:23.705Z"
+  updated_at: "2026-05-01T08:06:49.009Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-30T21:00:23.705Z"
+    verified_at: "2026-05-01T08:06:49.009Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-30T21:00:23.705Z"
+    verified_at: "2026-05-01T08:06:49.009Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-30
+# Data de importacao: 2026-05-01
 # aw_product_id: 44479663163
 ---
 
 ## Descricao
 
-Get more information on the LG OLED77B5.24G411A. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED evo AI B5 77" 2025 + Monitor LG UltraGear™ 24G411A-B, 144Hz (O/C), Tela IPS FHD 24".
+Get more information on the LG OLED77B5.24G411A. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED B5 77 pol. + Soundbar LG 24G411A 4K.

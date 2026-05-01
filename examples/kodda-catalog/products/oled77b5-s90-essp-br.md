@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/combos-de-tv/oled77b5-s90/"
 
 # === DESCOBERTA (L0) ===
-summary: "Combo Smart TV LG OLED AI B5 4K de 77 polegadas 2025 + Soundbar LG S90TY 5.1.3 Canais, 570W RMS, Dolby Atmos"
+summary: "Get more information on the LG OLED77B5.S90. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED B5 77 pol. + Soundbar LG S90 4K."
 tags: ["lg", "smart", "ai", "4k", "oled", "dolby"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 16799.04
   source: "retailer"
-  updated_at: "2026-04-30T21:00:23.705Z"
+  updated_at: "2026-05-01T08:06:49.009Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-30T21:00:23.705Z"
+    verified_at: "2026-05-01T08:06:49.009Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-30T21:00:23.705Z"
+    verified_at: "2026-05-01T08:06:49.009Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-30
+# Data de importacao: 2026-05-01
 # aw_product_id: 43478677137
 ---
 
 ## Descricao
 
-Combo Smart TV LG OLED AI B5 4K de 77 polegadas 2025 + Soundbar LG S90TY 5.1.3 Canais, 570W RMS, Dolby Atmos
+Get more information on the LG OLED77B5.S90. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED B5 77 pol. + Soundbar LG S90 4K.
