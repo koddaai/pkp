@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "kf5724-tamanho-unico"
 gtin: "4068805245091"
 brand: "Adidas"
-name: "Mochila  Primelift Unisex adidas"
+name: "Mochila  Apwr Unisex adidas"
 category: "notebooks"
 
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://adidas.com.br/kf5724-tamanho-unico"
 canonical:
   domain: "adidas.com.br"
-  url: "http://www.adidas.com.br/mochila-adidas-primelift/KF5724.html"
+  url: "http://www.adidas.com.br/mochila-adidas-apwr/KF5724.html"
 
 # === DESCOBERTA (L0) ===
-summary: "Mochila adidas PrimeLift - Azul, compre na adidas.com.br! Mochila adidas PrimeLift - Azul em vários estilos e cores na página oficial da loja online adidas Brasil. Quando você está em movimento, precisa de equipamentos que acompanhem seu ritmo, e a mochila adidas PrimeLift foi projetada para ser sua companheira confiável. Com seu branding icônico, essa mochila não carrega apenas os itens essenciais para você. Ela faz uma declaração. Criada com a praticidade em mente, esta mochila apresenta um..."
+summary: "Mochila adidas APWR - Azul, compre na adidas.com.br! Mochila adidas APWR - Azul em vários estilos e cores na página oficial da loja online adidas Brasil. Quando o ritmo acelera, você precisa de uma mochila que acompanhe cada passo — e a mochila adidas APWR foi criada exatamente para isso. Com um branding icônico, ela não só carrega seus essenciais: ela faz uma declaração de estilo. Pensada para a vida em movimento, traz bolso lateral para garrafa, mantendo a hidratação sempre à mão. O bolso f..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 299.99
   source: "retailer"
-  updated_at: "2026-05-01T08:07:02.275Z"
+  updated_at: "2026-05-01T13:07:56.424Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-01T08:07:02.275Z"
+    verified_at: "2026-05-01T13:07:56.424Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-01T08:07:02.275Z"
+    verified_at: "2026-05-01T13:07:56.424Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Mochila adidas PrimeLift - Azul, compre na adidas.com.br! Mochila adidas PrimeLift - Azul em vários estilos e cores na página oficial da loja online adidas Brasil. Quando você está em movimento, precisa de equipamentos que acompanhem seu ritmo, e a mochila adidas PrimeLift foi projetada para ser sua companheira confiável. Com seu branding icônico, essa mochila não carrega apenas os itens essenciais para você. Ela faz uma declaração.  Criada com a praticidade em mente, esta mochila apresenta um bolso lateral para garrafa, mantendo a hidratação ao seu alcance. O bolso frontal com zíper oferece fácil acesso a itens menores, enquanto o compartimento externo para notebook oferece um espaço seguro para sua tecnologia.  Você pode até mesmo ajustar o volume da mochila com cordões de compressão laterais para uma modelagem aconchegante. O confortável painel traseiro em malha elástica aumenta a ventilação.  Feita com materiais duráveis, essa mochila foi projetada para suportar os rigores do uso diário. A estrutura em malha plana oferece resistência, enquanto o zíper ajuda a manter seus pertences seguros e protegidos.  Seja para um dia no escritório ou para uma aventura de fim de semana, essa mochila está pronta para ir aonde você for.
+Mochila adidas APWR - Azul, compre na adidas.com.br! Mochila adidas APWR - Azul em vários estilos e cores na página oficial da loja online adidas Brasil. Quando o ritmo acelera, você precisa de uma mochila que acompanhe cada passo — e a mochila adidas APWR foi criada exatamente para isso. Com um branding icônico, ela não só carrega seus essenciais: ela faz uma declaração de estilo. Pensada para a vida em movimento, traz bolso lateral para garrafa, mantendo a hidratação sempre à mão. O bolso frontal com zíper permite acesso rápido a itens menores. Já o compartimento externo para notebook garante proteção e praticidade para sua tecnologia, enquanto os cordões de compressão laterais permitem ajustar o volume da mochila para um encaixe mais compacto. O painel traseiro com malha elástica aumenta a ventilação e o conforto, ideal para longos deslocamentos. Construída com materiais duráveis, ela resiste ao uso diário, com malha plana resistente e zíperes que mantêm seus pertences seguros. Seja para um dia no escritório, na faculdade ou para uma aventura no fim de semana, essa mochila está pronta para ir com você — unindo funcionalidade, estilo e a confiança de quem vive no seu próprio ritmo.
