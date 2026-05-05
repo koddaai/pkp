@@ -27,9 +27,9 @@ tags: ["panasonic", "smart", "ai", "inverter", "ultra"]
 price:
   type: "street"
   currency: "BRL"
-  value: 6999
+  value: 5799
   source: "retailer"
-  updated_at: "2026-05-05T08:01:50.901Z"
+  updated_at: "2026-05-05T21:02:05.978Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-05T08:01:50.901Z"
+    verified_at: "2026-05-05T21:02:05.978Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-05T08:01:50.901Z"
+    verified_at: "2026-05-05T21:02:05.978Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

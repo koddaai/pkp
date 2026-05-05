@@ -27,9 +27,9 @@ tags: ["panasonic", "smart", "ai", "4k", "pro"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2199
+  value: 1949
   source: "retailer"
-  updated_at: "2026-05-05T08:01:50.903Z"
+  updated_at: "2026-05-05T21:02:05.980Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-05T08:01:50.903Z"
+    verified_at: "2026-05-05T21:02:05.980Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-05T08:01:50.903Z"
+    verified_at: "2026-05-05T21:02:05.980Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
