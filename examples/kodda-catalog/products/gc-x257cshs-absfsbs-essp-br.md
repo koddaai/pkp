@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-side-by-side/gc-x257cshs/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a geladeira frost free 598 litros GC-X257CSHS da LG, com InstaView e faz gelo. A+++ em eficiência energética. Adquira já!"
+summary: "Get more information on the LG GC-X257CSHS. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 635L Side by Side InstaView Craft Ice Inox Look."
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 18999.05
   source: "retailer"
-  updated_at: "2026-05-05T21:02:21.714Z"
+  updated_at: "2026-05-06T13:53:36.835Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-05T21:02:21.714Z"
+    verified_at: "2026-05-06T13:53:36.835Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-05T21:02:21.714Z"
+    verified_at: "2026-05-06T13:53:36.835Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":598,"unit":"litros"}
+  capacity: {"value":635,"unit":"l"}
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-05
+# Data de importacao: 2026-05-06
 # aw_product_id: 43478676915
 ---
 
 ## Descricao
 
-Descubra a geladeira frost free 598 litros GC-X257CSHS da LG, com InstaView e faz gelo. A+++ em eficiência energética. Adquira já!
+Get more information on the LG GC-X257CSHS. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 635L Side by Side InstaView Craft Ice Inox Look.

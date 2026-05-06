@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "50qned73asa-bwz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV 4K 50\" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Esportes Alerta de Esportes - 50QNED73ASA"
+name: "Smart TV 4K 50\" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Alerta Esportes - 50QNED73ASA"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2469.05
   source: "retailer"
-  updated_at: "2026-04-30T21:00:23.450Z"
+  updated_at: "2026-05-06T13:53:36.568Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-30T21:00:23.450Z"
+    verified_at: "2026-05-06T13:53:36.568Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-30T21:00:23.450Z"
+    verified_at: "2026-05-06T13:53:36.568Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-30
+# Data de importacao: 2026-05-06
 # aw_product_id: 44183733522
 ---
 

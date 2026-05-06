@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-side-by-side/gc-l257slpl/"
 
 # === DESCOBERTA (L0) ===
-summary: "A Geladeira Side by Side LG 611 litros GC-L257SLPL oferece tecnologia smart e dispenser de água na porta. Transforme sua cozinha com modernidade e eficiência!"
+summary: "Get more information on the LG GC-L257SLPL. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 635L Side by Side UVnano Inox Look."
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 11779.05
   source: "retailer"
-  updated_at: "2026-05-05T21:02:21.713Z"
+  updated_at: "2026-05-06T13:53:36.835Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-05T21:02:21.713Z"
+    verified_at: "2026-05-06T13:53:36.835Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-05T21:02:21.713Z"
+    verified_at: "2026-05-06T13:53:36.835Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":611,"unit":"litros"}
+  capacity: {"value":635,"unit":"l"}
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-05
+# Data de importacao: 2026-05-06
 # aw_product_id: 43478676912
 ---
 
 ## Descricao
 
-A Geladeira Side by Side LG 611 litros GC-L257SLPL oferece tecnologia smart e dispenser de água na porta. Transforme sua cozinha com modernidade e eficiência!
+Get more information on the LG GC-L257SLPL. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 635L Side by Side UVnano Inox Look.
