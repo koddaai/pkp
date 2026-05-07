@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-l257slpl-apzfsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Smart LG Side by Side UVnano™ 611 litros Motor Inverter Aço Escovado 127V - GC-L257SLPL - GC-L257SLPL"
+name: "Geladeira Smart LG Frost Free Inverter 635L Side by Side UVnano Inox Look - GC-L257SLPL"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-side-by-side/gc-l257slpl/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GC-L257SLPL. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 635L Side by Side UVnano Inox Look."
-tags: ["lg", "smart", "inverter"]
+summary: "Geladeira LG Side by Side 611L com ThinQ, UVnano, Door Cooling+ e compressor Linear Inverter para mais praticidade."
+tags: ["lg", "smart", "ai", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 11779.05
   source: "retailer"
-  updated_at: "2026-05-06T21:11:22.340Z"
+  updated_at: "2026-05-07T08:26:26.773Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.340Z"
+    verified_at: "2026-05-07T08:26:26.773Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.340Z"
+    verified_at: "2026-05-07T08:26:26.773Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":635,"unit":"l"}
+  capacity: {"value":611,"unit":"l"}
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-06
+# Data de importacao: 2026-05-07
 # aw_product_id: 43478676912
 ---
 
 ## Descricao
 
-Get more information on the LG GC-L257SLPL. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 635L Side by Side UVnano Inox Look.
+Geladeira LG Side by Side 611L com ThinQ, UVnano, Door Cooling+ e compressor Linear Inverter para mais praticidade.

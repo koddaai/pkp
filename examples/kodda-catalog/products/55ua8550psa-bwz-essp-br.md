@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/tv-uhd-4k/55ua8550psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a próxima geração de Smart AI TVs da LG, 55UA8550PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG UHD AI 4K UA85 de 55 polegadas 2025."
+summary: "Get more information on the LG 55UA8550PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD AI UA85 55” 4K."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2857.6
   source: "retailer"
-  updated_at: "2026-05-06T21:11:22.179Z"
+  updated_at: "2026-05-07T08:26:26.532Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.179Z"
+    verified_at: "2026-05-07T08:26:26.532Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.179Z"
+    verified_at: "2026-05-07T08:26:26.532Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 55
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-06
+# Data de importacao: 2026-05-07
 # aw_product_id: 43478675014
 ---
 
 ## Descricao
 
-Descubra a próxima geração de Smart AI TVs da LG, 55UA8550PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG UHD AI 4K UA85 de 55 polegadas 2025.
+Get more information on the LG 55UA8550PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD AI UA85 55” 4K.

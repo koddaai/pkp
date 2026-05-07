@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/86qned73-s40t/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 86QNED73.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG AI 4K QNED73 de 86\" 2026 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital."
+summary: "Get more information on the LG 86QNED73.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG QNED AI QNED73 86” 4K com Soundbar S40T."
 tags: ["lg", "smart", "ai", "4k", "dolby"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8804.6
   source: "retailer"
-  updated_at: "2026-05-06T21:11:22.190Z"
+  updated_at: "2026-05-07T08:26:26.548Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.190Z"
+    verified_at: "2026-05-07T08:26:26.548Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.190Z"
+    verified_at: "2026-05-07T08:26:26.548Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 86
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-06
+# Data de importacao: 2026-05-07
 # aw_product_id: 44442535699
 ---
 
 ## Descricao
 
-Get more information on the LG 86QNED73.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG AI 4K QNED73 de 86" 2026  + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital.
+Get more information on the LG 86QNED73.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG QNED AI QNED73 86” 4K com Soundbar S40T.

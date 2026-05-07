@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/55qned80asa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a próxima geração de Smart AI TVs da LG, 55QNED80ASA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG QNED AI 4K QNED80 de 55 polegadas 2025."
+summary: "Get more information on the LG 55QNED80ASA. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED AI QNED80 55” 4K."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3039.05
   source: "retailer"
-  updated_at: "2026-05-06T21:11:22.178Z"
+  updated_at: "2026-05-07T08:26:26.531Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.178Z"
+    verified_at: "2026-05-07T08:26:26.531Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.178Z"
+    verified_at: "2026-05-07T08:26:26.531Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 55
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-06
+# Data de importacao: 2026-05-07
 # aw_product_id: 43478675006
 ---
 
 ## Descricao
 
-Descubra a próxima geração de Smart AI TVs da LG, 55QNED80ASA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG QNED AI 4K QNED80 de 55 polegadas 2025.
+Get more information on the LG 55QNED80ASA. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED AI QNED80 55” 4K.

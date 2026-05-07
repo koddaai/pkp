@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/combos-de-tv/86qned85asg-s90ty/"
 
 # === DESCOBERTA (L0) ===
-summary: "Combo Smart TV LG QNED evo AI QNED85 86\" + Soundbar LG S90TY 5.1.3 Canais, 570W RMS, Dolby Atmos"
-tags: ["lg", "smart", "ai", "dolby"]
+summary: "Get more information on the LG 86QNED85ASG.S90TY. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG QNED evo AI QNED85 86” 4K MiniLED com Soundbar S90TY."
+tags: ["lg", "smart", "ai", "4k", "dolby"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 14789.79
   source: "retailer"
-  updated_at: "2026-05-06T21:11:22.191Z"
+  updated_at: "2026-05-07T08:26:26.549Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.191Z"
+    verified_at: "2026-05-07T08:26:26.549Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.191Z"
+    verified_at: "2026-05-07T08:26:26.549Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 86
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-06
+# Data de importacao: 2026-05-07
 # aw_product_id: 43478675143
 ---
 
 ## Descricao
 
-Combo Smart TV LG QNED evo AI QNED85 86" + Soundbar LG S90TY 5.1.3 Canais, 570W RMS, Dolby Atmos
+Get more information on the LG 86QNED85ASG.S90TY. Click for pictures, reviews, and tech specs for the LG  Combo Smart TV LG QNED evo AI QNED85 86” 4K MiniLED com Soundbar S90TY.

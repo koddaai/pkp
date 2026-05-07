@@ -4,8 +4,8 @@ schema: pkp/1.0
 sku: "32gx850-grab-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV 4K 86\" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Alerta de Esportes - 86QNED73ASA"
-category: "tvs"
+name: "Combo Monitor LG UltraGear™ OLED 32GX850A GX8 4K UHD de 32” + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA - 32GX850.GRAB"
+category: "monitors"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -21,15 +21,15 @@ canonical:
 
 # === DESCOBERTA (L0) ===
 summary: "Monitor LG OLED UltraGear™ Glossy Dual Mode 4K 32GX850A-B 32\", 330Hz + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA"
-tags: ["lg", "bluetooth", "smart", "ai", "4k", "oled", "google", "pro", "ultra"]
+tags: ["lg", "bluetooth", "ai", "4k", "oled", "ultra"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 5999
+  value: 6099
   source: "retailer"
-  updated_at: "2026-05-06T21:11:22.161Z"
+  updated_at: "2026-05-07T08:26:26.498Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.161Z"
+    verified_at: "2026-05-07T08:26:26.498Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.161Z"
+    verified_at: "2026-05-07T08:26:26.498Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-06
+# Data de importacao: 2026-05-07
 # aw_product_id: 44670105806
 ---
 

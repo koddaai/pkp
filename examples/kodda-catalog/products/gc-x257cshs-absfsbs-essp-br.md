@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-x257cshs-absfsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Smart LG Side by Side InstaView™ Craft Ice™ UVnano™ 598 L Motor Inverter GC-X257CSHS - 127v - GC-X257CSHS"
+name: "Geladeira Smart LG Frost Free Inverter 635L Side by Side InstaView Craft Ice Inox Look - GC-X257CSHS"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-side-by-side/gc-x257cshs/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GC-X257CSHS. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 635L Side by Side InstaView Craft Ice Inox Look."
+summary: "Descubra a geladeira frost free 598 litros GC-X257CSHS da LG, com InstaView e faz gelo. A+++ em eficiência energética. Adquira já!"
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 18999.05
   source: "retailer"
-  updated_at: "2026-05-06T21:11:22.340Z"
+  updated_at: "2026-05-07T08:26:26.774Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.340Z"
+    verified_at: "2026-05-07T08:26:26.774Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.340Z"
+    verified_at: "2026-05-07T08:26:26.774Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":635,"unit":"l"}
+  capacity: {"value":598,"unit":"litros"}
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-06
+# Data de importacao: 2026-05-07
 # aw_product_id: 43478676915
 ---
 
 ## Descricao
 
-Get more information on the LG GC-X257CSHS. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 635L Side by Side InstaView Craft Ice Inox Look.
+Descubra a geladeira frost free 598 litros GC-X257CSHS da LG, com InstaView e faz gelo. A+++ em eficiência energética. Adquira já!

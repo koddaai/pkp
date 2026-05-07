@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/combos-de-tv/75nano80asa-s70tr/"
 
 # === DESCOBERTA (L0) ===
-summary: "Combo Smart TV LG NanoCell AI NANO80 75\" 2025 + Soundbar LG S70TR 5.1.1 canais, AI Sound Pro, Dolby Atmos"
-tags: ["lg", "smart", "ai", "dolby", "pro"]
+summary: "Get more information on the LG 75NANO80ASA.S70TR. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG NanoCell AI NANO80 75” 4K com Soundbar S70TR."
+tags: ["lg", "smart", "ai", "4k", "dolby", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7830.14
   source: "retailer"
-  updated_at: "2026-05-06T21:11:22.189Z"
+  updated_at: "2026-05-07T08:26:26.546Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.189Z"
+    verified_at: "2026-05-07T08:26:26.546Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.189Z"
+    verified_at: "2026-05-07T08:26:26.546Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 75
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-06
+# Data de importacao: 2026-05-07
 # aw_product_id: 43845390614
 ---
 
 ## Descricao
 
-Combo Smart TV LG NanoCell AI NANO80 75" 2025 + Soundbar LG S70TR 5.1.1 canais, AI Sound Pro, Dolby Atmos
+Get more information on the LG 75NANO80ASA.S70TR. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG NanoCell AI NANO80 75” 4K com Soundbar S70TR.

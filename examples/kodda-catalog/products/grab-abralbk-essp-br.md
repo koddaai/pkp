@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/audio/caixas-de-som-xboom/grab/"
 
 # === DESCOBERTA (L0) ===
-summary: "O xboom Grab oferece portabilidade máxima e o som característico do xboom, ajustado com perfeição por will.i.am. Som exclusivo xboom com Suprema Portabilidade."
+summary: "Get more information on the LG GRAB. Click for pictures, reviews, and tech specs for the LG LG xboom Grab by will.i.am | Caixa de Som Bluetooth Portátil | Som AI | 30W RMS | 20 Horas de Bateria | IP67 e Durabilidade Militar."
 tags: ["lg", "bluetooth", "ai"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 449.1
+  value: 629.1
   source: "retailer"
-  updated_at: "2026-05-06T21:11:22.341Z"
+  updated_at: "2026-05-07T08:26:26.776Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.341Z"
+    verified_at: "2026-05-07T08:26:26.776Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.341Z"
+    verified_at: "2026-05-07T08:26:26.776Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-06
+# Data de importacao: 2026-05-07
 # aw_product_id: 43478676933
 ---
 
 ## Descricao
 
-O xboom Grab oferece portabilidade máxima e o som característico do xboom, ajustado com perfeição por will.i.am. Som exclusivo xboom com Suprema Portabilidade.
+Get more information on the LG GRAB. Click for pictures, reviews, and tech specs for the LG LG xboom Grab by will.i.am | Caixa de Som Bluetooth Portátil | Som AI | 30W RMS | 20 Horas de Bateria | IP67 e Durabilidade Militar.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/50qned73-sh5a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 50QNED73.SH5A. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG AI 4K QNED73 de 50\" 2026 + LG Soundbar SH5A Dolby Digital, DTS Surround 4.1 canais, 600W RMS."
+summary: "Get more information on the LG 50QNED73.SH5A. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG QNED AI QNED73 50” 4K com Soundbar SH5A."
 tags: ["lg", "smart", "ai", "4k", "dolby"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3760.1
   source: "retailer"
-  updated_at: "2026-05-06T21:11:22.174Z"
+  updated_at: "2026-05-07T08:26:26.522Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.174Z"
+    verified_at: "2026-05-07T08:26:26.522Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.174Z"
+    verified_at: "2026-05-07T08:26:26.522Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 50
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-06
+# Data de importacao: 2026-05-07
 # aw_product_id: 44442535693
 ---
 
 ## Descricao
 
-Get more information on the LG 50QNED73.SH5A. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG AI 4K QNED73 de 50" 2026 + LG Soundbar SH5A Dolby Digital, DTS Surround 4.1 canais, 600W RMS.
+Get more information on the LG 50QNED73.SH5A. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG QNED AI QNED73 50” 4K com Soundbar SH5A.

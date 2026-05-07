@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/combos-de-tv/86nano80asa-s40t/"
 
 # === DESCOBERTA (L0) ===
-summary: "Combo Smart TV LG NanoCell AI NANO80 86\" 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital"
-tags: ["lg", "smart", "ai", "dolby"]
+summary: "Get more information on the LG 86NANO80ASA.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG NanoCell AI NANO80 86” 4K com Soundbar S40T."
+tags: ["lg", "smart", "ai", "4k", "dolby"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 9180.99
   source: "retailer"
-  updated_at: "2026-05-06T21:11:22.190Z"
+  updated_at: "2026-05-07T08:26:26.548Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.190Z"
+    verified_at: "2026-05-07T08:26:26.548Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.190Z"
+    verified_at: "2026-05-07T08:26:26.548Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 86
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-06
+# Data de importacao: 2026-05-07
 # aw_product_id: 43478675138
 ---
 
 ## Descricao
 
-Combo Smart TV LG NanoCell AI NANO80 86" 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital
+Get more information on the LG 86NANO80ASA.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG NanoCell AI NANO80 86” 4K com Soundbar S40T.

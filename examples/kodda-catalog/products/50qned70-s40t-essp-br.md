@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/50qned70-s40t/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 50QNED70.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV 4K LG QNED AI QNED70 de 50 polegadas 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital."
+summary: "Get more information on the LG 50QNED70.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG QNED AI QNED70 50” 4K com Soundbar S40T."
 tags: ["lg", "smart", "ai", "4k", "dolby"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3332.6
   source: "retailer"
-  updated_at: "2026-05-06T21:11:22.173Z"
+  updated_at: "2026-05-07T08:26:26.522Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.173Z"
+    verified_at: "2026-05-07T08:26:26.522Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-06T21:11:22.173Z"
+    verified_at: "2026-05-07T08:26:26.522Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 50
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-06
+# Data de importacao: 2026-05-07
 # aw_product_id: 44471599424
 ---
 
 ## Descricao
 
-Get more information on the LG 50QNED70.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV 4K LG QNED AI QNED70 de 50 polegadas 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital.
+Get more information on the LG 50QNED70.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG QNED AI QNED70 50” 4K com Soundbar S40T.
