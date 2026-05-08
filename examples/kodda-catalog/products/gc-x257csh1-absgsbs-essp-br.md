@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-side-by-side/gc-x257csh1/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça a Geladeira Smart LG Side by Side com capacidade de 598 litros, 220V e tecnolgia avançada InstaView, Craft Ice e UVnano. Adquira a sua!"
+summary: "Get more information on the LG GC-X257CSH1. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Side by Side InstaView™ Craft Ice™ UVnano™ 598 L Motor Inverter GC-X257CSH1 - 220V."
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 18999.05
   source: "retailer"
-  updated_at: "2026-05-07T21:04:14.325Z"
+  updated_at: "2026-05-08T07:22:59.761Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-07T21:04:14.325Z"
+    verified_at: "2026-05-08T07:22:59.761Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-07T21:04:14.325Z"
+    verified_at: "2026-05-08T07:22:59.761Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":598,"unit":"litros"}
+  capacity: {"value":598,"unit":"l"}
   voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-07
+# Data de importacao: 2026-05-08
 # aw_product_id: 43478676914
 ---
 
 ## Descricao
 
-Conheça a Geladeira Smart LG Side by Side com capacidade de 598 litros, 220V e tecnolgia avançada InstaView, Craft Ice e UVnano. Adquira a sua!
+Get more information on the LG GC-X257CSH1. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Side by Side InstaView™ Craft Ice™ UVnano™ 598 L Motor Inverter GC-X257CSH1 - 220V.
