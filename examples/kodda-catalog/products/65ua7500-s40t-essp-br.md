@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "65ua7500-s40t-essp-br"
 # gtin: null
 brand: "LG"
-name: "Combo TV LG 4K UHD AI 65\" UA75 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital - 65UA7500.S40T"
+name: "Combo Smart TV LG UHD AI UA75 65” 4K com Soundbar S40T - 65UA7500.S40T"
 category: "tvs"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/combos-de-tv/65ua7500-s40t/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 65UA7500.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG UHD AI UA75 65” 4K com Soundbar S40T."
+summary: "Combo TV LG 4K UHD AI 65\" UA75 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital"
 tags: ["lg", "smart", "ai", "4k", "dolby"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4478.49
   source: "retailer"
-  updated_at: "2026-05-08T20:59:34.749Z"
+  updated_at: "2026-05-09T07:50:04.989Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.749Z"
+    verified_at: "2026-05-09T07:50:04.989Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.749Z"
+    verified_at: "2026-05-09T07:50:04.989Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 65
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-08
+# Data de importacao: 2026-05-09
 # aw_product_id: 43478675085
 ---
 
 ## Descricao
 
-Get more information on the LG 65UA7500.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG UHD AI UA75 65” 4K com Soundbar S40T.
+Combo TV LG 4K UHD AI 65" UA75 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital

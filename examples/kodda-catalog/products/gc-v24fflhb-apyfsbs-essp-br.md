@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-v24fflhb-apyfsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira LG Multidoor 670 litros InstaView - GC-V24FFLHB"
+name: "Geladeira LG Smart Multidoor 670L Frost Free Inverter InstaView Inox Look 127V - GC-V24FFLHB"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-multidoor/gc-v24fflhb/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GC-V24FFLHB. Click for pictures, reviews, and tech specs for the LG Geladeira LG Smart Multidoor 670L Frost Free Inverter InstaView Inox Look 127V."
-tags: ["lg", "smart", "inverter"]
+summary: "Conheça a nova geladeira LG Multidoor com 670 litros de capacidade e InstaView para maior facilidade"
+tags: ["lg", "smart", "ai", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 15199.06
   source: "retailer"
-  updated_at: "2026-05-08T20:59:34.957Z"
+  updated_at: "2026-05-09T07:50:05.218Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.957Z"
+    verified_at: "2026-05-09T07:50:05.218Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.957Z"
+    verified_at: "2026-05-09T07:50:05.218Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":670,"unit":"l"}
-  voltage: "127V"
+  capacity: {"value":670,"unit":"litros"}
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-08
+# Data de importacao: 2026-05-09
 # aw_product_id: 44650701084
 ---
 
 ## Descricao
 
-Get more information on the LG GC-V24FFLHB. Click for pictures, reviews, and tech specs for the LG Geladeira LG Smart Multidoor 670L Frost Free Inverter InstaView Inox Look 127V.
+Conheça a nova geladeira LG Multidoor com 670 litros de capacidade e InstaView para maior facilidade

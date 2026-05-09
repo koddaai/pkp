@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "55nano80-sh5a-essp-br"
 # gtin: null
 brand: "LG"
-name: "Combo Smart TV LG NanoCell AI 4K NANO80 de 55 polegadas 2025 + LG Soundbar SH5A Dolby Digital, DTS Surround 4.1 canais, 600W RMS - 55NANO80.SH5A"
+name: "Combo Smart TV LG NanoCell AI NANO80 55” 4K com Soundbar SH5A - 55NANO80.SH5A"
 category: "tvs"
 
 
@@ -21,7 +21,7 @@ canonical:
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 55NANO80.SH5A. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG NanoCell AI NANO80 55” 4K com Soundbar SH5A."
-tags: ["lg", "smart", "ai", "4k", "dolby"]
+tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3966.25
   source: "retailer"
-  updated_at: "2026-05-08T20:59:34.737Z"
+  updated_at: "2026-05-09T07:50:04.972Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.737Z"
+    verified_at: "2026-05-09T07:50:04.972Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.737Z"
+    verified_at: "2026-05-09T07:50:04.972Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-08
+# Data de importacao: 2026-05-09
 # aw_product_id: 44479663069
 ---
 

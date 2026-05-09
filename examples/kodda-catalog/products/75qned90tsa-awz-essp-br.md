@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "75qned90tsa-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV 4K LG QNED MiniLED QNED90 de 75 polegadas 2024 - 75QNED90TSA"
+name: "Smart TV LG QNED MiniLED QNED90 75” 4K 2024 - 75QNED90TSA"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8549.05
   source: "retailer"
-  updated_at: "2026-05-08T20:59:34.755Z"
+  updated_at: "2026-05-09T07:50:04.997Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.755Z"
+    verified_at: "2026-05-09T07:50:04.997Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.755Z"
+    verified_at: "2026-05-09T07:50:04.997Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-08
+# Data de importacao: 2026-05-09
 # aw_product_id: 44077722794
 ---
 

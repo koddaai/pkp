@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "50qned73-s40t-essp-br"
 # gtin: null
 brand: "LG"
-name: "Combo Smart TV LG AI 4K QNED73 de 50\" 2026 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital - 50QNED73.S40T"
+name: "Combo Smart TV LG QNED AI QNED73 50” 4K com Soundbar S40T - 50QNED73.S40T"
 category: "tvs"
 
 
@@ -21,7 +21,7 @@ canonical:
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 50QNED73.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG QNED AI QNED73 50” 4K com Soundbar S40T."
-tags: ["lg", "smart", "ai", "4k", "dolby"]
+tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3332.6
   source: "retailer"
-  updated_at: "2026-05-08T20:59:34.730Z"
+  updated_at: "2026-05-09T07:50:04.965Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.730Z"
+    verified_at: "2026-05-09T07:50:04.965Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.730Z"
+    verified_at: "2026-05-09T07:50:04.965Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-08
+# Data de importacao: 2026-05-09
 # aw_product_id: 44442535692
 ---
 

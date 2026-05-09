@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "65nano80tsa-bwz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG NanoCell AI NANO80 4K de 65 polegadas 65NANO80  - 65NANO80TSA"
+name: "Smart TV LG NanoCell NANO80 65” 4K - 65NANO80TSA"
 category: "tvs"
 
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/nanocell/65nano80tsa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 65NANO80TSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG NanoCell NANO80 65” 4K."
-tags: ["lg", "smart", "ai", "4k"]
+summary: "Descubra a TV ultra grande LG NanoCell NANO80 de 86/75/70/65/55/50 polegadas, alimentada pelo processador alpha 5 AI 4K Ger7 para cores puras em verdadeiro 4K, com webOS 24 e controle simples da soundbar através da Interface WOW."
+tags: ["lg", "smart", "ai", "4k", "pro", "ultra"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3229.05
   source: "retailer"
-  updated_at: "2026-05-08T20:59:34.747Z"
+  updated_at: "2026-05-09T07:50:04.987Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.747Z"
+    verified_at: "2026-05-09T07:50:04.987Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.747Z"
+    verified_at: "2026-05-09T07:50:04.987Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 50
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-08
+# Data de importacao: 2026-05-09
 # aw_product_id: 44077722793
 ---
 
 ## Descricao
 
-Get more information on the LG 65NANO80TSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG NanoCell NANO80 65” 4K.
+Descubra a TV ultra grande LG NanoCell NANO80 de 86/75/70/65/55/50 polegadas, alimentada pelo processador alpha 5 AI 4K Ger7 para cores puras em verdadeiro 4K, com webOS 24 e controle simples da soundbar através da Interface WOW.

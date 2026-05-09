@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-l257slp1-apzgsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Smart LG Side by Side UVnano™ 611 litros Motor Inverter Aço Escovado 220v - GC-L257SLP1 - GC-L257SLP1"
+name: "Geladeira Smart LG Side by Side UVnano™ 611 litros Motor Inverter Aço Escovado 220V - GC-L257SLP1 - GC-L257SLP1"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-side-by-side/gc-l257slp1/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GC-L257SLP1. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Side by Side UVnano™ 611 litros Motor Inverter Aço Escovado 220V - GC-L257SLP1."
-tags: ["lg", "smart", "inverter"]
+summary: "Conheça a Geladeira Smart LG Side by Side 611 litros, 220V, tecnologia avançada para manter seus alimentos frescos por mais tempo. Confira!"
+tags: ["lg", "smart", "ai", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 9499.05
   source: "retailer"
-  updated_at: "2026-05-08T20:59:34.956Z"
+  updated_at: "2026-05-09T07:50:05.218Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.956Z"
+    verified_at: "2026-05-09T07:50:05.218Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.956Z"
+    verified_at: "2026-05-09T07:50:05.218Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -56,10 +56,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-08
+# Data de importacao: 2026-05-09
 # aw_product_id: 43478676911
 ---
 
 ## Descricao
 
-Get more information on the LG GC-L257SLP1. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Side by Side UVnano™ 611 litros Motor Inverter Aço Escovado 220V - GC-L257SLP1.
+Conheça a Geladeira Smart LG Side by Side 611 litros, 220V, tecnologia avançada para manter seus alimentos frescos por mais tempo. Confira!

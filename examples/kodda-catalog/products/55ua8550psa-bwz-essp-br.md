@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "55ua8550psa-bwz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG UHD AI 4K UA85 de 55 polegadas 2025 - 55UA8550PSA"
+name: "Smart TV LG UHD AI UA85 55” 4K - 55UA8550PSA"
 category: "tvs"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/tv-uhd-4k/55ua8550psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 55UA8550PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD AI UA85 55” 4K."
+summary: "Smart TV LG 55\" com imagem 4K UHD, AI e webOS para mais imersão, praticidade e entretenimento completo."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2857.6
   source: "retailer"
-  updated_at: "2026-05-08T20:59:34.739Z"
+  updated_at: "2026-05-09T07:50:04.974Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.739Z"
+    verified_at: "2026-05-09T07:50:04.974Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.739Z"
+    verified_at: "2026-05-09T07:50:04.974Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 55
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-08
+# Data de importacao: 2026-05-09
 # aw_product_id: 43478675014
 ---
 
 ## Descricao
 
-Get more information on the LG 55UA8550PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD AI UA85 55” 4K.
+Smart TV LG 55" com imagem 4K UHD, AI e webOS para mais imersão, praticidade e entretenimento completo.

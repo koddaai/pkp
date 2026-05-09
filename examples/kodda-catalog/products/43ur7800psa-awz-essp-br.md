@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "43ur7800psa-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV 43\" 4K LG UHD ThinQ AI HDR Bluetooth Alexa Google Assistente Airplay2 3 HDMI - 43UR7800PSA - 43UR7800PSA"
+name: "Smart TV LG UHD UR7800 43” 4K - 43UR7800PSA"
 category: "tvs"
 
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/tv-uhd-4k/43ur7800psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 43UR7800PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD UR7800 43” 4K."
-tags: ["lg", "bluetooth", "smart", "ai", "4k", "hdr", "alexa", "google"]
+summary: "Conheça a Smart TV LG UHD 43'' com imagens em 4K nítidas e tecnologia avançada. Viva uma experiência visual de alta qualidade. Acesse e saiba mais!"
+tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1614.05
   source: "retailer"
-  updated_at: "2026-05-08T20:59:34.719Z"
+  updated_at: "2026-05-09T07:50:04.952Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.719Z"
+    verified_at: "2026-05-09T07:50:04.952Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-08T20:59:34.719Z"
+    verified_at: "2026-05-09T07:50:04.952Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-08
+# Data de importacao: 2026-05-09
 # aw_product_id: 44215431572
 ---
 
 ## Descricao
 
-Get more information on the LG 43UR7800PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD UR7800 43” 4K.
+Conheça a Smart TV LG UHD 43'' com imagens em 4K nítidas e tecnologia avançada. Viva uma experiência visual de alta qualidade. Acesse e saiba mais!
