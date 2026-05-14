@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-side-by-side/gc-l257slp1/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça a Geladeira Smart LG Side by Side 611 litros, 220V, tecnologia avançada para manter seus alimentos frescos por mais tempo. Confira!"
-tags: ["lg", "smart", "ai", "inverter"]
+summary: "Get more information on the LG GC-L257SLP1. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 635L Side by Side UVnano Inox Look - 220V ."
+tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 9974.05
   source: "retailer"
-  updated_at: "2026-05-13T21:26:17.483Z"
+  updated_at: "2026-05-14T08:32:23.268Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-13T21:26:17.483Z"
+    verified_at: "2026-05-14T08:32:23.268Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-13T21:26:17.483Z"
+    verified_at: "2026-05-14T08:32:23.268Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":611,"unit":"litros"}
+  capacity: {"value":635,"unit":"l"}
   voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-13
+# Data de importacao: 2026-05-14
 # aw_product_id: 43478676911
 ---
 
 ## Descricao
 
-Conheça a Geladeira Smart LG Side by Side 611 litros, 220V, tecnologia avançada para manter seus alimentos frescos por mais tempo. Confira!
+Get more information on the LG GC-L257SLP1. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 635L Side by Side UVnano Inox Look - 220V .

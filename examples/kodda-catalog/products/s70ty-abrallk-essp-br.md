@@ -5,8 +5,8 @@ sku: "s70ty-abrallk-essp-br"
 # gtin: null
 brand: "LG"
 name: "Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS - S70TY"
-category: "tvs"
-
+category: "audio"
+subcategory: "soundbar"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/audio/soundbars/all-in-one-soundbars/s70ty/"
 
 # === DESCOBERTA (L0) ===
-summary: "Discover the LG Soundbar S70TY, with Dolby Atmos and 2 channel rear speakers, and 3.1.1 channel surround sound. The QNED-matching bracket and WOW Synergy make it the perfect match for your LG TV."
+summary: "Get more information on the LG S70TY. Click for pictures, reviews, and tech specs for the LG Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS."
 tags: ["lg", "ai", "dolby"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1709.1
   source: "retailer"
-  updated_at: "2026-05-13T21:26:17.525Z"
+  updated_at: "2026-05-14T08:32:23.305Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-13T21:26:17.525Z"
+    verified_at: "2026-05-14T08:32:23.305Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-13T21:26:17.525Z"
+    verified_at: "2026-05-14T08:32:23.305Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-13
+# Data de importacao: 2026-05-14
 # aw_product_id: 43655290423
 ---
 
 ## Descricao
 
-Discover the LG Soundbar S70TY, with Dolby Atmos and 2 channel rear speakers, and 3.1.1 channel surround sound. The QNED-matching bracket and WOW Synergy make it the perfect match for your LG TV.
+Get more information on the LG S70TY. Click for pictures, reviews, and tech specs for the LG Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS.

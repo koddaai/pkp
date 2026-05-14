@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebx64334909/"
 
 # === DESCOBERTA (L0) ===
-summary: "Controle remoto sem fio para comando a distância, por raios de infravermelho (IR), com função de apontador para navegação, acompanhado de 2 pilhas alcalinas tipo AA, para seu funcionamento, MR22GN, para aparelho televisor."
-tags: ["lg", "ai", "sem-fio"]
+summary: "Get more information on the LG EBX64334909. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic MR22GN TV LG EBX64334909."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-05-13T21:26:17.481Z"
+  updated_at: "2026-05-14T08:32:23.266Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-13T21:26:17.481Z"
+    verified_at: "2026-05-14T08:32:23.266Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-13T21:26:17.481Z"
+    verified_at: "2026-05-14T08:32:23.266Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-13
+# Data de importacao: 2026-05-14
 # aw_product_id: 43478676892
 ---
 
 ## Descricao
 
-Controle remoto sem fio para comando a distância, por raios de infravermelho (IR), com função de apontador para navegação, acompanhado de 2 pilhas alcalinas tipo AA, para seu funcionamento, MR22GN, para aparelho televisor.
+Get more information on the LG EBX64334909. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic MR22GN TV LG EBX64334909.
