@@ -27,15 +27,15 @@ tags: ["adidas", "ai", "pro"]
 price:
   type: "street"
   currency: "BRL"
-  value: 189.99
+  value: 249.99
   source: "retailer"
-  updated_at: "2026-04-08T20:42:47.478Z"
+  updated_at: "2026-05-16T13:10:09.263Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "Adidas BR"
-    url: "https://www.awin1.com/pclick.php?p=44355913842&a=2753646&m=79926"
+    url: "https://www.awin1.com/pclick.php?p=44757880072&a=2753646&m=79926"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-08T20:42:47.478Z"
+    verified_at: "2026-05-16T13:10:09.263Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-08T20:42:47.478Z"
+    verified_at: "2026-05-16T13:10:09.263Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,8 +55,8 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Adidas BR (feed_id: 95015)
-# Data de importacao: 2026-04-08
-# aw_product_id: 44355913842
+# Data de importacao: 2026-05-16
+# aw_product_id: 44757880072
 ---
 
 ## Descricao
