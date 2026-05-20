@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-full-hd-qhd/20mk400h-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Monitor LG 19,5'' TN HD - 20MK400H-B"
+summary: "Get more information on the LG 20MK400H-B. Click for pictures, reviews, and tech specs for the LG Monitor LG LED HD 19,5'' HDMI OnScreen Control - 20MK400H-B."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 449
   source: "retailer"
-  updated_at: "2026-05-19T21:19:41.039Z"
+  updated_at: "2026-05-20T08:58:27.164Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-19T21:19:41.039Z"
+    verified_at: "2026-05-20T08:58:27.164Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-19T21:19:41.039Z"
+    verified_at: "2026-05-20T08:58:27.164Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-19
+# Data de importacao: 2026-05-20
 # aw_product_id: 43478674758
 ---
 
 ## Descricao
 
-Monitor LG 19,5'' TN HD - 20MK400H-B
+Get more information on the LG 20MK400H-B. Click for pictures, reviews, and tech specs for the LG Monitor LG LED HD 19,5'' HDMI OnScreen Control - 20MK400H-B.

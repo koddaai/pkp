@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-side-by-side/gc-l257slpl/"
 
 # === DESCOBERTA (L0) ===
-summary: "Geladeira LG Side by Side 611L com ThinQ, UVnano, Door Cooling+ e compressor Linear Inverter para mais praticidade."
-tags: ["lg", "smart", "ai", "inverter"]
+summary: "Get more information on the LG GC-L257SLPL. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 611L Side by Side UVnano Inox Look - 127V."
+tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 9024.05
+  value: 9499.05
   source: "retailer"
-  updated_at: "2026-05-19T21:19:41.367Z"
+  updated_at: "2026-05-20T08:58:27.387Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-19T21:19:41.367Z"
+    verified_at: "2026-05-20T08:58:27.387Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-19T21:19:41.367Z"
+    verified_at: "2026-05-20T08:58:27.387Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":611,"unit":"l"}
+  voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-19
+# Data de importacao: 2026-05-20
 # aw_product_id: 43478676912
 ---
 
 ## Descricao
 
-Geladeira LG Side by Side 611L com ThinQ, UVnano, Door Cooling+ e compressor Linear Inverter para mais praticidade.
+Get more information on the LG GC-L257SLPL. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 611L Side by Side UVnano Inox Look - 127V.
