@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/s3-w09aa31d/"
 
 # === DESCOBERTA (L0) ===
-summary: "Encontre todas as informações sobre a nova linha de ar-condicionado LG AI Dual Inverter Compact com inteligência artificial, controle de energia 4 em 1 e alta durabilidade"
+summary: "Encontre todas as informações sobre a nova linha de ar-condicionado LG AI Dual Inverter Compact com inteligência artificia. Saiba mais!"
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 2456.09
+  value: 2429.1
   source: "retailer"
-  updated_at: "2026-05-22T21:09:02.077Z"
+  updated_at: "2026-05-23T08:11:45.383Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-22T21:09:02.077Z"
+    verified_at: "2026-05-23T08:11:45.383Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-22T21:09:02.077Z"
+    verified_at: "2026-05-23T08:11:45.383Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-22
+# Data de importacao: 2026-05-23
 # aw_product_id: 43478677170
 ---
 
 ## Descricao
 
-Encontre todas as informações sobre a nova linha de ar-condicionado LG AI Dual Inverter Compact com inteligência artificial, controle de energia 4 em 1 e alta durabilidade
+Encontre todas as informações sobre a nova linha de ar-condicionado LG AI Dual Inverter Compact com inteligência artificia. Saiba mais!

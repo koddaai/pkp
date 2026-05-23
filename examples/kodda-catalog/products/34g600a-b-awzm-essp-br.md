@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/34g600a-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Monitor Gamer LG UltraGear™ OLED Curvo 34G600A-B 34\" QuadHD, 160Hz, 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync™ Premium, HDR10"
-tags: ["lg", "oled", "hdr", "premium", "ultra", "max", "gamer"]
+summary: "Monitor gamer LG 160Hz com tela IPS Full HD de 34\", ideal para jogar com imagens fluidas e resposta rápida. Saiba mais!"
+tags: ["lg", "ai", "hdr", "premium", "ultra", "max", "gamer"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1999
   source: "retailer"
-  updated_at: "2026-05-22T21:09:01.831Z"
+  updated_at: "2026-05-23T08:11:45.129Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-22T21:09:01.831Z"
+    verified_at: "2026-05-23T08:11:45.129Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-22T21:09:01.831Z"
+    verified_at: "2026-05-23T08:11:45.129Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-22
+# Data de importacao: 2026-05-23
 # aw_product_id: 43478674810
 ---
 
 ## Descricao
 
-Monitor Gamer LG UltraGear™ OLED Curvo 34G600A-B 34" QuadHD, 160Hz, 1ms (MBR),  NVIDIA G-SYNC, AMD FreeSync™ Premium, HDR10
+Monitor gamer LG 160Hz com tela IPS Full HD de 34", ideal para jogar com imagens fluidas e resposta rápida. Saiba mais!
