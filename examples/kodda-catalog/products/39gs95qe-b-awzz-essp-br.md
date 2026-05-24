@@ -27,9 +27,9 @@ tags: ["lg", "oled", "hdr", "premium", "pro", "ultra", "gamer"]
 price:
   type: "street"
   currency: "BRL"
-  value: 7499
+  value: 7104.31
   source: "retailer"
-  updated_at: "2026-05-23T20:51:43.551Z"
+  updated_at: "2026-05-24T08:23:12.269Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-23T20:51:43.551Z"
+    verified_at: "2026-05-24T08:23:12.269Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-23T20:51:43.551Z"
+    verified_at: "2026-05-24T08:23:12.269Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-23
+# Data de importacao: 2026-05-24
 # aw_product_id: 43478674831
 ---
 
