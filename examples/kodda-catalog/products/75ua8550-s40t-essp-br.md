@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/combos-de-tv/75ua8550-s40t/"
 
 # === DESCOBERTA (L0) ===
-summary: "Combo Smart TV LG 75\" 4K HDR10 Pro 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital"
+summary: "Get more information on the LG 75UA8550.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG UHD AI UA85 75” 4K com Soundbar S40T."
 tags: ["lg", "smart", "ai", "4k", "hdr", "dolby", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5299.1
   source: "retailer"
-  updated_at: "2026-05-25T21:05:48.194Z"
+  updated_at: "2026-05-26T09:42:48.433Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-25T21:05:48.194Z"
+    verified_at: "2026-05-26T09:42:48.433Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-25T21:05:48.194Z"
+    verified_at: "2026-05-26T09:42:48.433Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 75
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-25
+# Data de importacao: 2026-05-26
 # aw_product_id: 43478675135
 ---
 
 ## Descricao
 
-Combo Smart TV LG 75" 4K HDR10 Pro 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital
+Get more information on the LG 75UA8550.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG UHD AI UA85 75” 4K com Soundbar S40T.

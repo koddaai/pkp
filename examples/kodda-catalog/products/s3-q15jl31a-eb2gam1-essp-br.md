@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-q15jl31a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG S3-Q15JL31A. Click for pictures, reviews, and tech specs for the LG Ar-Cond. LG Dual Inv. Voice +AI 15.000 BTU."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG S3-Q15JL31A. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Voice 15.000 BTU Frio 220V."
+tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2537.1
   source: "retailer"
-  updated_at: "2026-05-25T21:05:48.393Z"
+  updated_at: "2026-05-26T09:42:48.653Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-25T21:05:48.393Z"
+    verified_at: "2026-05-26T09:42:48.653Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-25T21:05:48.393Z"
+    verified_at: "2026-05-26T09:42:48.653Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-25
+# Data de importacao: 2026-05-26
 # aw_product_id: 43478677161
 ---
 
 ## Descricao
 
-Get more information on the LG S3-Q15JL31A. Click for pictures, reviews, and tech specs for the LG Ar-Cond. LG Dual Inv. Voice +AI 15.000 BTU.
+Get more information on the LG S3-Q15JL31A. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Voice 15.000 BTU Frio 220V.

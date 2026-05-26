@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/tvs/remote-controller/akb75055702/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AKB75055702. Clique para ver fotos, avaliações e especificações técnicas do Controle remoto para LG TV."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AKB75055702. Click for pictures, reviews, and tech specs for the LG Controle remoto para TV."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.99
   source: "retailer"
-  updated_at: "2026-05-25T21:05:48.239Z"
+  updated_at: "2026-05-26T09:42:48.493Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-25T21:05:48.239Z"
+    verified_at: "2026-05-26T09:42:48.493Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-25T21:05:48.239Z"
+    verified_at: "2026-05-26T09:42:48.493Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-25
+# Data de importacao: 2026-05-26
 # aw_product_id: 43478675672
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre o AKB75055702. Clique para ver fotos, avaliações e especificações técnicas do Controle remoto para LG TV.
+Get more information on the LG AKB75055702. Click for pictures, reviews, and tech specs for the LG Controle remoto para TV.

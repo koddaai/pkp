@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/combos-de-tv/oled55c5-s40t/"
 
 # === DESCOBERTA (L0) ===
-summary: "Combo Smart TV LG OLED evo AI C5 55\" 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital"
+summary: "Get more information on the LG OLED55C5.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED evo AI C5 55\" 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital."
 tags: ["lg", "smart", "ai", "oled", "dolby"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6252.66
   source: "retailer"
-  updated_at: "2026-05-25T21:05:48.391Z"
+  updated_at: "2026-05-26T09:42:48.648Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-25T21:05:48.391Z"
+    verified_at: "2026-05-26T09:42:48.648Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-25T21:05:48.391Z"
+    verified_at: "2026-05-26T09:42:48.648Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-25
+# Data de importacao: 2026-05-26
 # aw_product_id: 43478677113
 ---
 
 ## Descricao
 
-Combo Smart TV LG OLED evo AI C5 55" 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital
+Get more information on the LG OLED55C5.S40T. Click for pictures, reviews, and tech specs for the LG Combo Smart TV LG OLED evo AI C5 55" 2025 + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital.

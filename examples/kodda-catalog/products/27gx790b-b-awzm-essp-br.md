@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear-oled/27gx790b-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Ontdek de LG UltraGear 27GX790B met OLED‑beeldkwaliteit, 240 Hz refreshrate, DisplayPort 2.1 en AdaptiveSync. Gemaakt voor vloeiende high‑speed gaming zonder compromissen."
-tags: ["lg", "oled", "premium", "pro", "ultra", "gaming"]
+summary: "Get more information on the LG 27GX790B-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED 4th gen UltraGearTM Dual Mode 27GX790B-B 27\", 720Hz HD, 540Hz QHD 2K, 0.02ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa ClearMR21000, Tandem Technology."
+tags: ["lg", "oled", "premium", "pro", "ultra"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5999
   source: "retailer"
-  updated_at: "2026-05-25T21:05:48.166Z"
+  updated_at: "2026-05-26T09:42:48.389Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-25T21:05:48.166Z"
+    verified_at: "2026-05-26T09:42:48.389Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-25T21:05:48.166Z"
+    verified_at: "2026-05-26T09:42:48.389Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 27
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-25
+# Data de importacao: 2026-05-26
 # aw_product_id: 44564914726
 ---
 
 ## Descricao
 
-Ontdek de LG UltraGear 27GX790B met OLED‑beeldkwaliteit, 240 Hz refreshrate, DisplayPort 2.1 en AdaptiveSync. Gemaakt voor vloeiende high‑speed gaming zonder compromissen.
+Get more information on the LG 27GX790B-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED 4th gen UltraGearTM Dual Mode 27GX790B-B 27", 720Hz HD, 540Hz QHD 2K, 0.02ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa ClearMR21000, Tandem Technology.

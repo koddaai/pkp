@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/34gp63a-27gs60f/"
 
 # === DESCOBERTA (L0) ===
-summary: "Monitor Gamer LG UltraGear Curvo 34” UltraWide 3440x1440 160Hz + Monitor Gamer LG UltraGear 27” IPS, 180Hz"
+summary: "Get more information on the LG 34GP63A.27GS60F. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear Curvo 34” UltraWide 3440x1440 160Hz + Monitor Gamer LG UltraGear 27” IPS, 180Hz."
 tags: ["lg", "ultra", "gamer"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3006.11
   source: "retailer"
-  updated_at: "2026-05-25T21:05:48.169Z"
+  updated_at: "2026-05-26T09:42:48.394Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-25T21:05:48.169Z"
+    verified_at: "2026-05-26T09:42:48.394Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-25T21:05:48.169Z"
+    verified_at: "2026-05-26T09:42:48.394Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-25
+# Data de importacao: 2026-05-26
 # aw_product_id: 43478674814
 ---
 
 ## Descricao
 
-Monitor Gamer LG UltraGear Curvo 34” UltraWide 3440x1440 160Hz + Monitor Gamer LG UltraGear 27” IPS, 180Hz
+Get more information on the LG 34GP63A.27GS60F. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear Curvo 34” UltraWide 3440x1440 160Hz + Monitor Gamer LG UltraGear 27” IPS, 180Hz.
