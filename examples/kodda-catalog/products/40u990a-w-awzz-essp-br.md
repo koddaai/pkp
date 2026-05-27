@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-uhd-4k/40u990a-w/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the 40U990A-W. Click for pictures, reviews & tech specs for the LG UltraFine™ Nano IPS Black 5K2K WUHD 40\", Thunderbolt™ 5 96W PD, DisplayHDR™600, DCI-P3 99%(Typ.), USB-C, DP 2.1."
+summary: "Get more information on the LG 40U990A-W. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraFine 40U990A-W Nano IPS Black 5K2K WUHD 40\", Thunderbolt™ 5, PD 96W, DisplayHDR™600, DCI-P3 99%(Typ.), USB-C, DP 2.1."
 tags: ["lg", "hdr", "ultra"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 11999
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.741Z"
+  updated_at: "2026-05-27T09:36:46.329Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.741Z"
+    verified_at: "2026-05-27T09:36:46.329Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.741Z"
+    verified_at: "2026-05-27T09:36:46.329Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 44700899949
 ---
 
 ## Descricao
 
-Get more information on the 40U990A-W. Click for pictures, reviews & tech specs for the LG UltraFine™ Nano IPS Black 5K2K WUHD 40", Thunderbolt™ 5 96W PD, DisplayHDR™600, DCI-P3 99%(Typ.), USB-C, DP 2.1.
+Get more information on the LG 40U990A-W. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraFine 40U990A-W Nano IPS Black 5K2K WUHD 40", Thunderbolt™ 5, PD 96W, DisplayHDR™600, DCI-P3 99%(Typ.), USB-C, DP 2.1.

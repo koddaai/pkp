@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/wd15gnts6ba/"
 
 # === DESCOBERTA (L0) ===
-summary: "Lava e Seca Smart LG 15kg Slim Titanium com AIDD™"
+summary: "Get more information on the LG WD15GNTS6BA. Click for pictures, reviews, and tech specs for the LG Lava e Seca Smart LG 15kg Black Inox com AIDD™."
 tags: ["lg", "smart", "ai", "5g"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 5224.05
+  value: 5129.05
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.996Z"
+  updated_at: "2026-05-27T09:36:46.593Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.996Z"
+    verified_at: "2026-05-27T09:36:46.593Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.996Z"
+    verified_at: "2026-05-27T09:36:46.593Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 44092855078
 ---
 
 ## Descricao
 
-Lava e Seca Smart LG 15kg Slim Titanium com AIDD™
+Get more information on the LG WD15GNTS6BA. Click for pictures, reviews, and tech specs for the LG Lava e Seca Smart LG 15kg Black Inox com AIDD™.

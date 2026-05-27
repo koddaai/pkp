@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear-oled/32gx850a-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o 32GX850A-B. Clique para imagens, avaliações e especificações técnicas do LG . Monitor gamer OLED 4K UHD de 32 polegadas LG UltraGear™ GX8 | 32GX850A com Dual-Mode, 0.03ms (GtG), DisplayHDR™ True Black 400, Glare Panel"
-tags: ["lg", "ai", "4k", "oled", "hdr", "premium", "pro", "ultra", "gamer"]
+summary: "Get more information on the LG 32GX850A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ Glossy Dual Mode 4K 32GX850A-B 32\", 330Hz FHD, 165Hz UHD, 0.03ms (GtG), Vesa Adaptive-Sync, NVIDIA G-SYNC, AMD FreeSync Premium Pro, DisplayHDR True Black 400 & DCI-P3 98.5%, Ajustes Pro Gamer."
+tags: ["lg", "4k", "oled", "hdr", "premium", "pro", "ultra", "gamer"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5999
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.735Z"
+  updated_at: "2026-05-27T09:36:46.321Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.735Z"
+    verified_at: "2026-05-27T09:36:46.321Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.735Z"
+    verified_at: "2026-05-27T09:36:46.321Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 44570169878
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre o 32GX850A-B. Clique para imagens, avaliações e especificações técnicas do LG . Monitor gamer OLED 4K UHD de 32 polegadas LG UltraGear™ GX8 | 32GX850A com Dual-Mode, 0.03ms (GtG), DisplayHDR™ True Black 400, Glare Panel
+Get more information on the LG 32GX850A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ Glossy Dual Mode 4K 32GX850A-B 32", 330Hz FHD, 165Hz UHD, 0.03ms (GtG), Vesa Adaptive-Sync, NVIDIA G-SYNC, AMD FreeSync Premium Pro, DisplayHDR True Black 400 & DCI-P3 98.5%, Ajustes Pro Gamer.

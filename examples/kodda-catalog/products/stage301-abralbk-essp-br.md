@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/audio/caixas-de-som-xboom/stage301-abralbk/"
 
 # === DESCOBERTA (L0) ===
-summary: "O xboom Stage 301 conta com um criador de karaokê para festas e apresentações, além do som exclusivo da xboom, ajustado com perfeição por will.i.am. Acesse!"
+summary: "Get more information on the LG STAGE301. Click for pictures, reviews, and tech specs for the LG LG xboom Stage 301 by will.i.am - Caixa de Som Portátil Som exclusivo xboom para Festas."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1529.1
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.991Z"
+  updated_at: "2026-05-27T09:36:46.588Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.991Z"
+    verified_at: "2026-05-27T09:36:46.588Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.991Z"
+    verified_at: "2026-05-27T09:36:46.588Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 43933563933
 ---
 
 ## Descricao
 
-O xboom Stage 301 conta com um criador de karaokê para festas e apresentações, além do som exclusivo da xboom, ajustado com perfeição por will.i.am. Acesse!
+Get more information on the LG STAGE301. Click for pictures, reviews, and tech specs for the LG LG xboom Stage 301 by will.i.am - Caixa de Som Portátil Som exclusivo xboom para Festas.

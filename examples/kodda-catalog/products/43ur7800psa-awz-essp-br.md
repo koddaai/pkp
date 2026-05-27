@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/tv-uhd-4k/43ur7800psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça a Smart TV LG UHD 43'' com imagens em 4K nítidas e tecnologia avançada. Viva uma experiência visual de alta qualidade. Acesse e saiba mais!"
-tags: ["lg", "smart", "ai", "4k"]
+summary: "Get more information on the LG 43UR7800PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD UR7800 43” 4K."
+tags: ["lg", "smart", "4k"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1614.05
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.743Z"
+  updated_at: "2026-05-27T09:36:46.331Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.743Z"
+    verified_at: "2026-05-27T09:36:46.331Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.743Z"
+    verified_at: "2026-05-27T09:36:46.331Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 44215431572
 ---
 
 ## Descricao
 
-Conheça a Smart TV LG UHD 43'' com imagens em 4K nítidas e tecnologia avançada. Viva uma experiência visual de alta qualidade. Acesse e saiba mais!
+Get more information on the LG 43UR7800PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD UR7800 43” 4K.

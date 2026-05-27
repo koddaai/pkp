@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/audio/caixas-de-som-portateis-xboom-go/xg2tbk/"
 
 # === DESCOBERTA (L0) ===
-summary: "LG XBOOM XG2T Caixa de som Bluetooth portátil - Resistência militar, IP67, 10 horas de Bateria e Cordão Ajustável"
+summary: "Get more information on the LG XG2TBK. Click for pictures, reviews, and tech specs for the LG LG XBOOM XG2T Caixa de som Bluetooth portátil - Resistência militar, à prova d'água (IP67), 10 horas de Bateria e Cordão Ajustável."
 tags: ["lg", "bluetooth", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 331.55
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.998Z"
+  updated_at: "2026-05-27T09:36:46.595Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.998Z"
+    verified_at: "2026-05-27T09:36:46.595Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.998Z"
+    verified_at: "2026-05-27T09:36:46.595Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  storage: {"value":2,"unit":"TB"}
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 43478677253
 ---
 
 ## Descricao
 
-LG XBOOM XG2T Caixa de som Bluetooth portátil - Resistência militar, IP67, 10 horas de Bateria e Cordão Ajustável
+Get more information on the LG XG2TBK. Click for pictures, reviews, and tech specs for the LG LG XBOOM XG2T Caixa de som Bluetooth portátil - Resistência militar, à prova d'água (IP67), 10 horas de Bateria e Cordão Ajustável.

@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/fhd-qhd/29wq500b-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Amplie sua visão com o Monitor LG 29\" UltraWide™ Full HD. Painel IPS, 100Hz, HDR10 e AMD FreeSync para imersão total. Confira agora!"
-tags: ["lg", "ai", "hdr", "ultra"]
+summary: "Get more information on the LG 29WQ500B-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraWide™ 29WQ500B-B Tela IPS de 29\", 21:9, Full HD, 1ms (MBR), 100Hz, sRGB 99%, HDR10."
+tags: ["lg", "hdr", "ultra"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1349
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.733Z"
+  updated_at: "2026-05-27T09:36:46.319Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.733Z"
+    verified_at: "2026-05-27T09:36:46.319Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.733Z"
+    verified_at: "2026-05-27T09:36:46.319Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 43478674784
 ---
 
 ## Descricao
 
-Amplie sua visão com o Monitor LG 29" UltraWide™ Full HD. Painel IPS, 100Hz, HDR10 e AMD FreeSync para imersão total. Confira agora!
+Get more information on the LG 29WQ500B-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraWide™ 29WQ500B-B Tela IPS de 29", 21:9, Full HD, 1ms (MBR), 100Hz, sRGB 99%, HDR10.

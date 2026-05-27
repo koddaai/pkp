@@ -5,8 +5,8 @@ sku: "rnc9-abrallk-essp-br"
 # gtin: null
 brand: "LG"
 name: "Torre de Som LG XBOOM Graves Potentes, Bass Boost, Iluminação Colorida, Karaokê, Party Speaker - RNC9 - RNC9"
-category: "audio"
-subcategory: "speaker"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/audio/caixas-de-som-xboom/rnc9/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça a Caixa de Som Acústica LG Xboom RNC9 possui multi Bluetooth, graves potentes, função karaokê e DJ. Diversão garantida para suas festas. Confira!"
-tags: ["lg", "bluetooth", "ai"]
+summary: "Get more information on the LG RNC9. Click for pictures, reviews, and tech specs for the LG Torre de Som LG XBOOM Graves Potentes, Bass Boost, Iluminação Colorida, Karaokê, Party Speaker - RNC9."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1999
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.985Z"
+  updated_at: "2026-05-27T09:36:46.571Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.985Z"
+    verified_at: "2026-05-27T09:36:46.571Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.985Z"
+    verified_at: "2026-05-27T09:36:46.571Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 43478677147
 ---
 
 ## Descricao
 
-Conheça a Caixa de Som Acústica LG Xboom RNC9 possui multi Bluetooth, graves potentes, função karaokê e DJ. Diversão garantida para suas festas. Confira!
+Get more information on the LG RNC9. Click for pictures, reviews, and tech specs for the LG Torre de Som LG XBOOM Graves Potentes, Bass Boost, Iluminação Colorida, Karaokê, Party Speaker - RNC9.

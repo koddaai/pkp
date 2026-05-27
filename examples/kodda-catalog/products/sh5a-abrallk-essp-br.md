@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/audio/soundbars/sh5a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra o LG Soundbar SH5A. Clique para ver imagens, avaliações e especificações técnicas do potente som de 4.1 canais."
+summary: "Get more information on the LG SH5A. Click for pictures, reviews, and tech specs for the LG LG Soundbar para TV SH5A com Dolby Digital,DTS Surround 4.1 canais com 600W RMS."
 tags: ["lg", "ai", "dolby"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1619.1
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.991Z"
+  updated_at: "2026-05-27T09:36:46.588Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.991Z"
+    verified_at: "2026-05-27T09:36:46.588Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.991Z"
+    verified_at: "2026-05-27T09:36:46.588Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 43478677193
 ---
 
 ## Descricao
 
-Descubra o LG Soundbar SH5A. Clique para ver imagens, avaliações e especificações técnicas do potente som de 4.1 canais.
+Get more information on the LG SH5A. Click for pictures, reviews, and tech specs for the LG LG Soundbar para TV SH5A com Dolby Digital,DTS Surround 4.1 canais com 600W RMS.

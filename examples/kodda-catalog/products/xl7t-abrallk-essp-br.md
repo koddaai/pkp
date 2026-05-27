@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/audio/caixas-de-som-xboom/xl7t/"
 
 # === DESCOBERTA (L0) ===
-summary: "LG XBOOM XL7T Caixa de som Bluetooth Som potente de 250W"
+summary: "Get more information on the LG XL7T. Click for pictures, reviews, and tech specs for the LG Caixa de som Bluetooth LG XBOOM 250W RMS, Resistente à água (IPX4), 20 horas de bateria e Visor de Pixel LED - XL7T."
 tags: ["lg", "bluetooth", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2699.1
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.998Z"
+  updated_at: "2026-05-27T09:36:46.595Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.998Z"
+    verified_at: "2026-05-27T09:36:46.595Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.998Z"
+    verified_at: "2026-05-27T09:36:46.595Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 43478677261
 ---
 
 ## Descricao
 
-LG XBOOM XL7T Caixa de som Bluetooth Som potente de 250W
+Get more information on the LG XL7T. Click for pictures, reviews, and tech specs for the LG Caixa de som Bluetooth LG XBOOM 250W RMS, Resistente à água (IPX4), 20 horas de bateria e Visor de Pixel LED - XL7T.

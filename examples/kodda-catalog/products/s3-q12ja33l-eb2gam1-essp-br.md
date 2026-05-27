@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-q12ja33l/"
 
 # === DESCOBERTA (L0) ===
-summary: "Ar-Condicionado LG Dual Inverter AI Voice 12.000 BTU Frio 220V"
+summary: "Get more information on the LG S3-Q12JA33L. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG Dual Inverter AI Voice 12.000 BTU Frio 220V."
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 2249.1
+  value: 2199.12
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.987Z"
+  updated_at: "2026-05-27T09:36:46.583Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.987Z"
+    verified_at: "2026-05-27T09:36:46.583Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.987Z"
+    verified_at: "2026-05-27T09:36:46.583Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
+  capacity: {"value":33,"unit":"l"}
   voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 43951547656
 ---
 
 ## Descricao
 
-Ar-Condicionado LG Dual Inverter AI Voice 12.000 BTU Frio 220V
+Get more information on the LG S3-Q12JA33L. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG Dual Inverter AI Voice 12.000 BTU Frio 220V.

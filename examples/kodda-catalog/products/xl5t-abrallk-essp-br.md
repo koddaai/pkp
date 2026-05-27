@@ -6,7 +6,7 @@ sku: "xl5t-abrallk-essp-br"
 brand: "LG"
 name: "Caixa de som Bluetooth PartyBox LG XBOOM 200W RMS, Resistente à água (IPX4), 12 horas de bateria e Iluminação de Festa - XL5T - XL5T"
 category: "audio"
-subcategory: "headphones"
+subcategory: "speaker"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/audio/caixas-de-som-xboom/xl5t/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça a Caixas de Som Portátil LG XL5 com Bluetooth,12h de batería, entrada para microfone e violão. Mais diversão para suas festas. Acesse o site!"
+summary: "Get more information on the LG XL5T. Click for pictures, reviews, and tech specs for the LG Caixa de som Bluetooth LG XBOOM 200W RMS, Resistente à água (IPX4), 12 horas de bateria e Iluminação de Festa - XL5T."
 tags: ["lg", "bluetooth", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1619.1
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.998Z"
+  updated_at: "2026-05-27T09:36:46.595Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.998Z"
+    verified_at: "2026-05-27T09:36:46.595Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.998Z"
+    verified_at: "2026-05-27T09:36:46.595Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 43478677259
 ---
 
 ## Descricao
 
-Conheça a Caixas de Som Portátil LG XL5 com Bluetooth,12h de batería, entrada para microfone e violão. Mais diversão para suas festas. Acesse o site!
+Get more information on the LG XL5T. Click for pictures, reviews, and tech specs for the LG Caixa de som Bluetooth LG XBOOM 200W RMS, Resistente à água (IPX4), 12 horas de bateria e Iluminação de Festa - XL5T.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/audio/caixas-de-som-xboom/rnc7/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG RNC7. Click for pictures, reviews, and tech specs for the LG Bluetooth speaker LG XBOOM RNC7 Karaokê Party Speaker."
+summary: "Get more information on the LG RNC7. Click for pictures, reviews, and tech specs for the LG Torre de Som LG XBOOM Graves Potentes, Bass Boost, Iluminação Colorida, Karaokê, Party Speaker - RNC7."
 tags: ["lg", "bluetooth"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1599
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.985Z"
+  updated_at: "2026-05-27T09:36:46.571Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.985Z"
+    verified_at: "2026-05-27T09:36:46.571Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.985Z"
+    verified_at: "2026-05-27T09:36:46.571Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 43478677146
 ---
 
 ## Descricao
 
-Get more information on the LG RNC7. Click for pictures, reviews, and tech specs for the LG Bluetooth speaker LG XBOOM RNC7 Karaokê Party Speaker.
+Get more information on the LG RNC7. Click for pictures, reviews, and tech specs for the LG Torre de Som LG XBOOM Graves Potentes, Bass Boost, Iluminação Colorida, Karaokê, Party Speaker - RNC7.

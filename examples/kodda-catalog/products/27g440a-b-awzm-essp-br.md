@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/27g440a-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre 27G440A-B. Clique para ver imagens, avaliações e especificações técnicas para o LG Monitor LG UltraGear™ 240Hz FHD de 27\" sRGB 99% (Typ.), 1ms (GtG), HDMI 2.0."
-tags: ["lg", "ai", "hdr", "premium", "pro", "ultra", "gamer"]
+summary: "Get more information on the LG 27G440A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear™ 27G440A-B, 240Hz, Tela IPS FHD 27\", 1ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium, Ajuste ergonomia Pro Gamer, sRGB 99% (Typ.) & HDR10 ."
+tags: ["lg", "hdr", "premium", "pro", "ultra", "gamer"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1449
   source: "retailer"
-  updated_at: "2026-05-26T21:44:54.731Z"
+  updated_at: "2026-05-27T09:36:46.316Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.731Z"
+    verified_at: "2026-05-27T09:36:46.316Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-05-26T21:44:54.731Z"
+    verified_at: "2026-05-27T09:36:46.316Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-05-26
+# Data de importacao: 2026-05-27
 # aw_product_id: 44255829724
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre 27G440A-B. Clique para ver imagens, avaliações e especificações técnicas para o LG Monitor LG UltraGear™ 240Hz FHD de 27" sRGB 99% (Typ.), 1ms (GtG), HDMI 2.0.
+Get more information on the LG 27G440A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear™ 27G440A-B, 240Hz, Tela IPS FHD 27", 1ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium, Ajuste ergonomia Pro Gamer, sRGB 99% (Typ.) & HDR10 .
