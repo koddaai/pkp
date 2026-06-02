@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/ar-condicionado-portatil/lp1419ivsi/"
 
 # === DESCOBERTA (L0) ===
-summary: "Informações sobre o ar-condicionado DUAL Inverter AI Portátil com inteligência artificial, wi-fi integrado compatível com app LG ThinQ, Google Assistente e Amazon Alexa, Economia de energia, fácil instalação, silencioso"
-tags: ["lg", "ai", "inverter", "alexa", "google"]
+summary: "Get more information on the LG LP1419IVSI. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Portátil LG Dual Inverter 14.000 BTUs LP1419IVSI."
+tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 5039.1
+  value: 5319.05
   source: "retailer"
-  updated_at: "2026-06-01T22:33:33.081Z"
+  updated_at: "2026-06-02T10:13:05.606Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.081Z"
+    verified_at: "2026-06-02T10:13:05.606Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.081Z"
+    verified_at: "2026-06-02T10:13:05.606Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-01
+# Data de importacao: 2026-06-02
 # aw_product_id: 43573126900
 ---
 
 ## Descricao
 
-Informações sobre o ar-condicionado DUAL Inverter AI Portátil com inteligência artificial, wi-fi integrado compatível com app LG ThinQ, Google Assistente e Amazon Alexa, Economia de energia, fácil instalação, silencioso
+Get more information on the LG LP1419IVSI. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Portátil LG Dual Inverter 14.000 BTUs LP1419IVSI.

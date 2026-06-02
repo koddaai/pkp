@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/s3-q090akh0/"
 
 # === DESCOBERTA (L0) ===
-summary: "Informações sobre o ar-condicionado DUAL Inverter AI Air com inteligência artificial avançada 3.5, wi-fi integrado compatível com app LG ThinQ, Google Assistente e Amazon Alexa, Economia de energia pro-ativa, fluxo de ar indireto com soft air, processo multifiltros para ar mais puro"
-tags: ["lg", "ai", "inverter", "alexa", "google", "pro"]
+summary: "Get more information on the LG S3-Q090AKH0. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-Q090AKH0."
+tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 2879.1
+  value: 3039.05
   source: "retailer"
-  updated_at: "2026-06-01T22:33:33.098Z"
+  updated_at: "2026-06-02T10:13:05.631Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.098Z"
+    verified_at: "2026-06-02T10:13:05.631Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.098Z"
+    verified_at: "2026-06-02T10:13:05.631Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-01
+# Data de importacao: 2026-06-02
 # aw_product_id: 43876213743
 ---
 
 ## Descricao
 
-Informações sobre o ar-condicionado DUAL Inverter AI Air com inteligência artificial avançada 3.5, wi-fi integrado compatível com app LG ThinQ, Google Assistente e Amazon Alexa, Economia de energia pro-ativa, fluxo de ar indireto com soft air, processo multifiltros para ar mais puro
+Get more information on the LG S3-Q090AKH0. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-Q090AKH0.

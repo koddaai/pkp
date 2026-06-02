@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "zvnq48gm2aa-anwzbr1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar Condicionado LG Teto Inverter 48.000 BTU/h 220V ZV-Q48GM2AA, Só Frio - ZV-Q48GM2AA"
+name: "Ar Condicionado LG Teto Inverter 48.000 BTU/h 220V ZVNQ48GM2AA, Só Frio - ZVNQ48GM2AA"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/zvnq48gm2aa-anwzbr1-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/ar-condicionado-comercial-leve/zv-q48gm2aa/"
+  url: "https://www.lg.com/br/ar-condicionado-comercial-leve/zvnq48gm2aa/"
 
 # === DESCOBERTA (L0) ===
 summary: "Ar Condicionado LG Teto Inverter 48.000 BTU/h 220V ZV-Q48GM2AA, Só Frio"
@@ -29,13 +29,13 @@ price:
   currency: "BRL"
   value: 4816.5
   source: "retailer"
-  updated_at: "2026-04-16T20:46:56.029Z"
+  updated_at: "2026-06-02T10:13:05.647Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=44488868554&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=44904247837&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-16T20:46:56.029Z"
+    verified_at: "2026-06-02T10:13:05.647Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-16T20:46:56.029Z"
+    verified_at: "2026-06-02T10:13:05.647Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,8 +55,8 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-16
-# aw_product_id: 44488868554
+# Data de importacao: 2026-06-02
+# aw_product_id: 44904247837
 ---
 
 ## Descricao

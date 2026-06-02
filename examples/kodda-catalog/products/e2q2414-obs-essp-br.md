@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/ar-condicionado-multi-split/e2q2414-obs/"
 
 # === DESCOBERTA (L0) ===
-summary: "Ar condicionado Multi Split Inverter 2 ambientes (Hiwall 1X 9.000BTUS, 1X18.000BTUS) Quente/Frio WiFi integrado"
+summary: "Get more information on the LG E2Q2414.OBS. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Multi Split LG Inverter 24.000 BTUs E2Q2414-OBS."
 tags: ["lg", "wifi", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 12052.09
   source: "retailer"
-  updated_at: "2026-06-01T22:33:32.978Z"
+  updated_at: "2026-06-02T10:13:05.477Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:32.978Z"
+    verified_at: "2026-06-02T10:13:05.477Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:32.978Z"
+    verified_at: "2026-06-02T10:13:05.477Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-01
+# Data de importacao: 2026-06-02
 # aw_product_id: 43478675832
 ---
 
 ## Descricao
 
-Ar condicionado Multi Split Inverter 2 ambientes (Hiwall 1X 9.000BTUS, 1X18.000BTUS) Quente/Frio WiFi integrado
+Get more information on the LG E2Q2414.OBS. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Multi Split LG Inverter 24.000 BTUs E2Q2414-OBS.

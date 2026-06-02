@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s32q16sa212/"
 
 # === DESCOBERTA (L0) ===
-summary: "Experimente o Ar-Condicionado LG DUAL Inverter Voice Bi Split, a temperatura perfeita para seu lar com comandos por voz com Google Assistente e Alexa. Confira!"
-tags: ["lg", "ai", "inverter", "alexa", "google"]
+summary: "Get more information on the LG S32Q16SA212. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 16.000 BTUs S32Q16SA212."
+tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 5890.91
+  value: 5957.1
   source: "retailer"
-  updated_at: "2026-06-01T22:33:33.118Z"
+  updated_at: "2026-06-02T10:13:05.637Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.118Z"
+    verified_at: "2026-06-02T10:13:05.637Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.118Z"
+    verified_at: "2026-06-02T10:13:05.637Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-01
+# Data de importacao: 2026-06-02
 # aw_product_id: 43646502968
 ---
 
 ## Descricao
 
-Experimente o Ar-Condicionado LG DUAL Inverter Voice Bi Split, a temperatura perfeita para seu lar com comandos por voz com Google Assistente e Alexa. Confira!
+Get more information on the LG S32Q16SA212. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 16.000 BTUs S32Q16SA212.

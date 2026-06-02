@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-q09aaqal-1/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG S3-Q09AAQAL. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG Dual Inverter Compact +AI 9.000 BTU Frio 220V."
+summary: "Get more information on the LG S3-Q09AAQAL. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-Q09AAQAL."
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 2067.12
+  value: 2231.55
   source: "retailer"
-  updated_at: "2026-06-01T22:33:33.099Z"
+  updated_at: "2026-06-02T10:13:05.632Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.099Z"
+    verified_at: "2026-06-02T10:13:05.632Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.099Z"
+    verified_at: "2026-06-02T10:13:05.632Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  voltage: "220V"
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-01
+# Data de importacao: 2026-06-02
 # aw_product_id: 43478677155
 ---
 
 ## Descricao
 
-Get more information on the LG S3-Q09AAQAL. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG Dual Inverter Compact +AI 9.000 BTU Frio 220V.
+Get more information on the LG S3-Q09AAQAL. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-Q09AAQAL.

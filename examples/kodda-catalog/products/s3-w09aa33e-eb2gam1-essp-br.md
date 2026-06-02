@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/s3-w09aa33e/"
 
 # === DESCOBERTA (L0) ===
-summary: "Encontre todas as informações sobre a nova linha de ar-condicionado LG AI Dual Inverter Compact com inteligência artificial, controle de energia 4 em 1 e alta durabilidade"
+summary: "Get more information on the LG S3-W09AA33E. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-W09AA33E."
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 2150.13
+  value: 2199
   source: "retailer"
-  updated_at: "2026-06-01T22:33:33.117Z"
+  updated_at: "2026-06-02T10:13:05.635Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.117Z"
+    verified_at: "2026-06-02T10:13:05.635Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.117Z"
+    verified_at: "2026-06-02T10:13:05.635Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-01
+# Data de importacao: 2026-06-02
 # aw_product_id: 43786843856
 ---
 
 ## Descricao
 
-Encontre todas as informações sobre a nova linha de ar-condicionado LG AI Dual Inverter Compact com inteligência artificial, controle de energia 4 em 1 e alta durabilidade
+Get more information on the LG S3-W09AA33E. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-W09AA33E.

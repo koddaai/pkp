@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s4-w30l43fa-1/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG S4-W30L43FA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado Split LG DUAL InverterVoice 30.000, Quente/Frio, 220V."
+summary: "Get more information on the LG S4-W30L43FA. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 30.000 BTUs S4-W30L43FA."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 7954.32
+  value: 8315.88
   source: "retailer"
-  updated_at: "2026-06-01T22:33:33.119Z"
+  updated_at: "2026-06-02T10:13:05.638Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.119Z"
+    verified_at: "2026-06-02T10:13:05.638Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.119Z"
+    verified_at: "2026-06-02T10:13:05.638Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  voltage: "220V"
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-01
+# Data de importacao: 2026-06-02
 # aw_product_id: 43478677186
 ---
 
 ## Descricao
 
-Get more information on the LG S4-W30L43FA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado Split LG DUAL InverterVoice 30.000, Quente/Frio, 220V.
+Get more information on the LG S4-W30L43FA. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 30.000 BTUs S4-W30L43FA.

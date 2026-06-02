@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/audio/soundbars/s95tr/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG S95TR. Click for pictures, reviews, and tech specs for the LG LG Home Theater Soundbar S95TR com alto-falantes traseiros e som surround com configuração de canais 9.1.5."
-tags: ["lg", "ai"]
+summary: "Home Theater Soundbar LG S95TR – 810W RMS, Dolby Atmos, 9.1.5 Canais, Caixas de Som Traseiras, AI Room Calibration Pro, DTS:X, AI Sound Pro, Wow Synergy, Sem fios, Conexões Múltiplas"
+tags: ["lg", "ai", "dolby", "pro", "sem-fio"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4749.05
   source: "retailer"
-  updated_at: "2026-06-01T22:33:33.119Z"
+  updated_at: "2026-06-02T10:13:05.638Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.119Z"
+    verified_at: "2026-06-02T10:13:05.638Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.119Z"
+    verified_at: "2026-06-02T10:13:05.638Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-01
+# Data de importacao: 2026-06-02
 # aw_product_id: 43478677192
 ---
 
 ## Descricao
 
-Get more information on the LG S95TR. Click for pictures, reviews, and tech specs for the LG LG Home Theater Soundbar S95TR com alto-falantes traseiros e som surround com configuração de canais 9.1.5.
+Home Theater Soundbar LG S95TR – 810W RMS, Dolby Atmos, 9.1.5 Canais, Caixas de Som Traseiras, AI Room Calibration Pro, DTS:X, AI Sound Pro, Wow Synergy, Sem fios, Conexões Múltiplas

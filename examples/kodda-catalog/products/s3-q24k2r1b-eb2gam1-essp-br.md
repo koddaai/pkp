@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-q24k2r1b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG S3-Q24K2R1B! Clique para ver imagens, análises e especificações técnicas da LG Ar-Condicionado LG DUAL Inverter Voice +AI Artcool 24.000 BTU"
+summary: "Get more information on the LG S3-Q24K2R1B. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 24.000 BTUs S3-Q24K2R1B."
 tags: ["lg", "ai", "inverter", "4k"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 5134.41
+  value: 5480.55
   source: "retailer"
-  updated_at: "2026-06-01T22:33:33.116Z"
+  updated_at: "2026-06-02T10:13:05.634Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.116Z"
+    verified_at: "2026-06-02T10:13:05.634Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-01T22:33:33.116Z"
+    verified_at: "2026-06-02T10:13:05.634Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-01
+# Data de importacao: 2026-06-02
 # aw_product_id: 43478677168
 ---
 
 ## Descricao
 
-Descubra a LG S3-Q24K2R1B! Clique para ver imagens, análises e especificações técnicas da LG Ar-Condicionado LG DUAL Inverter Voice +AI Artcool 24.000 BTU
+Get more information on the LG S3-Q24K2R1B. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 24.000 BTUs S3-Q24K2R1B.
