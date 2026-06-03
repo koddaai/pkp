@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/cv9014wc2a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a solução perfeita para sua lavanderia: Lava e Seca Smart LG VC2 14kg, 127V, disponível na cor branca, wif-fi e Google Assistente. Acesse aqui!"
-tags: ["lg", "smart", "ai", "4k", "google"]
+summary: "Get more information on the LG CV9014WC2A. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart VC2 14kg Branca com Inteligência Artificial AIDD™ (CV9014WC2A) - 220v."
+tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4559.05
   source: "retailer"
-  updated_at: "2026-06-02T22:22:59.806Z"
+  updated_at: "2026-06-03T10:49:14.032Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-02T22:22:59.806Z"
+    verified_at: "2026-06-03T10:49:14.032Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-02T22:22:59.806Z"
+    verified_at: "2026-06-03T10:49:14.032Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":14,"unit":"kg"}
-  voltage: "127V"
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-02
+# Data de importacao: 2026-06-03
 # aw_product_id: 43478675823
 ---
 
 ## Descricao
 
-Descubra a solução perfeita para sua lavanderia: Lava e Seca Smart LG VC2 14kg, 127V, disponível na cor branca, wif-fi e Google Assistente. Acesse aqui!
+Get more information on the LG CV9014WC2A. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart VC2 14kg Branca com Inteligência Artificial AIDD™ (CV9014WC2A) - 220v.

@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/cv3012wc5/"
 
 # === DESCOBERTA (L0) ===
-summary: "Explore a Lava e Seca LG VC5 12kg Branca 110V CV3012WC5. Alta eficiência, conectividade e design elegante para suas roupas. Aproveite agora!"
-tags: ["lg", "ai", "pro"]
+summary: "Get more information on the LG CV3012WC5. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG VC5 12kg Branca com Inteligência Artificial AIDD™ (CV3012WC5) - 127v."
+tags: ["lg", "ai"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3799.05
   source: "retailer"
-  updated_at: "2026-06-02T22:22:59.804Z"
+  updated_at: "2026-06-03T10:49:14.030Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-02T22:22:59.804Z"
+    verified_at: "2026-06-03T10:49:14.030Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-02T22:22:59.804Z"
+    verified_at: "2026-06-03T10:49:14.030Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":12,"unit":"kg"}
-  voltage: "110V"
+  voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-02
+# Data de importacao: 2026-06-03
 # aw_product_id: 43478675797
 ---
 
 ## Descricao
 
-Explore a Lava e Seca LG VC5 12kg Branca 110V CV3012WC5. Alta eficiência, conectividade e design elegante para suas roupas. Aproveite agora!
+Get more information on the LG CV3012WC5. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG VC5 12kg Branca com Inteligência Artificial AIDD™ (CV3012WC5) - 127v.

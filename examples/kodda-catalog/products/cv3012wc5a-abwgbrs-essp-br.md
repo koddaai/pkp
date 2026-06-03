@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/cv3012wc5a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça a Lava e Seca LG VC5 12kg Branca 220V CV3012WC5A. Eficiência, conectividade e design moderno para cuidar das suas roupas. Confira já!"
+summary: "Get more information on the LG CV3012WC5A. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG VC5 12kg Branca com Inteligência Artificial AIDD™ (CV3012WC5A) - 220v."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3799.05
   source: "retailer"
-  updated_at: "2026-06-02T22:22:59.804Z"
+  updated_at: "2026-06-03T10:49:14.030Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-02T22:22:59.804Z"
+    verified_at: "2026-06-03T10:49:14.030Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-02T22:22:59.804Z"
+    verified_at: "2026-06-03T10:49:14.030Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -56,10 +56,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-02
+# Data de importacao: 2026-06-03
 # aw_product_id: 43478675799
 ---
 
 ## Descricao
 
-Conheça a Lava e Seca LG VC5 12kg Branca 220V CV3012WC5A. Eficiência, conectividade e design moderno para cuidar das suas roupas. Confira já!
+Get more information on the LG CV3012WC5A. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG VC5 12kg Branca com Inteligência Artificial AIDD™ (CV3012WC5A) - 220v.

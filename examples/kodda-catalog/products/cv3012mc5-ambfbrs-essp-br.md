@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/cv3012mc5/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça a Lava e Seca LG VC5 12kg Titanium 110V CV3012MC5. Alta performance, conectividade e design sofisticado para suas roupas. Compre já!"
+summary: "Get more information on the LG CV3012MC5. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG VC5 12kg Titanium com Inteligência Artificial AIDD™ (CV3012MC5) - 127v."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4274.05
   source: "retailer"
-  updated_at: "2026-06-02T22:22:59.804Z"
+  updated_at: "2026-06-03T10:49:14.029Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-02T22:22:59.804Z"
+    verified_at: "2026-06-03T10:49:14.029Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-02T22:22:59.804Z"
+    verified_at: "2026-06-03T10:49:14.029Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":12,"unit":"kg"}
-  voltage: "110V"
+  voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-02
+# Data de importacao: 2026-06-03
 # aw_product_id: 43478675790
 ---
 
 ## Descricao
 
-Conheça a Lava e Seca LG VC5 12kg Titanium 110V CV3012MC5. Alta performance, conectividade e design sofisticado para suas roupas. Compre já!
+Get more information on the LG CV3012MC5. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG VC5 12kg Titanium com Inteligência Artificial AIDD™ (CV3012MC5) - 127v.

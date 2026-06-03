@@ -6,7 +6,7 @@ sku: "cv5012pc4a-aptgbrs-essp-br"
 brand: "LG"
 name: "Lava e Seca LG Smart VC4 12kg Inox Look com Inteligência Artificial AIDD™ (CV5012PC4A) - 220v - CV5012PC4A"
 category: "eletrodomesticos"
-subcategory: "lavadora"
+subcategory: "lava-e-seca"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/cv5012pc4a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Desfrute da praticidade e eficiência da Lavadora de Roupas LG CV5012PC4A. Tecnologia avançada para cuidar das suas roupas. Descubra já!"
+summary: "Get more information on the LG CV5012PC4A. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart VC4 12kg Inox Look com Inteligência Artificial AIDD™ (CV5012PC4A) - 220v."
 tags: ["lg", "smart", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4749.05
   source: "retailer"
-  updated_at: "2026-06-02T22:22:59.804Z"
+  updated_at: "2026-06-03T10:49:14.030Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-02T22:22:59.804Z"
+    verified_at: "2026-06-03T10:49:14.030Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-02T22:22:59.804Z"
+    verified_at: "2026-06-03T10:49:14.030Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  capacity: {"value":12,"unit":"kg"}
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-02
+# Data de importacao: 2026-06-03
 # aw_product_id: 43478675804
 ---
 
 ## Descricao
 
-Desfrute da praticidade e eficiência da Lavadora de Roupas LG CV5012PC4A. Tecnologia avançada para cuidar das suas roupas. Descubra já!
+Get more information on the LG CV5012PC4A. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart VC4 12kg Inox Look com Inteligência Artificial AIDD™ (CV5012PC4A) - 220v.

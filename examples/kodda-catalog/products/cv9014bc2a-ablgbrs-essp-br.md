@@ -6,7 +6,7 @@ sku: "cv9014bc2a-ablgbrs-essp-br"
 brand: "LG"
 name: "Lava e Seca LG Smart VC2 14kg Black Inox com Inteligência Artificial AIDD™ (CV9014BC2A) - 220v - CV9014BC2A"
 category: "eletrodomesticos"
-subcategory: "lavadora"
+subcategory: "lava-e-seca"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/cv9014bc2a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça a Lavadora de Roupas LG CV9014BC2A. Tecnologia avançada para lavagem eficiente e cuidadosa. Conheça já!"
+summary: "Get more information on the LG CV9014BC2A. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart VC2 14kg Black Inox com Inteligência Artificial AIDD™ (CV9014BC2A) - 220v."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7599.05
   source: "retailer"
-  updated_at: "2026-06-02T22:22:59.806Z"
+  updated_at: "2026-06-03T10:49:14.032Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-02T22:22:59.806Z"
+    verified_at: "2026-06-03T10:49:14.032Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-02T22:22:59.806Z"
+    verified_at: "2026-06-03T10:49:14.032Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  capacity: {"value":14,"unit":"kg"}
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-02
+# Data de importacao: 2026-06-03
 # aw_product_id: 43478675813
 ---
 
 ## Descricao
 
-Conheça a Lavadora de Roupas LG CV9014BC2A. Tecnologia avançada para lavagem eficiente e cuidadosa. Conheça já!
+Get more information on the LG CV9014BC2A. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart VC2 14kg Black Inox com Inteligência Artificial AIDD™ (CV9014BC2A) - 220v.
