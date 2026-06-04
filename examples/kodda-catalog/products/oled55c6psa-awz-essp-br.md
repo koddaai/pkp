@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "oled55c6psa-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "55 inch LG OLED evo AI C6 4K Smart TV 2026 - OLED55C6PSA"
+name: "Smart TV LG OLED evo AI 4K C6 55 polegadas 2026 - OLED55C6PSA"
 category: "tvs"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/oled-evo/oled55c6psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG OLED55C6PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI 4K C6 55 polegadas 2026."
+summary: "Descubra a próxima geração de Smart TVs com IA da LG, OLED55C6PSA, para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV 4K LG OLED evo AI C6 de 55 polegadas."
 tags: ["lg", "smart", "ai", "4k", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8074.05
   source: "retailer"
-  updated_at: "2026-06-03T22:28:27.401Z"
+  updated_at: "2026-06-04T09:49:19.388Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-03T22:28:27.401Z"
+    verified_at: "2026-06-04T09:49:19.388Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-03T22:28:27.401Z"
+    verified_at: "2026-06-04T09:49:19.388Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-03
+# Data de importacao: 2026-06-04
 # aw_product_id: 44871704907
 ---
 
 ## Descricao
 
-Get more information on the LG OLED55C6PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI 4K C6 55 polegadas 2026.
+Descubra a próxima geração de Smart TVs com IA da LG, OLED55C6PSA, para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV 4K LG OLED evo AI C6 de 55 polegadas.
