@@ -27,9 +27,9 @@ tags: ["panasonic", "ai", "pro"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1699
+  value: 1599
   source: "retailer"
-  updated_at: "2026-06-05T21:25:27.329Z"
+  updated_at: "2026-06-06T08:28:14.931Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-05T21:25:27.329Z"
+    verified_at: "2026-06-06T08:28:14.931Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-05T21:25:27.329Z"
+    verified_at: "2026-06-06T08:28:14.931Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-06-05
+# Data de importacao: 2026-06-06
 # aw_product_id: 38931326591
 ---
 
