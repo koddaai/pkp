@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ztnq60gmlaa-anwzbr1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar Condicionado LG Cassete Inverter 60.000 BTU/h 220V ZT-Q60GMLAA, Só Frio - ZT-Q60GMLAA"
+name: "Ar Condicionado LG Cassete Inverter 60.000 BTU/h 220V ZTNQ60GMLAA, Só Frio - ZTNQ60GMLAA"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ztnq60gmlaa-anwzbr1-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/ar-condicionado-comercial-leve/zt-q60gmlaa/"
+  url: "https://www.lg.com/br/ar-condicionado-comercial-leve/ztnq60gmlaa/"
 
 # === DESCOBERTA (L0) ===
 summary: "Ar Condicionado LG Cassete Inverter 60.000 BTU/h 220V ZT-Q60GMLAA, Só Frio"
@@ -29,13 +29,13 @@ price:
   currency: "BRL"
   value: 4117.3
   source: "retailer"
-  updated_at: "2026-04-16T20:46:56.029Z"
+  updated_at: "2026-06-09T09:32:00.857Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=44488868552&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=44970605227&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-16T20:46:56.029Z"
+    verified_at: "2026-06-09T09:32:00.857Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-16T20:46:56.029Z"
+    verified_at: "2026-06-09T09:32:00.857Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,8 +55,8 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-16
-# aw_product_id: 44488868552
+# Data de importacao: 2026-06-09
+# aw_product_id: 44970605227
 ---
 
 ## Descricao

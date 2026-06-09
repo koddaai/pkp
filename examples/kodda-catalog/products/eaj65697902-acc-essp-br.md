@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj65697902/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ65697902. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG EAJ65697902."
+summary: "Get more information on the LG EAJ65697902. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Monitor Signage LG 55VM5J-H EAJ65697902."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4331.06
   source: "retailer"
-  updated_at: "2026-06-08T21:50:02.941Z"
+  updated_at: "2026-06-09T09:32:00.741Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-08T21:50:02.941Z"
+    verified_at: "2026-06-09T09:32:00.741Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-08T21:50:02.941Z"
+    verified_at: "2026-06-09T09:32:00.741Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-08
+# Data de importacao: 2026-06-09
 # aw_product_id: 43478676060
 ---
 
 ## Descricao
 
-Get more information on the LG EAJ65697902. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG EAJ65697902.
+Get more information on the LG EAJ65697902. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Monitor Signage LG 55VM5J-H EAJ65697902.

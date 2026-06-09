@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan75869330-par/"
 
 # === DESCOBERTA (L0) ===
-summary: "AAN75869330.PAR.ESSP.BR.C"
+summary: "Get more information on the LG AAN75869330.PAR. Click for pictures, reviews, and tech specs for the LG Base (pedestal) TV LG 60UK6200PSA - AAN75869330 Base (pedestal) TV LG 60UK6200PSA - AAN75869329."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 121.53
+  value: 113.05
   source: "retailer"
-  updated_at: "2026-06-08T21:50:02.826Z"
+  updated_at: "2026-06-09T09:32:00.659Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-08T21:50:02.826Z"
+    verified_at: "2026-06-09T09:32:00.659Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-08T21:50:02.826Z"
+    verified_at: "2026-06-09T09:32:00.659Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-08
+# Data de importacao: 2026-06-09
 # aw_product_id: 44827991443
 ---
 
 ## Descricao
 
-AAN75869330.PAR.ESSP.BR.C
+Get more information on the LG AAN75869330.PAR. Click for pictures, reviews, and tech specs for the LG Base (pedestal) TV LG 60UK6200PSA - AAN75869330 Base (pedestal) TV LG 60UK6200PSA - AAN75869329.

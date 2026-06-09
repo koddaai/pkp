@@ -27,9 +27,9 @@ tags: ["lg", "ai", "hdr", "ultra", "gamer"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1383.87
+  value: 1429
   source: "retailer"
-  updated_at: "2026-06-08T21:50:02.768Z"
+  updated_at: "2026-06-09T09:32:00.611Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-08T21:50:02.768Z"
+    verified_at: "2026-06-09T09:32:00.611Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-08T21:50:02.768Z"
+    verified_at: "2026-06-09T09:32:00.611Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-08
+# Data de importacao: 2026-06-09
 # aw_product_id: 43478674771
 ---
 
