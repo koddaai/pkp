@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-comercial-leve/zt-q60gmlaa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Ar Condicionado LG Cassete Inverter 60.000 BTU/h 220V ZT-Q60GMLAA, Só Frio"
+summary: "Get more information on the LG ZT-Q60GMLAA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG Cassete Inverter 60.000 BTU/h 220V ZT-Q60GMLAA, Só Frio."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 11495
   source: "retailer"
-  updated_at: "2026-06-12T21:43:21.814Z"
+  updated_at: "2026-06-13T08:51:42.669Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-12T21:43:21.814Z"
+    verified_at: "2026-06-13T08:51:42.669Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-12T21:43:21.814Z"
+    verified_at: "2026-06-13T08:51:42.669Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-12
+# Data de importacao: 2026-06-13
 # aw_product_id: 44970605225
 ---
 
 ## Descricao
 
-Ar Condicionado LG Cassete Inverter 60.000 BTU/h 220V ZT-Q60GMLAA, Só Frio
+Get more information on the LG ZT-Q60GMLAA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG Cassete Inverter 60.000 BTU/h 220V ZT-Q60GMLAA, Só Frio.
