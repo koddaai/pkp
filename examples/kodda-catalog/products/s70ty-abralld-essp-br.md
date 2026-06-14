@@ -27,9 +27,9 @@ tags: ["lg", "ai", "dolby"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1804.05
+  value: 1777.02
   source: "retailer"
-  updated_at: "2026-06-13T21:15:46.584Z"
+  updated_at: "2026-06-14T09:25:09.732Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-13T21:15:46.584Z"
+    verified_at: "2026-06-14T09:25:09.732Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-13T21:15:46.584Z"
+    verified_at: "2026-06-14T09:25:09.732Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-13
+# Data de importacao: 2026-06-14
 # aw_product_id: 44925991885
 ---
 
