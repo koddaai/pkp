@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-comercial-leve/zv-q48gm2aa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Ar Condicionado LG Teto Inverter 48.000 BTU/h 220V ZV-Q48GM2AA, Só Frio"
+summary: "Get more information on the LG ZV-Q48GM2AA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG Teto Inverter 48.000 BTU/h 220V ZV-Q48GM2AA, Só Frio."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 15570.5
   source: "retailer"
-  updated_at: "2026-06-15T22:18:41.099Z"
+  updated_at: "2026-06-16T11:01:39.330Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-15T22:18:41.099Z"
+    verified_at: "2026-06-16T11:01:39.330Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-15T22:18:41.099Z"
+    verified_at: "2026-06-16T11:01:39.330Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-15
+# Data de importacao: 2026-06-16
 # aw_product_id: 44904247836
 ---
 
 ## Descricao
 
-Ar Condicionado LG Teto Inverter 48.000 BTU/h 220V ZV-Q48GM2AA, Só Frio
+Get more information on the LG ZV-Q48GM2AA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG Teto Inverter 48.000 BTU/h 220V ZV-Q48GM2AA, Só Frio.
