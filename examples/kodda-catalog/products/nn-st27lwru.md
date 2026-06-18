@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-st27lwru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st27-branco-espelhado-nn-st27lwru/p?idsku=45056"
+  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st27-branco-espelhado-nn-st27lwru/p?idsku=45057"
 
 # === DESCOBERTA (L0) ===
 summary: "O Micro-ondas ST27L tem 21 litros de capacidade, tecnologia Antibacteria Ag, tecnologia Pega Fácil, revestimento antiaderente para facilitar a limpeza, design sofisticado e eficiência energética A.Retire o utensílio do jeito que colocou com Pega FácilAssim que o aquecimento termina, o prato faz uma rotação que deixa o utensílio exatamente na posição em que você o colocou, evitando acidentes.Tecnologia Antibacteria AgO revestimento com tinta antimicrobiana inibe a proliferação 99,9% das bactér..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 499
   source: "retailer"
-  updated_at: "2026-06-18T10:13:20.155Z"
+  updated_at: "2026-06-18T14:55:37.653Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-18T10:13:20.155Z"
+    verified_at: "2026-06-18T14:55:37.653Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-18T10:13:20.155Z"
+    verified_at: "2026-06-18T14:55:37.653Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
