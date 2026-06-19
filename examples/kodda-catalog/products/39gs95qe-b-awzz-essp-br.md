@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/39gs95qe-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Entre no jogo com o Monitor Gamer LG 39\" UltraGear OLED Curvo. Visual impecável com 240Hz para máxima performance. Confira!"
+summary: "Monitor LG UltraGear OLED de 39\" para jogar com 240Hz, tela curva e velocidade extrema para alta performance."
 tags: ["lg", "oled", "hdr", "premium", "pro", "ultra", "gamer"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7799
   source: "retailer"
-  updated_at: "2026-06-18T22:07:25.571Z"
+  updated_at: "2026-06-19T10:18:33.309Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-18T22:07:25.571Z"
+    verified_at: "2026-06-19T10:18:33.309Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-18T22:07:25.571Z"
+    verified_at: "2026-06-19T10:18:33.309Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-18
+# Data de importacao: 2026-06-19
 # aw_product_id: 43478674831
 ---
 
 ## Descricao
 
-Entre no jogo com o Monitor Gamer LG 39" UltraGear OLED Curvo. Visual impecável com 240Hz para máxima performance. Confira!
+Monitor LG UltraGear OLED de 39" para jogar com 240Hz, tela curva e velocidade extrema para alta performance.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-side-by-side/gc-x267gl5p/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça a nova geladeira LG Side by Side com 638 litros de capacidade"
+summary: "Get more information on the LG GC-X267GL5P. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 628L Side by Side InstaView Bivolt Inox Look."
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 16149.05
   source: "retailer"
-  updated_at: "2026-06-18T22:07:25.787Z"
+  updated_at: "2026-06-19T10:18:33.522Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-18T22:07:25.787Z"
+    verified_at: "2026-06-19T10:18:33.522Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-18T22:07:25.787Z"
+    verified_at: "2026-06-19T10:18:33.522Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":638,"unit":"litros"}
+  capacity: {"value":628,"unit":"l"}
+  voltage: "Bivolt"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-18
+# Data de importacao: 2026-06-19
 # aw_product_id: 44789151710
 ---
 
 ## Descricao
 
-Conheça a nova geladeira LG Side by Side com 638 litros de capacidade
+Get more information on the LG GC-X267GL5P. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 628L Side by Side InstaView Bivolt Inox Look.

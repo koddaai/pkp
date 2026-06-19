@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-inverse/gc-b569nql2/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GC-B569NQL2. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 462L Inverse Cor Black Inox (GC-B569NQL) - 220V."
+summary: "Get more information on the LG GC-B569NQL2. Click for pictures, reviews, and tech specs for the LG Geladeira Inverse LG 462L Black Inox com Compressor Smart Inverter e Door Cooling+™."
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4179.05
   source: "retailer"
-  updated_at: "2026-06-18T22:07:25.787Z"
+  updated_at: "2026-06-19T10:18:33.521Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-18T22:07:25.787Z"
+    verified_at: "2026-06-19T10:18:33.521Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-18T22:07:25.787Z"
+    verified_at: "2026-06-19T10:18:33.521Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":462,"unit":"l"}
-  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-18
+# Data de importacao: 2026-06-19
 # aw_product_id: 43478676909
 ---
 
 ## Descricao
 
-Get more information on the LG GC-B569NQL2. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 462L Inverse Cor Black Inox (GC-B569NQL) - 220V.
+Get more information on the LG GC-B569NQL2. Click for pictures, reviews, and tech specs for the LG Geladeira Inverse LG 462L Black Inox com Compressor Smart Inverter e Door Cooling+™.

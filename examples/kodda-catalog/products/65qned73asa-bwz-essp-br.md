@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/65qned73asa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a próxima geração de Smart AI TVs da LG, 65QNED73ASA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG QNED AI 4K QNED73 de 65 polegadas 2025."
+summary: "Get more information on the LG 65QNED73ASA. Click for pictures, reviews, and tech specs for the LG Smart TV 4K 65\" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Esportes."
 tags: ["lg", "smart", "ai", "4k", "google", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3789.55
   source: "retailer"
-  updated_at: "2026-06-18T22:07:25.598Z"
+  updated_at: "2026-06-19T10:18:33.339Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-18T22:07:25.598Z"
+    verified_at: "2026-06-19T10:18:33.339Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-18T22:07:25.598Z"
+    verified_at: "2026-06-19T10:18:33.339Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-18
+# Data de importacao: 2026-06-19
 # aw_product_id: 44183733524
 ---
 
 ## Descricao
 
-Descubra a próxima geração de Smart AI TVs da LG, 65QNED73ASA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG QNED AI 4K QNED73 de 65 polegadas 2025.
+Get more information on the LG 65QNED73ASA. Click for pictures, reviews, and tech specs for the LG Smart TV 4K 65" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Esportes.

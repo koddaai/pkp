@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27g810a-b-awzn-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraGear™ 27G810A-B, Tela IPS 4K FHD 27\", 1ms (GtG), Dual-Mode (180Hz ↔ 360Hz), NVIDIA G-SYNC, AMD FreeSync, DisplayHDR™ 400, DCI-P3 95% - 27G810A-B"
+name: "Monitor LG UltraGear™ 27G810A-B, Tela IPS 4K UHD 27\", 1ms (GtG), Dual-Mode (180Hz ↔ 360Hz), NVIDIA G-SYNC, AMD FreeSync, DisplayHDR™ 400, DCI-P3 95% - 27G810A-B"
 category: "monitors"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/27g810a-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 27G810A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear™ 27G810A-B, Tela IPS 4K UHD 27\", 1ms (GtG), Dual-Mode (180Hz ↔ 360Hz), NVIDIA G-SYNC, AMD FreeSync, DisplayHDR™ 400, DCI-P3 95%."
+summary: "Monitor LG UltraGear™ 27G810A-B,, Tela IPS 4K FHD 27\", 1ms (GtG), Dual-Mode (180Hz ↔ 360Hz), NVIDIA G-SYNC, AMD FreeSync, DisplayHDR™ 400, DCI-P3 95%"
 tags: ["lg", "4k", "hdr", "ultra"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3299
   source: "retailer"
-  updated_at: "2026-06-18T22:07:25.563Z"
+  updated_at: "2026-06-19T10:18:33.295Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-18T22:07:25.563Z"
+    verified_at: "2026-06-19T10:18:33.295Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-18T22:07:25.563Z"
+    verified_at: "2026-06-19T10:18:33.295Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-18
+# Data de importacao: 2026-06-19
 # aw_product_id: 44262775372
 ---
 
 ## Descricao
 
-Get more information on the LG 27G810A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear™ 27G810A-B, Tela IPS 4K UHD 27", 1ms (GtG), Dual-Mode (180Hz ↔ 360Hz), NVIDIA G-SYNC, AMD FreeSync, DisplayHDR™ 400, DCI-P3 95%.
+Monitor LG UltraGear™ 27G810A-B,, Tela IPS 4K FHD 27", 1ms (GtG), Dual-Mode (180Hz ↔ 360Hz), NVIDIA G-SYNC, AMD FreeSync, DisplayHDR™ 400, DCI-P3 95%
