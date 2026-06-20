@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "kf1777-tamanho-unico"
 gtin: "4068819171386"
 brand: "Adidas"
-name: "Bolsa Organizadora DNA Mercedes AMG Petronas F1 Team Unisex adidas"
+name: "Bolsa COM Divisórias Mercedes-amg Petronas F1 Team DNA Unisex adidas"
 category: "outros"
 
 
@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://adidas.com.br/kf1777-tamanho-unico"
 canonical:
   domain: "adidas.com.br"
-  url: "http://www.adidas.com.br/bolsa-organizadora-dna-mercedes-amg-petronas-f1-team/KF1777.html"
+  url: "http://www.adidas.com.br/bolsa-com-divisorias-mercedes-amg-petronas-f1-team-dna/KF1777.html"
 
 # === DESCOBERTA (L0) ===
-summary: "Bolsa Organizadora DNA Mercedes AMG Petronas F1 Team - Preto, compre na adidas.com.br! Bolsa Organizadora DNA Mercedes AMG Petronas F1 Team - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A bolsa organizadora DNA Mercedes AMG Petronas F1 Team é a parceira ideal para manter seus itens essenciais sempre em ordem. Com o logotipo e as cores icônicas da equipe, ela é um acessório indispensável para qualquer fã de automobilismo. O bolso frontal oferece acesso rápid..."
-tags: ["adidas", "ai", "pro"]
+summary: "BOLSA COM DIVISÓRIAS MERCEDES-AMG PETRONAS F1 TEAM DNA - Preto, compre na adidas.com.br! BOLSA COM DIVISÓRIAS MERCEDES-AMG PETRONAS F1 TEAM DNA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A bolsa com divisórias Mercedes-AMG Petronas F1 Team DNA é a escolha ideal para manter itens essenciais sempre em ordem. Com o logotipo e as cores da equipe de automobilismo, é um acessório essencial para qualquer fã. Um bolso frontal especial facilita o acesso a pequeno..."
+tags: ["adidas", "ai"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 299.99
   source: "retailer"
-  updated_at: "2026-06-20T08:47:29.031Z"
+  updated_at: "2026-06-20T13:49:08.363Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-20T08:47:29.031Z"
+    verified_at: "2026-06-20T13:49:08.363Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-20T08:47:29.031Z"
+    verified_at: "2026-06-20T13:49:08.363Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Bolsa Organizadora DNA Mercedes AMG Petronas F1 Team - Preto, compre na adidas.com.br! Bolsa Organizadora DNA Mercedes AMG Petronas F1 Team - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A bolsa organizadora DNA Mercedes AMG Petronas F1 Team é a parceira ideal para manter seus itens essenciais sempre em ordem. Com o logotipo e as cores icônicas da equipe, ela é um acessório indispensável para qualquer fã de automobilismo.  O bolso frontal oferece acesso rápido a pequenos objetos, deixando tudo ao alcance das mãos. Já a alça de ombro ajustável garante praticidade e conforto para levar a bolsa aonde quer que o dia te leve.  Produzida em malha plana resistente, ela combina durabilidade e estilo em um design elegante. Uma peça feita para acompanhar seu ritmo — especialmente quando a vida entra na pista rápida.
+BOLSA COM DIVISÓRIAS MERCEDES-AMG PETRONAS F1 TEAM DNA - Preto, compre na adidas.com.br! BOLSA COM DIVISÓRIAS MERCEDES-AMG PETRONAS F1 TEAM DNA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A bolsa com divisórias Mercedes-AMG Petronas F1 Team DNA é a escolha ideal para manter itens essenciais sempre em ordem. Com o logotipo e as cores da equipe de automobilismo, é um acessório essencial para qualquer fã.  Um bolso frontal especial facilita o acesso a pequenos itens, para ter tudo o que precisa ao alcance das mãos. A alça de ombro ajustável garante praticidade para levar a bolsa para qualquer lugar.  Confeccionada com uma estrutura em malha plana resistente, essa bolsa elegante combina durabilidade e estilo para acompanhar seu ritmo, mesmo quando a vida acelera sem aviso.
