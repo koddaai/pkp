@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/eam62492345/"
 
 # === DESCOBERTA (L0) ===
-summary: "Dispositivo montado para proteção de circuitos elétricos contra ruídos e surtos de tensão Tensão 110V-240V"
-tags: ["lg", "pro"]
+summary: "Get more information on the LG EAM62492345. Click for pictures, reviews, and tech specs for the LG Filtro de linha Lavadora LG CV5014MC4 EAM62492345."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.283Z"
+  updated_at: "2026-06-20T08:47:20.333Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.283Z"
+    verified_at: "2026-06-20T08:47:20.333Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.283Z"
+    verified_at: "2026-06-20T08:47:20.333Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  voltage: "110V"
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 44904247812
 ---
 
 ## Descricao
 
-Dispositivo montado para proteção de circuitos elétricos contra ruídos e surtos de tensão Tensão 110V-240V
+Get more information on the LG EAM62492345. Click for pictures, reviews, and tech specs for the LG Filtro de linha Lavadora LG CV5014MC4 EAM62492345.

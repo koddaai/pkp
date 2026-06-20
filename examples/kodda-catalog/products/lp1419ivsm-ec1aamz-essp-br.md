@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/ar-condicionado-portatil/lp1419ivsm/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG LP1419IVSM. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Portátil LG Dual Inverter 14.000 BTUs LP1419IVSM."
+summary: "Get more information on the LG LP1419IVSM. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Portátil LG Dual Inverter 14.000 BTUs LP1419IVSM 127V."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4517.1
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.372Z"
+  updated_at: "2026-06-20T08:47:20.475Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.372Z"
+    verified_at: "2026-06-20T08:47:20.475Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.372Z"
+    verified_at: "2026-06-20T08:47:20.475Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 44125790387
 ---
 
 ## Descricao
 
-Get more information on the LG LP1419IVSM. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Portátil LG Dual Inverter 14.000 BTUs LP1419IVSM.
+Get more information on the LG LP1419IVSM. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Portátil LG Dual Inverter 14.000 BTUs LP1419IVSM 127V.

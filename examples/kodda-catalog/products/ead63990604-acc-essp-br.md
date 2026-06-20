@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/peca-de-reposicao/ead63990604/"
 
 # === DESCOBERTA (L0) ===
-summary: "Cabo Flat Monitor LG 24MN33D-PS EAD63990604"
+summary: "Get more information on the LG EAD63990604. Click for pictures, reviews, and tech specs for the LG Cabo Flat Monitor LG 24MN33D-PS EAD63990604."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.257Z"
+  updated_at: "2026-06-20T08:47:20.292Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.257Z"
+    verified_at: "2026-06-20T08:47:20.292Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.257Z"
+    verified_at: "2026-06-20T08:47:20.292Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 44904247807
 ---
 
 ## Descricao
 
-Cabo Flat Monitor LG 24MN33D-PS EAD63990604
+Get more information on the LG EAD63990604. Click for pictures, reviews, and tech specs for the LG Cabo Flat Monitor LG 24MN33D-PS EAD63990604.

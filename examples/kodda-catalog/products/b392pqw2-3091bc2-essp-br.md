@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-duplex/b392pqw2-3091bc2/"
 
 # === DESCOBERTA (L0) ===
-summary: "Combo LG Geladeira Frost Free Inverter 395L Duplex Branca 127V + Micro-ondas 30L EasyClean™ Branco 127V"
+summary: "Get more information on the LG B392PQW2.3091BC2. Click for pictures, reviews, and tech specs for the LG Combo LG Geladeira Duplex 395L e Micro-ondas 30L com EasyClean™."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3077.77
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.239Z"
+  updated_at: "2026-06-20T08:47:20.276Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.239Z"
+    verified_at: "2026-06-20T08:47:20.276Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.239Z"
+    verified_at: "2026-06-20T08:47:20.276Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":395,"unit":"l"}
-  voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 43478675738
 ---
 
 ## Descricao
 
-Combo LG Geladeira Frost Free Inverter 395L Duplex Branca 127V  + Micro-ondas 30L EasyClean™ Branco 127V
+Get more information on the LG B392PQW2.3091BC2. Click for pictures, reviews, and tech specs for the LG Combo LG Geladeira Duplex 395L e Micro-ondas 30L com EasyClean™.

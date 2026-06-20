@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/peca-de-reposicao/eay65915401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conversor estático Retificador a base de cristal (semicondutores) em corrente alternada (100-240vac) para corrente continua (20v/13,5a) 270w AD10660LF"
+summary: "Get more information on the LG EAY65915401. Click for pictures, reviews, and tech specs for the LG Fonte de Alimentação Monitor Gamer LG 45GS95QEB EAY65915401."
 tags: ["lg", "5g", "gamer"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 654.55
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.297Z"
+  updated_at: "2026-06-20T08:47:20.351Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.297Z"
+    verified_at: "2026-06-20T08:47:20.351Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.297Z"
+    verified_at: "2026-06-20T08:47:20.351Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 44904247815
 ---
 
 ## Descricao
 
-Conversor estático Retificador a base de cristal (semicondutores) em corrente alternada (100-240vac) para corrente continua (20v/13,5a) 270w AD10660LF
+Get more information on the LG EAY65915401. Click for pictures, reviews, and tech specs for the LG Fonte de Alimentação Monitor Gamer LG 45GS95QEB EAY65915401.

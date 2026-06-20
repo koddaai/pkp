@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-forno-micro-ondas/peca-de-reposicao/ebr38243004/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso do display Montada com componentes eletroeletrônicos"
+summary: "Get more information on the LG EBR38243004. Click for pictures, reviews, and tech specs for the LG Placa Display Forno Micro Ondas LG MS3094NR EBR38243004."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.06
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.307Z"
+  updated_at: "2026-06-20T08:47:20.376Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.307Z"
+    verified_at: "2026-06-20T08:47:20.376Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.307Z"
+    verified_at: "2026-06-20T08:47:20.376Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 44904247820
 ---
 
 ## Descricao
 
-Placa de circuito impresso do display Montada com componentes eletroeletrônicos
+Get more information on the LG EBR38243004. Click for pictures, reviews, and tech specs for the LG Placa Display Forno Micro Ondas LG MS3094NR EBR38243004.

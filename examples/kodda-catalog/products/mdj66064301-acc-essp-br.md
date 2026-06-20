@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/air-conditioners/filter/mdj66064301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o MDJ66064301. Clique para ver imagens, avaliações e especificações técnicas do Filtro de alergênicos para ar-condicionado de parede LG."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG MDJ66064301. Click for pictures, reviews, and tech specs for the LG Filtro de alergênicos para ar-condicionado de parede."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.376Z"
+  updated_at: "2026-06-20T08:47:20.517Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.376Z"
+    verified_at: "2026-06-20T08:47:20.517Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.376Z"
+    verified_at: "2026-06-20T08:47:20.517Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 43478676987
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre o MDJ66064301. Clique para ver imagens, avaliações e especificações técnicas do Filtro de alergênicos para ar-condicionado de parede LG.
+Get more information on the LG MDJ66064301. Click for pictures, reviews, and tech specs for the LG Filtro de alergênicos para ar-condicionado de parede.

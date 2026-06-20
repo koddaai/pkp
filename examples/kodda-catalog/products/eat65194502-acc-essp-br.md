@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-audio/peca-de-reposicao/eat65194502/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo de recepção e transmissão Com tecnologia do tipo wi-fi e bluetooth Frequência na faixa de 5.2/5.8 GHz) Taxa de transmissão 16Mbit/s Modelo: WL1BKT22"
-tags: ["lg", "bluetooth", "ai"]
+summary: "Get more information on the LG EAT65194502. Click for pictures, reviews, and tech specs for the LG Módulo de Recepção e Transmissão SoundBar LG SN4 EAT65194502."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.285Z"
+  updated_at: "2026-06-20T08:47:20.335Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.285Z"
+    verified_at: "2026-06-20T08:47:20.335Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.285Z"
+    verified_at: "2026-06-20T08:47:20.335Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 44904247813
 ---
 
 ## Descricao
 
-Módulo de recepção e transmissão Com tecnologia do tipo wi-fi e bluetooth Frequência na faixa de 5.2/5.8 GHz) Taxa de transmissão 16Mbit/s Modelo: WL1BKT22
+Get more information on the LG EAT65194502. Click for pictures, reviews, and tech specs for the LG Módulo de Recepção e Transmissão SoundBar LG SN4 EAT65194502.

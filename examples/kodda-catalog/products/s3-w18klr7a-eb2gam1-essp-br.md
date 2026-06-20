@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-w18klr7a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG S3-W18KLR7A! Veja imagens, análises e especificações da LG Ar-Condicionado LG Dual Inverter Voice +AI Artcool UV Nano 18.000 BTU. Saiba mais!"
+summary: "Get more information on the LG S3-W18KLR7A. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Voice Artcool 18.000 BTU Quente/Frio 220V."
 tags: ["lg", "ai", "inverter", "8k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4093.11
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.399Z"
+  updated_at: "2026-06-20T08:47:20.668Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.399Z"
+    verified_at: "2026-06-20T08:47:20.668Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.399Z"
+    verified_at: "2026-06-20T08:47:20.668Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 43478677181
 ---
 
 ## Descricao
 
-Descubra a LG S3-W18KLR7A! Veja imagens, análises e especificações  da LG Ar-Condicionado LG Dual Inverter Voice +AI Artcool UV Nano 18.000 BTU. Saiba mais!
+Get more information on the LG S3-W18KLR7A. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Voice Artcool 18.000 BTU Quente/Frio 220V.

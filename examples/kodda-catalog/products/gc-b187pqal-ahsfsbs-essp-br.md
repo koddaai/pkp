@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-side-by-side/gc-b187pqal/"
 
 # === DESCOBERTA (L0) ===
-summary: "Geladeira LG Side by Side 509 L - 220V Compressor Inverter GC-B187PQAM - 220v"
+summary: "Get more information on the LG GC-B187PQAL. Click for pictures, reviews, and tech specs for the LG Geladeira Side by Side LG 519L com Compressor Inverter."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5699.05
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.367Z"
+  updated_at: "2026-06-20T08:47:20.469Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.367Z"
+    verified_at: "2026-06-20T08:47:20.469Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.367Z"
+    verified_at: "2026-06-20T08:47:20.469Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":509,"unit":"l"}
-  voltage: "220V"
+  capacity: {"value":519,"unit":"l"}
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 43786843854
 ---
 
 ## Descricao
 
-Geladeira LG Side by Side 509 L - 220V Compressor Inverter GC-B187PQAM - 220v
+Get more information on the LG GC-B187PQAL. Click for pictures, reviews, and tech specs for the LG Geladeira Side by Side LG 519L com Compressor Inverter.

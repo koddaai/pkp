@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/agm73171801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Lixa abrasiva natural em pó aplicado sobre papel Auto-adesivo Para ser colado no chão para minimizar movimentos e vibrações na máquina de lavar roupa Contendo 02 lixas e manual"
+summary: "Get more information on the LG AGM73171801. Click for pictures, reviews, and tech specs for the LG Acessório antiderrapante com 2 unidades Lavadora LG AGM73171801."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.221Z"
+  updated_at: "2026-06-20T08:47:20.260Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.221Z"
+    verified_at: "2026-06-20T08:47:20.260Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.221Z"
+    verified_at: "2026-06-20T08:47:20.260Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 44193354431
 ---
 
 ## Descricao
 
-Lixa abrasiva natural em pó aplicado sobre papel Auto-adesivo Para ser colado no chão para minimizar movimentos e vibrações na máquina de lavar roupa Contendo 02 lixas e manual
+Get more information on the LG AGM73171801. Click for pictures, reviews, and tech specs for the LG Acessório antiderrapante com 2 unidades Lavadora LG AGM73171801.

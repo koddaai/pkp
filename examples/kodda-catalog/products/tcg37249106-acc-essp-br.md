@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-audio/peca-de-reposicao/tcg37249106/"
 
 # === DESCOBERTA (L0) ===
-summary: "Lado Esquerdo Alto falante múltiplos montado em seu receptáculo com caixa acústica Contendo alto falantes (3 woofer+tweeter)"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG TCG37249106. Click for pictures, reviews, and tech specs for the LG Alto Falante Esquerdo Mini System LG CL98 TCG37249106."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2079.55
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.404Z"
+  updated_at: "2026-06-20T08:47:20.676Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.404Z"
+    verified_at: "2026-06-20T08:47:20.676Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.404Z"
+    verified_at: "2026-06-20T08:47:20.676Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 44904247835
 ---
 
 ## Descricao
 
-Lado Esquerdo Alto falante múltiplos montado em seu receptáculo com caixa acústica Contendo alto falantes (3 woofer+tweeter)
+Get more information on the LG TCG37249106. Click for pictures, reviews, and tech specs for the LG Alto Falante Esquerdo Mini System LG CL98 TCG37249106.

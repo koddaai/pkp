@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/mcb63286601/"
 
 # === DESCOBERTA (L0) ===
-summary: "Motocompressor hermético (modelo VR5494L-MF5A) Tipo rotativo Corrente contínua Trifásico 3600RPM"
+summary: "Get more information on the LG MCB63286601. Click for pictures, reviews, and tech specs for the LG Motocompressor Ar Condicionado LG S3UQ09JA31E MCB63286601."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1547.55
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.374Z"
+  updated_at: "2026-06-20T08:47:20.513Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.374Z"
+    verified_at: "2026-06-20T08:47:20.513Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.374Z"
+    verified_at: "2026-06-20T08:47:20.513Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":5494,"unit":"l"}
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 44904247827
 ---
 
 ## Descricao
 
-Motocompressor hermético (modelo VR5494L-MF5A) Tipo rotativo Corrente contínua Trifásico 3600RPM
+Get more information on the LG MCB63286601. Click for pictures, reviews, and tech specs for the LG Motocompressor Ar Condicionado LG S3UQ09JA31E MCB63286601.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/meg62379414/"
 
 # === DESCOBERTA (L0) ===
-summary: "Suporte lateral de plástico da turbina da unidade evaporadora"
+summary: "Get more information on the LG MEG62379414. Click for pictures, reviews, and tech specs for the LG Suporte Serpentina Ar Condicionado LG S4NQ09WA5WB MEG62379414."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.384Z"
+  updated_at: "2026-06-20T08:47:20.522Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.384Z"
+    verified_at: "2026-06-20T08:47:20.522Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.384Z"
+    verified_at: "2026-06-20T08:47:20.522Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 44904247830
 ---
 
 ## Descricao
 
-Suporte lateral de plástico da turbina da unidade evaporadora
+Get more information on the LG MEG62379414. Click for pictures, reviews, and tech specs for the LG Suporte Serpentina Ar Condicionado LG S4NQ09WA5WB MEG62379414.

@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/tca36791520/"
 
 # === DESCOBERTA (L0) ===
-summary: "Motocompressor hermético LG Para aparelho refrigerador de uso residencial com capacidade de 232,89 frigorias/hora (552 btus) Trifásico R600A Tipo inverter Recíproco Modelo: BSA075NHMV"
-tags: ["lg", "inverter", "pro"]
+summary: "Get more information on the LG TCA36791520. Click for pictures, reviews, and tech specs for the LG Motocompressor para Refrigerador LG GM402BPL TCA36791520."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1680.55
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.403Z"
+  updated_at: "2026-06-20T08:47:20.675Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.403Z"
+    verified_at: "2026-06-20T08:47:20.675Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.403Z"
+    verified_at: "2026-06-20T08:47:20.675Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 44904247834
 ---
 
 ## Descricao
 
-Motocompressor hermético LG Para aparelho refrigerador de uso residencial com capacidade de 232,89 frigorias/hora (552 btus) Trifásico R600A Tipo inverter Recíproco Modelo: BSA075NHMV
+Get more information on the LG TCA36791520. Click for pictures, reviews, and tech specs for the LG Motocompressor para Refrigerador LG GM402BPL TCA36791520.

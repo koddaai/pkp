@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-inverse/gc-b569nllm/"
 
 # === DESCOBERTA (L0) ===
-summary: "Tenha o melhor da tecnologia inverter com a Geladeira Inverse Inox LG 451 litros GC-B569NLLM. A+++ Eficiência e design em harmonia."
+summary: "Get more information on the LG GC-B569NLLM. Click for pictures, reviews, and tech specs for the LG Geladeira Inverse LG 451L Inox Look com Compressor Smart Inverter."
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4274.05
   source: "retailer"
-  updated_at: "2026-06-19T21:10:14.368Z"
+  updated_at: "2026-06-20T08:47:20.470Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.368Z"
+    verified_at: "2026-06-20T08:47:20.470Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-19T21:10:14.368Z"
+    verified_at: "2026-06-20T08:47:20.470Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":451,"unit":"litros"}
+  capacity: {"value":451,"unit":"l"}
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-19
+# Data de importacao: 2026-06-20
 # aw_product_id: 43478676908
 ---
 
 ## Descricao
 
-Tenha o melhor da tecnologia inverter com a Geladeira Inverse Inox LG 451 litros GC-B569NLLM. A+++ Eficiência e design em harmonia.
+Get more information on the LG GC-B569NLLM. Click for pictures, reviews, and tech specs for the LG Geladeira Inverse LG 451L Inox Look com Compressor Smart Inverter.
