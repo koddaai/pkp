@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "mgz63447201-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Conexão para tubo tipo união Refrigerador LG MGZ63447201 - MGZ63447201"
+category: "eletrodomesticos"
+subcategory: "refrigerador"
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "MGZ63447201.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/mgz63447201-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/mgz63447201/"
+
+# === DESCOBERTA (L0) ===
+summary: "Diâmetro: 6,35/2mm Material: Aluminio"
+tags: ["lg"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 84.55
+  source: "retailer"
+  updated_at: "2026-06-21T09:42:21.769Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=45099736241&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-06-21T09:42:21.769Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-06-21T09:42:21.769Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-06-21
+# aw_product_id: 45099736241
+---
+
+## Descricao
+
+Diâmetro: 6,35/2mm Material: Aluminio
