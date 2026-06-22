@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/micro-ondas/micro-ondas-solo/ms3043br/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MS3043BR! Clique para ver imagens, análises e especificações técnicas do Micro-ondas LG 30 litros Prata Limpa Fácil."
+summary: "Get more information on the LG MS3043BR. Click for pictures, reviews, and tech specs for the LG Micro-ondas LG 30 litros Prata Limpa Fácil (MS3043BR)."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 702.05
+  value: 822.45
   source: "retailer"
-  updated_at: "2026-06-21T21:13:13.024Z"
+  updated_at: "2026-06-22T11:43:37.458Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-21T21:13:13.024Z"
+    verified_at: "2026-06-22T11:43:37.458Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-21T21:13:13.024Z"
+    verified_at: "2026-06-22T11:43:37.458Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-21
+# Data de importacao: 2026-06-22
 # aw_product_id: 43478677092
 ---
 
 ## Descricao
 
-Descubra a LG MS3043BR! Clique para ver imagens, análises e especificações técnicas do Micro-ondas LG 30 litros Prata Limpa Fácil.
+Get more information on the LG MS3043BR. Click for pictures, reviews, and tech specs for the LG Micro-ondas LG 30 litros Prata Limpa Fácil (MS3043BR).

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/75qned73asa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Smart TV 4K LG QNED AI QNED73 de 75 polegadas 2025"
+summary: "Get more information on the LG 75QNED73ASA. Click for pictures, reviews, and tech specs for the LG Smart TV 4K 75\" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Alerta de Esportes."
 tags: ["lg", "smart", "ai", "4k", "google", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4749.05
   source: "retailer"
-  updated_at: "2026-06-21T21:13:12.840Z"
+  updated_at: "2026-06-22T11:43:37.239Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-21T21:13:12.840Z"
+    verified_at: "2026-06-22T11:43:37.239Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-21T21:13:12.840Z"
+    verified_at: "2026-06-22T11:43:37.239Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-21
+# Data de importacao: 2026-06-22
 # aw_product_id: 44183733525
 ---
 
 ## Descricao
 
-Smart TV 4K LG QNED AI QNED73 de 75 polegadas 2025
+Get more information on the LG 75QNED73ASA. Click for pictures, reviews, and tech specs for the LG Smart TV 4K 75" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Alerta de Esportes.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/smart-monitors/34sr60qc-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Monitor LG MyView Smart 34SR60QC-B Tela curva 34\" QuadHD 2K 21:9, WebOS, Air Play, Screen Share, Bluetooth, ThinQ Home"
+summary: "Get more information on the LG 34SR60QC-B. Click for pictures, reviews, and tech specs for the LG Monitor LG MyView Smart 34SR60QC-B Tela curva 34\" QuadHD 2K 21:9, WebOS, Air Play, Screen Share, Bluetooth, ThinQ Home."
 tags: ["lg", "bluetooth", "smart", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2177.98
   source: "retailer"
-  updated_at: "2026-06-21T21:13:12.815Z"
+  updated_at: "2026-06-22T11:43:37.201Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-21T21:13:12.815Z"
+    verified_at: "2026-06-22T11:43:37.201Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-21T21:13:12.815Z"
+    verified_at: "2026-06-22T11:43:37.201Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-21
+# Data de importacao: 2026-06-22
 # aw_product_id: 43478674818
 ---
 
 ## Descricao
 
-Monitor LG MyView Smart 34SR60QC-B Tela curva 34" QuadHD 2K 21:9, WebOS, Air Play, Screen Share, Bluetooth, ThinQ Home
+Get more information on the LG 34SR60QC-B. Click for pictures, reviews, and tech specs for the LG Monitor LG MyView Smart 34SR60QC-B Tela curva 34" QuadHD 2K 21:9, WebOS, Air Play, Screen Share, Bluetooth, ThinQ Home.

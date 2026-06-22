@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/audio/soundbars/s60tr/"
 
 # === DESCOBERTA (L0) ===
-summary: "LG SoundBar S60TR – 440W RMS, 5.1 Canais, Bluetooth 5.3, Dolby Digital, Alto-Falantes Traseiros, AI Sound Pro, Wow Interface, Sem fios, Conexões Múltiplas"
-tags: ["lg", "bluetooth", "ai", "dolby", "pro", "sem-fio"]
+summary: "Get more information on the LG S60TR. Click for pictures, reviews, and tech specs for the LG LG Home Theater Soundbar S60TR com alto-falantes traseiros e som surround com configuração de canais 5.1."
+tags: ["lg", "ai"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1709.15
   source: "retailer"
-  updated_at: "2026-06-21T21:13:13.032Z"
+  updated_at: "2026-06-22T11:43:37.472Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-21T21:13:13.032Z"
+    verified_at: "2026-06-22T11:43:37.472Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-21T21:13:13.032Z"
+    verified_at: "2026-06-22T11:43:37.472Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-21
+# Data de importacao: 2026-06-22
 # aw_product_id: 43478677189
 ---
 
 ## Descricao
 
-LG SoundBar S60TR – 440W RMS, 5.1 Canais, Bluetooth 5.3, Dolby Digital, Alto-Falantes Traseiros, AI Sound Pro, Wow Interface, Sem fios, Conexões Múltiplas
+Get more information on the LG S60TR. Click for pictures, reviews, and tech specs for the LG LG Home Theater Soundbar S60TR com alto-falantes traseiros e som surround com configuração de canais 5.1.

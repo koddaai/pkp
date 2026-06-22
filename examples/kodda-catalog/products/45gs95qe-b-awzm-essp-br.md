@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/45gs95qe-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Experimenta el juego como nunca antes con el Monitor gaming curvo OLED UltraGear™️ de 45”. Su impresionante pantalla OLED curvo de 44.5\" en formato 21:9 Ultra-WQHD (3440 x 1440) ofrece un brillo de 275-1300 nits y una relación de contraste de 1.5M:1 gracias a la tecnología DisplayHDR True Black 400. Con 45\" UltraGear™ OLED curved gaming monitor | 800R, DisplayHDR True Black 400, 240Hz, 0.03ms (GtG)"
-tags: ["lg", "5g", "oled", "hdr", "ultra", "gaming", "gamer"]
+summary: "Get more information on the LG 45GS95QE-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear OLED Curvo – Tela OLED 45”, QHD, HDR400 Trueblack, 240Hz, 0,03ms (GtG), NVIDIA G-SYNC."
+tags: ["lg", "5g", "oled", "hdr", "ultra", "gamer"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8499
   source: "retailer"
-  updated_at: "2026-06-21T21:13:12.820Z"
+  updated_at: "2026-06-22T11:43:37.209Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-21T21:13:12.820Z"
+    verified_at: "2026-06-22T11:43:37.209Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-21T21:13:12.820Z"
+    verified_at: "2026-06-22T11:43:37.209Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 44.5
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-21
+# Data de importacao: 2026-06-22
 # aw_product_id: 43478674884
 ---
 
 ## Descricao
 
-Experimenta el juego como nunca antes con el Monitor gaming curvo OLED UltraGear™️ de 45”. Su impresionante pantalla OLED curvo de 44.5" en formato 21:9 Ultra-WQHD (3440 x 1440) ofrece un brillo de 275-1300 nits y una relación de contraste de 1.5M:1 gracias a la tecnología DisplayHDR True Black 400. Con 45" UltraGear™ OLED curved gaming monitor | 800R, DisplayHDR True Black 400, 240Hz, 0.03ms (GtG)
+Get more information on the LG 45GS95QE-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear OLED Curvo – Tela OLED 45”, QHD, HDR400 Trueblack, 240Hz, 0,03ms (GtG), NVIDIA G-SYNC.
