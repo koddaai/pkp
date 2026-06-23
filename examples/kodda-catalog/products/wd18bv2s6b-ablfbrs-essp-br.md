@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/wd18bv2s6b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG WD18BV2S6B! Veja imagens, análises e especificações da LG Lava e Seca LG Smart 18kg Black Inox com Inteligência Artificial AIDD™. Saiba mais!"
+summary: "Get more information on the LG WD18BV2S6B. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart 18kg Black Inox com Inteligência Artificial AIDD™ 127V - WD18BV2S6B."
 tags: ["lg", "smart", "ai", "8k"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 9362.41
+  value: 7599.05
   source: "retailer"
-  updated_at: "2026-06-22T22:01:57.144Z"
+  updated_at: "2026-06-23T09:29:36.495Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-22T22:01:57.144Z"
+    verified_at: "2026-06-23T09:29:36.495Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-22T22:01:57.144Z"
+    verified_at: "2026-06-23T09:29:36.495Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":18,"unit":"kg"}
+  voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-22
+# Data de importacao: 2026-06-23
 # aw_product_id: 43478677243
 ---
 
 ## Descricao
 
-Descubra a LG WD18BV2S6B! Veja imagens, análises e especificações da LG Lava e Seca LG Smart 18kg Black Inox com Inteligência Artificial AIDD™. Saiba mais!
+Get more information on the LG WD18BV2S6B. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart 18kg Black Inox com Inteligência Artificial AIDD™ 127V - WD18BV2S6B.

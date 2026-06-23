@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/oled-evo/oled55c4psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a próxima geração de Smart AI TVs da LG, OLED55C4PSA.AWZ, para uma experiência de visualização ideal e personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, análises e especificações técnicas da LG OLED evo AI C4 de 55 polegadas 4K Smart TV 2024."
+summary: "Get more information on the LG OLED55C4PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI C4 4K 55 polegadas 2024."
 tags: ["lg", "smart", "ai", "4k", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4749.05
   source: "retailer"
-  updated_at: "2026-06-22T22:01:57.125Z"
+  updated_at: "2026-06-23T09:29:36.478Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-22T22:01:57.125Z"
+    verified_at: "2026-06-23T09:29:36.478Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-22T22:01:57.125Z"
+    verified_at: "2026-06-23T09:29:36.478Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-22
+# Data de importacao: 2026-06-23
 # aw_product_id: 43478677111
 ---
 
 ## Descricao
 
-Descubra a próxima geração de Smart AI TVs da LG, OLED55C4PSA.AWZ, para uma experiência de visualização ideal e personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, análises e especificações técnicas da LG OLED evo AI C4 de 55 polegadas 4K Smart TV 2024.
+Get more information on the LG OLED55C4PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI C4 4K 55 polegadas 2024.

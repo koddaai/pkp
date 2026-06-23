@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/ar-condicionado-multi-split/e5q4806-obs/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG E5Q4806.OBS. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Multi Split LG Inverter 48.000 BTUs E5Q4806-OBS."
+summary: "Get more information on the LG E5Q4806.OBS. Click for pictures, reviews, and tech specs for the LG 5 Ambientes (Cassete 1 Via 3x9, 2x18) Quente/Frio, WiFi, 220V , Ar Condicionado Multi Split."
 tags: ["lg", "wifi", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 32525.58
   source: "retailer"
-  updated_at: "2026-06-22T22:01:56.965Z"
+  updated_at: "2026-06-23T09:29:36.327Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-22T22:01:56.965Z"
+    verified_at: "2026-06-23T09:29:36.327Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-22T22:01:56.965Z"
+    verified_at: "2026-06-23T09:29:36.327Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-22
+# Data de importacao: 2026-06-23
 # aw_product_id: 43478675838
 ---
 
 ## Descricao
 
-Get more information on the LG E5Q4806.OBS. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Multi Split LG Inverter 48.000 BTUs E5Q4806-OBS.
+Get more information on the LG E5Q4806.OBS. Click for pictures, reviews, and tech specs for the LG 5 Ambientes (Cassete 1 Via 3x9, 2x18) Quente/Frio, WiFi, 220V , Ar Condicionado Multi Split.

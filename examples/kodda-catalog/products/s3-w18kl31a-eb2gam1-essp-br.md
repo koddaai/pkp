@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-w18kl31a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG S3-W18KL31A. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Voice 18.000 BTU Quente/Frio 220V."
+summary: "Descubra a LG S3-W18KL31A! Clique para ver imagens, análises e especificações técnicas da LG Ar-Condicionado LG Dual Inverter Voice +AI 18.000 BTU"
 tags: ["lg", "ai", "inverter", "8k"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 3674.81
+  value: 3839.97
   source: "retailer"
-  updated_at: "2026-06-22T22:01:57.134Z"
+  updated_at: "2026-06-23T09:29:36.486Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-22T22:01:57.134Z"
+    verified_at: "2026-06-23T09:29:36.486Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-22T22:01:57.134Z"
+    verified_at: "2026-06-23T09:29:36.486Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  voltage: "220V"
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-22
+# Data de importacao: 2026-06-23
 # aw_product_id: 43478677178
 ---
 
 ## Descricao
 
-Get more information on the LG S3-W18KL31A. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Voice 18.000 BTU Quente/Frio 220V.
+Descubra a LG S3-W18KL31A! Clique para ver imagens, análises e especificações técnicas da LG Ar-Condicionado LG Dual Inverter Voice +AI 18.000 BTU

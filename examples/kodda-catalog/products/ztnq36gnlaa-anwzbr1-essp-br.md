@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ztnq36gnlaa-anwzbr1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar Condicionado LG Cassete Inverter 36.000 BTU/h 220V ZT-Q36GNLAA, Só Frio - ZT-Q36GNLAA"
+name: "Ar Condicionado LG Cassete Inverter 36.000 BTU/h 220V ZT-Q36GNLAA, Só Frio - ZT-Q36GNLAA.ANWZBR1"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-comercial-leve/zt-q36gnlaa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Ar Condicionado LG Cassete Inverter 36.000 BTU/h 220V ZT-Q36GNLAA, Só Frio"
+summary: "Get more information on the LG ZTNQ36GNLAA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG Cassete Inverter 36.000 BTU/h 220V ZT-Q36GNLAA, Só Frio."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,13 +29,13 @@ price:
   currency: "BRL"
   value: 3158.75
   source: "retailer"
-  updated_at: "2026-04-16T20:46:56.029Z"
+  updated_at: "2026-06-23T09:29:36.498Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=44488868550&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=45114245967&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-16T20:46:56.029Z"
+    verified_at: "2026-06-23T09:29:36.498Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-16T20:46:56.029Z"
+    verified_at: "2026-06-23T09:29:36.498Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-16
-# aw_product_id: 44488868550
+# Data de importacao: 2026-06-23
+# aw_product_id: 45114245967
 ---
 
 ## Descricao
 
-Ar Condicionado LG Cassete Inverter 36.000 BTU/h 220V ZT-Q36GNLAA, Só Frio
+Get more information on the LG ZTNQ36GNLAA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG Cassete Inverter 36.000 BTU/h 220V ZT-Q36GNLAA, Só Frio.
