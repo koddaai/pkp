@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/34gp63a-24ms500/"
 
 # === DESCOBERTA (L0) ===
-summary: "Monitor Gamer LG UltraGear Curvo 34” WQHD UltraWide 160Hz + Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação"
+summary: "Get more information on the LG 34GP63A.24MS500. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear Curvo 34” WQHD UltraWide 160Hz + Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação ."
 tags: ["lg", "ultra", "gamer"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2601.92
   source: "retailer"
-  updated_at: "2026-06-23T21:43:20.813Z"
+  updated_at: "2026-06-24T08:58:28.752Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.813Z"
+    verified_at: "2026-06-24T08:58:28.752Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.813Z"
+    verified_at: "2026-06-24T08:58:28.752Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 43478674813
 ---
 
 ## Descricao
 
-Monitor Gamer LG UltraGear Curvo 34” WQHD UltraWide 160Hz + Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação
+Get more information on the LG 34GP63A.24MS500. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear Curvo 34” WQHD UltraWide 160Hz + Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação .

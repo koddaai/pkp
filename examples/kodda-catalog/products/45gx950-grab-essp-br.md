@@ -5,7 +5,7 @@ sku: "45gx950-grab-essp-br"
 # gtin: null
 brand: "LG"
 name: "Monitor LG OLED UltraGear™ 45GX950A 45\",Dual-Mode 5K2K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA - 45GX950.GRAB"
-category: "tvs"
+category: "monitors"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/45gx950-grab/"
 
 # === DESCOBERTA (L0) ===
-summary: "Projetor LG CineBeam Smart TV UHD 140\" 4K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA"
-tags: ["lg", "bluetooth", "smart", "ai", "5g", "4k", "oled", "pro", "ultra"]
+summary: "Get more information on the LG 45GX950.GRAB. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ 45GX950A 45\",Dual-Mode 5K2K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA."
+tags: ["lg", "bluetooth", "ai", "5g", "oled", "ultra"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 13563.53
   source: "retailer"
-  updated_at: "2026-06-23T21:43:20.821Z"
+  updated_at: "2026-06-24T08:58:28.758Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.821Z"
+    verified_at: "2026-06-24T08:58:28.758Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.821Z"
+    verified_at: "2026-06-24T08:58:28.758Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 140
+  screen_size: 45
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 43478674886
 ---
 
 ## Descricao
 
-Projetor LG CineBeam Smart TV UHD 140" 4K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA
+Get more information on the LG 45GX950.GRAB. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ 45GX950A 45",Dual-Mode 5K2K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA.

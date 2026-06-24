@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/32gn600-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "O Monitor LG UltraGear de 31,5 polegadas possui alta qualidade de imagem e cores mais nítidas! Equipado com tecnologia IPS, 1ms e AMD FreeSync. Conheça!"
-tags: ["lg", "ai", "hdr", "ultra", "gamer"]
+summary: "Get more information on the LG 32GN600-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear 31,5'' QHD 2560x1440 165Hz 1ms (MBR) HDR10 HDMI AMD FreeSync 32GN600-B."
+tags: ["lg", "hdr", "ultra", "gamer"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1399
   source: "retailer"
-  updated_at: "2026-06-23T21:43:20.811Z"
+  updated_at: "2026-06-24T08:58:28.751Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.811Z"
+    verified_at: "2026-06-24T08:58:28.751Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.811Z"
+    verified_at: "2026-06-24T08:58:28.751Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 5
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 43478674797
 ---
 
 ## Descricao
 
-O Monitor LG UltraGear de 31,5 polegadas possui alta qualidade de imagem e cores mais nítidas! Equipado com tecnologia IPS, 1ms e AMD FreeSync. Conheça!
+Get more information on the LG 32GN600-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear 31,5'' QHD 2560x1440 165Hz 1ms (MBR) HDR10 HDMI AMD FreeSync 32GN600-B.

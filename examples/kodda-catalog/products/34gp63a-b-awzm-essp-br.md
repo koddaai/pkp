@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/34gp63a-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça o Monitor Gamer LG UltraGear Curvo de 34 polegadas, tecnologia avançada e mais espaço de tela para seus jogos. Acesse aqui e saiba mais!"
-tags: ["lg", "ai", "hdr", "ultra", "gamer"]
+summary: "Get more information on the LG 34GP63A-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear Curvo 34” WQHD UltraWide 3440x1440 160Hz 1ms (MBR) HDR10 AMD FreeSync HDMI 34GP63A-B."
+tags: ["lg", "hdr", "ultra", "gamer"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1849
   source: "retailer"
-  updated_at: "2026-06-23T21:43:20.813Z"
+  updated_at: "2026-06-24T08:58:28.752Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.813Z"
+    verified_at: "2026-06-24T08:58:28.752Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.813Z"
+    verified_at: "2026-06-24T08:58:28.752Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 34
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 43478674811
 ---
 
 ## Descricao
 
-Conheça o Monitor Gamer LG UltraGear Curvo de 34 polegadas, tecnologia avançada e mais espaço de tela para seus jogos. Acesse aqui e saiba mais!
+Get more information on the LG 34GP63A-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear Curvo 34” WQHD UltraWide 3440x1440 160Hz 1ms (MBR) HDR10 AMD FreeSync HDMI 34GP63A-B.

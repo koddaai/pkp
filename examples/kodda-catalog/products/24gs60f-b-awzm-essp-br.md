@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/24gs60f-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Monitor Gamer LG UltraGear 24” IPS, Full HD, 180Hz, 1ms (GtG), HDMI, DisplayPort, HDR10, sRGB 99%, NVIDIA® G-SYNC® , AMD FreeSync™ - 24GS60F-B"
+summary: "Get more information on the LG 24GS60F-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear 24” IPS, 180Hz, 1ms (GtG) NVIDIA® G-SYNC® , AMD FreeSync™, HDR10, sRGB 99% - 24GS60F-B."
 tags: ["lg", "hdr", "ultra", "gamer"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 849
   source: "retailer"
-  updated_at: "2026-06-23T21:43:20.805Z"
+  updated_at: "2026-06-24T08:58:28.748Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.805Z"
+    verified_at: "2026-06-24T08:58:28.748Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.805Z"
+    verified_at: "2026-06-24T08:58:28.748Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 43478674767
 ---
 
 ## Descricao
 
-Monitor Gamer LG UltraGear 24” IPS, Full HD, 180Hz, 1ms (GtG), HDMI, DisplayPort, HDR10, sRGB 99%, NVIDIA® G-SYNC® , AMD FreeSync™ - 24GS60F-B
+Get more information on the LG 24GS60F-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear 24” IPS, 180Hz, 1ms (GtG) NVIDIA® G-SYNC® , AMD FreeSync™, HDR10, sRGB 99% - 24GS60F-B.

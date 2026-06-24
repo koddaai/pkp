@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/akb30086804/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AKB30086804. Click for pictures, reviews, and tech specs for the LG Controle Remoto AI Magic MR26GA TV LG Série 2026 AKB30086804."
+summary: "Controle Remoto AI Magic MR26GA TV LG Série 2026 AKB30086804"
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-06-23T21:43:20.913Z"
+  updated_at: "2026-06-24T08:58:28.822Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.913Z"
+    verified_at: "2026-06-24T08:58:28.822Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.913Z"
+    verified_at: "2026-06-24T08:58:28.822Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 45091123463
 ---
 
 ## Descricao
 
-Get more information on the LG AKB30086804. Click for pictures, reviews, and tech specs for the LG Controle Remoto AI Magic MR26GA TV LG Série 2026 AKB30086804.
+Controle Remoto AI Magic MR26GA TV LG Série 2026 AKB30086804

@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/32gs95uv-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Jogue em 4K com o Monitor Gamer LG 32\" UltraGear Nano IPS. 144Hz, G-SYNC e cores vibrantes para máxima imersão. Confira!"
-tags: ["lg", "4k", "oled", "hdr", "premium", "pro", "ultra", "gamer"]
+summary: "Get more information on the LG 32GS95UV-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ Dual Mode 32GS95UV-B 32\", 480Hz FHD, 240Hz 4K, 0.03ms (GtG), NVIDIA G-SYNC, AMD FreeSync™ Premium Pro, HDR True Black 400 ."
+tags: ["lg", "4k", "oled", "hdr", "premium", "pro", "ultra"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8999
   source: "retailer"
-  updated_at: "2026-06-23T21:43:20.811Z"
+  updated_at: "2026-06-24T08:58:28.751Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.811Z"
+    verified_at: "2026-06-24T08:58:28.751Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.811Z"
+    verified_at: "2026-06-24T08:58:28.751Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 43478674798
 ---
 
 ## Descricao
 
-Jogue em 4K com o Monitor Gamer LG 32" UltraGear Nano IPS. 144Hz, G-SYNC e cores vibrantes para máxima imersão. Confira!
+Get more information on the LG 32GS95UV-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ Dual Mode 32GS95UV-B 32", 480Hz FHD, 240Hz 4K, 0.03ms (GtG), NVIDIA G-SYNC, AMD FreeSync™ Premium Pro, HDR True Black 400 .

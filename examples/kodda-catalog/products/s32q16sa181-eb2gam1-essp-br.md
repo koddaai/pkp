@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/ar-condicionado-multi-split/s32q16sa181/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG S32Q16SA181. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Multi Split LG Inverter 16.000 BTUs S32Q16SA181."
+summary: "Get more information on the LG S32Q16SA181. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG DUAL Inverter AI Voice Bi-Split 16.000 BTU (9.000+9.000 BTU) Frio 220V."
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 5669.1
+  value: 5606.11
   source: "retailer"
-  updated_at: "2026-06-23T21:43:21.090Z"
+  updated_at: "2026-06-24T08:58:29.005Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:21.090Z"
+    verified_at: "2026-06-24T08:58:29.005Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:21.090Z"
+    verified_at: "2026-06-24T08:58:29.005Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 43646502967
 ---
 
 ## Descricao
 
-Get more information on the LG S32Q16SA181. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Multi Split LG Inverter 16.000 BTUs S32Q16SA181.
+Get more information on the LG S32Q16SA181. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG DUAL Inverter AI Voice Bi-Split 16.000 BTU (9.000+9.000 BTU) Frio 220V.

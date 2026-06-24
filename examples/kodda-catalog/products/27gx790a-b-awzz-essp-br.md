@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/27gx790a-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Monitor LG UltraGear™ 27GX790A-B 27\" OLED, 480Hz, QHD, 0.03ms (GtG), DP 2.1, DisplayHDR True Black 400"
+summary: "Get more information on the LG 27GX790A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ 27GX790A-B 27\", 480Hz, QuadHD 2K, 0.03ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa ClearMR21000, HDR True Black 400."
 tags: ["lg", "oled", "hdr", "premium", "pro", "ultra"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6799
   source: "retailer"
-  updated_at: "2026-06-23T21:43:20.808Z"
+  updated_at: "2026-06-24T08:58:28.749Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.808Z"
+    verified_at: "2026-06-24T08:58:28.749Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.808Z"
+    verified_at: "2026-06-24T08:58:28.749Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 43478674777
 ---
 
 ## Descricao
 
-Monitor LG UltraGear™ 27GX790A-B 27" OLED, 480Hz, QHD, 0.03ms (GtG), DP 2.1, DisplayHDR True Black 400
+Get more information on the LG 27GX790A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ 27GX790A-B 27", 480Hz, QuadHD 2K, 0.03ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa ClearMR21000, HDR True Black 400.

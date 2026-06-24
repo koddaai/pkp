@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/27g411a-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Monitor LG 144Hz para jogar com tela IPS Full HD de 27\" e mais fluidez para partidas competitivas."
-tags: ["lg", "ai", "hdr", "ultra"]
+summary: "Get more information on the LG 27G411A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear™ G4, 27G411A-B, 144Hz (O/C), Tela IPS FHD 27\", 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10, sRGB 99%."
+tags: ["lg", "hdr", "ultra"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 809
   source: "retailer"
-  updated_at: "2026-06-23T21:43:20.806Z"
+  updated_at: "2026-06-24T08:58:28.748Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.806Z"
+    verified_at: "2026-06-24T08:58:28.748Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.806Z"
+    verified_at: "2026-06-24T08:58:28.748Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 43510245304
 ---
 
 ## Descricao
 
-Monitor LG 144Hz para jogar com tela IPS Full HD de 27" e mais fluidez para partidas competitivas.
+Get more information on the LG 27G411A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear™ G4, 27G411A-B, 144Hz (O/C), Tela IPS FHD 27", 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10, sRGB 99%.

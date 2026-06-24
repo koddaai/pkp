@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/27gs95-grab/"
 
 # === DESCOBERTA (L0) ===
-summary: "Monitor Gamer LG UltraGear OLED Curvo – Tela OLED 45” + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA"
-tags: ["lg", "bluetooth", "ai", "oled", "ultra", "gamer"]
+summary: "Get more information on the LG 27GS95.GRAB. Click for pictures, reviews, and tech specs for the LG Gear OLED – Tela OLED 27” + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA y will.i.am - East LA."
+tags: ["lg", "bluetooth", "ai", "oled"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4915.53
   source: "retailer"
-  updated_at: "2026-06-23T21:43:20.807Z"
+  updated_at: "2026-06-24T08:58:28.748Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.807Z"
+    verified_at: "2026-06-24T08:58:28.748Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.807Z"
+    verified_at: "2026-06-24T08:58:28.748Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 43478674774
 ---
 
 ## Descricao
 
-Monitor Gamer LG UltraGear OLED Curvo – Tela OLED 45” + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA
+Get more information on the LG 27GS95.GRAB. Click for pictures, reviews, and tech specs for the LG Gear OLED – Tela OLED 27” + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA  y will.i.am - East LA.

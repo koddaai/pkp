@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/34gs95qe-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Vitória garantida com o Monitor Gamer LG 34\" UltraGear OLED Curvo. 240Hz, G-SYNC e tempo de resposta ultrarrápido. Saiba mais!"
-tags: ["lg", "ai", "oled", "hdr", "premium", "pro", "ultra", "gamer"]
+summary: "Get more information on the LG 34GS95QE-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear OLED Curvo 34GS95QE-B 34”, QHD,240Hz, 0,03ms (GtG), NVIDIA G-SYNC, AMD FreeSyncPremium Pro, HDR400 Trueblack."
+tags: ["lg", "oled", "hdr", "premium", "pro", "ultra", "gamer"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6799
   source: "retailer"
-  updated_at: "2026-06-23T21:43:20.813Z"
+  updated_at: "2026-06-24T08:58:28.752Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.813Z"
+    verified_at: "2026-06-24T08:58:28.752Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.813Z"
+    verified_at: "2026-06-24T08:58:28.752Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 34
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 43478674815
 ---
 
 ## Descricao
 
-Vitória garantida com o Monitor Gamer LG 34" UltraGear OLED Curvo. 240Hz, G-SYNC e tempo de resposta ultrarrápido. Saiba mais!
+Get more information on the LG 34GS95QE-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear OLED Curvo 34GS95QE-B 34”, QHD,240Hz, 0,03ms (GtG), NVIDIA G-SYNC, AMD FreeSyncPremium Pro, HDR400 Trueblack.

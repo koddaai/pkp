@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/27gr83q-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Monitor QHD 27'' IPS com 240Hz e DisplayHDR True Black. A tecnologia ideal para jogadores que buscam performance e qualidade superior. Saiba mais!"
-tags: ["lg", "ai", "hdr", "premium", "ultra", "gamer"]
+summary: "Get more information on the LG 27GR83Q-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear™ 27GR83Q-B Tela IPS 27’’, QuadHD, 240 Hz, 1ms (GtG), NVIDIA G-SYNC, AMD FreeSync™ Premium HDR400."
+tags: ["lg", "hdr", "premium", "ultra", "gamer"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2699
   source: "retailer"
-  updated_at: "2026-06-23T21:43:20.807Z"
+  updated_at: "2026-06-24T08:58:28.748Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.807Z"
+    verified_at: "2026-06-24T08:58:28.748Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.807Z"
+    verified_at: "2026-06-24T08:58:28.748Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 43478674772
 ---
 
 ## Descricao
 
-Monitor QHD 27'' IPS com 240Hz e DisplayHDR True Black. A tecnologia ideal para jogadores que buscam performance e qualidade superior. Saiba mais!
+Get more information on the LG 27GR83Q-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear™ 27GR83Q-B Tela IPS 27’’,  QuadHD, 240 Hz, 1ms (GtG), NVIDIA G-SYNC, AMD FreeSync™ Premium HDR400.

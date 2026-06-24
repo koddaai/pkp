@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "rnc7-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bluetooth speaker LG XBOOM RNC7 Karaokê Party Speaker - RNC7"
+name: "Torre de Som LG XBOOM Graves Potentes, Bass Boost, Iluminação Colorida, Karaokê, Party Speaker - RNC7 - RNC7"
 category: "outros"
 
 
@@ -21,7 +21,7 @@ canonical:
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG RNC7. Click for pictures, reviews, and tech specs for the LG Torre de Som LG XBOOM Graves Potentes, Bass Boost, Iluminação Colorida, Karaokê, Party Speaker - RNC7."
-tags: ["lg", "bluetooth"]
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1599
   source: "retailer"
-  updated_at: "2026-06-23T21:43:21.086Z"
+  updated_at: "2026-06-24T08:58:28.986Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:21.086Z"
+    verified_at: "2026-06-24T08:58:28.986Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:21.086Z"
+    verified_at: "2026-06-24T08:58:28.986Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-06-24
 # aw_product_id: 43478677146
 ---
 
