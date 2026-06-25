@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/ar-condicionado-multi-split/e3q2413-obs/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG E3Q2413.OBS. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Multi Split LG Inverter 24.000 BTUs E3Q2413-OBS."
+summary: "Get more information on the LG E3Q2413.OBS. Click for pictures, reviews, and tech specs for the LG 3 Ambientes (Hiwall 1x9, 2x12) Quente/Frio, WiFi, 220V , Ar Condicionado Multi Split."
 tags: ["lg", "wifi", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 13165.94
   source: "retailer"
-  updated_at: "2026-06-24T21:22:24.420Z"
+  updated_at: "2026-06-25T08:53:10.225Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-24T21:22:24.420Z"
+    verified_at: "2026-06-25T08:53:10.225Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-24T21:22:24.420Z"
+    verified_at: "2026-06-25T08:53:10.225Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-24
+# Data de importacao: 2026-06-25
 # aw_product_id: 43478675836
 ---
 
 ## Descricao
 
-Get more information on the LG E3Q2413.OBS. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Multi Split LG Inverter 24.000 BTUs E3Q2413-OBS.
+Get more information on the LG E3Q2413.OBS. Click for pictures, reviews, and tech specs for the LG 3 Ambientes (Hiwall 1x9, 2x12) Quente/Frio, WiFi, 220V , Ar Condicionado Multi Split.
