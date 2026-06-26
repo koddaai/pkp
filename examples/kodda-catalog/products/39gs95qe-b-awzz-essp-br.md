@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/39gs95qe-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 39GS95QE-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear 39GS95QE - OLED Curvo 39”, QHD, 240Hz, 0,03ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, HDR400 Trueblack."
+summary: "Monitor LG UltraGear OLED de 39\" para jogar com 240Hz, tela curva e velocidade extrema para alta performance."
 tags: ["lg", "oled", "hdr", "premium", "pro", "ultra", "gamer"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7799
   source: "retailer"
-  updated_at: "2026-06-25T21:42:14.878Z"
+  updated_at: "2026-06-26T08:56:17.867Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-25T21:42:14.878Z"
+    verified_at: "2026-06-26T08:56:17.867Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-25T21:42:14.878Z"
+    verified_at: "2026-06-26T08:56:17.867Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 39
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-25
+# Data de importacao: 2026-06-26
 # aw_product_id: 43478674831
 ---
 
 ## Descricao
 
-Get more information on the LG 39GS95QE-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear 39GS95QE - OLED Curvo 39”, QHD, 240Hz, 0,03ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, HDR400 Trueblack.
+Monitor LG UltraGear OLED de 39" para jogar com 240Hz, tela curva e velocidade extrema para alta performance.

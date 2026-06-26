@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/acessorio/ajr73482512/"
 
 # === DESCOBERTA (L0) ===
-summary: "Elemento filtrante Substituível Acompanhado com tubo plástico Próprio para uso no filtro de água de aparelho refrigerador"
+summary: "Get more information on the LG AJR73482512. Click for pictures, reviews, and tech specs for the LG Filtro D'água Refrigerador LG GC-L207BVQV AJR73482512."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-06-25T21:42:14.980Z"
+  updated_at: "2026-06-26T08:56:17.927Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-25T21:42:14.980Z"
+    verified_at: "2026-06-26T08:56:17.927Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-25T21:42:14.980Z"
+    verified_at: "2026-06-26T08:56:17.927Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-25
+# Data de importacao: 2026-06-26
 # aw_product_id: 43478675604
 ---
 
 ## Descricao
 
-Elemento filtrante Substituível Acompanhado com tubo plástico Próprio para uso no filtro de água de aparelho refrigerador
+Get more information on the LG AJR73482512. Click for pictures, reviews, and tech specs for the LG Filtro D'água Refrigerador LG GC-L207BVQV AJR73482512.
