@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nr-bb71pvfx"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/geladeira-frost-free-panasonic-aco-escovado-nr-bb71pvfx/p?idsku=45011"
+  url: "https://loja.panasonic.com.br/geladeira-frost-free-panasonic-aco-escovado-nr-bb71pvfx/p?idsku=45012"
 
 # === DESCOBERTA (L0) ===
 summary: "Preserve seus alimentos na temperatura ideal com FreshfreezerA gaveta Freshfreezer possui 4 opções ajustáveis de temperatura, independentes do restante da geladeira, permitindo o armazenamento de diversos itens na temperatura ideal para consumo, variando desde cervejas, carnes, peixes e laticínios, até porções para o preparo de refeições.• 0°c: Frios e laticínios.• -2°c: Bebidas ultra geladas.• -3°c:Porções de alimentos, peixes e carnes, permitindo que sejam fatiados sem precisar descongelar...."
@@ -27,15 +27,15 @@ tags: ["panasonic", "smart", "ai", "inverter", "ultra"]
 price:
   type: "street"
   currency: "BRL"
-  value: 5199
+  value: 5399
   source: "retailer"
-  updated_at: "2026-03-23T07:03:59.415Z"
+  updated_at: "2026-06-27T13:20:49.835Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "Panasonic BR"
-    url: "https://www.awin1.com/pclick.php?p=38931326579&a=2753646&m=78382"
+    url: "https://www.awin1.com/pclick.php?p=45146853984&a=2753646&m=78382"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-23T07:03:59.415Z"
+    verified_at: "2026-06-27T13:20:49.835Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-23T07:03:59.415Z"
+    verified_at: "2026-06-27T13:20:49.835Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,8 +55,8 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-03-23
-# aw_product_id: 38931326579
+# Data de importacao: 2026-06-27
+# aw_product_id: 45146853984
 ---
 
 ## Descricao
