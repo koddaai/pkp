@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr88543217/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBR88543217. Click for pictures, reviews, and tech specs for the LG Placa principal evaporadora Ar Condicionado LG - S4NW09WA51A - EBR88543217."
+summary: "Get more information on the LG EBR88543217. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4NW12JA31A EBR88543217."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-06-26T21:18:42.150Z"
+  updated_at: "2026-06-27T08:30:24.129Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-26T21:18:42.150Z"
+    verified_at: "2026-06-27T08:30:24.129Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-26T21:18:42.150Z"
+    verified_at: "2026-06-27T08:30:24.129Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-26
+# Data de importacao: 2026-06-27
 # aw_product_id: 43478676750
 ---
 
 ## Descricao
 
-Get more information on the LG EBR88543217. Click for pictures, reviews, and tech specs for the LG Placa principal evaporadora Ar Condicionado LG - S4NW09WA51A - EBR88543217.
+Get more information on the LG EBR88543217. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4NW12JA31A EBR88543217.
