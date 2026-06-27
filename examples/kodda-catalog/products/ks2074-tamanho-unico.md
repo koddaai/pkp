@@ -20,7 +20,7 @@ canonical:
   url: "http://www.adidas.com.br/mala-duffel-pequena-linear/KS2074.html"
 
 # === DESCOBERTA (L0) ===
-summary: "Mala Duffel Pequena Linear - Roxo, compre na adidas.com.br! Mala Duffel Pequena Linear - Roxo em vários estilos e cores na página oficial da loja online adidas Brasil. Perfeita para um treino rápido ou uma viagem noturna, esta pequena bolsa duffel adidas mantém você organizado em movimento. Guarde seus tênis no compartimento separado e coloque seus itens essenciais nos bolsos internos e externos. As alças de mão e uma alça de ombro ajustável oferecem opções fáceis de transporte. Este produto ..."
+summary: "Mala Duffel Pequena Linear - Cinza, compre na adidas.com.br! Mala Duffel Pequena Linear - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. Perfeita para um treino rápido ou uma viagem noturna, esta pequena bolsa duffel adidas mantém você organizado em movimento. Guarde seus tênis no compartimento separado e coloque seus itens essenciais nos bolsos internos e externos. As alças de mão e uma alça de ombro ajustável oferecem opções fáceis de transporte. Este produt..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 249.99
   source: "retailer"
-  updated_at: "2026-06-16T22:11:26.503Z"
+  updated_at: "2026-06-27T21:03:13.573Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-16T22:11:26.503Z"
+    verified_at: "2026-06-27T21:03:13.573Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-16T22:11:26.503Z"
+    verified_at: "2026-06-27T21:03:13.573Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Adidas BR (feed_id: 95015)
-# Data de importacao: 2026-06-16
+# Data de importacao: 2026-06-27
 # aw_product_id: 44899609561
 ---
 
 ## Descricao
 
-Mala Duffel Pequena Linear - Roxo, compre na adidas.com.br! Mala Duffel Pequena Linear - Roxo em vários estilos e cores na página oficial da loja online adidas Brasil. Perfeita para um treino rápido ou uma viagem noturna, esta pequena bolsa duffel adidas mantém você organizado em movimento. Guarde seus tênis no compartimento separado e coloque seus itens essenciais nos bolsos internos e externos. As alças de mão e uma alça de ombro ajustável oferecem opções fáceis de transporte.  Este produto é feito com pelo menos 50% de materiais reciclados. Ao escolher o reciclado, podemos reutilizar materiais já criados, o que ajuda a reduzir o desperdício e a nossa dependência de recursos finitos, além de reduzir a pegada dos produtos que fabricamos.
+Mala Duffel Pequena Linear - Cinza, compre na adidas.com.br! Mala Duffel Pequena Linear - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. Perfeita para um treino rápido ou uma viagem noturna, esta pequena bolsa duffel adidas mantém você organizado em movimento. Guarde seus tênis no compartimento separado e coloque seus itens essenciais nos bolsos internos e externos. As alças de mão e uma alça de ombro ajustável oferecem opções fáceis de transporte.  Este produto é feito com pelo menos 50% de materiais reciclados. Ao escolher o reciclado, podemos reutilizar materiais já criados, o que ajuda a reduzir o desperdício e a nossa dependência de recursos finitos, além de reduzir a pegada dos produtos que fabricamos.
