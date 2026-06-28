@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/audio/caixas-de-som-xboom/stage501/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG STAGE501. Click for pictures, reviews, and tech specs for the LG LG xboom Stage501 by will.i.am | Caixa de Som Portátil Party Speaker com Som Potente & AI Karaoke Master."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG STAGE501. Click for pictures, reviews, and tech specs for the LG LG xboom Stage501 | Caixa de Som Bluetooth Potente de 220W e AI Karaoke Master."
+tags: ["lg", "bluetooth", "ai"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2599
   source: "retailer"
-  updated_at: "2026-06-27T21:03:00.412Z"
+  updated_at: "2026-06-28T08:45:26.198Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-27T21:03:00.412Z"
+    verified_at: "2026-06-28T08:45:26.198Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-27T21:03:00.412Z"
+    verified_at: "2026-06-28T08:45:26.198Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-27
+# Data de importacao: 2026-06-28
 # aw_product_id: 45129986765
 ---
 
 ## Descricao
 
-Get more information on the LG STAGE501. Click for pictures, reviews, and tech specs for the LG LG xboom Stage501 by will.i.am | Caixa de Som Portátil Party Speaker com Som Potente & AI Karaoke Master.
+Get more information on the LG STAGE501. Click for pictures, reviews, and tech specs for the LG LG xboom Stage501 | Caixa de Som Bluetooth Potente de 220W e AI Karaoke Master.
