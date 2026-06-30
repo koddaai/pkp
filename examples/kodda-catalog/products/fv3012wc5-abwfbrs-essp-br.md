@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/maquinas-de-lavar/fv3012wc5/"
 
 # === DESCOBERTA (L0) ===
-summary: "Lavadora LG VC5 12kg Branca com Inteligência Artificial AIDD™ - 127V"
+summary: "Get more information on the LG FV3012WC5. Click for pictures, reviews, and tech specs for the LG Lavadora LG VC5 12kg Branca com Inteligência Artificial AIDD™ - 127V."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3099.9
   source: "retailer"
-  updated_at: "2026-06-29T21:26:44.618Z"
+  updated_at: "2026-06-30T09:24:57.643Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-29T21:26:44.618Z"
+    verified_at: "2026-06-30T09:24:57.643Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-29T21:26:44.618Z"
+    verified_at: "2026-06-30T09:24:57.643Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -56,10 +56,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-29
+# Data de importacao: 2026-06-30
 # aw_product_id: 45122817090
 ---
 
 ## Descricao
 
-Lavadora LG VC5 12kg Branca com Inteligência Artificial AIDD™ - 127V
+Get more information on the LG FV3012WC5. Click for pictures, reviews, and tech specs for the LG Lavadora LG VC5 12kg Branca com Inteligência Artificial AIDD™ - 127V.

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "stage501-abralbk-essp-br"
 # gtin: null
 brand: "LG"
-name: "LG xboom Stage501 by will.i.am | Caixa de Som Portátil Party Speaker com Som Potente & AI Karaoke Master - STAGE501"
+name: "LG xboom Stage501 | Caixa de Som Bluetooth Potente de 220W e AI Karaoke Master - STAGE501"
 category: "audio"
 subcategory: "speaker"
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/audio/caixas-de-som-xboom/stage501/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG STAGE501. Click for pictures, reviews, and tech specs for the LG LG xboom Stage501 | Caixa de Som Bluetooth Potente de 220W e AI Karaoke Master."
+summary: "Conheça a nova LG xboom Stage 501, caixa de som potente para festa, da LG. Potente com 220W RMS de potência, bateria de até 25h, com design inigualável e som incomparável. Faça a sua festa com AI Karaoke Master, IPX4 e conexão bluetooth."
 tags: ["lg", "bluetooth", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2599
   source: "retailer"
-  updated_at: "2026-06-29T21:26:44.650Z"
+  updated_at: "2026-06-30T09:24:57.674Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-29T21:26:44.650Z"
+    verified_at: "2026-06-30T09:24:57.674Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-29T21:26:44.650Z"
+    verified_at: "2026-06-30T09:24:57.674Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-29
+# Data de importacao: 2026-06-30
 # aw_product_id: 45129986765
 ---
 
 ## Descricao
 
-Get more information on the LG STAGE501. Click for pictures, reviews, and tech specs for the LG LG xboom Stage501 | Caixa de Som Bluetooth Potente de 220W e AI Karaoke Master.
+Conheça a nova LG xboom Stage 501, caixa de som potente para festa, da LG. Potente com 220W RMS de potência, bateria de até 25h, com design inigualável e som incomparável. Faça a sua festa com AI Karaoke Master, IPX4 e conexão bluetooth.

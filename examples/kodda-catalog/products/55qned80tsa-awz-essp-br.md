@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/55qned80tsa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a próxima geração de TVs com IA da LG, a QNED80, uma Smart TV ultragrande de 55 polegadas que se ajusta às suas preferências, com imagem e áudio espetaculares aprimorados pelo processador alpha 5 AI 4K Gen 7, QNED Color deslumbrante, webOS 24 e a elegância do design Super Slim."
-tags: ["lg", "smart", "ai", "4k", "pro", "ultra"]
+summary: "Get more information on the LG 55QNED80TSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED AI QNED80 55” 4K 2024."
+tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 3419.05
+  value: 2944.05
   source: "retailer"
-  updated_at: "2026-06-03T22:28:27.169Z"
+  updated_at: "2026-06-30T09:24:57.451Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-03T22:28:27.169Z"
+    verified_at: "2026-06-30T09:24:57.451Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-03T22:28:27.169Z"
+    verified_at: "2026-06-30T09:24:57.451Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 55
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-03
+# Data de importacao: 2026-06-30
 # aw_product_id: 43478675007
 ---
 
 ## Descricao
 
-Descubra a próxima geração de TVs com IA da LG, a QNED80, uma Smart TV ultragrande de 55 polegadas que se ajusta às suas preferências, com imagem e áudio espetaculares aprimorados pelo processador alpha 5 AI 4K Gen 7, QNED Color deslumbrante, webOS 24 e a elegância do design Super Slim.
+Get more information on the LG 55QNED80TSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED AI QNED80 55” 4K 2024.
