@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/45gx950a-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Monitor LG OLED UltraGear™ 45GX950A 45\",Dual-Mode 5K2K, 0,03ms (GtG), DisplayHDR True Black 400, NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa"
+summary: "Get more information on the LG 45GX950A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ 45GX950A 45\",Dual-Mode 5K2K, 0,03ms (GtG), DisplayHDR True Black 400, NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa ."
 tags: ["lg", "5g", "oled", "hdr", "premium", "pro", "ultra"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 13999
   source: "retailer"
-  updated_at: "2026-06-23T21:43:20.821Z"
+  updated_at: "2026-07-01T09:36:40.634Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.821Z"
+    verified_at: "2026-07-01T09:36:40.634Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T21:43:20.821Z"
+    verified_at: "2026-07-01T09:36:40.634Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-07-01
 # aw_product_id: 43478674887
 ---
 
 ## Descricao
 
-Monitor LG OLED UltraGear™ 45GX950A 45",Dual-Mode 5K2K, 0,03ms (GtG), DisplayHDR True Black 400, NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa
+Get more information on the LG 45GX950A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ 45GX950A 45",Dual-Mode 5K2K, 0,03ms (GtG), DisplayHDR True Black 400, NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa .
