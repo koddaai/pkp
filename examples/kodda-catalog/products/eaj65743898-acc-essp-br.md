@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eaj65743898/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ65743898. Click for pictures, reviews, and tech specs for the LG Tela OLED TV LG OLED55C1PSA EAJ65743898."
-tags: ["lg", "oled"]
+summary: "Módulo de visualização de tela (Ecrã), plana, modelo: AC550AQL-BQA1, de 55 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de OLED Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)"
+tags: ["lg", "ai", "oled"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4482.01
   source: "retailer"
-  updated_at: "2026-07-02T21:05:55.921Z"
+  updated_at: "2026-07-03T08:54:59.186Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-02T21:05:55.921Z"
+    verified_at: "2026-07-03T08:54:59.186Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-02T21:05:55.921Z"
+    verified_at: "2026-07-03T08:54:59.186Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 55
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-02
+# Data de importacao: 2026-07-03
 # aw_product_id: 44913502609
 ---
 
 ## Descricao
 
-Get more information on the LG EAJ65743898. Click for pictures, reviews, and tech specs for the LG Tela OLED TV LG OLED55C1PSA EAJ65743898.
+Módulo de visualização de tela (Ecrã), plana, modelo: AC550AQL-BQA1, de 55 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de OLED Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)

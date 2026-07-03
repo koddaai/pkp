@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/ead65891108/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAD65891108. Click for pictures, reviews, and tech specs for the LG Cabo Flat Televisão LG 55NANO75SQA EAD65891108."
+summary: "Condutor isolado para usos elétricos Sem peças de conexão Para tensão de 60V 68p 68PRFN-FF02J-2"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-07-02T21:05:55.914Z"
+  updated_at: "2026-07-03T08:54:59.173Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-02T21:05:55.914Z"
+    verified_at: "2026-07-03T08:54:59.173Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-02T21:05:55.914Z"
+    verified_at: "2026-07-03T08:54:59.173Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  voltage: "110V"
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-02
+# Data de importacao: 2026-07-03
 # aw_product_id: 44913502605
 ---
 
 ## Descricao
 
-Get more information on the LG EAD65891108. Click for pictures, reviews, and tech specs for the LG Cabo Flat Televisão LG 55NANO75SQA EAD65891108.
+Condutor isolado para usos elétricos Sem peças de conexão Para tensão de 60V 68p  68PRFN-FF02J-2

@@ -5,7 +5,7 @@ sku: "eay65689433-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa da Fonte Televisão LG OLED65CXPSA EAY65689433 - EAY65689433"
-category: "outros"
+category: "tvs"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eay65689433/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAY65689433. Click for pictures, reviews, and tech specs for the LG Placa da Fonte Televisão LG OLED65CXPSA EAY65689433."
+summary: "Placa conversora estática Retificadora a base de cristal (semicondutores) de corrente alternada em corrente contínua Com função de fonte de alimentação estabilizada, Utilizada internamente em aparelho televisor"
 tags: ["lg", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 711.55
   source: "retailer"
-  updated_at: "2026-07-02T21:05:55.935Z"
+  updated_at: "2026-07-03T08:54:59.205Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-02T21:05:55.935Z"
+    verified_at: "2026-07-03T08:54:59.205Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-02T21:05:55.935Z"
+    verified_at: "2026-07-03T08:54:59.205Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-02
+# Data de importacao: 2026-07-03
 # aw_product_id: 44850596115
 ---
 
 ## Descricao
 
-Get more information on the LG EAY65689433. Click for pictures, reviews, and tech specs for the LG Placa da Fonte Televisão LG OLED65CXPSA EAY65689433.
+Placa conversora estática Retificadora a base de cristal (semicondutores) de corrente alternada em corrente contínua Com função de fonte de alimentação estabilizada, Utilizada internamente em aparelho televisor

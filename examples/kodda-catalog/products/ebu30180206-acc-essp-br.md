@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/ebu30180206/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBU30180206. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 55UA8550PSA EBU30180206."
-tags: ["lg"]
+summary: "PROCEDIMENTO OBRIGATÓRIO APÓS TROCA DE PLACA PRINCIPAL É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas. Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros."
+tags: ["lg", "ai", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1481.05
   source: "retailer"
-  updated_at: "2026-07-02T21:05:56.031Z"
+  updated_at: "2026-07-03T08:54:59.272Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-02T21:05:56.031Z"
+    verified_at: "2026-07-03T08:54:59.272Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-02T21:05:56.031Z"
+    verified_at: "2026-07-03T08:54:59.272Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-02
+# Data de importacao: 2026-07-03
 # aw_product_id: 44913502919
 ---
 
 ## Descricao
 
-Get more information on the LG EBU30180206. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 55UA8550PSA EBU30180206.
+PROCEDIMENTO OBRIGATÓRIO APÓS TROCA DE PLACA PRINCIPAL  É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas.  Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros.

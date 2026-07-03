@@ -5,7 +5,7 @@ sku: "eay65920771-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa da Fonte Televisão LG 65UA8550PSA EAY65920771 - EAY65920771"
-category: "outros"
+category: "tvs"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eay65920771/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAY65920771. Click for pictures, reviews, and tech specs for the LG Placa da Fonte Televisão LG 65UA8550PSA EAY65920771."
+summary: "Placa conversora estática Retificadora a base de cristal (semicondutores) de corrente alternada em corrente contínua Com função de fonte de alimentação estabilizada, Utilizada internamente em aparelho televisor"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.55
   source: "retailer"
-  updated_at: "2026-07-02T21:05:55.937Z"
+  updated_at: "2026-07-03T08:54:59.209Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-02T21:05:55.937Z"
+    verified_at: "2026-07-03T08:54:59.209Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-02T21:05:55.937Z"
+    verified_at: "2026-07-03T08:54:59.209Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-02
+# Data de importacao: 2026-07-03
 # aw_product_id: 44913502615
 ---
 
 ## Descricao
 
-Get more information on the LG EAY65920771. Click for pictures, reviews, and tech specs for the LG Placa da Fonte Televisão LG 65UA8550PSA EAY65920771.
+Placa conversora estática Retificadora a base de cristal (semicondutores) de corrente alternada em corrente contínua Com função de fonte de alimentação estabilizada, Utilizada internamente em aparelho televisor
