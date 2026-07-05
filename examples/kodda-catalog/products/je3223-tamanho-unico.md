@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 179.99
   source: "retailer"
-  updated_at: "2026-07-05T13:19:22.885Z"
+  updated_at: "2026-07-05T20:59:33.658Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-05T13:19:22.885Z"
+    verified_at: "2026-07-05T20:59:33.658Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-05T13:19:22.885Z"
+    verified_at: "2026-07-05T20:59:33.658Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
