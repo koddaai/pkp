@@ -27,9 +27,9 @@ tags: ["lg", "4k", "hdr", "ultra", "max"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1451.66
+  value: 1499
   source: "retailer"
-  updated_at: "2026-07-06T21:28:38.174Z"
+  updated_at: "2026-07-07T09:32:02.162Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.174Z"
+    verified_at: "2026-07-07T09:32:02.162Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.174Z"
+    verified_at: "2026-07-07T09:32:02.162Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-06
+# Data de importacao: 2026-07-07
 # aw_product_id: 43478674805
 ---
 

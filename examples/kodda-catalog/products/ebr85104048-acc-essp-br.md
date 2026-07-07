@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr85104048/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para unidade condensadora"
+summary: "Get more information on the LG EBR85104048. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4UW30L43FA EBR85104048."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1281.55
   source: "retailer"
-  updated_at: "2026-07-06T21:28:38.436Z"
+  updated_at: "2026-07-07T09:32:02.338Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.436Z"
+    verified_at: "2026-07-07T09:32:02.338Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.436Z"
+    verified_at: "2026-07-07T09:32:02.338Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-06
+# Data de importacao: 2026-07-07
 # aw_product_id: 44904247825
 ---
 
 ## Descricao
 
-Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para unidade condensadora
+Get more information on the LG EBR85104048. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4UW30L43FA EBR85104048.

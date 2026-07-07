@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/akb76037106/"
 
 # === DESCOBERTA (L0) ===
-summary: "Controle Remoto TV LG - AKB76037106"
+summary: "Get more information on the LG AKB76037106. Click for pictures, reviews, and tech specs for the LG Controle Remoto TV LG AKB76037106."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-07-06T21:28:38.299Z"
+  updated_at: "2026-07-07T09:32:02.251Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.299Z"
+    verified_at: "2026-07-07T09:32:02.251Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.299Z"
+    verified_at: "2026-07-07T09:32:02.251Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-06
+# Data de importacao: 2026-07-07
 # aw_product_id: 43478675700
 ---
 
 ## Descricao
 
-Controle Remoto TV LG - AKB76037106
+Get more information on the LG AKB76037106. Click for pictures, reviews, and tech specs for the LG Controle Remoto TV LG AKB76037106.

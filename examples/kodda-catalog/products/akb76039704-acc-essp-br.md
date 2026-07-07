@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/tvs/remote-controller/akb76039704/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AKB76039704. Clique para ver fotos, avaliações e especificações técnicas do controle Magic Remote para LG TV série 2021."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AKB76039704. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic MR21 TV LG AKB76039704."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-07-06T21:28:38.300Z"
+  updated_at: "2026-07-07T09:32:02.252Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.300Z"
+    verified_at: "2026-07-07T09:32:02.252Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.300Z"
+    verified_at: "2026-07-07T09:32:02.252Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-06
+# Data de importacao: 2026-07-07
 # aw_product_id: 43478675710
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre o AKB76039704. Clique para ver fotos, avaliações e especificações técnicas do controle Magic Remote para LG TV série 2021.
+Get more information on the LG AKB76039704. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic MR21 TV LG AKB76039704.

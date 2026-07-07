@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebx64329206/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBX64329206. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic MR20GA TV LG 50UN7310PSC, 65NANO86UNA, 55NANO90UNA - EBX64329206."
+summary: "Get more information on the LG EBX64329206. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic MR20GA TV LG EBX64329206."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 217.56
   source: "retailer"
-  updated_at: "2026-07-06T21:28:38.466Z"
+  updated_at: "2026-07-07T09:32:02.371Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.466Z"
+    verified_at: "2026-07-07T09:32:02.371Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.466Z"
+    verified_at: "2026-07-07T09:32:02.371Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-06
+# Data de importacao: 2026-07-07
 # aw_product_id: 43478676891
 ---
 
 ## Descricao
 
-Get more information on the LG EBX64329206. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic MR20GA TV LG  50UN7310PSC,  65NANO86UNA, 55NANO90UNA - EBX64329206.
+Get more information on the LG EBX64329206. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic MR20GA TV LG EBX64329206.

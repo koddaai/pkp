@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/akb76046604/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtén más información sobre el artículo AKB76046604. Haz clic para ver fotos, reseñas y especificaciones técnicas del controlador Magic Remote de la serie 2025 de LG TV."
+summary: "Get more information on the LG AKB76046604. Click for pictures, reviews, and tech specs for the LG Controle Magic Remote para LG TV série 2025."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-07-06T21:28:38.301Z"
+  updated_at: "2026-07-07T09:32:02.252Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.301Z"
+    verified_at: "2026-07-07T09:32:02.252Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.301Z"
+    verified_at: "2026-07-07T09:32:02.252Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-06
+# Data de importacao: 2026-07-07
 # aw_product_id: 43478675718
 ---
 
 ## Descricao
 
-Obtén más información sobre el artículo AKB76046604. Haz clic para ver fotos, reseñas y especificaciones técnicas del controlador Magic Remote de la serie 2025 de LG TV.
+Get more information on the LG AKB76046604. Click for pictures, reviews, and tech specs for the LG Controle Magic Remote para LG TV série 2025.

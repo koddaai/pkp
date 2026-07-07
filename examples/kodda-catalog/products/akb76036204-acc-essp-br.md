@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/akb76036204/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AKB76036204. Clique para ver imagens, análises e especificações técnicas da LG Controle remoto TV LG OLED65C9PSA, 65UP7550PSF, 75NANO80SPA - AKB76036204"
+summary: "Get more information on the LG AKB76036204. Click for pictures, reviews, and tech specs for the LG Controle remoto TV LG OLED65C9PSA, 65UP7550PSF, 75NANO80SPA - AKB76036204."
 tags: ["lg", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-07-06T21:28:38.299Z"
+  updated_at: "2026-07-07T09:32:02.251Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.299Z"
+    verified_at: "2026-07-07T09:32:02.251Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.299Z"
+    verified_at: "2026-07-07T09:32:02.251Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-06
+# Data de importacao: 2026-07-07
 # aw_product_id: 43478675697
 ---
 
 ## Descricao
 
-Descubra a LG AKB76036204. Clique para ver imagens, análises e especificações técnicas da LG Controle remoto TV LG OLED65C9PSA, 65UP7550PSF, 75NANO80SPA - AKB76036204
+Get more information on the LG AKB76036204. Click for pictures, reviews, and tech specs for the LG Controle remoto TV LG OLED65C9PSA, 65UP7550PSF, 75NANO80SPA - AKB76036204.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/mdj66064303/"
 
 # === DESCOBERTA (L0) ===
-summary: "Filtro de entrada de ar para sistema de refrigeração da unidade evaporadora"
+summary: "Get more information on the LG MDJ66064303. Click for pictures, reviews, and tech specs for the LG Filtro de ar Evaporadora Ar Condicionado LG S4NW09WA5WA MDJ66064303."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-07-06T21:28:38.480Z"
+  updated_at: "2026-07-07T09:32:02.379Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.480Z"
+    verified_at: "2026-07-07T09:32:02.379Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-06T21:28:38.480Z"
+    verified_at: "2026-07-07T09:32:02.379Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-06
+# Data de importacao: 2026-07-07
 # aw_product_id: 44904247828
 ---
 
 ## Descricao
 
-Filtro de entrada de ar para sistema de refrigeração da unidade evaporadora
+Get more information on the LG MDJ66064303. Click for pictures, reviews, and tech specs for the LG Filtro de ar Evaporadora Ar Condicionado LG S4NW09WA5WA MDJ66064303.
