@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-st55lmru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st55-espelhado-nn-st55lmru/p?idsku=45059"
+  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st55-espelhado-nn-st55lmru/p?idsku=45060"
 
 # === DESCOBERTA (L0) ===
 summary: "Micro-ondas ST55L tem design sofisticado e 27 litros de capacidade, tecnologia Antibacteria Ag, tecnologia Pega Fácil, revestimento antiaderente para facilitar a limpeza, desodorizador, função Dupla Refeição e eficiência energética A.Dupla RefeiçãoA função pode ser ativada para aquecer 300g, 500g e 700g (peso total das duas porções) em pratos diferentes. Basta colocar uma refeição no prato giratório e outra na grelha.Retire o utensílio do jeito que colocou com Pega FácilAssim que o aqueciment..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 629
   source: "retailer"
-  updated_at: "2026-07-07T09:31:51.228Z"
+  updated_at: "2026-07-07T14:16:15.456Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-07T09:31:51.228Z"
+    verified_at: "2026-07-07T14:16:15.456Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-07T09:31:51.228Z"
+    verified_at: "2026-07-07T14:16:15.456Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

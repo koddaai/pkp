@@ -20,7 +20,7 @@ canonical:
   url: "http://www.adidas.com.br/mochila-audi-revolut-f1-team-dna/KF6440.html"
 
 # === DESCOBERTA (L0) ===
-summary: "MOCHILA AUDI REVOLUT F1 TEAM DNA - Preto, compre na adidas.com.br! MOCHILA AUDI REVOLUT F1 TEAM DNA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A mochila Audi Revolut F1® Team DNA foi projetada com as cores e o logotipo da equipe. Com um interior espaçoso e vários bolsos, ajuda a manter itens essenciais organizados e facilmente acessíveis. Conforto é fundamental, e as alças de ombro acolchoadas ajudam a carregar o equipamento com facilidade. Os materiais ..."
+summary: "MOCHILA AUDI REVOLUT F1 TEAM DNA - Preto, compre na adidas.com.br! MOCHILA AUDI REVOLUT F1 TEAM DNA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A Mochila Audi Revolut F1® Team DNA foi projetada com as cores e o logotipo da equipe. Com um interior espaçoso e vários bolsos, ajuda a manter itens essenciais organizados e facilmente acessíveis. Conforto é fundamental, e as alças de ombro acolchoadas ajudam a carregar o equipamento com facilidade. Os materiais ..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 499.99
   source: "retailer"
-  updated_at: "2026-07-07T09:32:12.345Z"
+  updated_at: "2026-07-07T14:16:45.191Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-07T09:32:12.345Z"
+    verified_at: "2026-07-07T14:16:45.191Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-07T09:32:12.345Z"
+    verified_at: "2026-07-07T14:16:45.191Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-MOCHILA AUDI REVOLUT F1 TEAM DNA - Preto, compre na adidas.com.br! MOCHILA AUDI REVOLUT F1 TEAM DNA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A mochila Audi Revolut F1® Team DNA foi projetada com as cores e o logotipo da equipe. Com um interior espaçoso e vários bolsos, ajuda a manter itens essenciais organizados e facilmente acessíveis.  Conforto é fundamental, e as alças de ombro acolchoadas ajudam a carregar o equipamento com facilidade. Os materiais permeáveis ao ar da mochila permitem que o ar flua para manter o corpo seco e confortável.  No interior, um bolso para notebook ajuda a manter o equipamento seguro e protegido, enquanto o bolso embutido permite rápido acesso a itens menores.  Na pista ou para explorar a cidade, com a adidas você não apenas carrega uma mochila: leva uma parte do legado da Audi Revolut F1® Team.
+MOCHILA AUDI REVOLUT F1 TEAM DNA - Preto, compre na adidas.com.br! MOCHILA AUDI REVOLUT F1 TEAM DNA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. A Mochila Audi Revolut F1® Team DNA foi projetada com as cores e o logotipo da equipe. Com um interior espaçoso e vários bolsos, ajuda a manter itens essenciais organizados e facilmente acessíveis.  Conforto é fundamental, e as alças de ombro acolchoadas ajudam a carregar o equipamento com facilidade. Os materiais permeáveis ao ar da mochila permitem que o ar flua para manter o corpo seco e confortável.  No interior, um bolso para notebook ajuda a manter o equipamento seguro e protegido, enquanto o bolso embutido permite rápido acesso a itens menores.  Na pista ou para explorar a cidade, com a adidas você não apenas carrega uma mochila: leva uma parte do legado da Audi Revolut F1® Team.
