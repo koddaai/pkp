@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter", "8k", "alexa", "google"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3411.59
+  value: 3374.1
   source: "retailer"
-  updated_at: "2026-07-07T21:23:17.574Z"
+  updated_at: "2026-07-08T08:16:42.926Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-07T21:23:17.574Z"
+    verified_at: "2026-07-08T08:16:42.926Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-07T21:23:17.574Z"
+    verified_at: "2026-07-08T08:16:42.926Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-07
+# Data de importacao: 2026-07-08
 # aw_product_id: 43478677179
 ---
 

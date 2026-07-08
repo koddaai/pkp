@@ -27,9 +27,9 @@ tags: ["lg", "bluetooth", "ai", "5g", "oled", "ultra", "gamer"]
 price:
   type: "street"
   currency: "BRL"
-  value: 8799
+  value: 8798.99
   source: "retailer"
-  updated_at: "2026-07-07T21:23:17.314Z"
+  updated_at: "2026-07-08T08:16:42.701Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-07T21:23:17.314Z"
+    verified_at: "2026-07-08T08:16:42.701Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-07T21:23:17.314Z"
+    verified_at: "2026-07-08T08:16:42.701Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-07
+# Data de importacao: 2026-07-08
 # aw_product_id: 44363495386
 ---
 
