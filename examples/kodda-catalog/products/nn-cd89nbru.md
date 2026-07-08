@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-cd89nbru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-cd89-black-glass-nn-cd89nbru/p?idsku=397982"
+  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-cd89-black-glass-nn-cd89nbru/p?idsku=397979"
 
 # === DESCOBERTA (L0) ===
 summary: "Mais receitas com a função Convecção, alimentos crocantes e sequinhos com a função Air Fryer e versatilidade com as funções Grill e Combinado. Retire o utensílio do jeito que colocou com Pega Fácil, design em preto fosco e amplo display.Função Air Fryer que frita sem óleoAlimentos sequinhos e crocantes fritos no micro-ondas sem usar óleo. E você ainda pode selecionar o tempo e a temperatura ou escolher uma das 11 receitas pré-programadas.Mais receitas com a função ConvecçãoA ventilação na par..."
@@ -27,9 +27,9 @@ tags: ["panasonic", "ai", "pro"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1399
+  value: 1499
   source: "retailer"
-  updated_at: "2026-07-08T08:16:11.309Z"
+  updated_at: "2026-07-08T13:49:56.300Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-08T08:16:11.309Z"
+    verified_at: "2026-07-08T13:49:56.300Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-08T08:16:11.309Z"
+    verified_at: "2026-07-08T13:49:56.300Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
