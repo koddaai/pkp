@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/tv-uhd-4k/50ut8050psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a TV ultragrande LG UHD UT80, equipada com HDR10 Pro e processador Alpha 5 AI 4K Gen 7, com webOS 24 e controle simples da soundbar com a WOW Interface."
-tags: ["lg", "bluetooth", "smart", "ai", "4k", "hdr", "alexa", "pro", "ultra"]
+summary: "Get more information on the LG 50UT8050PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG 50\" 4K Ultra HD UT80 Processador a5 Ger7 AI, Alexa, Wi-Fi, Bluetooth, Chromecast Integrado, Otimizador de Jogos e webOS 24 - 50UT8050PSA."
+tags: ["lg", "bluetooth", "smart", "ai", "4k", "alexa", "pro", "ultra"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2374.05
   source: "retailer"
-  updated_at: "2026-07-08T21:06:46.971Z"
+  updated_at: "2026-07-09T09:29:01.265Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-08T21:06:46.971Z"
+    verified_at: "2026-07-09T09:29:01.265Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-08T21:06:46.971Z"
+    verified_at: "2026-07-09T09:29:01.265Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 50
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-08
+# Data de importacao: 2026-07-09
 # aw_product_id: 45232321943
 ---
 
 ## Descricao
 
-Descubra a TV ultragrande LG UHD UT80, equipada com HDR10 Pro e processador Alpha 5 AI 4K Gen 7, com webOS 24 e controle simples da soundbar com a WOW Interface.
+Get more information on the LG 50UT8050PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG 50" 4K Ultra HD UT80 Processador a5 Ger7 AI, Alexa, Wi-Fi, Bluetooth, Chromecast Integrado, Otimizador de Jogos e webOS 24 - 50UT8050PSA.

@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/ar-condicionado-portatil/lp1419ivsi/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG LP1419IVSI. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Portátil LG Dual Inverter 14.000 BTUs LP1419IVSI."
+summary: "Get more information on the LG LP1419IVSI. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Portátil LG Dual Inverter 14.000 BTUs LP1419IVSI 127V."
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 5039.1
+  value: 5319.05
   source: "retailer"
-  updated_at: "2026-07-08T21:06:47.186Z"
+  updated_at: "2026-07-09T09:29:01.494Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-08T21:06:47.186Z"
+    verified_at: "2026-07-09T09:29:01.494Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-08T21:06:47.186Z"
+    verified_at: "2026-07-09T09:29:01.494Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-08
+# Data de importacao: 2026-07-09
 # aw_product_id: 43573126900
 ---
 
 ## Descricao
 
-Get more information on the LG LP1419IVSI. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Portátil LG Dual Inverter 14.000 BTUs LP1419IVSI.
+Get more information on the LG LP1419IVSI. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Portátil LG Dual Inverter 14.000 BTUs LP1419IVSI 127V.
