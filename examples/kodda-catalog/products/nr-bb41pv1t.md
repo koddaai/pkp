@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nr-bb41pv1t"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/geladeira-frost-free-nr-bb41pv1t-397l/p?idsku=397983"
+  url: "https://loja.panasonic.com.br/geladeira-frost-free-nr-bb41pv1t-397l/p?idsku=397980"
 
 # === DESCOBERTA (L0) ===
 summary: "N° 1: A bottom freezer brasileira mais econômica do mercadoAs geladeiras Panasonic têm menor consumo de energia e, por isso, possuem a classificação A+++ na tabela do InmetroGeladeira econômica, silenciosa e com o congelamento mais rápido com InverterAlém de economizar mais de 40% na conta de luz, a tecnologia Inverter também deixa as geladeiras silenciosas e com o congelamento mais rápidoInteligência artificial que aprende sua rotina e economiza ainda mais energiaAs geladeiras Panasonic com ..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3499
   source: "retailer"
-  updated_at: "2026-07-10T09:25:02.207Z"
+  updated_at: "2026-07-10T14:09:14.262Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-10T09:25:02.207Z"
+    verified_at: "2026-07-10T14:09:14.262Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-10T09:25:02.207Z"
+    verified_at: "2026-07-10T14:09:14.262Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
