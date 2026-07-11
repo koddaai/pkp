@@ -20,7 +20,7 @@ canonical:
   url: "http://www.adidas.com.br/mochila/KQ6368.html"
 
 # === DESCOBERTA (L0) ===
-summary: "MOCHILA - Rosa, compre na adidas.com.br! MOCHILA - Rosa em vários estilos e cores na página oficial da loja online adidas Brasil. Mova-se com confiança e mantenha seus itens essenciais por perto com a mochila da adidas Originals. Projetada para a vida em movimento, essa mochila leve equilibra estilo e funcionalidade. Dos dias de trabalho às sessões de ginástica e aos planos para o fim de semana, seu espaçoso compartimento principal e os bolsos laterais embutidos oferecem amplo espaço para seu..."
+summary: "MOCHILA - Rosa, compre na adidas.com.br! MOCHILA - Rosa em vários estilos e cores na página oficial da loja online adidas Brasil. Mova-se com confiança e mantenha seus itens essenciais por perto com a Mochila da adidas Originals. Projetada para a vida em movimento, essa mochila leve equilibra estilo e funcionalidade. Dos dias de trabalho às sessões de ginástica e aos planos para o fim de semana, seu espaçoso compartimento principal e os bolsos laterais embutidos oferecem amplo espaço para seu..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 299.99
   source: "retailer"
-  updated_at: "2026-07-11T07:47:07.457Z"
+  updated_at: "2026-07-11T13:05:38.069Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-11T07:47:07.457Z"
+    verified_at: "2026-07-11T13:05:38.069Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-11T07:47:07.457Z"
+    verified_at: "2026-07-11T13:05:38.069Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-MOCHILA - Rosa, compre na adidas.com.br! MOCHILA - Rosa em vários estilos e cores na página oficial da loja online adidas Brasil. Mova-se com confiança e mantenha seus itens essenciais por perto com a mochila da adidas Originals. Projetada para a vida em movimento, essa mochila leve equilibra estilo e funcionalidade.  Dos dias de trabalho às sessões de ginástica e aos planos para o fim de semana, seu espaçoso compartimento principal e os bolsos laterais embutidos oferecem amplo espaço para seus equipamentos. Uma capa de notebook interna mantém seu equipamento seguro, enquanto o detalhe da corda frontal acrescenta um acabamento diferenciado.  As alças de ombro ajustáveis proporcionam uma modelagem confortável e personalizada, e o fecho de zíper permite fácil acesso quando você estiver em trânsito.  Com o acabamento da icônica estampa Trefoil, essa mochila homenageia a herança da adidas e oferece armazenamento versátil e organizado para onde quer que o dia leve você.
+MOCHILA - Rosa, compre na adidas.com.br! MOCHILA - Rosa em vários estilos e cores na página oficial da loja online adidas Brasil. Mova-se com confiança e mantenha seus itens essenciais por perto com a Mochila da adidas Originals. Projetada para a vida em movimento, essa mochila leve equilibra estilo e funcionalidade.  Dos dias de trabalho às sessões de ginástica e aos planos para o fim de semana, seu espaçoso compartimento principal e os bolsos laterais embutidos oferecem amplo espaço para seus equipamentos. Uma capa de notebook interna mantém seu equipamento seguro, enquanto o detalhe da corda frontal acrescenta um acabamento diferenciado.  As alças de ombro ajustáveis proporcionam uma modelagem confortável e personalizada, e o fecho de zíper permite fácil acesso quando você estiver em trânsito.  Com o acabamento da icônica estampa Trefoil, essa mochila homenageia a herança da adidas e oferece armazenamento versátil e organizado para onde quer que o dia leve você.

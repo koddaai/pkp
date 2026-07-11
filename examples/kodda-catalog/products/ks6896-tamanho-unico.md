@@ -20,7 +20,7 @@ canonical:
   url: "http://www.adidas.com.br/mochila-pequena/KS6896.html"
 
 # === DESCOBERTA (L0) ===
-summary: "Mochila Pequena - Preto, compre na adidas.com.br! Mochila Pequena - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Apresentamos a mochila pequena, criada para ser seu acessório indispensável e levar o espírito adidas Originals às suas aventuras diárias. Seja em passeios pela cidade, idas à academia ou compromissos inesperados, ela mantém seus itens essenciais organizados e ao alcance. Com tamanho compacto, conta com um compartimento principal com zíper, um bol..."
+summary: "MOCHILA PEQUENA - Preto, compre na adidas.com.br! MOCHILA PEQUENA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Apresentamos a Mochila Pequena, criada para ser seu acessório indispensável e levar o espírito adidas Originals às suas aventuras diárias. Seja em passeios pela cidade, idas à academia ou compromissos inesperados, ela mantém seus itens essenciais organizados e ao alcance. Com tamanho compacto, conta com um compartimento principal com zíper, um bol..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 199.99
   source: "retailer"
-  updated_at: "2026-07-11T07:47:05.702Z"
+  updated_at: "2026-07-11T13:05:37.281Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-11T07:47:05.702Z"
+    verified_at: "2026-07-11T13:05:37.281Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-11T07:47:05.702Z"
+    verified_at: "2026-07-11T13:05:37.281Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Mochila Pequena - Preto, compre na adidas.com.br! Mochila Pequena - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Apresentamos a mochila pequena, criada para ser seu acessório indispensável e levar o espírito adidas Originals às suas aventuras diárias. Seja em passeios pela cidade, idas à academia ou compromissos inesperados, ela mantém seus itens essenciais organizados e ao alcance.  Com tamanho compacto, conta com um compartimento principal com zíper, um bolso frontal menor, também com zíper. Dois bolsos laterais embutidos são perfeitos para garrafas de água.  As alças ajustáveis e acolchoadas garantem um modelagem personalizada e conforto no transporte, enquanto a alça superior permite pegar ou pendurar a mochila com praticidade. O grande logo Trefoil no bolso frontal adiciona um toque marcante ao design, reforçando o estilo icônico da adidas.  Confeccionada com atenção aos detalhes, essa mochila une funcionalidade e personalidade, ideal para criadores de tendências, entusiastas de esporte e lazer e todos que valorizam design clássico em um formato compacto.
+MOCHILA PEQUENA - Preto, compre na adidas.com.br! MOCHILA PEQUENA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Apresentamos a Mochila Pequena, criada para ser seu acessório indispensável e levar o espírito adidas Originals às suas aventuras diárias. Seja em passeios pela cidade, idas à academia ou compromissos inesperados, ela mantém seus itens essenciais organizados e ao alcance.  Com tamanho compacto, conta com um compartimento principal com zíper, um bolso frontal menor, também com zíper. Dois bolsos embutidos laterais são perfeitos para garrafas de água.  As alças ajustáveis e acolchoadas garantem um modelagem personalizada e conforto no transporte, enquanto a alça superior permite pegar ou pendurar a mochila com praticidade. O grande logo Trefoil no bolso frontal adiciona um toque marcante ao design, reforçando o estilo icônico da adidas.  Confeccionada com atenção aos detalhes, essa mochila une funcionalidade e personalidade, ideal para criadores de tendências, entusiastas de esporte e lazer e todos que valorizam design clássico em um formato compacto.
