@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65692301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ65692301. Click for pictures, reviews, and tech specs for the LG EAJ65692301."
+summary: "Get more information on the LG EAJ65692301. Click for pictures, reviews, and tech specs for the LG Tela De Cristal Líquido (Modulo) TV LG EAJ65692301."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1585.55
   source: "retailer"
-  updated_at: "2026-07-10T21:06:05.530Z"
+  updated_at: "2026-07-11T07:46:54.243Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-10T21:06:05.530Z"
+    verified_at: "2026-07-11T07:46:54.243Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-10T21:06:05.530Z"
+    verified_at: "2026-07-11T07:46:54.243Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-10
+# Data de importacao: 2026-07-11
 # aw_product_id: 44745517502
 ---
 
 ## Descricao
 
-Get more information on the LG EAJ65692301. Click for pictures, reviews, and tech specs for the LG EAJ65692301.
+Get more information on the LG EAJ65692301. Click for pictures, reviews, and tech specs for the LG Tela De Cristal Líquido (Modulo) TV LG EAJ65692301.

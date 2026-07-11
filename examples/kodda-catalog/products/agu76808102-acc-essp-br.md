@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agu76808102/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AGU76808102. Click for pictures, reviews, and tech specs for the LG AGU76808102."
+summary: "Get more information on the LG AGU76808102. Click for pictures, reviews, and tech specs for the LG Folha de plástico polarizadora TV LG 49\" AGU76808102."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 531.05
   source: "retailer"
-  updated_at: "2026-07-10T21:06:05.244Z"
+  updated_at: "2026-07-11T07:46:54.185Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-10T21:06:05.244Z"
+    verified_at: "2026-07-11T07:46:54.185Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-10T21:06:05.244Z"
+    verified_at: "2026-07-11T07:46:54.185Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 49
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-10
+# Data de importacao: 2026-07-11
 # aw_product_id: 44735580477
 ---
 
 ## Descricao
 
-Get more information on the LG AGU76808102. Click for pictures, reviews, and tech specs for the LG AGU76808102.
+Get more information on the LG AGU76808102. Click for pictures, reviews, and tech specs for the LG Folha de plástico polarizadora TV LG 49" AGU76808102.

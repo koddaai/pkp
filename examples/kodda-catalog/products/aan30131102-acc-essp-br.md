@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan30131102/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AAN30131102. Click for pictures, reviews, and tech specs for the LG AAN30131102."
+summary: "Get more information on the LG AAN30131102. Click for pictures, reviews, and tech specs for the LG Base pedestal TV LG AAN30131102."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-07-10T21:06:05.028Z"
+  updated_at: "2026-07-11T07:46:54.135Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-10T21:06:05.028Z"
+    verified_at: "2026-07-11T07:46:54.135Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-10T21:06:05.028Z"
+    verified_at: "2026-07-11T07:46:54.135Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-10
+# Data de importacao: 2026-07-11
 # aw_product_id: 44735580471
 ---
 
 ## Descricao
 
-Get more information on the LG AAN30131102. Click for pictures, reviews, and tech specs for the LG AAN30131102.
+Get more information on the LG AAN30131102. Click for pictures, reviews, and tech specs for the LG Base pedestal TV LG AAN30131102.
