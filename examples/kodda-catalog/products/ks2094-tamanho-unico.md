@@ -20,7 +20,7 @@ canonical:
   url: "http://www.adidas.com.br/mochila-linear/KS2094.html"
 
 # === DESCOBERTA (L0) ===
-summary: "Mochila Linear - Cinza, compre na adidas.com.br! Mochila Linear - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. Não importa aonde o dia leve você, esta mochila adidas mantém seus itens essenciais organizados e à mão. As alças acolchoadas garantem o conforto do transporte. Os bolsos deslizantes têm espaço para uma garrafa de água e um guarda-chuva compacto, enquanto um bolso frontal com zíper oferece acesso rápido às suas chaves e ao telefone. Este produto é f..."
+summary: "Mochila Linear - Roxo, compre na adidas.com.br! Mochila Linear - Roxo em vários estilos e cores na página oficial da loja online adidas Brasil. Não importa aonde o dia leve você, esta mochila adidas mantém seus itens essenciais organizados e à mão. As alças acolchoadas garantem o conforto do transporte. Os bolsos deslizantes têm espaço para uma garrafa de água e um guarda-chuva compacto, enquanto um bolso frontal com zíper oferece acesso rápido às suas chaves e ao telefone. Este produto é fab..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 199.99
   source: "retailer"
-  updated_at: "2026-07-13T08:57:48.430Z"
+  updated_at: "2026-07-13T14:18:40.885Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-13T08:57:48.430Z"
+    verified_at: "2026-07-13T14:18:40.885Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-13T08:57:48.430Z"
+    verified_at: "2026-07-13T14:18:40.885Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Mochila Linear - Cinza, compre na adidas.com.br! Mochila Linear - Cinza em vários estilos e cores na página oficial da loja online adidas Brasil. Não importa aonde o dia leve você, esta mochila adidas mantém seus itens essenciais organizados e à mão. As alças acolchoadas garantem o conforto do transporte. Os bolsos deslizantes têm espaço para uma garrafa de água e um guarda-chuva compacto, enquanto um bolso frontal com zíper oferece acesso rápido às suas chaves e ao telefone.  Este produto é fabricado com pelo menos 50% de materiais reciclados. Ao reutilizar materiais que já foram criados, ajudamos a reduzir os resíduos, a nossa dependência em recursos não renováveis, bem como a pegada dos produtos que fabricamos.
+Mochila Linear - Roxo, compre na adidas.com.br! Mochila Linear - Roxo em vários estilos e cores na página oficial da loja online adidas Brasil. Não importa aonde o dia leve você, esta mochila adidas mantém seus itens essenciais organizados e à mão. As alças acolchoadas garantem o conforto do transporte. Os bolsos deslizantes têm espaço para uma garrafa de água e um guarda-chuva compacto, enquanto um bolso frontal com zíper oferece acesso rápido às suas chaves e ao telefone.  Este produto é fabricado com pelo menos 50% de materiais reciclados. Ao reutilizar materiais que já foram criados, ajudamos a reduzir os resíduos, a nossa dependência em recursos não renováveis, bem como a pegada dos produtos que fabricamos.
