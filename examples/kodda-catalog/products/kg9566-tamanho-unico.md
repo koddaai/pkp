@@ -20,7 +20,7 @@ canonical:
   url: "http://www.adidas.com.br/mala-duffel-tres-listras-weekender-pequena/KG9566.html"
 
 # === DESCOBERTA (L0) ===
-summary: "MALA DUFFEL TRÊS LISTRAS WEEKENDER PEQUENA - Preto, compre na adidas.com.br! MALA DUFFEL TRÊS LISTRAS WEEKENDER PEQUENA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Organize-se de forma inteligente com a Mala Duffel Três Listras Weekender. Combinando o branding clássico e uma silhueta arrojada, ela é adequada para viagens, treinos ou para a sua rotina diária. A estrutura em malha plana proporciona durabilidade, enquanto os detalhes acolchoados oferecem con..."
+summary: "MALA DUFFEL TRÊS LISTRAS WEEKENDER PEQUENA - Preto, compre na adidas.com.br! MALA DUFFEL TRÊS LISTRAS WEEKENDER PEQUENA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Organize-se com inteligência com a Mala Duffel Três Listras Weekender Pequena. Combinando a marca clássica da adidas e uma silhueta arrojada, ela é ideal para viagens, treinos ou sua rotina diária. A estrutura de malha plana garante durabilidade, enquanto os detalhes acolchoados oferecem confor..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 299.99
   source: "retailer"
-  updated_at: "2026-07-14T07:53:28.826Z"
+  updated_at: "2026-07-14T13:20:15.338Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-14T07:53:28.826Z"
+    verified_at: "2026-07-14T13:20:15.338Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-14T07:53:28.826Z"
+    verified_at: "2026-07-14T13:20:15.338Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-MALA DUFFEL TRÊS LISTRAS WEEKENDER PEQUENA - Preto, compre na adidas.com.br! MALA DUFFEL TRÊS LISTRAS WEEKENDER PEQUENA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Organize-se de forma inteligente com a Mala Duffel Três Listras Weekender. Combinando o branding clássico e uma silhueta arrojada, ela é adequada para viagens, treinos ou para a sua rotina diária.  A estrutura em malha plana proporciona durabilidade, enquanto os detalhes acolchoados oferecem conforto em qualquer lugar. Um compartimento com zíper coloca seus itens essenciais ao alcance, com bolsos adicionais para maior organização.  Esta bolsa da adidas apresenta o icônico branding Três Listras para mostrar seu compromisso com o desempenho e o estilo. Ela foi criada para acompanhar o estilo de vida agitado, sendo altamente versátil para diferentes situações.
+MALA DUFFEL TRÊS LISTRAS WEEKENDER PEQUENA - Preto, compre na adidas.com.br! MALA DUFFEL TRÊS LISTRAS WEEKENDER PEQUENA - Preto em vários estilos e cores na página oficial da loja online adidas Brasil. Organize-se com inteligência com a Mala Duffel Três Listras Weekender Pequena. Combinando a marca clássica da adidas e uma silhueta arrojada, ela é ideal para viagens, treinos ou sua rotina diária.  A estrutura de malha plana garante durabilidade, enquanto os detalhes acolchoados oferecem conforto em movimento. Uma divisória com zíper deixa seus itens essenciais sempre acessíveis, com outros bolsos para uma organização extra.  Esta bolsa adidas conta com a marca icônica Três Listras para destacar seu compromisso com desempenho e estilo. Foi feita para acompanhar estilos de vida agitados e é versátil para diversas situações.
