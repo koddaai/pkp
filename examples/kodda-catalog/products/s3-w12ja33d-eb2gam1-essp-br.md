@@ -5,8 +5,8 @@ sku: "s3-w12ja33d-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
 name: "Ar-Condicionado LG Dual Inverter AI Voice 12.000 BTU Quente/Frio 220V - S3-W12JA33D"
-category: "outros"
-
+category: "eletrodomesticos"
+subcategory: "ar-condicionado"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-w12ja33d/"
 
 # === DESCOBERTA (L0) ===
-summary: "Encontre todas as informações sobre a nova linha de ar-condicionado LG Dual Inverter com inteligência artificial, controle de energia 4 em 1 e alta durabilidade"
+summary: "Descubra os benefícios do Ar Condicionado Dual Inverter 12.000 BTUs S3-W12JA33D! Mais conforto e comodidade para você e sua família!"
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2493.14
   source: "retailer"
-  updated_at: "2026-07-13T20:56:35.324Z"
+  updated_at: "2026-07-14T07:53:21.585Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-13T20:56:35.324Z"
+    verified_at: "2026-07-14T07:53:21.585Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-13T20:56:35.324Z"
+    verified_at: "2026-07-14T07:53:21.585Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-13
+# Data de importacao: 2026-07-14
 # aw_product_id: 43786843857
 ---
 
 ## Descricao
 
-Encontre todas as informações sobre a nova linha de ar-condicionado LG Dual Inverter com inteligência artificial, controle de energia 4 em 1 e alta durabilidade
+Descubra os benefícios do Ar Condicionado  Dual Inverter 12.000 BTUs S3-W12JA33D! Mais conforto e comodidade para você e sua família!

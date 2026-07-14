@@ -4,9 +4,9 @@ schema: pkp/1.0
 sku: "s3-q12ja33l-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG Dual Inverter AI Voice 12.000 BTU Frio 220V - S3-Q12JA33L"
-category: "outros"
-
+name: "Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-Q12JA33L - S3-Q12JA33L"
+category: "eletrodomesticos"
+subcategory: "ar-condicionado"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-q12ja33l/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG S3-Q12JA33L. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-Q12JA33L."
+summary: "Descubra os benefícios do Ar Condicionado Dual Inverter 12.000 BTUs S3-Q12JA33L! Mais conforto e comodidade para você e sua família!"
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2150.13
   source: "retailer"
-  updated_at: "2026-07-13T20:56:35.321Z"
+  updated_at: "2026-07-14T07:53:21.580Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-13T20:56:35.321Z"
+    verified_at: "2026-07-14T07:53:21.580Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-13T20:56:35.321Z"
+    verified_at: "2026-07-14T07:53:21.580Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-13
+# Data de importacao: 2026-07-14
 # aw_product_id: 43951547656
 ---
 
 ## Descricao
 
-Get more information on the LG S3-Q12JA33L. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-Q12JA33L.
+Descubra os benefícios do Ar Condicionado  Dual Inverter 12.000 BTUs S3-Q12JA33L! Mais conforto e comodidade para você e sua família!

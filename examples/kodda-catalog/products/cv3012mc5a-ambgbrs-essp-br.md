@@ -27,9 +27,9 @@ tags: ["lg", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 4084.05
+  value: 4274.05
   source: "retailer"
-  updated_at: "2026-07-13T20:56:35.138Z"
+  updated_at: "2026-07-14T07:53:21.413Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-13T20:56:35.138Z"
+    verified_at: "2026-07-14T07:53:21.413Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-13T20:56:35.138Z"
+    verified_at: "2026-07-14T07:53:21.413Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -56,7 +56,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-13
+# Data de importacao: 2026-07-14
 # aw_product_id: 43478675791
 ---
 

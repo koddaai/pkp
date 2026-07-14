@@ -4,9 +4,9 @@ schema: pkp/1.0
 sku: "lp1419ivsm-ec1aamz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado Portátil 14.000 BTU Branco 127V - LP1419IVSM"
-category: "outros"
-
+name: "Ar-Condicionado Portátil LG Dual Inverter 14.000 BTUs LP1419IVSM 127V - LP1419IVSM"
+category: "eletrodomesticos"
+subcategory: "ar-condicionado"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/ar-condicionado-portatil/lp1419ivsm/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG LP1419IVSM. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Portátil LG Dual Inverter 14.000 BTUs LP1419IVSM 127V."
+summary: "Descubra os benefícios do Ar Condicionado Portátil Dual Inverter LP1419IVSM! Sem gastos extras com ou stress com instalação! É só comprar e começar a usar!"
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4517.1
   source: "retailer"
-  updated_at: "2026-07-13T20:56:35.294Z"
+  updated_at: "2026-07-14T07:53:21.535Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-13T20:56:35.294Z"
+    verified_at: "2026-07-14T07:53:21.535Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-13T20:56:35.294Z"
+    verified_at: "2026-07-14T07:53:21.535Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  voltage: "127V"
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-13
+# Data de importacao: 2026-07-14
 # aw_product_id: 44125790387
 ---
 
 ## Descricao
 
-Get more information on the LG LP1419IVSM. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Portátil LG Dual Inverter 14.000 BTUs LP1419IVSM 127V.
+Descubra os benefícios do Ar Condicionado Portátil Dual Inverter LP1419IVSM! Sem gastos extras com ou stress com instalação! É só comprar e começar a usar!

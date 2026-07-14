@@ -5,8 +5,8 @@ sku: "s3-w12jar7a-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
 name: "Ar-Condicionado LG AI Dual Inverter Voice Artcool 12.000 BTU Quente/Frio 220V - S3-W12JAR7A"
-category: "outros"
-
+category: "eletrodomesticos"
+subcategory: "ar-condicionado"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-w12jar7a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG S3-W12JAR7A! Veja imagens, análises e especificações da LG Ar-Condicionado LG Dual Inverter Voice +AI Artcool UV Nano 12.000 BTU. Saiba mais!"
+summary: "Descubra os benefícios do Ar Condicionado Dual Inverter 12.000 BTUs S3-W12JAR7A! Mais conforto e comodidade para você e sua família!"
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3079.12
   source: "retailer"
-  updated_at: "2026-07-13T20:56:35.325Z"
+  updated_at: "2026-07-14T07:53:21.585Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-13T20:56:35.325Z"
+    verified_at: "2026-07-14T07:53:21.585Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-13T20:56:35.325Z"
+    verified_at: "2026-07-14T07:53:21.585Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-13
+# Data de importacao: 2026-07-14
 # aw_product_id: 43478677177
 ---
 
 ## Descricao
 
-Descubra a LG S3-W12JAR7A! Veja imagens, análises e especificações da LG Ar-Condicionado LG Dual Inverter Voice +AI Artcool UV Nano 12.000 BTU. Saiba mais!
+Descubra os benefícios do Ar Condicionado  Dual Inverter 12.000 BTUs S3-W12JAR7A! Mais conforto e comodidade para você e sua família!
