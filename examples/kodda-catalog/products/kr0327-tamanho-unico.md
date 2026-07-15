@@ -20,7 +20,7 @@ canonical:
   url: "http://www.adidas.com.br/mochila-adidas-primelift/KR0327.html"
 
 # === DESCOBERTA (L0) ===
-summary: "MOCHILA ADIDAS PrimeLift - Azul, compre na adidas.com.br! MOCHILA ADIDAS PrimeLift - Azul em vários estilos e cores na página oficial da loja online adidas Brasil. A Mochila adidas PrimeLift é o lugar onde o branding icônico une-se à praticidade. Esta mochila foi projetada para ser sua companheira confiável, seja indo para a academia ou explorando a cidade. Com sua estrutura em malha plana, ela oferece durabilidade e estilo em uma única peça. O bolso com zíper frontal oferece acesso rápido ao..."
+summary: "MOCHILA ADIDAS PrimeLift - Azul, compre na adidas.com.br! MOCHILA ADIDAS PrimeLift - Azul em vários estilos e cores na página oficial da loja online adidas Brasil. A Mochila adidas PrimeLift combina a identidade icônica do branding com praticidade. Projetada para ser sua parceira ideal, seja na academia ou explorando a cidade, ela oferece durabilidade e estilo graças à sua estrutura em malha plana. O bolso com zíper frontal garante acesso rápido aos itens essenciais, enquanto o bolso lateral ..."
 tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 299.99
   source: "retailer"
-  updated_at: "2026-07-15T07:57:49.014Z"
+  updated_at: "2026-07-15T13:24:04.119Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-15T07:57:49.014Z"
+    verified_at: "2026-07-15T13:24:04.119Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-15T07:57:49.014Z"
+    verified_at: "2026-07-15T13:24:04.119Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-MOCHILA ADIDAS PrimeLift - Azul, compre na adidas.com.br! MOCHILA ADIDAS PrimeLift - Azul em vários estilos e cores na página oficial da loja online adidas Brasil. A Mochila adidas PrimeLift é o lugar onde o branding icônico une-se à praticidade. Esta mochila foi projetada para ser sua companheira confiável, seja indo para a academia ou explorando a cidade. Com sua estrutura em malha plana, ela oferece durabilidade e estilo em uma única peça.  O bolso com zíper frontal oferece acesso rápido aos itens essenciais, enquanto o bolso lateral é adequado para a sua garrafa de água. E a tecnologia? O compartimento para notebook mantém seus dispositivos seguros e protegidos.  Os cordões de compressão laterais permitem que você ajuste o volume da mochila e, ao mesmo tempo, oferecem uma modelagem aconchegante e arrojada. O painel traseiro em malha elástica proporciona ventilação, aumentando a utilidade da peça. Os elementos do branding adidas na parte da frente completam o visual.
+MOCHILA ADIDAS PrimeLift - Azul, compre na adidas.com.br! MOCHILA ADIDAS PrimeLift - Azul em vários estilos e cores na página oficial da loja online adidas Brasil. A Mochila adidas PrimeLift combina a identidade icônica do branding com praticidade. Projetada para ser sua parceira ideal, seja na academia ou explorando a cidade, ela oferece durabilidade e estilo graças à sua estrutura em malha plana.  O bolso com zíper frontal garante acesso rápido aos itens essenciais, enquanto o bolso lateral é perfeito para sua garrafa de água. Precisa levar seus dispositivos? O compartimento para notebook mantém seus dispositivos seguros.  Cordões de compressão laterais permitem ajustar o volume da mochila, proporcionando uma modelagem aconchegante e arrojada. O painel traseiro em malha oferece ventilação, aumentando a funcionalidade do produto. Os elementos do branding adidas na parte frontal harmonizam o visual.

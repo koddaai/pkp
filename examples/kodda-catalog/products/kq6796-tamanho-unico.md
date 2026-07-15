@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "kq6796-tamanho-unico"
 gtin: "4068817925103"
 brand: "Adidas"
-name: "Bolsa Organizadora  Primelift Unisex adidas"
+name: "Organizadora  Apwr Unisex adidas"
 category: "outros"
 
 
@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://adidas.com.br/kq6796-tamanho-unico"
 canonical:
   domain: "adidas.com.br"
-  url: "http://www.adidas.com.br/bolsa-organizadora-adidas-primelift/KQ6796.html"
+  url: "http://www.adidas.com.br/organizadora-adidas-apwr/KQ6796.html"
 
 # === DESCOBERTA (L0) ===
-summary: "BOLSA ORGANIZADORA ADIDAS PrimeLift - Marrom, compre na adidas.com.br! BOLSA ORGANIZADORA ADIDAS PrimeLift - Marrom em vários estilos e cores na página oficial da loja online adidas Brasil. A bolsa organizadora adidas PrimeLift combina estilo e praticidade em um modelo compacto, pensado para manter seus itens essenciais organizados e sempre ao alcance quando você está em movimento. A estrutura em malha plana garante durabilidade e leveza. Já o bolso embutido oferece um armazenamento seguro pa..."
-tags: ["adidas", "ai"]
+summary: "ORGANIZADORA ADIDAS APWR - Marrom, compre na adidas.com.br! ORGANIZADORA ADIDAS APWR - Marrom em vários estilos e cores na página oficial da loja online adidas Brasil. A Organizadora adidas APWR une estilo com design prático em um acessório conveniente, projetado para manter seus itens essenciais organizados e à mão quando você está em movimento. A estrutura em malha plana garante durabilidade enquanto mantém o peso baixo, e um bolso embutido funcional oferece armazenamento seguro para itens ..."
+tags: ["adidas", "ai", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 119.99
   source: "retailer"
-  updated_at: "2026-07-15T07:57:48.608Z"
+  updated_at: "2026-07-15T13:24:03.576Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-15T07:57:48.608Z"
+    verified_at: "2026-07-15T13:24:03.576Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-15T07:57:48.608Z"
+    verified_at: "2026-07-15T13:24:03.576Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-BOLSA ORGANIZADORA ADIDAS PrimeLift - Marrom, compre na adidas.com.br! BOLSA ORGANIZADORA ADIDAS PrimeLift - Marrom em vários estilos e cores na página oficial da loja online adidas Brasil. A bolsa organizadora adidas PrimeLift combina estilo e praticidade em um modelo compacto, pensado para manter seus itens essenciais organizados e sempre ao alcance quando você está em movimento.  A estrutura em malha plana garante durabilidade e leveza. Já o bolso embutido oferece um armazenamento seguro para os objetos menores, evitando a desordem.  O acabamento com a marca ousada da adidas injeta a energia de herança e autenticidade, resultando em um acessório funcional versátil que une desempenho, organização e design icônico.
+ORGANIZADORA ADIDAS APWR - Marrom, compre na adidas.com.br! ORGANIZADORA ADIDAS APWR - Marrom em vários estilos e cores na página oficial da loja online adidas Brasil. A Organizadora adidas APWR une estilo com design prático em um acessório conveniente, projetado para manter seus itens essenciais organizados e à mão quando você está em movimento.  A estrutura em malha plana garante durabilidade enquanto mantém o peso baixo, e um bolso embutido funcional oferece armazenamento seguro para itens menores e ajuda a evitar a desorganização.  O acabamento com a marca adidas em destaque adiciona energia de tradição e estilo autêntico, criando um acessório com foco em desempenho que combina praticidade com design icônico.
