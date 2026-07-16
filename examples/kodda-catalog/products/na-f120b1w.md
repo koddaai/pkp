@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/na-f120b1w"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/maquina-de-lavar-panasonic-12-kg-branca-na-f120b1w/p?idsku=45050"
+  url: "https://loja.panasonic.com.br/maquina-de-lavar-panasonic-12-kg-branca-na-f120b1w/p?idsku=45051"
 
 # === DESCOBERTA (L0) ===
 summary: "A Máquina de Lavar 12kg branca tem a melhor lavagem da categoria segundo o Inmetro.Possui Sistema Ciclone de lavagem sem agitador que não danifica as roupas; Smartsense, que pesa as roupas e escolhe a quantidade ideal de água; Antibacteria Ag que elimina 99,99% da proliferação de bactérias; programa exclusivo de lavagem Vanish, que melhora o desempenho da lavagem em 20%; alta capacidade para lavar até 12kg de roupa de uma vez. Além disso, possui cesto em inox, filtro de fiapos, 8 programas de..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2119
   source: "retailer"
-  updated_at: "2026-07-15T20:59:30.440Z"
+  updated_at: "2026-07-16T08:02:58.564Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-15T20:59:30.440Z"
+    verified_at: "2026-07-16T08:02:58.564Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-15T20:59:30.440Z"
+    verified_at: "2026-07-16T08:02:58.564Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-07-15
+# Data de importacao: 2026-07-16
 # aw_product_id: 45289525744
 ---
 

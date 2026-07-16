@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nr-bb71pvfx"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/geladeira-frost-free-panasonic-aco-escovado-nr-bb71pvfx/p?idsku=45012"
+  url: "https://loja.panasonic.com.br/geladeira-frost-free-panasonic-aco-escovado-nr-bb71pvfx/p?idsku=45011"
 
 # === DESCOBERTA (L0) ===
 summary: "Preserve seus alimentos na temperatura ideal com FreshfreezerA gaveta Freshfreezer possui 4 opções ajustáveis de temperatura, independentes do restante da geladeira, permitindo o armazenamento de diversos itens na temperatura ideal para consumo, variando desde cervejas, carnes, peixes e laticínios, até porções para o preparo de refeições.• 0°c: Frios e laticínios.• -2°c: Bebidas ultra geladas.• -3°c:Porções de alimentos, peixes e carnes, permitindo que sejam fatiados sem precisar descongelar...."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4899
   source: "retailer"
-  updated_at: "2026-07-15T20:59:30.439Z"
+  updated_at: "2026-07-16T08:02:58.563Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-15T20:59:30.439Z"
+    verified_at: "2026-07-16T08:02:58.563Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-15T20:59:30.439Z"
+    verified_at: "2026-07-16T08:02:58.563Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-07-15
+# Data de importacao: 2026-07-16
 # aw_product_id: 45146853984
 ---
 

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu66771401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU66771401. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG 86NANO75SQA - EBU66771401"
+summary: "Get more information on the LG EBU66771401. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 86NANO75SQA - EBU66771401."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,13 +29,13 @@ price:
   currency: "BRL"
   value: 901.55
   source: "retailer"
-  updated_at: "2026-03-27T20:38:51.762Z"
+  updated_at: "2026-07-16T08:03:08.184Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=43478676834&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=45303509820&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-27T20:38:51.762Z"
+    verified_at: "2026-07-16T08:03:08.184Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-27T20:38:51.762Z"
+    verified_at: "2026-07-16T08:03:08.184Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-03-27
-# aw_product_id: 43478676834
+# Data de importacao: 2026-07-16
+# aw_product_id: 45303509820
 ---
 
 ## Descricao
 
-Descubra a LG EBU66771401. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG 86NANO75SQA - EBU66771401
+Get more information on the LG EBU66771401. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 86NANO75SQA - EBU66771401.

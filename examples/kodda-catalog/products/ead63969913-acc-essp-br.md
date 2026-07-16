@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead63969913/"
 
 # === DESCOBERTA (L0) ===
-summary: "Cabo Flat com conector, 60V, 60P, 60P8FN-2F04J-2"
+summary: "Get more information on the LG EAD63969913. Click for pictures, reviews, and tech specs for the LG Cabo FLAT TV LG 49UJ7500 EAD63969913."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,13 +29,13 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-04-27T21:02:19.440Z"
+  updated_at: "2026-07-16T08:03:08.070Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=44550787097&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=45303509809&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-27T21:02:19.440Z"
+    verified_at: "2026-07-16T08:03:08.070Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-27T21:02:19.440Z"
+    verified_at: "2026-07-16T08:03:08.070Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-27
-# aw_product_id: 44550787097
+# Data de importacao: 2026-07-16
+# aw_product_id: 45303509809
 ---
 
 ## Descricao
 
-Cabo Flat com conector, 60V, 60P, 60P8FN-2F04J-2
+Get more information on the LG EAD63969913. Click for pictures, reviews, and tech specs for the LG Cabo FLAT TV LG 49UJ7500 EAD63969913.

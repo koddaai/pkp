@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu64689008/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU64689008. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG 55UK6540PSB, 55UK6530PSF, 55UK6540PSB - EBU64689008"
+summary: "Get more information on the LG EBU64689008. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 55UK6540PSB, 55UK6530PSF, 55UK6540PSB - EBU64689008."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,13 +29,13 @@ price:
   currency: "BRL"
   value: 863.55
   source: "retailer"
-  updated_at: "2026-03-27T20:38:51.755Z"
+  updated_at: "2026-07-16T08:03:08.176Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=43478676797&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=45303509815&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-27T20:38:51.755Z"
+    verified_at: "2026-07-16T08:03:08.176Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-27T20:38:51.755Z"
+    verified_at: "2026-07-16T08:03:08.176Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-03-27
-# aw_product_id: 43478676797
+# Data de importacao: 2026-07-16
+# aw_product_id: 45303509815
 ---
 
 ## Descricao
 
-Descubra a LG EBU64689008. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG 55UK6540PSB, 55UK6530PSF, 55UK6540PSB - EBU64689008
+Get more information on the LG EBU64689008. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 55UK6540PSB, 55UK6530PSF, 55UK6540PSB - EBU64689008.

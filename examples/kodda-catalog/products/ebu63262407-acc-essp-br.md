@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu63262407/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU63262407. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG 43UF6800 - EBU63262407"
+summary: "Get more information on the LG EBU63262407. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 43UF6800 - EBU63262407."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,13 +29,13 @@ price:
   currency: "BRL"
   value: 1044.05
   source: "retailer"
-  updated_at: "2026-03-26T20:35:49.514Z"
+  updated_at: "2026-07-16T08:03:08.173Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=43744005120&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=45303509812&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-26T20:35:49.514Z"
+    verified_at: "2026-07-16T08:03:08.173Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-26T20:35:49.514Z"
+    verified_at: "2026-07-16T08:03:08.173Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-03-26
-# aw_product_id: 43744005120
+# Data de importacao: 2026-07-16
+# aw_product_id: 45303509812
 ---
 
 ## Descricao
 
-Descubra a LG EBU63262407. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG 43UF6800 - EBU63262407
+Get more information on the LG EBU63262407. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 43UF6800 - EBU63262407.
