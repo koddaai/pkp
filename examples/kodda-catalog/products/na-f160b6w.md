@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/na-f160b6w"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/maquina-de-lavar-panasonic-16kg-branco-na-f160b6w/p?idsku=45005"
+  url: "https://loja.panasonic.com.br/maquina-de-lavar-panasonic-16kg-branco-na-f160b6w/p?idsku=45006"
 
 # === DESCOBERTA (L0) ===
 summary: "A Máquina de Lavar 16kg tem a melhor lavagem e o menor consumo de água da categoria segundo o InmetroPossui Sistema Ciclone de lavagem sem agitador que não danifica as roupas; Smartsense, que pesa as roupas e escolhe a quantidade ideal de água; Antibacteria Ag que elimina 99,99% da proliferação de bactérias; programa exclusivo de lavagem Vanish, que melhora o desempenho da lavagem em 20%; alta capacidade para lavar até 17kg de roupa de uma vez. Além disso, possui cesto em inox, filtro de fiap..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1999
   source: "retailer"
-  updated_at: "2026-07-14T21:00:09.578Z"
+  updated_at: "2026-07-17T07:59:54.180Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-14T21:00:09.578Z"
+    verified_at: "2026-07-17T07:59:54.180Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-14T21:00:09.578Z"
+    verified_at: "2026-07-17T07:59:54.180Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-07-14
+# Data de importacao: 2026-07-17
 # aw_product_id: 44636365882
 ---
 
