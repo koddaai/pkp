@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/75qned85asg/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a próxima geração de Smart AI TVs da LG, 75QNED85ASG para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG QNED evo AI 4K QNED85 MiniLED de 75 polegadas 2025."
+summary: "Get more information on the LG 75QNED85ASG. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED AI QNED85 75” 4K."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7219.05
   source: "retailer"
-  updated_at: "2026-07-17T20:53:21.157Z"
+  updated_at: "2026-07-18T07:40:51.961Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-17T20:53:21.157Z"
+    verified_at: "2026-07-18T07:40:51.961Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-17T20:53:21.157Z"
+    verified_at: "2026-07-18T07:40:51.961Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 75
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-17
+# Data de importacao: 2026-07-18
 # aw_product_id: 43478675132
 ---
 
 ## Descricao
 
-Descubra a próxima geração de Smart AI TVs da LG, 75QNED85ASG para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG QNED evo AI 4K QNED85 MiniLED de 75 polegadas 2025.
+Get more information on the LG 75QNED85ASG. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED AI QNED85 75” 4K.

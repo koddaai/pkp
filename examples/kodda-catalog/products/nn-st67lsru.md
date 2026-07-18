@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-st67lsru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st67-espelhado-nn-st67lsru/p?idsku=45064"
+  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st67-espelhado-nn-st67lsru/p?idsku=45063"
 
 # === DESCOBERTA (L0) ===
 summary: "O Micro-ondas ST67 tem 34 litros de capacidade e vem com tecnologia Antibacteria Ag, antiaderente para facilitar a limpeza, tecnologia Pega Fácil, design sofisticado, função Dupla Refeição e tem eficiência energética A. Dupla RefeiçãoA função pode ser ativada para aquecer 300g, 500g e 700g (peso total das duas porções) em pratos diferentes. Basta colocar uma refeição no prato giratório e outra na grelha.Retire o utensílio do jeito que colocou com Pega FácilAssim que o aquecimento termina, o p..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 739
   source: "retailer"
-  updated_at: "2026-07-17T20:53:13.143Z"
+  updated_at: "2026-07-18T07:40:43.671Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-17T20:53:13.143Z"
+    verified_at: "2026-07-18T07:40:43.671Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-17T20:53:13.143Z"
+    verified_at: "2026-07-18T07:40:43.671Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-07-17
+# Data de importacao: 2026-07-18
 # aw_product_id: 38931326585
 ---
 
