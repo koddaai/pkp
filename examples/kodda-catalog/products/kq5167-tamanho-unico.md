@@ -4,8 +4,8 @@ schema: pkp/1.0
 sku: "kq5167-tamanho-unico"
 gtin: "4068805166426"
 brand: "Adidas"
-name: "Mala Duffel  Defender Pequena Mulher adidas"
-category: "notebooks"
+name: "Mala Duffle  Defender Feminina P Mulher adidas"
+category: "celulares/smartphones"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://adidas.com.br/kq5167-tamanho-unico"
 canonical:
   domain: "adidas.com.br"
-  url: "http://www.adidas.com.br/mala-duffel-adidas-defender-pequena/KQ5167.html"
+  url: "http://www.adidas.com.br/mala-duffle-adidas-defender-feminina-p/KQ5167.html"
 
 # === DESCOBERTA (L0) ===
-summary: "Mala Duffel adidas Defender Pequena - Roxo, compre na adidas.com.br! Mala Duffel adidas Defender Pequena - Roxo em vários estilos e cores na página oficial da loja online adidas Brasil. Do trabalho ao treino e vice-versa, esta mala duffel da adidas está pronta para tudo. O espaçoso compartimento principal tem espaço para uma muda de roupa, tênis e um notebook. Um bolso frontal com zíper mantém seu telefone e chaves de fácil acesso. Projetada para treinamento híbrido e desempenho versátil."
+summary: "Mala Duffle adidas Defender Feminina P - Roxo, compre na adidas.com.br! Mala Duffle adidas Defender Feminina P - Roxo em vários estilos e cores na página oficial da loja online adidas Brasil. Do trabalho ao treino e de volta, esta mala duffel da adidas está pronta para tudo. O compartimento principal espaçoso tem espaço para uma muda de roupa, tênis e um notebook. Um bolso frontal com zíper mantém seu celular e suas chaves sempre à mão. Projetada para treinamento híbrido e desempenho versátil."
 tags: ["adidas", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 299.99
   source: "retailer"
-  updated_at: "2026-06-23T14:36:44.233Z"
+  updated_at: "2026-07-21T13:25:30.282Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T14:36:44.233Z"
+    verified_at: "2026-07-21T13:25:30.282Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-23T14:36:44.233Z"
+    verified_at: "2026-07-21T13:25:30.282Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Adidas BR (feed_id: 95015)
-# Data de importacao: 2026-06-23
+# Data de importacao: 2026-07-21
 # aw_product_id: 44899611126
 ---
 
 ## Descricao
 
-Mala Duffel adidas Defender Pequena - Roxo, compre na adidas.com.br! Mala Duffel adidas Defender Pequena - Roxo em vários estilos e cores na página oficial da loja online adidas Brasil. Do trabalho ao treino e vice-versa, esta mala duffel da adidas está pronta para tudo. O espaçoso compartimento principal tem espaço para uma muda de roupa, tênis e um notebook. Um bolso frontal com zíper mantém seu telefone e chaves de fácil acesso.  Projetada para treinamento híbrido e desempenho versátil.
+Mala Duffle adidas Defender Feminina P - Roxo, compre na adidas.com.br! Mala Duffle adidas Defender Feminina P - Roxo em vários estilos e cores na página oficial da loja online adidas Brasil. Do trabalho ao treino e de volta, esta mala duffel da adidas está pronta para tudo. O compartimento principal espaçoso tem espaço para uma muda de roupa, tênis e um notebook. Um bolso frontal com zíper mantém seu celular e suas chaves sempre à mão.  Projetada para treinamento híbrido e desempenho versátil.
