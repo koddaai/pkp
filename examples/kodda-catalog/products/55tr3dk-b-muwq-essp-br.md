@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/lousa-digital/55tr3dk-bm/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get information on the LG CreateBoard. Find pictures, reviews, and tech specs for the LG 55TR3DK-BM"
+summary: "Get more information on the LG 55TR3DK-BM. Click for pictures, reviews, and tech specs for the LG Lousa Digital LG CreateBoard UHD 4K."
 tags: ["lg", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 11399.05
   source: "retailer"
-  updated_at: "2026-07-21T21:08:07.610Z"
+  updated_at: "2026-07-22T08:16:25.739Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-21T21:08:07.610Z"
+    verified_at: "2026-07-22T08:16:25.739Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-21T21:08:07.610Z"
+    verified_at: "2026-07-22T08:16:25.739Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-21
+# Data de importacao: 2026-07-22
 # aw_product_id: 43478675011
 ---
 
 ## Descricao
 
-Get information on the LG CreateBoard. Find pictures, reviews, and tech specs for the LG 55TR3DK-BM
+Get more information on the LG 55TR3DK-BM. Click for pictures, reviews, and tech specs for the LG Lousa Digital LG CreateBoard UHD 4K.

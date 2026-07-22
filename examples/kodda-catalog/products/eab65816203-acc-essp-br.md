@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eab65816203/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAB65816203. Click for pictures, reviews, and tech specs for the LG EAB65816203."
+summary: "Get more information on the LG EAB65816203. Click for pictures, reviews, and tech specs for the LG Alto Falante Full Range TV LG EAB65816203."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-07-21T21:08:07.683Z"
+  updated_at: "2026-07-22T08:16:25.827Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-21T21:08:07.683Z"
+    verified_at: "2026-07-22T08:16:25.827Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-21T21:08:07.683Z"
+    verified_at: "2026-07-22T08:16:25.827Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-21
+# Data de importacao: 2026-07-22
 # aw_product_id: 44735580480
 ---
 
 ## Descricao
 
-Get more information on the LG EAB65816203. Click for pictures, reviews, and tech specs for the LG EAB65816203.
+Get more information on the LG EAB65816203. Click for pictures, reviews, and tech specs for the LG Alto Falante Full Range TV LG EAB65816203.
