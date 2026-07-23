@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "oled42c5psa-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG OLED evo AI C5 4K de 42 polegadas 2025 - OLED42C5PSA"
+name: "Smart TV LG OLED evo C5 42 polegadas 4K - OLED42C5PSA"
 category: "tvs"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/oled-evo/oled42c5psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG OLED42C5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo C5 42 polegadas 4K."
+summary: "Descubra a próxima geração de Smart AI TVs da LG, OLED42C5PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG OLED evo AI C5 4K de 42 polegadas 2025."
 tags: ["lg", "smart", "ai", "4k", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4962.8
   source: "retailer"
-  updated_at: "2026-07-22T21:05:41.694Z"
+  updated_at: "2026-07-23T08:22:13.397Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-22T21:05:41.694Z"
+    verified_at: "2026-07-23T08:22:13.397Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-22T21:05:41.694Z"
+    verified_at: "2026-07-23T08:22:13.397Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-22
+# Data de importacao: 2026-07-23
 # aw_product_id: 43478677099
 ---
 
 ## Descricao
 
-Get more information on the LG OLED42C5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo C5 42 polegadas 4K.
+Descubra a próxima geração de Smart AI TVs da LG, OLED42C5PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG OLED evo AI C5 4K de 42 polegadas 2025.
