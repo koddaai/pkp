@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/cv9014bc2/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG CV9014BC2. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG 12kg Titanium com AI DD e Steam."
+summary: "Get more information on the LG CV9014BC2. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG 12kg Titanium Inox Look com AI DD e Steam."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4939.05
   source: "retailer"
-  updated_at: "2026-07-23T21:03:59.414Z"
+  updated_at: "2026-07-24T08:15:35.817Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-23T21:03:59.414Z"
+    verified_at: "2026-07-24T08:15:35.817Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-23T21:03:59.414Z"
+    verified_at: "2026-07-24T08:15:35.817Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-23
+# Data de importacao: 2026-07-24
 # aw_product_id: 43478675811
 ---
 
 ## Descricao
 
-Get more information on the LG CV9014BC2. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG 12kg Titanium com AI DD e Steam.
+Get more information on the LG CV9014BC2. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG 12kg Titanium Inox Look com AI DD e Steam.
