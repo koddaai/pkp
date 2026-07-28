@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-duplex/gn-b392pqwb/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GN-B392PQWB. Click for pictures, reviews, and tech specs for the LG Geladeira Duplex LG 395L Branca com Compressor Smart Inverter e Door Cooling+™."
+summary: "Get more information on the LG GN-B392PQWB. Click for pictures, reviews, and tech specs for the LG Geladeira Duplex LG 395L Branca com Compressor Smart Inverter e Door Cooling+™ - 127V."
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2564.05
   source: "retailer"
-  updated_at: "2026-07-27T21:09:26.925Z"
+  updated_at: "2026-07-28T08:24:06.766Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-27T21:09:26.925Z"
+    verified_at: "2026-07-28T08:24:06.766Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-27T21:09:26.925Z"
+    verified_at: "2026-07-28T08:24:06.766Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":395,"unit":"l"}
+  voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-27
+# Data de importacao: 2026-07-28
 # aw_product_id: 43478676929
 ---
 
 ## Descricao
 
-Get more information on the LG GN-B392PQWB. Click for pictures, reviews, and tech specs for the LG Geladeira Duplex LG 395L Branca com Compressor Smart Inverter e Door Cooling+™.
+Get more information on the LG GN-B392PQWB. Click for pictures, reviews, and tech specs for the LG Geladeira Duplex LG 395L Branca com Compressor Smart Inverter e Door Cooling+™ - 127V.

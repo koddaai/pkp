@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-multidoor/gc-v24fflhb/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GC-V24FFLHB. Click for pictures, reviews, and tech specs for the LG Geladeira Multidoor LG 670L Inox Look com InstaView™ e Compressor Inverter."
+summary: "Get more information on the LG GC-V24FFLHB. Click for pictures, reviews, and tech specs for the LG Geladeira Multidoor LG 670L Inox Look com InstaView™ e Compressor Inverter - 127V."
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 11399.05
   source: "retailer"
-  updated_at: "2026-07-27T21:09:26.924Z"
+  updated_at: "2026-07-28T08:24:06.765Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-27T21:09:26.924Z"
+    verified_at: "2026-07-28T08:24:06.765Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-27T21:09:26.924Z"
+    verified_at: "2026-07-28T08:24:06.765Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":670,"unit":"l"}
+  voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-27
+# Data de importacao: 2026-07-28
 # aw_product_id: 44650701084
 ---
 
 ## Descricao
 
-Get more information on the LG GC-V24FFLHB. Click for pictures, reviews, and tech specs for the LG Geladeira Multidoor LG 670L Inox Look com InstaView™ e Compressor Inverter.
+Get more information on the LG GC-V24FFLHB. Click for pictures, reviews, and tech specs for the LG Geladeira Multidoor LG 670L Inox Look com InstaView™ e Compressor Inverter - 127V.

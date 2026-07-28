@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-side-by-side/gc-l267klqx/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GC-L267KLQX. Click for pictures, reviews, and tech specs for the LG Geladeira Side by Side LG 638L Inox com Compressor Inverter."
+summary: "Get more information on the LG GC-L267KLQX. Click for pictures, reviews, and tech specs for the LG Geladeira Side by Side LG 638L Inox com Compressor Inverter Bivolt."
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 9024.05
+  value: 9499.05
   source: "retailer"
-  updated_at: "2026-07-27T21:09:26.924Z"
+  updated_at: "2026-07-28T08:24:06.765Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-27T21:09:26.924Z"
+    verified_at: "2026-07-28T08:24:06.765Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-27T21:09:26.924Z"
+    verified_at: "2026-07-28T08:24:06.765Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":638,"unit":"l"}
+  voltage: "Bivolt"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-27
+# Data de importacao: 2026-07-28
 # aw_product_id: 44745517503
 ---
 
 ## Descricao
 
-Get more information on the LG GC-L267KLQX. Click for pictures, reviews, and tech specs for the LG Geladeira Side by Side LG 638L Inox com Compressor Inverter.
+Get more information on the LG GC-L267KLQX. Click for pictures, reviews, and tech specs for the LG Geladeira Side by Side LG 638L Inox com Compressor Inverter Bivolt.

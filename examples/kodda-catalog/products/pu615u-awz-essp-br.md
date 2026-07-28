@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "pu615u-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Projetor LG CineBeam Q PU615U Mini Ultra Curta Distância, 4K UHD, 100\", DCI-P3 154%,  Leve e Ultraportátil - PU615U"
+name: "Projetor LG CineBeam S PU615U: Triple Laser 4K UHD, Tela Gigante 100”, ultra curta distância, Smart WebOS, DCI-P3 154%, Dolby Atmos, Leve e Ultraportátil, Screen Share & Bluetooth, USB-C - PU615U"
 category: "monitors"
 subcategory: "projetor"
 
@@ -21,7 +21,7 @@ canonical:
 
 # === DESCOBERTA (L0) ===
 summary: "Projetor LG CineBeam Q PU615U Mini Ultra Curta Distância, 4K UHD, 100\", DCI-P3 154%, Leve e Ultraportátil"
-tags: ["lg", "4k", "pro", "ultra"]
+tags: ["lg", "bluetooth", "smart", "4k", "dolby", "pro", "ultra"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6999
   source: "retailer"
-  updated_at: "2026-07-27T21:09:26.955Z"
+  updated_at: "2026-07-28T08:24:06.793Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-27T21:09:26.955Z"
+    verified_at: "2026-07-28T08:24:06.793Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-27T21:09:26.955Z"
+    verified_at: "2026-07-28T08:24:06.793Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-27
+# Data de importacao: 2026-07-28
 # aw_product_id: 43510245306
 ---
 

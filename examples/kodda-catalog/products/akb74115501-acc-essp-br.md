@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/tvs/remote-controller/akb74115501/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AKB74115501. Clique para ver fotos, avaliações e especificações técnicas do Controle remoto para LG TV."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AKB74115501. Click for pictures, reviews, and tech specs for the LG Controle remoto para TV LG AKB74115501."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-07-27T21:09:26.744Z"
+  updated_at: "2026-07-28T08:24:06.612Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-27T21:09:26.744Z"
+    verified_at: "2026-07-28T08:24:06.612Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-27T21:09:26.744Z"
+    verified_at: "2026-07-28T08:24:06.612Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-27
+# Data de importacao: 2026-07-28
 # aw_product_id: 43478675655
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre o AKB74115501. Clique para ver fotos, avaliações e especificações técnicas do Controle remoto para LG TV.
+Get more information on the LG AKB74115501. Click for pictures, reviews, and tech specs for the LG Controle remoto para TV LG AKB74115501.
