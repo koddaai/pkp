@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/aeh76181802/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AEH76181802. Click for pictures, reviews, and tech specs for the LG Suporte da Porta Refrigerador LG GCX257CSHS AEH76181802."
+summary: "Suporte da Porta Refrigerador LG GCX257CSHS AEH76181802"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-07-29T20:54:55.597Z"
+  updated_at: "2026-07-30T08:14:35.009Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-29T20:54:55.597Z"
+    verified_at: "2026-07-30T08:14:35.009Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-29T20:54:55.597Z"
+    verified_at: "2026-07-30T08:14:35.009Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-29
+# Data de importacao: 2026-07-30
 # aw_product_id: 45391551788
 ---
 
 ## Descricao
 
-Get more information on the LG AEH76181802. Click for pictures, reviews, and tech specs for the LG Suporte da Porta Refrigerador LG GCX257CSHS AEH76181802.
+Suporte da Porta Refrigerador LG GCX257CSHS AEH76181802

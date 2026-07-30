@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/acq30358607/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG ACQ30358607. Click for pictures, reviews, and tech specs for the LG Cobertura do Dispenser Refrigerador LG GCL257SLP1 ACQ30358607."
+summary: "Cobertura do Dispenser Refrigerador LG GCL257SLP1 ACQ30358607"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 654.55
   source: "retailer"
-  updated_at: "2026-07-29T20:54:55.580Z"
+  updated_at: "2026-07-30T08:14:34.994Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-29T20:54:55.580Z"
+    verified_at: "2026-07-30T08:14:34.994Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-29T20:54:55.580Z"
+    verified_at: "2026-07-30T08:14:34.994Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-29
+# Data de importacao: 2026-07-30
 # aw_product_id: 45391551784
 ---
 
 ## Descricao
 
-Get more information on the LG ACQ30358607. Click for pictures, reviews, and tech specs for the LG Cobertura do Dispenser Refrigerador LG GCL257SLP1 ACQ30358607.
+Cobertura do Dispenser Refrigerador LG GCL257SLP1 ACQ30358607

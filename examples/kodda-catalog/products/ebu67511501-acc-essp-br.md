@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu67511501/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos"
+summary: "Get more information on the LG EBU67511501. Click for pictures, reviews, and tech specs for the LG Placa Principal Monitor de Video LG 55UL3JM EBU67511501."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1481.05
   source: "retailer"
-  updated_at: "2026-07-29T20:54:55.786Z"
+  updated_at: "2026-07-30T08:14:35.177Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-29T20:54:55.786Z"
+    verified_at: "2026-07-30T08:14:35.177Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-29T20:54:55.786Z"
+    verified_at: "2026-07-30T08:14:35.177Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-29
+# Data de importacao: 2026-07-30
 # aw_product_id: 45391551814
 ---
 
 ## Descricao
 
-Placa de circuito impresso principal Montada com componentes eletroeletrônicos
+Get more information on the LG EBU67511501. Click for pictures, reviews, and tech specs for the LG Placa Principal Monitor de Video LG 55UL3JM EBU67511501.
