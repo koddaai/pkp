@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/6501kw2001a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Sensor de carga por variação de frequência Montado em suporte plástico WMD-180C2"
+summary: "Get more information on the LG 6501KW2001A. Click for pictures, reviews, and tech specs for the LG Sensor de Carga Lavadora LG WD1403RD5 6501KW2001A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-07-30T21:08:23.813Z"
+  updated_at: "2026-07-31T08:41:22.757Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.813Z"
+    verified_at: "2026-07-31T08:41:22.757Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.813Z"
+    verified_at: "2026-07-31T08:41:22.757Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-30
+# Data de importacao: 2026-07-31
 # aw_product_id: 45397222322
 ---
 
 ## Descricao
 
-Sensor de carga por variação de frequência Montado em suporte plástico WMD-180C2
+Get more information on the LG 6501KW2001A. Click for pictures, reviews, and tech specs for the LG Sensor de Carga Lavadora LG WD1403RD5 6501KW2001A.

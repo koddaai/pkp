@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/acz74230538/"
 
 # === DESCOBERTA (L0) ===
-summary: "Dispensador de sabão Montado com válvula, mangueira, abraçadeira"
+summary: "Get more information on the LG ACZ74230538. Click for pictures, reviews, and tech specs for the LG Dispensador de Sabão Lavadora LG CV5013BC4A ACZ74230538."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.05
   source: "retailer"
-  updated_at: "2026-07-30T21:08:23.844Z"
+  updated_at: "2026-07-31T08:41:22.783Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.844Z"
+    verified_at: "2026-07-31T08:41:22.783Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.844Z"
+    verified_at: "2026-07-31T08:41:22.783Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-30
+# Data de importacao: 2026-07-31
 # aw_product_id: 45391551785
 ---
 
 ## Descricao
 
-Dispensador de sabão Montado com válvula, mangueira, abraçadeira
+Get more information on the LG ACZ74230538. Click for pictures, reviews, and tech specs for the LG Dispensador de Sabão Lavadora LG CV5013BC4A ACZ74230538.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/ebr86268930/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos"
+summary: "Get more information on the LG EBR86268930. Click for pictures, reviews, and tech specs for the LG Placa Principal Lavadora LG WD18BV2S6BA EBR86268930."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1300.55
   source: "retailer"
-  updated_at: "2026-07-30T21:08:24.013Z"
+  updated_at: "2026-07-31T08:41:22.938Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:24.013Z"
+    verified_at: "2026-07-31T08:41:22.938Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:24.013Z"
+    verified_at: "2026-07-31T08:41:22.938Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-30
+# Data de importacao: 2026-07-31
 # aw_product_id: 45391551813
 ---
 
 ## Descricao
 
-Placa de circuito impresso principal Montada com componentes eletroeletrônicos
+Get more information on the LG EBR86268930. Click for pictures, reviews, and tech specs for the LG Placa Principal Lavadora LG WD18BV2S6BA EBR86268930.

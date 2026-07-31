@@ -5,8 +5,8 @@ sku: "agm73611313-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Folha Aromatizada LG Styler S3MFBN AGM73611313 - AGM73611313"
-category: "outros"
-
+category: "eletrodomesticos"
+subcategory: "lavadora"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/agm73611313/"
 
 # === DESCOBERTA (L0) ===
-summary: "Tecido com fragrância tipo: Aroma de limão, manjericão e tangerina Em forma de folha com dimensoes de 190x126mm Acondicionado em caixa contendo 20 folhas Utilizado para perfumar as roupas no aparelho para higienizar, desodorizar e reduzir amassados em roupas"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AGM73611313. Click for pictures, reviews, and tech specs for the LG Folha Aromatizada LG Styler S3MFBN AGM73611313."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-07-30T21:08:23.875Z"
+  updated_at: "2026-07-31T08:41:22.811Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.875Z"
+    verified_at: "2026-07-31T08:41:22.811Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.875Z"
+    verified_at: "2026-07-31T08:41:22.811Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-30
+# Data de importacao: 2026-07-31
 # aw_product_id: 45391551789
 ---
 
 ## Descricao
 
-Tecido com fragrância tipo: Aroma de limão, manjericão e tangerina Em forma de folha com dimensoes de 190x126mm Acondicionado em caixa contendo 20 folhas Utilizado para perfumar as roupas no aparelho para higienizar, desodorizar e reduzir amassados em roupas
+Get more information on the LG AGM73611313. Click for pictures, reviews, and tech specs for the LG Folha Aromatizada LG Styler S3MFBN AGM73611313.

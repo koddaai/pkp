@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/4036fr4045a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Vedação (junta) de borracha vulcanizada não endurecida para ser usada no termostato do duto de secagem"
+summary: "Get more information on the LG 4036FR4045A. Click for pictures, reviews, and tech specs for the LG Vedação de Borracha Lavadora LG WD1403RD5 4036FR4045A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-07-30T21:08:23.783Z"
+  updated_at: "2026-07-31T08:41:22.727Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.783Z"
+    verified_at: "2026-07-31T08:41:22.727Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.783Z"
+    verified_at: "2026-07-31T08:41:22.727Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-30
+# Data de importacao: 2026-07-31
 # aw_product_id: 45391551782
 ---
 
 ## Descricao
 
-Vedação (junta) de borracha vulcanizada não endurecida para ser usada no termostato do duto de secagem
+Get more information on the LG 4036FR4045A. Click for pictures, reviews, and tech specs for the LG Vedação de Borracha Lavadora LG WD1403RD5 4036FR4045A.

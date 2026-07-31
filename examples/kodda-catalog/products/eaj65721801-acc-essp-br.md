@@ -5,7 +5,7 @@ sku: "eaj65721801-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Tela de cristal líquido Módulo LG 24MN33NPC EAJ65721801 - EAJ65721801"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65721801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Modulo de visualização de tela (ecrã) Plana Modelo: V236BJ1 23.6 polegadas Sem tela sensível ao toque (ecrã táctil) Com controladores (drivers) e circuito de controle"
+summary: "Get more information on the LG EAJ65721801. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo LG 24MN33NPC EAJ65721801."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 426.55
   source: "retailer"
-  updated_at: "2026-07-30T21:08:23.936Z"
+  updated_at: "2026-07-31T08:41:22.866Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.936Z"
+    verified_at: "2026-07-31T08:41:22.866Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.936Z"
+    verified_at: "2026-07-31T08:41:22.866Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 23.6
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-30
+# Data de importacao: 2026-07-31
 # aw_product_id: 45397222328
 ---
 
 ## Descricao
 
-Modulo de visualização de tela (ecrã) Plana Modelo: V236BJ1 23.6 polegadas Sem tela sensível ao toque (ecrã táctil) Com controladores (drivers) e circuito de controle
+Get more information on the LG EAJ65721801. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo LG 24MN33NPC EAJ65721801.

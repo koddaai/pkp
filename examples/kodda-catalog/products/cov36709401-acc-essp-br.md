@@ -5,7 +5,7 @@ sku: "cov36709401-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Módulo Wi-Fi Bluetooth Monitor LG 65TR3BFB COV36709401 - COV36709401"
-category: "tvs"
+category: "monitors"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/cov36709401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Dispositivo de transmissão e recepção Tecnologia do tipo (wi-fi e bluetooth) com conexão USB Faixa de frequencias de 2,4 a 5ghz Taxa de transmissão 433mbps (3.464mbtis) Dual band IEEE 802.11 a/b/g/n/ac Modelo: SI01"
-tags: ["lg", "bluetooth", "ai", "5g"]
+summary: "Get more information on the LG COV36709401. Click for pictures, reviews, and tech specs for the LG Módulo Wi-Fi Bluetooth Monitor LG 65TR3BFB COV36709401."
+tags: ["lg", "bluetooth"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 797.06
   source: "retailer"
-  updated_at: "2026-07-30T21:08:23.901Z"
+  updated_at: "2026-07-31T08:41:22.835Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.901Z"
+    verified_at: "2026-07-31T08:41:22.835Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.901Z"
+    verified_at: "2026-07-31T08:41:22.835Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-30
+# Data de importacao: 2026-07-31
 # aw_product_id: 45391551802
 ---
 
 ## Descricao
 
-Dispositivo de transmissão e recepção Tecnologia do tipo (wi-fi e bluetooth) com conexão USB Faixa de frequencias de 2,4 a 5ghz Taxa de transmissão 433mbps (3.464mbtis) Dual band IEEE 802.11 a/b/g/n/ac Modelo: SI01
+Get more information on the LG COV36709401. Click for pictures, reviews, and tech specs for the LG Módulo Wi-Fi Bluetooth Monitor LG 65TR3BFB COV36709401.

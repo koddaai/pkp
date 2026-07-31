@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "55ut8050psa-bwz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV 4k LG UHD UT80 55 polegadas 55UT8050 - 55UT8050PSA"
+name: "Smart TV LG UHD UT8050 55” 4K - 55UT8050PSA"
 category: "tvs"
 
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/tv-uhd-4k/55ut8050psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a TV ultragrande LG UHD UT80, equipada com HDR10 Pro e processador Alpha 5 AI 4K Gen 7, com webOS 24 e controle simples da soundbar com a WOW Interface."
-tags: ["lg", "smart", "ai", "4k", "hdr", "pro", "ultra"]
+summary: "Get more information on the LG 55UT8050PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD UT8050 55” 4K."
+tags: ["lg", "smart", "4k"]
 
 # === PRECO ===
 price:
@@ -29,13 +29,13 @@ price:
   currency: "BRL"
   value: 2184.05
   source: "retailer"
-  updated_at: "2026-03-10T20:34:50.674Z"
+  updated_at: "2026-07-31T08:41:22.750Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=43478675018&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=45409445891&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-10T20:34:50.674Z"
+    verified_at: "2026-07-31T08:41:22.750Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-10T20:34:50.674Z"
+    verified_at: "2026-07-31T08:41:22.750Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-03-10
-# aw_product_id: 43478675018
+# Data de importacao: 2026-07-31
+# aw_product_id: 45409445891
 ---
 
 ## Descricao
 
-Descubra a TV ultragrande LG UHD UT80, equipada com HDR10 Pro e processador Alpha 5 AI 4K Gen 7, com webOS 24 e controle simples da soundbar com a WOW Interface.
+Get more information on the LG 55UT8050PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD UT8050 55” 4K.

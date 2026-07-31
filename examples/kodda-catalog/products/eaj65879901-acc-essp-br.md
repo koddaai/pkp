@@ -5,7 +5,7 @@ sku: "eaj65879901-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Tela de cristal líquido Módulo LG 55UL3JM EAJ65879901 - EAJ65879901"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65879901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo de visualização de tela (ecrã) plana Modelo: HC550DQN-ABDA4 55.0 polegadas Sem tela sensível ao toque (ecrã táctil) Com controladores (drivers) e circuito de controle"
+summary: "Get more information on the LG EAJ65879901. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo LG 55UL3JM EAJ65879901."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1747.05
   source: "retailer"
-  updated_at: "2026-07-30T21:08:23.942Z"
+  updated_at: "2026-07-31T08:41:22.874Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.942Z"
+    verified_at: "2026-07-31T08:41:22.874Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-30T21:08:23.942Z"
+    verified_at: "2026-07-31T08:41:22.874Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 55
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-30
+# Data de importacao: 2026-07-31
 # aw_product_id: 45391551805
 ---
 
 ## Descricao
 
-Módulo de visualização de tela (ecrã) plana Modelo: HC550DQN-ABDA4 55.0 polegadas Sem tela sensível ao toque (ecrã táctil) Com controladores (drivers) e circuito de controle
+Get more information on the LG EAJ65879901. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo LG 55UL3JM EAJ65879901.
