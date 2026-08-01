@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr85607357/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Principal Ar Condicionado LG - EBR85607357"
+summary: "Get more information on the LG EBR85607357. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG - EBR85607357."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.26
   source: "retailer"
-  updated_at: "2026-07-31T21:03:14.843Z"
+  updated_at: "2026-08-01T08:11:36.430Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-31T21:03:14.843Z"
+    verified_at: "2026-08-01T08:11:36.430Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-31T21:03:14.843Z"
+    verified_at: "2026-08-01T08:11:36.430Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-31
+# Data de importacao: 2026-08-01
 # aw_product_id: 43478676673
 ---
 
 ## Descricao
 
-Placa Principal Ar Condicionado LG - EBR85607357
+Get more information on the LG EBR85607357. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG - EBR85607357.

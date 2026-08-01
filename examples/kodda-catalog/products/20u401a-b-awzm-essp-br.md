@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-full-hd-qhd/20u401a-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Monitor LG UHD™ 20U401A-B Tela TN WSXGA 20\", NTSC 72% (CIE1931), Crosshair , Dynamic Action Sync"
+summary: "Get more information on the LG 20U401A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG LED Home & Office 20U401A-B Tela 20” HD+, LG Switch, Modo leitura e Flicker Safe, HDMI, VGA, 2ms (GtG), 75Hz, Black Stabilizer, Dynamic Action Sync, Crosshair, saída fone de ouvido."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 449
   source: "retailer"
-  updated_at: "2026-07-31T21:03:14.640Z"
+  updated_at: "2026-08-01T08:11:36.223Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-31T21:03:14.640Z"
+    verified_at: "2026-08-01T08:11:36.223Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-31T21:03:14.640Z"
+    verified_at: "2026-08-01T08:11:36.223Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 20
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-07-31
+# Data de importacao: 2026-08-01
 # aw_product_id: 43478674759
 ---
 
 ## Descricao
 
-Monitor LG UHD™ 20U401A-B Tela TN WSXGA 20", NTSC 72% (CIE1931), Crosshair , Dynamic Action Sync
+Get more information on the LG 20U401A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG LED Home & Office 20U401A-B Tela 20” HD+, LG Switch, Modo leitura e Flicker Safe, HDMI, VGA, 2ms (GtG), 75Hz, Black Stabilizer, Dynamic Action Sync, Crosshair, saída fone de ouvido.
