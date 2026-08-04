@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/micro-ondas/micro-ondas-solo/ms3094nr/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça o Micro-ondas LG NeoChef 30L 127V MS3094NR. Tecnologia de ponta e design elegante para facilitar seu dia a dia na cozinha. Aproveite já!"
-tags: ["lg", "pro"]
+summary: "Get more information on the LG MS3094NR. Click for pictures, reviews, and tech specs for the LG Micro-ondas LG NeoChef 30 litros Espelhado Limpa Fácil MS3094NR - 127v."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 854.05
   source: "retailer"
-  updated_at: "2026-08-03T21:00:52.668Z"
+  updated_at: "2026-08-04T08:28:29.075Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.668Z"
+    verified_at: "2026-08-04T08:28:29.075Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.668Z"
+    verified_at: "2026-08-04T08:28:29.075Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":30,"unit":"l"}
+  capacity: {"value":30,"unit":"litros"}
   voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-03
+# Data de importacao: 2026-08-04
 # aw_product_id: 43478677096
 ---
 
 ## Descricao
 
-Conheça o Micro-ondas LG NeoChef 30L 127V MS3094NR. Tecnologia de ponta e design elegante para facilitar seu dia a dia na cozinha. Aproveite já!
+Get more information on the LG MS3094NR. Click for pictures, reviews, and tech specs for the LG Micro-ondas LG NeoChef 30 litros Espelhado Limpa Fácil MS3094NR - 127v.

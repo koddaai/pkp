@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/na-f170b7w"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/maquina-de-lavar-panasonic-17kg-branca-na-f170b7w/p?idsku=397994"
+  url: "https://loja.panasonic.com.br/maquina-de-lavar-panasonic-17kg-branca-na-f170b7w/p?idsku=397993"
 
 # === DESCOBERTA (L0) ===
 summary: "Tenha mais economia e praticidade na lavanderia com a Máquina De Lavar Panasonic Lavagem Inteligente 17kg Branca - NA-F170B7W. Confira na loja online!"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2099
   source: "retailer"
-  updated_at: "2026-08-03T21:00:41.894Z"
+  updated_at: "2026-08-04T08:28:20.461Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:41.894Z"
+    verified_at: "2026-08-04T08:28:20.461Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:41.894Z"
+    verified_at: "2026-08-04T08:28:20.461Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-08-03
+# Data de importacao: 2026-08-04
 # aw_product_id: 38931326596
 ---
 

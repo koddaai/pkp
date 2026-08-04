@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-q09aa33c-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG AI Dual Inverter Voice 9.000 BTU Frio 220V - S3-Q09AA33C"
+name: "Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-Q09AA33C - S3-Q09AA33C"
 category: "outros"
 
 
@@ -21,7 +21,7 @@ canonical:
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG S3-Q09AA33C. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-Q09AA33C."
-tags: ["lg", "ai", "inverter"]
+tags: ["lg", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1889.1
   source: "retailer"
-  updated_at: "2026-08-03T21:00:52.671Z"
+  updated_at: "2026-08-04T08:28:29.078Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.671Z"
+    verified_at: "2026-08-04T08:28:29.078Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.671Z"
+    verified_at: "2026-08-04T08:28:29.078Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-03
+# Data de importacao: 2026-08-04
 # aw_product_id: 43478677153
 ---
 

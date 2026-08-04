@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-q18klqal-1/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG S3-Q18KLQAL. Clique para ver imagens, análises e especificações técnicas da LG Ar-Condicionado LG Dual Inverter Compact +AI 18.000 BTU Frio 220V"
+summary: "Get more information on the LG S3-Q18KLQAL. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Compact 18.000 BTU Frio 220V."
 tags: ["lg", "ai", "inverter", "8k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3184.09
   source: "retailer"
-  updated_at: "2026-08-03T21:00:52.672Z"
+  updated_at: "2026-08-04T08:28:29.079Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.672Z"
+    verified_at: "2026-08-04T08:28:29.079Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.672Z"
+    verified_at: "2026-08-04T08:28:29.079Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-03
+# Data de importacao: 2026-08-04
 # aw_product_id: 43478677164
 ---
 
 ## Descricao
 
-Descubra a LG S3-Q18KLQAL. Clique para ver imagens, análises e especificações técnicas da LG Ar-Condicionado LG Dual Inverter Compact +AI 18.000 BTU Frio 220V
+Get more information on the LG S3-Q18KLQAL. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Compact 18.000 BTU Frio 220V.

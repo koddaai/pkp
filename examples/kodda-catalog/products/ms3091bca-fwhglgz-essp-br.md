@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/micro-ondas/micro-ondas-solo/ms3091bca/"
 
 # === DESCOBERTA (L0) ===
-summary: "Micro-ondas LG Solo 30L 220V Branco com EasyClean e tecnologia I Wave, um design inovador e maior economia de energia com Eco On. Confira aqui!"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG MS3091BCA. Click for pictures, reviews, and tech specs for the LG Forno de Micro-ondas Solo LG 30L om revestimento EasyClean™, tecnologia I Wave e acabamento em branco 220v - MS3091BCA."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 645.05
   source: "retailer"
-  updated_at: "2026-08-03T21:00:52.668Z"
+  updated_at: "2026-08-04T08:28:29.075Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.668Z"
+    verified_at: "2026-08-04T08:28:29.075Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.668Z"
+    verified_at: "2026-08-04T08:28:29.075Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -56,10 +56,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-03
+# Data de importacao: 2026-08-04
 # aw_product_id: 43478677095
 ---
 
 ## Descricao
 
-Micro-ondas LG Solo 30L 220V Branco com EasyClean e tecnologia I Wave, um design inovador e maior economia de energia com Eco On. Confira aqui!
+Get more information on the LG MS3091BCA. Click for pictures, reviews, and tech specs for the LG Forno de Micro-ondas Solo LG 30L om revestimento EasyClean™, tecnologia I Wave e acabamento em branco 220v - MS3091BCA.

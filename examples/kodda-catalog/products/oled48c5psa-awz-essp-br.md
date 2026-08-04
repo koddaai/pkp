@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/oled-evo/oled48c5psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a próxima geração de Smart AI TVs da LG, OLED48C5PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG OLED evo AI C5 4K de 48 polegadas 2025."
+summary: "Get more information on the LG OLED48C5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI C5 4K de 48 polegadas 2025."
 tags: ["lg", "smart", "ai", "4k", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5233.55
   source: "retailer"
-  updated_at: "2026-08-03T21:00:52.668Z"
+  updated_at: "2026-08-04T08:28:29.075Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.668Z"
+    verified_at: "2026-08-04T08:28:29.075Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.668Z"
+    verified_at: "2026-08-04T08:28:29.075Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-03
+# Data de importacao: 2026-08-04
 # aw_product_id: 43478677102
 ---
 
 ## Descricao
 
-Descubra a próxima geração de Smart AI TVs da LG, OLED48C5PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG OLED evo AI C5 4K de 48 polegadas 2025.
+Get more information on the LG OLED48C5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI C5 4K de 48 polegadas 2025.

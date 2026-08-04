@@ -5,8 +5,8 @@ sku: "s3-q12ja33l-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
 name: "Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-Q12JA33L - S3-Q12JA33L"
-category: "eletrodomesticos"
-subcategory: "ar-condicionado"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-q12ja33l/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra os benefícios do Ar Condicionado Dual Inverter 12.000 BTUs S3-Q12JA33L! Mais conforto e comodidade para você e sua família!"
-tags: ["lg", "ai", "inverter"]
+summary: "Get more information on the LG S3-Q12JA33L. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-Q12JA33L."
+tags: ["lg", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2149.84
   source: "retailer"
-  updated_at: "2026-08-03T21:00:52.672Z"
+  updated_at: "2026-08-04T08:28:29.079Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.672Z"
+    verified_at: "2026-08-04T08:28:29.079Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.672Z"
+    verified_at: "2026-08-04T08:28:29.079Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-03
+# Data de importacao: 2026-08-04
 # aw_product_id: 43951547656
 ---
 
 ## Descricao
 
-Descubra os benefícios do Ar Condicionado  Dual Inverter 12.000 BTUs S3-Q12JA33L! Mais conforto e comodidade para você e sua família!
+Get more information on the LG S3-Q12JA33L. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-Q12JA33L.

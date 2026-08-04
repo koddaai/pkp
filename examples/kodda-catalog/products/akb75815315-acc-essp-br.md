@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb75815315-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/tvs/others/akb75815315/"
+  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/akb75815315/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB75815315. Click for pictures, reviews, and tech specs for the LG Controle Remoto Mini System LG CL87 AKB75815315."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.99
   source: "retailer"
-  updated_at: "2026-08-03T21:00:52.511Z"
+  updated_at: "2026-08-04T08:28:28.914Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.511Z"
+    verified_at: "2026-08-04T08:28:28.914Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:52.511Z"
+    verified_at: "2026-08-04T08:28:28.914Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-03
+# Data de importacao: 2026-08-04
 # aw_product_id: 45391551801
 ---
 

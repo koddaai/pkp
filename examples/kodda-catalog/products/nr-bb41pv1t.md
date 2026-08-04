@@ -27,9 +27,9 @@ tags: ["panasonic", "smart", "ai", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3499
+  value: 4699
   source: "retailer"
-  updated_at: "2026-08-03T21:00:41.894Z"
+  updated_at: "2026-08-04T08:28:20.461Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:41.894Z"
+    verified_at: "2026-08-04T08:28:20.461Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-03T21:00:41.894Z"
+    verified_at: "2026-08-04T08:28:20.461Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-08-03
+# Data de importacao: 2026-08-04
 # aw_product_id: 38931326592
 ---
 
