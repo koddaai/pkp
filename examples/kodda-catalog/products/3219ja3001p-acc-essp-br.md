@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/refrigerators/water-filter-filter/3219ja3001p/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o 3219JA3001P. Clique para ver fotos, avaliações e especificações técnicas do Conjunto de filtro de água para refrigerador (filtro de água, válvula, mangueira)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG 3219JA3001P. Click for pictures, reviews, and tech specs for the LG Conjunto de filtro de água para Refrigerador LG 3219JA3001P ADQ73693903 (filtro de água, válvula, mangueira) ."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 242.1
   source: "retailer"
-  updated_at: "2026-08-04T21:14:14.315Z"
+  updated_at: "2026-08-05T08:27:30.523Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-04T21:14:14.315Z"
+    verified_at: "2026-08-05T08:27:30.523Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-04T21:14:14.315Z"
+    verified_at: "2026-08-05T08:27:30.523Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-04
+# Data de importacao: 2026-08-05
 # aw_product_id: 43478674796
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre o 3219JA3001P. Clique para ver fotos, avaliações e especificações técnicas do Conjunto de filtro de água para refrigerador (filtro de água, válvula, mangueira).
+Get more information on the LG 3219JA3001P. Click for pictures, reviews, and tech specs for the LG Conjunto de filtro de água para Refrigerador LG 3219JA3001P ADQ73693903 (filtro de água, válvula, mangueira) .

@@ -5,8 +5,8 @@ sku: "s3-q09aa31c-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
 name: "Ar-Condicionado LG AI Dual Inverter Voice 9.000 BTU Frio 220V - S3-Q09AA31C"
-category: "eletrodomesticos"
-subcategory: "ar-condicionado"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/s3-q09aa31c/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra os benefícios do Ar Condicionado Split Inverter 9.000 BTUs S3-Q09AA31C! Mais conforto e comodidade para você e sua família!"
+summary: "Get more information on the LG S3-Q09AA31C. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Voice 9.000 BTU Frio 220V."
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2294.1
   source: "retailer"
-  updated_at: "2026-08-04T21:14:14.577Z"
+  updated_at: "2026-08-05T08:27:30.848Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-04T21:14:14.577Z"
+    verified_at: "2026-08-05T08:27:30.848Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-04T21:14:14.577Z"
+    verified_at: "2026-08-05T08:27:30.848Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-04
+# Data de importacao: 2026-08-05
 # aw_product_id: 43478677150
 ---
 
 ## Descricao
 
-Descubra os benefícios do Ar Condicionado Split Inverter 9.000 BTUs S3-Q09AA31C! Mais conforto e comodidade para você e sua família!
+Get more information on the LG S3-Q09AA31C. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Voice 9.000 BTU Frio 220V.

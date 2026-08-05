@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nr-bb41gv1b"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/geladeira-frost-free-nr-bb41gv1b-397l/p?idsku=397981"
+  url: "https://loja.panasonic.com.br/geladeira-frost-free-nr-bb41gv1b-397l/p?idsku=397984"
 
 # === DESCOBERTA (L0) ===
 summary: "N° 1: A bottom freezer brasileira mais econômica do mercadoAs geladeiras Panasonic têm menor consumo de energia e, por isso, possuem a classificação A+++ na tabela do InmetroGeladeira econômica, silenciosa e com o congelamento mais rápido com InverterAlém de economizar mais de 40% na conta de luz, a tecnologia Inverter também deixa as geladeiras silenciosas e com o congelamento mais rápidoIteligência artificial que aprende sua rotina e economiza ainda mais energiaAs geladeiras Panasonic com t..."
@@ -27,9 +27,9 @@ tags: ["panasonic", "smart", "ai", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 4099
+  value: 4499
   source: "retailer"
-  updated_at: "2026-07-20T21:11:35.420Z"
+  updated_at: "2026-08-05T08:27:22.089Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-20T21:11:35.420Z"
+    verified_at: "2026-08-05T08:27:22.089Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-20T21:11:35.420Z"
+    verified_at: "2026-08-05T08:27:22.089Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -56,7 +56,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-07-20
+# Data de importacao: 2026-08-05
 # aw_product_id: 38931326593
 ---
 

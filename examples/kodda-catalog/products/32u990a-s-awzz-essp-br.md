@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-uhd-4k/32u990a-s/"
 
 # === DESCOBERTA (L0) ===
-summary: "LG UltraFine™ Evo 32U990A-W Tela Nano IPS 6K 32\", DisplayHDR™600, DCI-P3 98%(Typ.), Adobe RGB 99.5%, Thunderbolt™ 5 x2, DP 2.1 x1"
+summary: "Get more information on the LG 32U990A-S. Click for pictures, reviews, and tech specs for the LG LG UltraFine™ Evo 6K Nano IPS Black 32\" 32U990A-W, Thunderbolt™ 5 96W PD, Adobe RGB 99.5%, DisplayHDR™600, DCI-P3 98%(Typ.), USB-C, DP 2.1, KVM integrado.."
 tags: ["lg", "hdr", "ultra"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 12999
   source: "retailer"
-  updated_at: "2026-08-04T21:14:14.316Z"
+  updated_at: "2026-08-05T08:27:30.524Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-04T21:14:14.316Z"
+    verified_at: "2026-08-05T08:27:30.524Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-04T21:14:14.316Z"
+    verified_at: "2026-08-05T08:27:30.524Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-04
+# Data de importacao: 2026-08-05
 # aw_product_id: 45136651378
 ---
 
 ## Descricao
 
-LG UltraFine™ Evo 32U990A-W Tela Nano IPS 6K 32",  DisplayHDR™600, DCI-P3 98%(Typ.), Adobe RGB 99.5%, Thunderbolt™ 5 x2, DP 2.1 x1
+Get more information on the LG 32U990A-S. Click for pictures, reviews, and tech specs for the LG LG UltraFine™ Evo 6K Nano IPS Black 32" 32U990A-W, Thunderbolt™ 5 96W PD, Adobe RGB 99.5%, DisplayHDR™600, DCI-P3 98%(Typ.), USB-C, DP 2.1, KVM integrado..
