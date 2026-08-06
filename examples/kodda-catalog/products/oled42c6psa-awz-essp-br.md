@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "oled42c6psa-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "42 inch LG OLED evo AI C6 4K Smart TV 2026 - OLED42C6PSA"
+name: "Smart TV LG OLED evo AI 4K C6 42 polegadas 2026 - OLED42C6PSA"
 category: "tvs"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/oled-evo/oled42c6psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG OLED42C6PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI 4K C6 42 polegadas 2026."
+summary: "Descubra a próxima geração de Smart TVs com IA da LG, OLED42C6PSA, para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV 4K LG OLED evo AI C6 de 42 polegadas."
 tags: ["lg", "smart", "ai", "4k", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5865.3
   source: "retailer"
-  updated_at: "2026-08-05T21:06:25.455Z"
+  updated_at: "2026-08-06T08:24:51.697Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-05T21:06:25.455Z"
+    verified_at: "2026-08-06T08:24:51.697Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-05T21:06:25.455Z"
+    verified_at: "2026-08-06T08:24:51.697Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-05
+# Data de importacao: 2026-08-06
 # aw_product_id: 45176446343
 ---
 
 ## Descricao
 
-Get more information on the LG OLED42C6PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI 4K C6 42 polegadas 2026.
+Descubra a próxima geração de Smart TVs com IA da LG, OLED42C6PSA, para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV 4K LG OLED evo AI C6 de 42 polegadas.

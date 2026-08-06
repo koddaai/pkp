@@ -27,9 +27,9 @@ tags: ["lg", "wifi", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 16963.58
+  value: 17906
   source: "retailer"
-  updated_at: "2026-08-05T21:06:25.310Z"
+  updated_at: "2026-08-06T08:24:51.537Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-05T21:06:25.310Z"
+    verified_at: "2026-08-06T08:24:51.537Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-05T21:06:25.310Z"
+    verified_at: "2026-08-06T08:24:51.537Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-05
+# Data de importacao: 2026-08-06
 # aw_product_id: 43478675833
 ---
 

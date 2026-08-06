@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/agm30160703/"
 
 # === DESCOBERTA (L0) ===
-summary: "Reservatório de Latas Refrigerador LG GCX247CSAV AGM30160703"
+summary: "Get more information on the LG AGM30160703. Click for pictures, reviews, and tech specs for the LG Reservatório de Latas Refrigerador LG GCX247CSAV AGM30160703."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 407.55
   source: "retailer"
-  updated_at: "2026-08-05T21:06:25.278Z"
+  updated_at: "2026-08-06T08:24:51.502Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-05T21:06:25.278Z"
+    verified_at: "2026-08-06T08:24:51.502Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-05T21:06:25.278Z"
+    verified_at: "2026-08-06T08:24:51.502Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-05
+# Data de importacao: 2026-08-06
 # aw_product_id: 44290564729
 ---
 
 ## Descricao
 
-Reservatório de Latas Refrigerador LG GCX247CSAV AGM30160703
+Get more information on the LG AGM30160703. Click for pictures, reviews, and tech specs for the LG Reservatório de Latas Refrigerador LG GCX247CSAV AGM30160703.
