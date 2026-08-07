@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/akb76038401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AKB76038401. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar Condicionado LG - AKB76038401."
+summary: "Get more information on the LG AKB76038401. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar Condicionado LG AKB76038401."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 134.1
+  value: 127.39
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.386Z"
+  updated_at: "2026-08-07T07:05:39.976Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.386Z"
+    verified_at: "2026-08-07T07:05:39.976Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.386Z"
+    verified_at: "2026-08-07T07:05:39.976Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AKB76038401. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar Condicionado LG - AKB76038401.
+Get more information on the LG AKB76038401. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar Condicionado LG AKB76038401.

@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/akb73598010/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AKB73598010. Click for pictures, reviews, and tech specs for the LG Controle remoto para ar-condicionado de parede (suporte incluso)."
+summary: "Get more information on the LG AKB73598010. Click for pictures, reviews, and tech specs for the LG Controle remoto para ar-condicionado de parede (suporte incluso) AKB73598010."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 141.55
+  value: 134.47
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.379Z"
+  updated_at: "2026-08-07T07:05:39.971Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.379Z"
+    verified_at: "2026-08-07T07:05:39.971Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.379Z"
+    verified_at: "2026-08-07T07:05:39.971Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AKB73598010. Click for pictures, reviews, and tech specs for the LG Controle remoto para ar-condicionado de parede (suporte incluso).
+Get more information on the LG AKB73598010. Click for pictures, reviews, and tech specs for the LG Controle remoto para ar-condicionado de parede (suporte incluso) AKB73598010.

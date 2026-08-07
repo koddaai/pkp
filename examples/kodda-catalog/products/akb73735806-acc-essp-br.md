@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/video/remote-controller/akb73735806/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AKB73735806. Clique para ver fotos, avaliações e especificações técnicas do Controle remoto LG Blu Ray."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AKB73735806. Click for pictures, reviews, and tech specs for the LG Controle remoto Blu Ray."
+tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 75.99
+  value: 64.59
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.379Z"
+  updated_at: "2026-08-07T07:05:39.971Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.379Z"
+    verified_at: "2026-08-07T07:05:39.971Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.379Z"
+    verified_at: "2026-08-07T07:05:39.971Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o AKB73735806. Clique para ver fotos, avaliações e especificações técnicas do Controle remoto LG Blu Ray.
+Get more information on the LG AKB73735806. Click for pictures, reviews, and tech specs for the LG Controle remoto Blu Ray.

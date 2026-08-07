@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/adl73301305/"
 
 # === DESCOBERTA (L0) ===
-summary: "Trocador de calor da unidade evaporadora para ar condicionado"
+summary: "Get more information on the LG ADL73301305. Click for pictures, reviews, and tech specs for the LG Serpentina Ar Condicionado LG ASNQ092WSA0 ADL73301305."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1177.05
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.337Z"
+  updated_at: "2026-08-07T07:05:39.934Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.337Z"
+    verified_at: "2026-08-07T07:05:39.934Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.337Z"
+    verified_at: "2026-08-07T07:05:39.934Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Trocador de calor da unidade evaporadora para ar condicionado
+Get more information on the LG ADL73301305. Click for pictures, reviews, and tech specs for the LG Serpentina Ar Condicionado LG ASNQ092WSA0 ADL73301305.

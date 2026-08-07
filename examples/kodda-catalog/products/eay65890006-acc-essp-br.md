@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eay65890006/"
 
 # === DESCOBERTA (L0) ===
-summary: "Fonte Externa ADS-45FSQ-19 Monitor LG - EAY65890006"
+summary: "Get more information on the LG EAY65890006. Click for pictures, reviews, and tech specs for the LG Fonte Externa ADS-45FSQ-19 Monitor LG - EAY65890006."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 122.55
+  value: 110.29
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.451Z"
+  updated_at: "2026-08-07T07:05:40.034Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.451Z"
+    verified_at: "2026-08-07T07:05:40.034Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.451Z"
+    verified_at: "2026-08-07T07:05:40.034Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Fonte Externa ADS-45FSQ-19 Monitor LG - EAY65890006
+Get more information on the LG EAY65890006. Click for pictures, reviews, and tech specs for the LG Fonte Externa ADS-45FSQ-19 Monitor LG - EAY65890006.

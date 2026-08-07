@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/adw73550021/"
 
 # === DESCOBERTA (L0) ===
-summary: "Funil do Dispenser Refrigerador LG GCL257SLPL ADW73550021"
+summary: "Get more information on the LG ADW73550021. Click for pictures, reviews, and tech specs for the LG Funil do Dispenser Refrigerador LG GCL257SLPL ADW73550021."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2564.05
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.344Z"
+  updated_at: "2026-08-07T07:05:39.939Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.344Z"
+    verified_at: "2026-08-07T07:05:39.939Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.344Z"
+    verified_at: "2026-08-07T07:05:39.939Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Funil do Dispenser Refrigerador LG GCL257SLPL ADW73550021
+Get more information on the LG ADW73550021. Click for pictures, reviews, and tech specs for the LG Funil do Dispenser Refrigerador LG GCL257SLPL ADW73550021.

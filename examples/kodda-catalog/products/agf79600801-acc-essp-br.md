@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/acessorio/agf79600801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Cabide de Plástico LG Styler S3WFBN AGF79600801"
+summary: "Get more information on the LG AGF79600801. Click for pictures, reviews, and tech specs for the LG Cabide de Plástico LG Styler S3WFBN AGF79600801."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 191.23
+  value: 162.54
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.361Z"
+  updated_at: "2026-08-07T07:05:39.955Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.361Z"
+    verified_at: "2026-08-07T07:05:39.955Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.361Z"
+    verified_at: "2026-08-07T07:05:39.955Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Cabide de Plástico LG Styler S3WFBN AGF79600801
+Get more information on the LG AGF79600801. Click for pictures, reviews, and tech specs for the LG Cabide de Plástico LG Styler S3WFBN AGF79600801.

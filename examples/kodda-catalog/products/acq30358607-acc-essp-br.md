@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/acq30358607/"
 
 # === DESCOBERTA (L0) ===
-summary: "Cobertura do Dispenser Refrigerador LG GCL257SLP1 ACQ30358607"
+summary: "Get more information on the LG ACQ30358607. Click for pictures, reviews, and tech specs for the LG Cobertura do Dispenser Refrigerador LG GCL257SLP1 ACQ30358607."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 654.55
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.331Z"
+  updated_at: "2026-08-07T07:05:39.928Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.331Z"
+    verified_at: "2026-08-07T07:05:39.928Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.331Z"
+    verified_at: "2026-08-07T07:05:39.928Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Cobertura do Dispenser Refrigerador LG GCL257SLP1 ACQ30358607
+Get more information on the LG ACQ30358607. Click for pictures, reviews, and tech specs for the LG Cobertura do Dispenser Refrigerador LG GCL257SLP1 ACQ30358607.

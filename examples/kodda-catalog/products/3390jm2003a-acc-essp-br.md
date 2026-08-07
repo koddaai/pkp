@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/acessorio/3390jm2003a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Bandeja de gelo Refrigerador LG GNB392PLMB 3390JM2003A"
+summary: "Get more information on the LG 3390JM2003A. Click for pictures, reviews, and tech specs for the LG Bandeja de gelo Refrigerador LG GNB392PLMB 3390JM2003A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.270Z"
+  updated_at: "2026-08-07T07:05:39.872Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.270Z"
+    verified_at: "2026-08-07T07:05:39.872Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.270Z"
+    verified_at: "2026-08-07T07:05:39.872Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Bandeja de gelo Refrigerador LG GNB392PLMB 3390JM2003A
+Get more information on the LG 3390JM2003A. Click for pictures, reviews, and tech specs for the LG Bandeja de gelo Refrigerador LG GNB392PLMB 3390JM2003A.

@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/mds63939301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MDS63939301. Clique para ver imagens, análises e especificações técnicas da LG Vedação de borracha (Guarnição) Lavadora LG WD1411RWA - MDS63939301"
+summary: "Get more information on the LG MDS63939301. Click for pictures, reviews, and tech specs for the LG Vedação de borracha (Guarnição) Lavadora LG WD1411RWA - MDS63939301."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 217.55
+  value: 195.79
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.538Z"
+  updated_at: "2026-08-07T07:05:40.106Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.538Z"
+    verified_at: "2026-08-07T07:05:40.106Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.538Z"
+    verified_at: "2026-08-07T07:05:40.106Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MDS63939301. Clique para ver imagens, análises e especificações técnicas da LG Vedação de borracha (Guarnição) Lavadora LG WD1411RWA - MDS63939301
+Get more information on the LG MDS63939301. Click for pictures, reviews, and tech specs for the LG Vedação de borracha (Guarnição) Lavadora LG WD1411RWA - MDS63939301.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/aeb76284901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Grade de insuflamento de ar Incluso bandeja do dreno, aleta de plástico, motor dc, mangueira do dreno e placa de circuito impresso sub"
+summary: "Get more information on the LG AEB76284901. Click for pictures, reviews, and tech specs for the LG Grade Ar Condicionado LG S4NW09AA31A AEB76284901."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.347Z"
+  updated_at: "2026-08-07T07:05:39.941Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.347Z"
+    verified_at: "2026-08-07T07:05:39.941Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.347Z"
+    verified_at: "2026-08-07T07:05:39.941Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Grade de insuflamento de ar Incluso bandeja do dreno, aleta de plástico, motor dc, mangueira do dreno e placa de circuito impresso sub
+Get more information on the LG AEB76284901. Click for pictures, reviews, and tech specs for the LG Grade Ar Condicionado LG S4NW09AA31A AEB76284901.

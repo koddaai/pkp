@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/akb75215424/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AKB75215424. Clique para ver imagens, análises e especificações técnicas da LG Controle Remoto Ar Condicionado LG S3NQ09AA31A, S3NQ12JA31K, S3NQ18KLQAL - AKB75215424"
+summary: "Get more information on the LG AKB75215424. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar Condicionado LG S3NQ09AA31A AKB75215424."
 tags: ["lg", "8k"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 141.55
+  value: 134.47
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.383Z"
+  updated_at: "2026-08-07T07:05:39.974Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.383Z"
+    verified_at: "2026-08-07T07:05:39.974Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.383Z"
+    verified_at: "2026-08-07T07:05:39.974Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AKB75215424. Clique para ver imagens, análises e especificações técnicas da LG Controle Remoto Ar Condicionado LG S3NQ09AA31A, S3NQ12JA31K, S3NQ18KLQAL - AKB75215424
+Get more information on the LG AKB75215424. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar Condicionado LG S3NQ09AA31A AKB75215424.

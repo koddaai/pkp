@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu66312901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU66312901. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG OLED55C1PSA, OLED65C1PSA - EBU66312901"
+summary: "Get more information on the LG EBU66312901. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG OLED55C1PSA, OLED65C1PSA - EBU66312901."
 tags: ["lg", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1129.55
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.516Z"
+  updated_at: "2026-08-07T07:05:40.086Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.516Z"
+    verified_at: "2026-08-07T07:05:40.086Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.516Z"
+    verified_at: "2026-08-07T07:05:40.086Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBU66312901. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG OLED55C1PSA, OLED65C1PSA - EBU66312901
+Get more information on the LG EBU66312901. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG OLED55C1PSA, OLED65C1PSA - EBU66312901.

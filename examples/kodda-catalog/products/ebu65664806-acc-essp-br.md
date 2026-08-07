@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebu65664806/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU65664806. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Monitor Desktop LG 29WL500-B - EBU65664806"
+summary: "Get more information on the LG EBU65664806. Click for pictures, reviews, and tech specs for the LG Placa principal Monitor Desktop LG 29WL500-B - EBU65664806."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 346.42
+  value: 329.1
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.513Z"
+  updated_at: "2026-08-07T07:05:40.084Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.513Z"
+    verified_at: "2026-08-07T07:05:40.084Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.513Z"
+    verified_at: "2026-08-07T07:05:40.084Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBU65664806. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Monitor Desktop LG 29WL500-B - EBU65664806
+Get more information on the LG EBU65664806. Click for pictures, reviews, and tech specs for the LG Placa principal Monitor Desktop LG 29WL500-B - EBU65664806.

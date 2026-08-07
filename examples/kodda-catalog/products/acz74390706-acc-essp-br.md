@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/acz74390706/"
 
 # === DESCOBERTA (L0) ===
-summary: "Unidade de Gelo Refrigerador LG GCX257CSH1 ACZ74390706"
+summary: "Get more information on the LG ACZ74390706. Click for pictures, reviews, and tech specs for the LG Unidade de Gelo Refrigerador LG GCX257CSH1 ACZ74390706."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 968.05
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.334Z"
+  updated_at: "2026-08-07T07:05:39.930Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.334Z"
+    verified_at: "2026-08-07T07:05:39.930Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.334Z"
+    verified_at: "2026-08-07T07:05:39.930Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Unidade de Gelo Refrigerador LG GCX257CSH1 ACZ74390706
+Get more information on the LG ACZ74390706. Click for pictures, reviews, and tech specs for the LG Unidade de Gelo Refrigerador LG GCX257CSH1 ACZ74390706.

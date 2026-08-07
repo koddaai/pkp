@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/csp30276144/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos"
+summary: "Get more information on the LG CSP30276144 . Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3NW09AA31C CSP30276144."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.394Z"
+  updated_at: "2026-08-07T07:05:39.984Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.394Z"
+    verified_at: "2026-08-07T07:05:39.984Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.394Z"
+    verified_at: "2026-08-07T07:05:39.984Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso principal  Montada com componentes eletroeletrônicos
+Get more information on the LG CSP30276144 . Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3NW09AA31C CSP30276144.

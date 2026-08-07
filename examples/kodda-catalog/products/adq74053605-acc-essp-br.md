@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/adq74053605/"
 
 # === DESCOBERTA (L0) ===
-summary: "Filtro recipiente de passagem dos gases Parte integrante da bomba de calor do tipo GHP (gas heat pump)"
+summary: "Get more information on the LG ADQ74053605. Click for pictures, reviews, and tech specs for the LG Filtro Ar condicionado GHP LG GPUW301B2CM ADQ74053605."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 784.27
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.343Z"
+  updated_at: "2026-08-07T07:05:39.939Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.343Z"
+    verified_at: "2026-08-07T07:05:39.939Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.343Z"
+    verified_at: "2026-08-07T07:05:39.939Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Filtro recipiente de passagem dos gases Parte integrante da bomba de calor do tipo GHP (gas heat pump)
+Get more information on the LG ADQ74053605. Click for pictures, reviews, and tech specs for the LG Filtro Ar condicionado GHP LG GPUW301B2CM ADQ74053605.

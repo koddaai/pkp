@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/6500jb2002e/"
 
 # === DESCOBERTA (L0) ===
-summary: "Sensor Temperatura Refrigerador LG GRF258JVTA 6500JB2002E"
+summary: "Get more information on the LG 6500JB2002E. Click for pictures, reviews, and tech specs for the LG Sensor Temperatura Refrigerador LG GRF258JVTA 6500JB2002E."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.308Z"
+  updated_at: "2026-08-07T07:05:39.905Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.308Z"
+    verified_at: "2026-08-07T07:05:39.905Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.308Z"
+    verified_at: "2026-08-07T07:05:39.905Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Sensor Temperatura Refrigerador LG GRF258JVTA 6500JB2002E
+Get more information on the LG 6500JB2002E. Click for pictures, reviews, and tech specs for the LG Sensor Temperatura Refrigerador LG GRF258JVTA 6500JB2002E.

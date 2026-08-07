@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr79580003/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso funções Montada com componentes eletro-eletrônicos"
+summary: "Get more information on the LG EBR79580003. Click for pictures, reviews, and tech specs for the LG Placa de Funções Ar Condicionado LG TSNC122H4W0 EBR79580003."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.481Z"
+  updated_at: "2026-08-07T07:05:40.059Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.481Z"
+    verified_at: "2026-08-07T07:05:40.059Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.481Z"
+    verified_at: "2026-08-07T07:05:40.059Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso funções Montada com componentes eletro-eletrônicos
+Get more information on the LG EBR79580003. Click for pictures, reviews, and tech specs for the LG Placa de Funções Ar Condicionado LG TSNC122H4W0 EBR79580003.

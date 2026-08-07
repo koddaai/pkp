@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/audio/caixas-de-som-xboom/stage501/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça a nova LG xboom Stage 501, caixa de som potente para festa, da LG. Potente com 220W RMS de potência, bateria de até 25h, com design inigualável e som incomparável. Faça a sua festa com AI Karaoke Master, IPX4 e conexão bluetooth."
+summary: "Get more information on the LG STAGE501. Click for pictures, reviews, and tech specs for the LG LG xboom Stage501 | Caixa de Som Bluetooth Potente de 220W e AI Karaoke Master."
 tags: ["lg", "bluetooth", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2599
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.559Z"
+  updated_at: "2026-08-07T07:05:40.126Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.559Z"
+    verified_at: "2026-08-07T07:05:40.126Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.559Z"
+    verified_at: "2026-08-07T07:05:40.126Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Conheça a nova LG xboom Stage 501, caixa de som potente para festa, da LG. Potente com 220W RMS de potência, bateria de até 25h, com design inigualável e som incomparável. Faça a sua festa com AI Karaoke Master, IPX4 e conexão bluetooth.
+Get more information on the LG STAGE501. Click for pictures, reviews, and tech specs for the LG LG xboom Stage501 | Caixa de Som Bluetooth Potente de 220W e AI Karaoke Master.

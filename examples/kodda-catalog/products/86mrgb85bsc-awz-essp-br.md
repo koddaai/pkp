@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "86mrgb85bsc-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG Mini RGB evo AI 4K MRGB85 86 polegadas - 86MRGB85BSC"
+name: "Smart TV LG Mini RGB evo AI 4K MRGB85 86 polegadas 2026 - 86MRGB85BSC"
 category: "tvs"
 
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/mini-rgb-evo/86mrgb85bsc/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 86MRGB85BSC. Click for pictures, reviews, and tech specs for the LG Smart TV LG Mini RGB evo AI 4K MRGB85 86 polegadas 2026."
-tags: ["lg", "smart", "ai", "4k"]
+summary: "Experimente a TV LG Mini RGB EVO 86 polegadas com resolução 4K e cores ultra realistas. Tela gigante com desempenho avançado e recursos Smart TV para uma experiência imersiva em filmes, esportes e jogos."
+tags: ["lg", "smart", "ai", "4k", "ultra"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 10829.05
   source: "retailer"
-  updated_at: "2026-08-07T00:53:18.316Z"
+  updated_at: "2026-08-07T07:05:39.913Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.316Z"
+    verified_at: "2026-08-07T07:05:39.913Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T00:53:18.316Z"
+    verified_at: "2026-08-07T07:05:39.913Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 86MRGB85BSC. Click for pictures, reviews, and tech specs for the LG Smart TV LG Mini RGB evo AI 4K MRGB85 86 polegadas 2026.
+Experimente a TV LG Mini RGB EVO 86 polegadas com resolução 4K e cores ultra realistas. Tela gigante com desempenho avançado e recursos Smart TV para uma experiência imersiva em filmes, esportes e jogos.
