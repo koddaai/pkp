@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "hl-cx672brpk"
 # gtin: null
 brand: "Panasonic"
-name: "Forno elétrico de embutir Intuitive+ Panasonic com Termômetro para carnes , Grill e Convecção 72L Black Glass - HL-CX672BRPK - HL-CX672BRPK - 220V"
+name: "Forno elétrico de embutir Intuitive+ Panasonic com Termômetro, Grill e Convecção 72L Black Glass - HL-CX672BRPK - HL-CX672BRPK - 220V"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3999
   source: "retailer"
-  updated_at: "2026-08-08T06:41:04.610Z"
+  updated_at: "2026-08-08T12:35:00.367Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-08T06:41:04.610Z"
+    verified_at: "2026-08-08T12:35:00.367Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-08T06:41:04.610Z"
+    verified_at: "2026-08-08T12:35:00.367Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
