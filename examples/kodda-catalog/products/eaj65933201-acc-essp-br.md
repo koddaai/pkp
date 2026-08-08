@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65933201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido Módulo Monitor LG 29WQ600BW EAJ65933201 - EAJ65933201"
+name: "Tela de cristal líquido (Módulo) LG 50UL3J-M EAJ65880001 - EAJ65880001"
 category: "monitors"
 
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/peca-de-reposicao/eaj65933201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo de visualização de tela (Ecrã), plana, modelo: CT290WFEF-C01, de 29 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido Display completo Não acompanha demais peças que constituem o Monitor (gabinete, cabos, placas principais)"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAJ65933201. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo Monitor LG 29WQ600BW EAJ65933201."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 721.05
   source: "retailer"
-  updated_at: "2026-08-07T20:39:21.206Z"
+  updated_at: "2026-08-08T06:41:13.221Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T20:39:21.206Z"
+    verified_at: "2026-08-08T06:41:13.221Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-07T20:39:21.206Z"
+    verified_at: "2026-08-08T06:41:13.221Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 29
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-07
+# Data de importacao: 2026-08-08
 # aw_product_id: 44904247811
 ---
 
 ## Descricao
 
-Módulo de visualização de tela (Ecrã), plana, modelo: CT290WFEF-C01, de 29 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido Display completo Não acompanha demais peças que constituem o Monitor (gabinete, cabos, placas principais)
+Get more information on the LG EAJ65933201. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo Monitor LG 29WQ600BW EAJ65933201.
