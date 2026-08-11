@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr83592701/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR83592701. Clique para ver imagens, análises e especificações técnicas da LG Placa de comando TV LG 49UJ6300 - EBR83592701"
+summary: "Get more information on the LG EBR83592701. Click for pictures, reviews, and tech specs for the LG Placa de comando TV LG 49UJ6300 - EBR83592701."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-08-10T20:41:02.405Z"
+  updated_at: "2026-08-11T06:56:18.992Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.405Z"
+    verified_at: "2026-08-11T06:56:18.992Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.405Z"
+    verified_at: "2026-08-11T06:56:18.992Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-10
+# Data de importacao: 2026-08-11
 # aw_product_id: 43478676631
 ---
 
 ## Descricao
 
-Descubra a LG EBR83592701. Clique para ver imagens, análises e especificações técnicas da LG Placa de comando TV LG 49UJ6300 - EBR83592701
+Get more information on the LG EBR83592701. Click for pictures, reviews, and tech specs for the LG Placa de comando TV LG 49UJ6300 - EBR83592701.

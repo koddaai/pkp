@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu67423101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBU67423101 Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 50UR8750PSA, 65UR871C0SA, 65UR8750PSA - EBU67423101"
+summary: "Get more information on the LG EBU67423101. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 50UR8750PSA, 65UR871C0SA, 65UR8750PSA - EBU67423101."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 880.84
   source: "retailer"
-  updated_at: "2026-08-10T20:41:02.436Z"
+  updated_at: "2026-08-11T06:56:19.026Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.436Z"
+    verified_at: "2026-08-11T06:56:19.026Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.436Z"
+    verified_at: "2026-08-11T06:56:19.026Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-10
+# Data de importacao: 2026-08-11
 # aw_product_id: 43478676853
 ---
 
 ## Descricao
 
-Get more information on the LG EBU67423101 Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 50UR8750PSA, 65UR871C0SA, 65UR8750PSA - EBU67423101
+Get more information on the LG EBU67423101. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 50UR8750PSA, 65UR871C0SA, 65UR8750PSA - EBU67423101.

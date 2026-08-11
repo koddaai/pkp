@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay65895657/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAY65895657. Clique para ver imagens, análises e especificações técnicas da LG Placa da fonte TV LG 50UP7750PSB, 50UQ801C0SB, 50UQ8050PSB - EAY65895657"
+summary: "Get more information on the LG EAY65895657. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG 50UP7750PSB, 50UQ801C0SB, 50UQ8050PSB - EAY65895657."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 188.62
   source: "retailer"
-  updated_at: "2026-08-10T20:41:02.364Z"
+  updated_at: "2026-08-11T06:56:18.952Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.364Z"
+    verified_at: "2026-08-11T06:56:18.952Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.364Z"
+    verified_at: "2026-08-11T06:56:18.952Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-10
+# Data de importacao: 2026-08-11
 # aw_product_id: 43478676320
 ---
 
 ## Descricao
 
-Descubra a LG EAY65895657. Clique para ver imagens, análises e especificações técnicas da LG Placa da fonte TV LG 50UP7750PSB, 50UQ801C0SB, 50UQ8050PSB - EAY65895657
+Get more information on the LG EAY65895657. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG 50UP7750PSB, 50UQ801C0SB, 50UQ8050PSB - EAY65895657.

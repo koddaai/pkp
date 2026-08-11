@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/peca-de-reposicao/eay65898203/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa conversora estática Retificadora a base de cristal (semicondutores) de corrente alternada em corrente contínua Com função de fonte de alimentação estabilizada Utilizada internamente em monitor de vídeo"
+summary: "Get more information on the LG EAY65898203. Click for pictures, reviews, and tech specs for the LG Placa da Fonte Monitor LG 27ART10AKPL EAY65898203."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 901.55
   source: "retailer"
-  updated_at: "2026-08-10T20:41:02.365Z"
+  updated_at: "2026-08-11T06:56:18.953Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.365Z"
+    verified_at: "2026-08-11T06:56:18.953Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.365Z"
+    verified_at: "2026-08-11T06:56:18.953Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-10
+# Data de importacao: 2026-08-11
 # aw_product_id: 43478676322
 ---
 
 ## Descricao
 
-Placa conversora estática Retificadora a base de cristal (semicondutores) de corrente alternada em corrente contínua Com função de fonte de alimentação estabilizada Utilizada internamente em monitor de vídeo
+Get more information on the LG EAY65898203. Click for pictures, reviews, and tech specs for the LG Placa da Fonte Monitor LG 27ART10AKPL EAY65898203.

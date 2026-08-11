@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/mbn62627502/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MBN62627502. Clique para ver imagens, análises e especificações técnicas da LG Gabinete Home Theater LG BH6730S - MBN62627502"
+summary: "Get more information on the LG MBN62627502. Click for pictures, reviews, and tech specs for the LG Gabinete Home Theater LG BH6730S MBN62627502."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-08-10T20:41:02.449Z"
+  updated_at: "2026-08-11T06:56:19.040Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.449Z"
+    verified_at: "2026-08-11T06:56:19.040Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.449Z"
+    verified_at: "2026-08-11T06:56:19.040Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-10
+# Data de importacao: 2026-08-11
 # aw_product_id: 43478676958
 ---
 
 ## Descricao
 
-Descubra a LG MBN62627502. Clique para ver imagens, análises e especificações técnicas da LG Gabinete Home Theater LG BH6730S - MBN62627502
+Get more information on the LG MBN62627502. Click for pictures, reviews, and tech specs for the LG Gabinete Home Theater LG BH6730S MBN62627502.

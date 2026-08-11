@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu67402502/"
 
 # === DESCOBERTA (L0) ===
-summary: "PROCEDIMENTO OBRIGATÓRIOAPÓS TROCA DE PLACA PRINCIPAL: É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas. Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros."
-tags: ["lg", "ai", "pro"]
+summary: "Get more information on the LG EBU67402502. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 65NANO77SRA - EBU67402502."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1015.55
   source: "retailer"
-  updated_at: "2026-08-10T20:41:02.436Z"
+  updated_at: "2026-08-11T06:56:19.026Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.436Z"
+    verified_at: "2026-08-11T06:56:19.026Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.436Z"
+    verified_at: "2026-08-11T06:56:19.026Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-10
+# Data de importacao: 2026-08-11
 # aw_product_id: 44980025792
 ---
 
 ## Descricao
 
-PROCEDIMENTO OBRIGATÓRIOAPÓS TROCA DE PLACA PRINCIPAL: É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas.  Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros.
+Get more information on the LG EBU67402502. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 65NANO77SRA - EBU67402502.

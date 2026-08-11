@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/75qned70asa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG QNED 75 polegadas 4K Smart TV com tecnologia avançada, cores vivas, contraste preciso e áudio imersivo para transformar sua experiência em casa. Saiba mais!"
+summary: "Get more information on the LG 75QNED70ASA. Click for pictures, reviews, and tech specs for the LG Smart TV 4K LG QNED AI QNED70 de 75 polegadas 2025."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4958.05
   source: "retailer"
-  updated_at: "2026-08-10T20:41:02.219Z"
+  updated_at: "2026-08-11T06:56:18.819Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.219Z"
+    verified_at: "2026-08-11T06:56:18.819Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.219Z"
+    verified_at: "2026-08-11T06:56:18.819Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-10
+# Data de importacao: 2026-08-11
 # aw_product_id: 43478675130
 ---
 
 ## Descricao
 
-Descubra a LG QNED 75 polegadas 4K Smart TV com tecnologia avançada, cores vivas, contraste preciso e áudio imersivo para transformar sua experiência em casa. Saiba mais!
+Get more information on the LG 75QNED70ASA. Click for pictures, reviews, and tech specs for the LG Smart TV 4K LG QNED AI QNED70 de 75 polegadas 2025.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr85844907/"
 
 # === DESCOBERTA (L0) ===
-summary: "Para unidade condensadora"
+summary: "Get more information on the LG EBR85844907. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG EBR85844907."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 968.05
   source: "retailer"
-  updated_at: "2026-08-10T20:41:02.410Z"
+  updated_at: "2026-08-11T06:56:18.999Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.410Z"
+    verified_at: "2026-08-11T06:56:18.999Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.410Z"
+    verified_at: "2026-08-11T06:56:18.999Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-10
+# Data de importacao: 2026-08-11
 # aw_product_id: 43478676683
 ---
 
 ## Descricao
 
-Para unidade condensadora
+Get more information on the LG EBR85844907. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG EBR85844907.
