@@ -27,9 +27,9 @@ tags: ["lg", "wifi"]
 price:
   type: "street"
   currency: "BRL"
-  value: 12159.64
+  value: 12835.17
   source: "retailer"
-  updated_at: "2026-08-12T20:42:31.845Z"
+  updated_at: "2026-08-13T07:18:35.560Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-12T20:42:31.845Z"
+    verified_at: "2026-08-13T07:18:35.560Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-12T20:42:31.845Z"
+    verified_at: "2026-08-13T07:18:35.560Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-12
+# Data de importacao: 2026-08-13
 # aw_product_id: 43478675826
 ---
 
