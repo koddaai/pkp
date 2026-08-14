@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-q24k231b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG S3-Q24K231B. Click for pictures, reviews, and tech specs for the LG Ar-Cond. LG Dual Inv. Voice +AI 24.000 BTU ."
-tags: ["lg", "ai", "4k"]
+summary: "Get more information on the LG S3-Q24K231B. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Voice 24.000 BTU Frio 220V."
+tags: ["lg", "ai", "inverter", "4k"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4543.88
   source: "retailer"
-  updated_at: "2026-08-13T20:40:32.018Z"
+  updated_at: "2026-08-14T07:16:34.426Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-13T20:40:32.018Z"
+    verified_at: "2026-08-14T07:16:34.426Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-13T20:40:32.018Z"
+    verified_at: "2026-08-14T07:16:34.426Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-13
+# Data de importacao: 2026-08-14
 # aw_product_id: 43478677166
 ---
 
 ## Descricao
 
-Get more information on the LG S3-Q24K231B. Click for pictures, reviews, and tech specs for the LG Ar-Cond. LG Dual Inv. Voice +AI 24.000 BTU .
+Get more information on the LG S3-Q24K231B. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Voice 24.000 BTU Frio 220V.
