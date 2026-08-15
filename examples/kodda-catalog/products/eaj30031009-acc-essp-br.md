@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "eaj30031009-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Tela de cristal líquido (BA) TV LG 65QNED70ASA EAJ30031009 - EAJ30031009"
+category: "tvs"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "EAJ30031009.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/eaj30031009-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/eaj30031009/"
+
+# === DESCOBERTA (L0) ===
+summary: "Tela de cristal líquido (BA) TV LG 55UA8550PSA EAJ30031009"
+tags: ["lg"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 977.55
+  source: "retailer"
+  updated_at: "2026-08-15T06:27:43.128Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=45600992210&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-08-15T06:27:43.128Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-08-15T06:27:43.128Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-08-15
+# aw_product_id: 45600992210
+---
+
+## Descricao
+
+Tela de cristal líquido (BA) TV LG 55UA8550PSA  EAJ30031009
