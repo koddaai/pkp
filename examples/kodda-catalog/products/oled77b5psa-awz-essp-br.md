@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/oled/oled77b5psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG OLED77B5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED AI B5 77” 4K 2025."
+summary: "Get more information on the LG OLED77B5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED AI B5 4K de 77 polegadas 2025."
 tags: ["lg", "smart", "ai", "4k", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 13679.1
   source: "retailer"
-  updated_at: "2026-08-17T20:25:18.755Z"
+  updated_at: "2026-08-18T06:33:21.611Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-17T20:25:18.755Z"
+    verified_at: "2026-08-18T06:33:21.611Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-17T20:25:18.755Z"
+    verified_at: "2026-08-18T06:33:21.611Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 77
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-17
+# Data de importacao: 2026-08-18
 # aw_product_id: 43478677138
 ---
 
 ## Descricao
 
-Get more information on the LG OLED77B5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED AI B5 77” 4K 2025.
+Get more information on the LG OLED77B5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED AI B5 4K de 77 polegadas 2025.

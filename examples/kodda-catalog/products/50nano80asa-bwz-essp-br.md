@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/nanocell/50nano80asa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a próxima geração de Smart AI TVs da LG, 50NANO80ASA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG NanoCell AI 4K NANO80 de 50 polegadas 2025."
+summary: "Get more information on the LG 50NANO80ASA. Click for pictures, reviews, and tech specs for the LG Smart TV LG NanoCell AI 4K NANO80 de 55 polegadas 2025."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2421.55
   source: "retailer"
-  updated_at: "2026-08-17T20:25:18.507Z"
+  updated_at: "2026-08-18T06:33:20.943Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-17T20:25:18.507Z"
+    verified_at: "2026-08-18T06:33:20.943Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-17T20:25:18.507Z"
+    verified_at: "2026-08-18T06:33:20.943Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 50
+  screen_size: 55
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-17
+# Data de importacao: 2026-08-18
 # aw_product_id: 43478674947
 ---
 
 ## Descricao
 
-Descubra a próxima geração de Smart AI TVs da LG, 50NANO80ASA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG NanoCell AI 4K NANO80 de 50 polegadas 2025.
+Get more information on the LG 50NANO80ASA. Click for pictures, reviews, and tech specs for the LG Smart TV LG NanoCell AI 4K NANO80 de 55 polegadas 2025.

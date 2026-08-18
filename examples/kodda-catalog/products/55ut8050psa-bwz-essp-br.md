@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/tv-uhd-4k/55ut8050psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 55UT8050PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD UT8050 55” 4K."
-tags: ["lg", "smart", "4k"]
+summary: "Get more information on the LG 55UT8050PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG 55\" 4K Ultra HD UT80 Processador a5 Ger7 AI, Alexa, Wi-Fi, Bluetooth, Chromecast Integrado, Otimizador de Jogos e webOS 24 - 55UT8050PSA."
+tags: ["lg", "bluetooth", "smart", "ai", "4k", "alexa", "pro", "ultra"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2184.05
   source: "retailer"
-  updated_at: "2026-08-17T20:25:18.516Z"
+  updated_at: "2026-08-18T06:33:20.946Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-17T20:25:18.516Z"
+    verified_at: "2026-08-18T06:33:20.946Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-17T20:25:18.516Z"
+    verified_at: "2026-08-18T06:33:20.946Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 55
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-17
+# Data de importacao: 2026-08-18
 # aw_product_id: 45409445891
 ---
 
 ## Descricao
 
-Get more information on the LG 55UT8050PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD UT8050 55” 4K.
+Get more information on the LG 55UT8050PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG 55" 4K Ultra HD UT80 Processador a5 Ger7 AI, Alexa, Wi-Fi, Bluetooth, Chromecast Integrado, Otimizador de Jogos e webOS 24 - 55UT8050PSA.

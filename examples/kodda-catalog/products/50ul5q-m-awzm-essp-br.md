@@ -5,7 +5,7 @@ sku: "50ul5q-m-awzm-essp-br"
 # gtin: null
 brand: "LG"
 name: "UHD Signage - 50UL5Q-M"
-category: "outros"
+category: "monitors"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/digital-signage/monitores-profissionais/50ul5q-m/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o LG 50UL5Q-M. Clique para imagens, avaliações e especificações técnicas do LG UHD Signage."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG 50UL5Q-M. Click for pictures, reviews, and tech specs for the LG Monitor profissional UHD."
+tags: ["lg", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2944.05
   source: "retailer"
-  updated_at: "2026-08-17T20:25:18.507Z"
+  updated_at: "2026-08-18T06:33:20.943Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-17T20:25:18.507Z"
+    verified_at: "2026-08-18T06:33:20.943Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-17T20:25:18.507Z"
+    verified_at: "2026-08-18T06:33:20.943Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-17
+# Data de importacao: 2026-08-18
 # aw_product_id: 45354734207
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre o LG 50UL5Q-M. Clique para imagens, avaliações e especificações técnicas do LG UHD Signage.
+Get more information on the LG 50UL5Q-M. Click for pictures, reviews, and tech specs for the LG Monitor profissional UHD.
