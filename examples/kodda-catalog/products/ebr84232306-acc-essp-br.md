@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr84232306/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Principal Soundbar LG SQC2 EBR84232306"
+summary: "Get more information on the LG EBR84232306. Click for pictures, reviews, and tech specs for the LG Placa Principal Soundbar LG SQC2 EBR84232306."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 360.1
   source: "retailer"
-  updated_at: "2026-08-18T20:21:41.314Z"
+  updated_at: "2026-08-19T06:33:55.301Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-18T20:21:41.314Z"
+    verified_at: "2026-08-19T06:33:55.301Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-18T20:21:41.314Z"
+    verified_at: "2026-08-19T06:33:55.301Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-18
+# Data de importacao: 2026-08-19
 # aw_product_id: 43478676652
 ---
 
 ## Descricao
 
-Placa Principal Soundbar LG SQC2 EBR84232306
+Get more information on the LG EBR84232306. Click for pictures, reviews, and tech specs for the LG Placa Principal Soundbar LG SQC2 EBR84232306.

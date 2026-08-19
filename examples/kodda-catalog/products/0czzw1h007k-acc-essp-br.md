@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/0czzw1h007k/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 0CZZW1H007K. Clique para ver imagens, análises e especificações técnicas da LG Capacitor elétrico Forno Micro-ondas LG MH7047G, MS5640FRSE, MH7043SAR - 0CZZW1H007K"
+summary: "Get more information on the LG 0CZZW1H007K. Click for pictures, reviews, and tech specs for the LG Capacitor elétrico Forno Micro-ondas LG MH7047G, MS5640FRSE, MH7043SAR - 0CZZW1H007K."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-08-18T20:21:41.086Z"
+  updated_at: "2026-08-19T06:33:55.071Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-18T20:21:41.086Z"
+    verified_at: "2026-08-19T06:33:55.071Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-18T20:21:41.086Z"
+    verified_at: "2026-08-19T06:33:55.071Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-18
+# Data de importacao: 2026-08-19
 # aw_product_id: 43478674755
 ---
 
 ## Descricao
 
-Descubra a LG 0CZZW1H007K. Clique para ver imagens, análises e especificações técnicas da LG Capacitor elétrico Forno Micro-ondas LG MH7047G, MS5640FRSE, MH7043SAR - 0CZZW1H007K
+Get more information on the LG 0CZZW1H007K. Click for pictures, reviews, and tech specs for the LG Capacitor elétrico Forno Micro-ondas LG MH7047G, MS5640FRSE, MH7043SAR - 0CZZW1H007K.

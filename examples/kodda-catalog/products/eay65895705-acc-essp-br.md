@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/monitors/adapter-power-cord/eay65895705/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre a EAY65895705. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa LG para monitor (19 V, 1,3 A, 24 W, cabo de alimentação não incluído, preto)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAY65895705. Click for pictures, reviews, and tech specs for the LG Fonte De Alimentação Monitor Desktop EAY65895705."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-08-18T20:21:41.279Z"
+  updated_at: "2026-08-19T06:33:55.252Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-18T20:21:41.279Z"
+    verified_at: "2026-08-19T06:33:55.252Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-18T20:21:41.279Z"
+    verified_at: "2026-08-19T06:33:55.252Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-18
+# Data de importacao: 2026-08-19
 # aw_product_id: 43478676321
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre a EAY65895705. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa LG para monitor (19 V, 1,3 A, 24 W, cabo de alimentação não incluído, preto).
+Get more information on the LG EAY65895705. Click for pictures, reviews, and tech specs for the LG Fonte De Alimentação Monitor Desktop EAY65895705.
