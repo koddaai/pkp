@@ -27,9 +27,9 @@ tags: ["panasonic", "smart", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2099
+  value: 1999
   source: "retailer"
-  updated_at: "2026-08-13T20:40:23.136Z"
+  updated_at: "2026-08-19T12:34:03.587Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-13T20:40:23.136Z"
+    verified_at: "2026-08-19T12:34:03.587Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-13T20:40:23.136Z"
+    verified_at: "2026-08-19T12:34:03.587Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-08-13
+# Data de importacao: 2026-08-19
 # aw_product_id: 38931326596
 ---
 
