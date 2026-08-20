@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "zt-w12gtuaa-anwzbr1-essp-br"
+# gtin: null
+brand: "LG"
+name: "Ar Condicionado LG  LG Cassete 1 - Via Inverter 12.000 BTU/h 220V ZT-W12GTUAA, Quente e Frio - ZT-W12GTUAA"
+category: "eletrodomesticos"
+subcategory: "ar-condicionado"
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "ZT-W12GTUAA.ANWZBR1.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/zt-w12gtuaa-anwzbr1-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/ar-condicionado-comercial-leve/zt-w12gtuaa/"
+
+# === DESCOBERTA (L0) ===
+summary: "Get more information on the LG ZT-W12GTUAA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG LG Cassete 1 - Via Inverter 12.000 BTU/h 220V ZT-W12GTUAA, Quente e Frio."
+tags: ["lg", "inverter"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 8298.25
+  source: "retailer"
+  updated_at: "2026-08-20T06:35:48.814Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=45690330574&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-08-20T06:35:48.814Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-08-20T06:35:48.814Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  voltage: "220V"
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-08-20
+# aw_product_id: 45690330574
+---
+
+## Descricao
+
+Get more information on the LG ZT-W12GTUAA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG  LG Cassete 1 - Via Inverter 12.000 BTU/h 220V ZT-W12GTUAA, Quente e Frio.
