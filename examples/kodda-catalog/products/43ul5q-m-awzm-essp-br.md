@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/digital-signage/monitores-profissionais/43ul5q-m/"
 
 # === DESCOBERTA (L0) ===
-summary: "UHD Signage"
+summary: "Get more information on the LG 43UL5Q-M. Click for pictures, reviews, and tech specs for the LG UHD Signage."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2659.05
   source: "retailer"
-  updated_at: "2026-08-21T12:34:38.290Z"
+  updated_at: "2026-08-21T20:24:04.825Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-21T12:34:38.290Z"
+    verified_at: "2026-08-21T20:24:04.825Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-21T12:34:38.290Z"
+    verified_at: "2026-08-21T20:24:04.825Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-UHD Signage
+Get more information on the LG 43UL5Q-M. Click for pictures, reviews, and tech specs for the LG UHD Signage.

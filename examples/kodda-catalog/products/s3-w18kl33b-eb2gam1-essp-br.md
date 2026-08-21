@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter", "8k", "alexa", "google"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3599.1
+  value: 3799.05
   source: "retailer"
-  updated_at: "2026-08-21T12:34:38.644Z"
+  updated_at: "2026-08-21T20:24:05.152Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-21T12:34:38.644Z"
+    verified_at: "2026-08-21T20:24:05.152Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-21T12:34:38.644Z"
+    verified_at: "2026-08-21T20:24:05.152Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

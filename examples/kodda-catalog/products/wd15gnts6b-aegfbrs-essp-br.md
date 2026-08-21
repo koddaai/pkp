@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai", "5g"]
 price:
   type: "street"
   currency: "BRL"
-  value: 5224.05
+  value: 5794.05
   source: "retailer"
-  updated_at: "2026-08-21T12:34:38.656Z"
+  updated_at: "2026-08-21T20:24:05.159Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-21T12:34:38.656Z"
+    verified_at: "2026-08-21T20:24:05.159Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-21T12:34:38.656Z"
+    verified_at: "2026-08-21T20:24:05.159Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
