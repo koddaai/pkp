@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/air-conditioners/remote-controller/akb74075601/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AKB74075601. Clique para ver imagens, avaliações e especificações técnicas do controle remoto para ar-condicionado cassete LG (suporte incluso)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AKB74075601. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar-condicionado LG AKB74075601 ."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 127.39
   source: "retailer"
-  updated_at: "2026-08-21T20:24:04.958Z"
+  updated_at: "2026-08-22T06:29:47.233Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-21T20:24:04.958Z"
+    verified_at: "2026-08-22T06:29:47.233Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-21T20:24:04.958Z"
+    verified_at: "2026-08-22T06:29:47.233Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-21
+# Data de importacao: 2026-08-22
 # aw_product_id: 43478675653
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre o AKB74075601. Clique para ver imagens, avaliações e especificações técnicas do controle remoto para ar-condicionado cassete LG (suporte incluso).
+Get more information on the LG AKB74075601. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar-condicionado LG AKB74075601 .

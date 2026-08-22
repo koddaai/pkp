@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/eaj30031009/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ30031009. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG 65QNED70ASA EAJ30031009."
+summary: "Get more information on the LG EAJ30031009. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG 55QNED70ASA EAJ30031009."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 977.55
   source: "retailer"
-  updated_at: "2026-08-21T20:24:05.004Z"
+  updated_at: "2026-08-22T06:29:47.275Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-21T20:24:05.004Z"
+    verified_at: "2026-08-22T06:29:47.275Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-21T20:24:05.004Z"
+    verified_at: "2026-08-22T06:29:47.275Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-21
+# Data de importacao: 2026-08-22
 # aw_product_id: 45600992210
 ---
 
 ## Descricao
 
-Get more information on the LG EAJ30031009. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG 65QNED70ASA EAJ30031009.
+Get more information on the LG EAJ30031009. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG 55QNED70ASA EAJ30031009.

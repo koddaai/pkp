@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/digital-signage/monitores-profissionais/55ul5q-m/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o LG 55UL5Q-M. Clique para imagens, avaliações e especificações técnicas do LG UHD Signage."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG 55UL5Q-M. Click for pictures, reviews, and tech specs for the LG UHD Signage."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3609.05
   source: "retailer"
-  updated_at: "2026-08-21T20:24:04.842Z"
+  updated_at: "2026-08-22T06:29:47.146Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-21T20:24:04.842Z"
+    verified_at: "2026-08-22T06:29:47.146Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-21T20:24:04.842Z"
+    verified_at: "2026-08-22T06:29:47.146Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-21
+# Data de importacao: 2026-08-22
 # aw_product_id: 45421601779
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre o LG 55UL5Q-M. Clique para imagens, avaliações e especificações técnicas do LG UHD Signage.
+Get more information on the LG 55UL5Q-M. Click for pictures, reviews, and tech specs for the LG UHD Signage.
