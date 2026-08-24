@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-st66nbru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st66-black-glass-nn-st66nbru/p?idsku=397978"
+  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st66-black-glass-nn-st66nbru/p?idsku=397977"
 
 # === DESCOBERTA (L0) ===
 summary: "O Micro-ondas ST66N tem 34 litros de capacidade, tecnologia Antibacteria Ag, revestimento antiaderente para facilitar a limpeza, tecnologia Pega Fácil, design sofisticado em Black Glass, função Dupla Refeição e eficiência energética A.Dupla RefeiçãoA função pode ser ativada para aquecer 300g, 500g e 700g (peso total das duas porções) em pratos diferentes. Basta colocar uma refeição no prato giratório e outra na grelha.Retire o utensílio do jeito que colocou com Pega Fácil (1)Assim que o aquec..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 719
   source: "retailer"
-  updated_at: "2026-08-24T06:43:44.460Z"
+  updated_at: "2026-08-24T12:37:15.743Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-24T06:43:44.460Z"
+    verified_at: "2026-08-24T12:37:15.743Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-24T06:43:44.460Z"
+    verified_at: "2026-08-24T12:37:15.743Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
