@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/mini-rgb-evo/86mrgb85bsc/"
 
 # === DESCOBERTA (L0) ===
-summary: "Experimente a TV LG Mini RGB EVO 86 polegadas com resolução 4K e cores ultra realistas. Tela gigante com desempenho avançado e recursos Smart TV para uma experiência imersiva em filmes, esportes e jogos."
-tags: ["lg", "smart", "ai", "4k", "ultra"]
+summary: "Get more information on the LG 86MRGB85BSC. Click for pictures, reviews, and tech specs for the LG Smart TV LG Mini RGB evo AI 4K MRGB85 86 polegadas 2026."
+tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 10829.05
   source: "retailer"
-  updated_at: "2026-08-24T20:29:06.680Z"
+  updated_at: "2026-08-25T06:36:12.988Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-24T20:29:06.680Z"
+    verified_at: "2026-08-25T06:36:12.988Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-24T20:29:06.680Z"
+    verified_at: "2026-08-25T06:36:12.988Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-24
+# Data de importacao: 2026-08-25
 # aw_product_id: 45079456730
 ---
 
 ## Descricao
 
-Experimente a TV LG Mini RGB EVO 86 polegadas com resolução 4K e cores ultra realistas. Tela gigante com desempenho avançado e recursos Smart TV para uma experiência imersiva em filmes, esportes e jogos.
+Get more information on the LG 86MRGB85BSC. Click for pictures, reviews, and tech specs for the LG Smart TV LG Mini RGB evo AI 4K MRGB85 86 polegadas 2026.

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-w091l1c0-ec2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG AI Dual Inverter Uniq - S3-W091L1C0"
+name: "Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-W091L1C0 - S3-W091L1C0"
 category: "outros"
 
 
@@ -21,7 +21,7 @@ canonical:
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG S3-W091L1C0. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-W091L1C0."
-tags: ["lg", "ai", "inverter"]
+tags: ["lg", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7346.07
   source: "retailer"
-  updated_at: "2026-08-24T20:29:06.924Z"
+  updated_at: "2026-08-25T06:36:13.284Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-24T20:29:06.924Z"
+    verified_at: "2026-08-25T06:36:13.284Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-24T20:29:06.924Z"
+    verified_at: "2026-08-25T06:36:13.284Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-24
+# Data de importacao: 2026-08-25
 # aw_product_id: 44279344622
 ---
 

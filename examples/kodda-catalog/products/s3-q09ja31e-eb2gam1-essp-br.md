@@ -5,8 +5,8 @@ sku: "s3-q09ja31e-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
 name: "Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-Q09JA31E - S3-Q09JA31E"
-category: "eletrodomesticos"
-subcategory: "ar-condicionado"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/s3-q09ja31e/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra os benefícios do Ar Condicionado Dual Inverter 9.000 BTUs S3-Q09JA31E! Mais conforto e comodidade para você e sua família!"
-tags: ["lg", "ai", "inverter"]
+summary: "Get more information on the LG S3-Q09JA31E. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-Q09JA31E."
+tags: ["lg", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2115.08
   source: "retailer"
-  updated_at: "2026-08-24T20:29:06.922Z"
+  updated_at: "2026-08-25T06:36:13.282Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-24T20:29:06.922Z"
+    verified_at: "2026-08-25T06:36:13.282Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-24T20:29:06.922Z"
+    verified_at: "2026-08-25T06:36:13.282Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-24
+# Data de importacao: 2026-08-25
 # aw_product_id: 45708471658
 ---
 
 ## Descricao
 
-Descubra os benefícios do Ar Condicionado Dual Inverter 9.000 BTUs S3-Q09JA31E! Mais conforto e comodidade para você e sua família!
+Get more information on the LG S3-Q09JA31E. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-Q09JA31E.
