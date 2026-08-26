@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/nanocell/75nu855bpsa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 75NU855BPSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG NANO UHD AI 4K NU850 75 polegadas 2026."
+summary: "Get more information on the LG 75NU855BPSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG NANO UHD AI 4K NU855 75 polegadas 2026."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5414.05
   source: "retailer"
-  updated_at: "2026-08-25T20:27:38.482Z"
+  updated_at: "2026-08-26T06:38:06.367Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-25T20:27:38.482Z"
+    verified_at: "2026-08-26T06:38:06.367Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-25T20:27:38.482Z"
+    verified_at: "2026-08-26T06:38:06.367Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-25
+# Data de importacao: 2026-08-26
 # aw_product_id: 45203730225
 ---
 
 ## Descricao
 
-Get more information on the LG 75NU855BPSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG NANO UHD AI 4K NU850 75 polegadas 2026.
+Get more information on the LG 75NU855BPSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG NANO UHD AI 4K NU855 75 polegadas 2026.

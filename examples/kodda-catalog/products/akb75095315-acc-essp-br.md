@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/tvs/remote-controller/akb75095315/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AKB75095315. Click for pictures, reviews, and tech specs for the LG Controle remoto para TV LG AKB75095315 / AKB75675304."
+summary: "Get more information on the LG AKB75095315. Click for pictures, reviews, and tech specs for the LG Controle remoto para TV LG AKB75095315."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 62.1
   source: "retailer"
-  updated_at: "2026-08-25T20:27:38.528Z"
+  updated_at: "2026-08-26T06:38:06.435Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-25T20:27:38.528Z"
+    verified_at: "2026-08-26T06:38:06.435Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-25T20:27:38.528Z"
+    verified_at: "2026-08-26T06:38:06.435Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-25
+# Data de importacao: 2026-08-26
 # aw_product_id: 43478675674
 ---
 
 ## Descricao
 
-Get more information on the LG AKB75095315. Click for pictures, reviews, and tech specs for the LG Controle remoto para TV LG AKB75095315 / AKB75675304.
+Get more information on the LG AKB75095315. Click for pictures, reviews, and tech specs for the LG Controle remoto para TV LG AKB75095315.

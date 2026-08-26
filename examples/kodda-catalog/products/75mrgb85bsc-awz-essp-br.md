@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/mini-rgb-evo/75mrgb85bsc/"
 
 # === DESCOBERTA (L0) ===
-summary: "A TV LG Mini RGB EVO 75 polegadas entrega imagens 4K com cores vibrantes e alto contraste. Ideal para quem busca tela grande, qualidade premium e recursos Smart TV completos para filmes, séries e games."
-tags: ["lg", "smart", "ai", "4k", "premium"]
+summary: "Get more information on the LG 75MRGB85BSC. Click for pictures, reviews, and tech specs for the LG Smart TV LG Mini RGB evo AI 4K MRGB85 75 polegadas 2026."
+tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7789.05
   source: "retailer"
-  updated_at: "2026-08-25T20:27:38.481Z"
+  updated_at: "2026-08-26T06:38:06.367Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-25T20:27:38.481Z"
+    verified_at: "2026-08-26T06:38:06.367Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-25T20:27:38.481Z"
+    verified_at: "2026-08-26T06:38:06.367Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-25
+# Data de importacao: 2026-08-26
 # aw_product_id: 45079456729
 ---
 
 ## Descricao
 
-A TV LG Mini RGB EVO 75 polegadas entrega imagens 4K com cores vibrantes e alto contraste. Ideal para quem busca tela grande, qualidade premium e recursos Smart TV completos para filmes, séries e games.
+Get more information on the LG 75MRGB85BSC. Click for pictures, reviews, and tech specs for the LG Smart TV LG Mini RGB evo AI 4K MRGB85 75 polegadas 2026.
