@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/27g810a-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 27G810A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear™ 27G810A-B, Tela IPS 4K UHD 27\", 1ms (GtG), Dual-Mode (180Hz ↔ 360Hz), NVIDIA G-SYNC, AMD FreeSync, DisplayHDR™ 400, DCI-P3 95%."
+summary: "Monitor LG UltraGear™ 27G810A-B,, Tela IPS 4K FHD 27\", 1ms (GtG), Dual-Mode (180Hz ↔ 360Hz), NVIDIA G-SYNC, AMD FreeSync, DisplayHDR™ 400, DCI-P3 95%"
 tags: ["lg", "4k", "hdr", "ultra"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3499
   source: "retailer"
-  updated_at: "2026-08-26T22:44:19.704Z"
+  updated_at: "2026-08-27T17:14:30.724Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-26T22:44:19.704Z"
+    verified_at: "2026-08-27T17:14:30.724Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-26T22:44:19.704Z"
+    verified_at: "2026-08-27T17:14:30.724Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-26
+# Data de importacao: 2026-08-27
 # aw_product_id: 44262775372
 ---
 
 ## Descricao
 
-Get more information on the LG 27G810A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear™ 27G810A-B, Tela IPS 4K UHD 27", 1ms (GtG), Dual-Mode (180Hz ↔ 360Hz), NVIDIA G-SYNC, AMD FreeSync, DisplayHDR™ 400, DCI-P3 95%.
+Monitor LG UltraGear™ 27G810A-B,, Tela IPS 4K FHD 27", 1ms (GtG), Dual-Mode (180Hz ↔ 360Hz), NVIDIA G-SYNC, AMD FreeSync, DisplayHDR™ 400, DCI-P3 95%
