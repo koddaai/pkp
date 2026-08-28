@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/audio/caixa-de-som-bluetooth/blast/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça a nova LG xboom Blast, caixa de som potente com 220W de potência, 36h de bateria, IP68 para resistência a água e poeira, resistência militar MIL-STD-810H. Caixa de som bluetooth."
+summary: "Get more information on the LG BLAST. Click for pictures, reviews, and tech specs for the LG LG xboom Blast | Caixa de Som Bluetooth Portátil com Grave Potente de 220W e Bateria de 36 Horas."
 tags: ["lg", "bluetooth", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2699
   source: "retailer"
-  updated_at: "2026-08-27T21:36:00.109Z"
+  updated_at: "2026-08-28T04:03:43.972Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-27T21:36:00.109Z"
+    verified_at: "2026-08-28T04:03:43.972Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-27T21:36:00.109Z"
+    verified_at: "2026-08-28T04:03:43.972Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-27
+# Data de importacao: 2026-08-28
 # aw_product_id: 45600992208
 ---
 
 ## Descricao
 
-Conheça a nova LG xboom Blast, caixa de som potente com 220W de potência, 36h de bateria, IP68 para resistência a água e poeira, resistência militar MIL-STD-810H. Caixa de som bluetooth.
+Get more information on the LG BLAST. Click for pictures, reviews, and tech specs for the LG LG xboom Blast | Caixa de Som Bluetooth Portátil com Grave Potente de 220W e Bateria de 36 Horas.

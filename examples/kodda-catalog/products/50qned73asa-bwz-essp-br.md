@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/50qned73asa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 50QNED73ASA. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED AI QNED73 50” 4K."
-tags: ["lg", "smart", "ai", "4k"]
+summary: "Get more information on the LG 50QNED73ASA. Click for pictures, reviews, and tech specs for the LG Smart TV 4K 50\" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Alerta de Esportes."
+tags: ["lg", "smart", "ai", "4k", "google", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2421.55
   source: "retailer"
-  updated_at: "2026-08-27T21:36:00.036Z"
+  updated_at: "2026-08-28T04:03:43.865Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-27T21:36:00.036Z"
+    verified_at: "2026-08-28T04:03:43.865Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-27T21:36:00.036Z"
+    verified_at: "2026-08-28T04:03:43.865Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 50
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-27
+# Data de importacao: 2026-08-28
 # aw_product_id: 44183733522
 ---
 
 ## Descricao
 
-Get more information on the LG 50QNED73ASA. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED AI QNED73 50” 4K.
+Get more information on the LG 50QNED73ASA. Click for pictures, reviews, and tech specs for the LG Smart TV 4K 50" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Alerta de Esportes.

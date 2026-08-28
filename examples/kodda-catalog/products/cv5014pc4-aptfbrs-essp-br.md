@@ -6,7 +6,7 @@ sku: "cv5014pc4-aptfbrs-essp-br"
 brand: "LG"
 name: "Lava e Seca Smart LG VC4 14kg Inox Look com Inteligência Artificial AI DDᵀᴹ – CV5014PC4 - 127v - CV5014PC4"
 category: "eletrodomesticos"
-subcategory: "lavadora"
+subcategory: "lava-e-seca"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/cv5014pc4/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a Lavadora de Roupas LG CV5014PC4. Tecnologia avançada e eficiência para cuidar das suas roupas. Confira já!"
+summary: "Get more information on the LG CV5014PC4. Click for pictures, reviews, and tech specs for the LG Lava e Seca Smart LG VC4 14kg Inox Look com Inteligência Artificial AI DDᵀᴹ – CV5014PC4 - 127v."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5414.05
   source: "retailer"
-  updated_at: "2026-08-27T21:36:00.115Z"
+  updated_at: "2026-08-28T04:03:43.980Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-27T21:36:00.115Z"
+    verified_at: "2026-08-28T04:03:43.980Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-27T21:36:00.115Z"
+    verified_at: "2026-08-28T04:03:43.980Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  capacity: {"value":14,"unit":"kg"}
+  voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-27
+# Data de importacao: 2026-08-28
 # aw_product_id: 43478675807
 ---
 
 ## Descricao
 
-Descubra a Lavadora de Roupas LG CV5014PC4. Tecnologia avançada e eficiência para cuidar das suas roupas. Confira já!
+Get more information on the LG CV5014PC4. Click for pictures, reviews, and tech specs for the LG Lava e Seca Smart LG VC4 14kg Inox Look com Inteligência Artificial AI DDᵀᴹ – CV5014PC4 - 127v.

@@ -6,7 +6,7 @@ sku: "cv5014pc4a-aptgbrs-essp-br"
 brand: "LG"
 name: "Lava e Seca Smart LG VC4 14kg Inox Look com Inteligência Artificial AI DDᵀᴹ – CV5014PC4A - 220v - CV5014PC4A"
 category: "eletrodomesticos"
-subcategory: "lavadora"
+subcategory: "lava-e-seca"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/cv5014pc4a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça a Lavadora de Roupas LG CV5014PC4A. Eficiência e tecnologia avançada para cuidar das suas roupas com praticidade. Confira já!"
+summary: "Get more information on the LG CV5014PC4A. Click for pictures, reviews, and tech specs for the LG Lava e Seca Smart LG VC4 14kg Inox Look com Inteligência Artificial AI DDᵀᴹ – CV5014PC4A - 220v."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5414.05
   source: "retailer"
-  updated_at: "2026-08-27T21:36:00.115Z"
+  updated_at: "2026-08-28T04:03:43.980Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-27T21:36:00.115Z"
+    verified_at: "2026-08-28T04:03:43.980Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-27T21:36:00.115Z"
+    verified_at: "2026-08-28T04:03:43.980Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  capacity: {"value":14,"unit":"kg"}
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-27
+# Data de importacao: 2026-08-28
 # aw_product_id: 43478675808
 ---
 
 ## Descricao
 
-Conheça a Lavadora de Roupas LG CV5014PC4A. Eficiência e tecnologia avançada para cuidar das suas roupas com praticidade. Confira já!
+Get more information on the LG CV5014PC4A. Click for pictures, reviews, and tech specs for the LG Lava e Seca Smart LG VC4 14kg Inox Look com Inteligência Artificial AI DDᵀᴹ – CV5014PC4A - 220v.
