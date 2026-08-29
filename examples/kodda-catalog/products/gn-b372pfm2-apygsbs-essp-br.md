@@ -27,9 +27,9 @@ tags: ["lg", "smart", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3324.05
+  value: 3134.05
   source: "retailer"
-  updated_at: "2026-08-29T02:43:27.327Z"
+  updated_at: "2026-08-29T12:08:06.787Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-29T02:43:27.327Z"
+    verified_at: "2026-08-29T12:08:06.787Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-29T02:43:27.327Z"
+    verified_at: "2026-08-29T12:08:06.787Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
