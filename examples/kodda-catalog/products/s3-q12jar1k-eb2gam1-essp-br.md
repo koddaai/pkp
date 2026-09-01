@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-q12jar1k/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG S3-Q12JAR1K! Clique para ver imagens, análises e especificações técnicas da LG Ar-Condicionado LG DUAL Inverter Voice +AI Artcool 12.000 BTU"
+summary: "Get more information on the LG S3-Q12JAR1K. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Voice Artcool 12.000 BTU Frio 220V."
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3999
   source: "retailer"
-  updated_at: "2026-08-31T23:38:15.947Z"
+  updated_at: "2026-09-01T10:57:46.746Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-31T23:38:15.947Z"
+    verified_at: "2026-09-01T10:57:46.746Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-31T23:38:15.947Z"
+    verified_at: "2026-09-01T10:57:46.746Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-31
+# Data de importacao: 2026-09-01
 # aw_product_id: 43478677160
 ---
 
 ## Descricao
 
-Descubra a LG S3-Q12JAR1K! Clique para ver imagens, análises e especificações técnicas da LG Ar-Condicionado LG DUAL Inverter Voice +AI Artcool 12.000 BTU
+Get more information on the LG S3-Q12JAR1K. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Voice Artcool 12.000 BTU Frio 220V.

@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/cv9014bc2/"
 
 # === DESCOBERTA (L0) ===
-summary: "Lava e seca LG 14kg com AI DD, Steam e ThinQ para roupas bem cuidadas, mais praticidade e rotina inteligente."
+summary: "Get more information on the LG CV9014BC2. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart VC2 14kg Black Inox com Inteligência Artificial AIDD™ (CV9014BC2) - 127V."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 4939.05
+  value: 5034.05
   source: "retailer"
-  updated_at: "2026-08-31T23:38:15.785Z"
+  updated_at: "2026-09-01T10:57:46.454Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-31T23:38:15.785Z"
+    verified_at: "2026-09-01T10:57:46.454Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-31T23:38:15.785Z"
+    verified_at: "2026-09-01T10:57:46.454Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":14,"unit":"kg"}
+  voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-31
+# Data de importacao: 2026-09-01
 # aw_product_id: 43478675811
 ---
 
 ## Descricao
 
-Lava e seca LG 14kg com AI DD, Steam e ThinQ para roupas bem cuidadas, mais praticidade e rotina inteligente.
+Get more information on the LG CV9014BC2. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart VC2 14kg Black Inox com Inteligência Artificial AIDD™ (CV9014BC2) - 127V.

@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai", "8k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 6459.05
+  value: 6554.05
   source: "retailer"
-  updated_at: "2026-08-31T23:38:15.955Z"
+  updated_at: "2026-09-01T10:57:46.874Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-31T23:38:15.955Z"
+    verified_at: "2026-09-01T10:57:46.874Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-31T23:38:15.955Z"
+    verified_at: "2026-09-01T10:57:46.874Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -56,7 +56,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-31
+# Data de importacao: 2026-09-01
 # aw_product_id: 43478677243
 ---
 

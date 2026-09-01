@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-duplex/gn-b372pqwb/"
 
 # === DESCOBERTA (L0) ===
-summary: "Alimentos frescos com tecnologia de ponta.Conheça a geladeira LG GN-B372PQWB 375L Frost Free Inverter Duplex e compre em até 12x s/juros no site LG! Saiba mais!"
-tags: ["lg", "ai", "inverter"]
+summary: "Get more information on the LG GN-B372PQWB. Click for pictures, reviews, and tech specs for the LG Geladeira LG Frost Free Inverter 375L Duplex Cor Branca."
+tags: ["lg", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3514.05
   source: "retailer"
-  updated_at: "2026-08-31T23:38:15.925Z"
+  updated_at: "2026-09-01T10:57:46.722Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-31T23:38:15.925Z"
+    verified_at: "2026-09-01T10:57:46.722Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-31T23:38:15.925Z"
+    verified_at: "2026-09-01T10:57:46.722Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-31
+# Data de importacao: 2026-09-01
 # aw_product_id: 43478676923
 ---
 
 ## Descricao
 
-Alimentos frescos com tecnologia de ponta.Conheça a geladeira LG GN-B372PQWB 375L Frost Free Inverter Duplex e compre em até 12x s/juros no site LG! Saiba mais!
+Get more information on the LG GN-B372PQWB. Click for pictures, reviews, and tech specs for the LG Geladeira LG Frost Free Inverter 375L Duplex Cor Branca.
