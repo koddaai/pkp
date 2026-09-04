@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-comercial-leve/zt-w18gttaa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Ar Condicionado LG LG Cassete 1 - Via Inverter 18.000 BTU/h 220V ZT-W18GTTAA, Quente e Frio"
+summary: "Get more information on the LG ZT-W18GTTAA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG LG Cassete 1 - Via Inverter 18.000 BTU/h 220V ZT-W18GTTAA, Quente e Frio."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 9783.1
+  value: 9268.2
   source: "retailer"
-  updated_at: "2026-09-03T22:22:34.993Z"
+  updated_at: "2026-09-04T10:28:08.122Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-03T22:22:34.993Z"
+    verified_at: "2026-09-04T10:28:08.122Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-03T22:22:34.993Z"
+    verified_at: "2026-09-04T10:28:08.122Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-03
+# Data de importacao: 2026-09-04
 # aw_product_id: 45690330575
 ---
 
 ## Descricao
 
-Ar Condicionado LG  LG Cassete 1 - Via Inverter 18.000 BTU/h 220V ZT-W18GTTAA, Quente e Frio
+Get more information on the LG ZT-W18GTTAA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG  LG Cassete 1 - Via Inverter 18.000 BTU/h 220V ZT-W18GTTAA, Quente e Frio.

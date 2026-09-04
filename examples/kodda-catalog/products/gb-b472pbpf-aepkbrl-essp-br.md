@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-duplex/gb-b472pbpf/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GB-B472PBPF. Click for pictures, reviews, and tech specs for the LG Geladeira LG Inverter 476L Duplex com Door Cooling Bivolt Black Inox."
+summary: "Geladeira LG Inverter 476L Duplex com Door Cooling Bivolt Black Inox"
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4699
   source: "retailer"
-  updated_at: "2026-09-03T22:22:34.954Z"
+  updated_at: "2026-09-04T10:28:08.082Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-03T22:22:34.954Z"
+    verified_at: "2026-09-04T10:28:08.082Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-03T22:22:34.954Z"
+    verified_at: "2026-09-04T10:28:08.082Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -56,10 +56,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-03
+# Data de importacao: 2026-09-04
 # aw_product_id: 45803206864
 ---
 
 ## Descricao
 
-Get more information on the LG GB-B472PBPF. Click for pictures, reviews, and tech specs for the LG Geladeira LG Inverter 476L Duplex com Door Cooling Bivolt Black Inox.
+Geladeira LG Inverter 476L Duplex com Door Cooling Bivolt Black Inox

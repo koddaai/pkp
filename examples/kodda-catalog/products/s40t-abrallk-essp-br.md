@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/audio/soundbars/s40t/"
 
 # === DESCOBERTA (L0) ===
-summary: "LG SoundBar S40T, a potência sonora redefinida. Combinando design elegante, tecnologia avançada e recursos inovadores, este SoundBar vai transformar sua experiência de áudio. Com 300W de potência e um sistema de som 2.1 canais, cada detalhe sonoro ganha vida com clareza e impacto impressionantes. A revolucionária WOW Interface da LG coloca o controle total nas suas mãos, permitindo ajustes precisos e intuitivos para personalizar sua experiência sonora. Além disso, com o AI Sound Pro, cada mom..."
+summary: "Get more information on the LG S40T. Click for pictures, reviews, and tech specs for the LG Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro."
 tags: ["lg", "bluetooth", "ai", "dolby", "pro", "sem-fio"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1169.1
   source: "retailer"
-  updated_at: "2026-09-03T22:22:34.984Z"
+  updated_at: "2026-09-04T10:28:08.115Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-03T22:22:34.984Z"
+    verified_at: "2026-09-04T10:28:08.115Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-03T22:22:34.984Z"
+    verified_at: "2026-09-04T10:28:08.115Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-03
+# Data de importacao: 2026-09-04
 # aw_product_id: 43478677188
 ---
 
 ## Descricao
 
-LG SoundBar S40T, a potência sonora redefinida. Combinando design elegante, tecnologia avançada e recursos inovadores, este SoundBar vai transformar sua experiência de áudio. Com 300W de potência e um sistema de som 2.1 canais, cada detalhe sonoro ganha vida com clareza e impacto impressionantes.   A revolucionária WOW Interface da LG coloca o controle total nas suas mãos, permitindo ajustes precisos e intuitivos para personalizar sua experiência sonora. Além disso, com o AI Sound Pro, cada momento se torna uma experiência auditiva memorável, adaptando-se automaticamente para oferecer a melhor qualidade de som em filmes, músicas e jogos. Prepare-se para ser envolvido por um som imersivo e envolvente que eleva sua experiência de entretenimento a novos patamares. Experimente o LG Soundbar S40T e descubra o verdadeiro poder do áudio.
+Get more information on the LG S40T. Click for pictures, reviews, and tech specs for the LG Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro.

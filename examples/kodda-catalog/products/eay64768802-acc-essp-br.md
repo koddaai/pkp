@@ -27,9 +27,9 @@ tags: ["lg", "oled"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1566.55
+  value: 1528.55
   source: "retailer"
-  updated_at: "2026-09-03T22:22:34.894Z"
+  updated_at: "2026-09-04T10:28:08.025Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-03T22:22:34.894Z"
+    verified_at: "2026-09-04T10:28:08.025Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-03T22:22:34.894Z"
+    verified_at: "2026-09-04T10:28:08.025Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-03
+# Data de importacao: 2026-09-04
 # aw_product_id: 43478676273
 ---
 
