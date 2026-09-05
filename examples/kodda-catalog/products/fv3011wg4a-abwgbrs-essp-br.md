@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lavadoras/fv3011wg4a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG Máquina de Lavar Roupa Inteligente frontal 11kg com lavagem rápida. Clique e veja fotos, avaliações e especificações técnicas do FV3011WG4A"
+summary: "Get more information on the LG FV3011WG4A. Click for pictures, reviews, and tech specs for the LG Máquina de Lavar Smart LG 11KG VC5 Branca com Inteligência Artificial AIDD™ 220v."
 tags: ["lg", "smart", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3609.05
   source: "retailer"
-  updated_at: "2026-09-04T22:08:23.659Z"
+  updated_at: "2026-09-05T09:50:21.650Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-04T22:08:23.659Z"
+    verified_at: "2026-09-05T09:50:21.650Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-04T22:08:23.659Z"
+    verified_at: "2026-09-05T09:50:21.650Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":11,"unit":"kg"}
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-04
+# Data de importacao: 2026-09-05
 # aw_product_id: 43478676903
 ---
 
 ## Descricao
 
-Descubra a LG Máquina de Lavar Roupa Inteligente frontal 11kg com lavagem rápida. Clique e veja fotos, avaliações e especificações técnicas do FV3011WG4A
+Get more information on the LG FV3011WG4A. Click for pictures, reviews, and tech specs for the LG Máquina de Lavar Smart LG 11KG VC5 Branca com Inteligência Artificial AIDD™ 220v.
