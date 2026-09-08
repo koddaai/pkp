@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan76409401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/monitors/stand-arm/aan764094010/"
+  url: "https://www.lg.com/br/care-accessories/monitors/stand-arm/aan76409401/"
 
 # === DESCOBERTA (L0) ===
 summary: "Obtenha mais informações sobre o AAN76409401. Clique para ver imagens, análises e especificações técnicas do pedestal para monitor LG AAN76409401."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-09-07T22:31:50.756Z"
+  updated_at: "2026-09-08T10:26:50.695Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-07T22:31:50.756Z"
+    verified_at: "2026-09-08T10:26:50.695Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-07T22:31:50.756Z"
+    verified_at: "2026-09-08T10:26:50.695Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-07
+# Data de importacao: 2026-09-08
 # aw_product_id: 45882888909
 ---
 
