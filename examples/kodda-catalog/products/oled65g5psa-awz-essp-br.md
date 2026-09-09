@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/oled-evo/oled65g5psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a próxima geração de Smart AI TVs da LG, OLED65G5PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG OLED evo AI G5 4K de 65 polegadas 2025."
+summary: "Get more information on the LG OLED65G5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI G5 4K de 65 polegadas 2025."
 tags: ["lg", "smart", "ai", "5g", "4k", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 10829.05
   source: "retailer"
-  updated_at: "2026-08-19T20:25:37.747Z"
+  updated_at: "2026-09-09T10:37:14.337Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-19T20:25:37.747Z"
+    verified_at: "2026-09-09T10:37:14.337Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-19T20:25:37.747Z"
+    verified_at: "2026-09-09T10:37:14.337Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-19
+# Data de importacao: 2026-09-09
 # aw_product_id: 43478677135
 ---
 
 ## Descricao
 
-Descubra a próxima geração de Smart AI TVs da LG, OLED65G5PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG OLED evo AI G5 4K de 65 polegadas 2025.
+Get more information on the LG OLED65G5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI G5 4K de 65 polegadas 2025.
