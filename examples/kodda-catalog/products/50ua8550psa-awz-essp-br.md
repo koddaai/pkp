@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/tv-uhd-4k/50ua8550psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Smart TV LG 50\" com imagem 4K UHD, AI e webOS para mais imersão, praticidade e entretenimento completo."
+summary: "Get more information on the LG 50UA8550PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD AI 4K UA85 de 50 polegadas 2025."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2345.55
   source: "retailer"
-  updated_at: "2026-09-09T22:17:40.475Z"
+  updated_at: "2026-09-10T10:25:39.313Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-09T22:17:40.475Z"
+    verified_at: "2026-09-10T10:25:39.313Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-09T22:17:40.475Z"
+    verified_at: "2026-09-10T10:25:39.313Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-09
+# Data de importacao: 2026-09-10
 # aw_product_id: 44861562150
 ---
 
 ## Descricao
 
-Smart TV LG 50" com imagem 4K UHD, AI e webOS para mais imersão, praticidade e entretenimento completo.
+Get more information on the LG 50UA8550PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD AI 4K UA85 de 50 polegadas 2025.
