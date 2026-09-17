@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "kb9510-tamanho-unico"
 gtin: "4068815995252"
 brand: "Adidas"
-name: "Touca Natação  Três Listras Infantil Unisex adidas"
+name: "Touca Natação  Três Listras Infantil Kids adidas"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 89.99
   source: "retailer"
-  updated_at: "2026-09-17T10:49:37.251Z"
+  updated_at: "2026-09-17T16:03:55.668Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-17T10:49:37.251Z"
+    verified_at: "2026-09-17T16:03:55.668Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-17T10:49:37.251Z"
+    verified_at: "2026-09-17T16:03:55.668Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
