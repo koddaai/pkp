@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/hd-tv/32lb650bpsa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 32LB650BPSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG LB650 AI HD 32 polegadas 2026."
+summary: "Descubra a nova geração das SMART TVs com AI da LG, 32LB650BPSA.AWZ, para uma experiência de visualização otimizada e personalizada para você por meio dos recursos inteligentes de AI da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da LG SMART TV AI LB65 FHD TV de 32 polegadas."
 tags: ["lg", "smart", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1262.55
   source: "retailer"
-  updated_at: "2026-09-16T22:39:52.182Z"
+  updated_at: "2026-09-17T10:49:26.515Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-16T22:39:52.182Z"
+    verified_at: "2026-09-17T10:49:26.515Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-16T22:39:52.182Z"
+    verified_at: "2026-09-17T10:49:26.515Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-16
+# Data de importacao: 2026-09-17
 # aw_product_id: 45778777862
 ---
 
 ## Descricao
 
-Get more information on the LG 32LB650BPSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG LB650 AI HD 32 polegadas 2026.
+Descubra a nova geração das SMART TVs com AI da LG, 32LB650BPSA.AWZ, para uma experiência de visualização otimizada e personalizada para você por meio dos recursos inteligentes de AI da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da LG SMART TV AI LB65 FHD TV de 32 polegadas.

@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/mini-rgb-evo/65mrgb85bsc/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 65MRGB85BSC. Click for pictures, reviews, and tech specs for the LG Smart TV LG Mini RGB evo AI 4K MRGB85 65 polegadas 2026."
-tags: ["lg", "smart", "ai", "4k"]
+summary: "Descubra a TV LG Mini RGB EVO 65 polegadas com tecnologia 4K e cores intensas. Aproveite uma experiência imersiva com imagens nítidas, ótimo desempenho e recursos Smart TV para streaming, esportes e entretenimento."
+tags: ["lg", "smart", "ai", "4k", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6174.05
   source: "retailer"
-  updated_at: "2026-09-16T22:39:52.199Z"
+  updated_at: "2026-09-17T10:49:26.551Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-16T22:39:52.199Z"
+    verified_at: "2026-09-17T10:49:26.551Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-16T22:39:52.199Z"
+    verified_at: "2026-09-17T10:49:26.551Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-16
+# Data de importacao: 2026-09-17
 # aw_product_id: 45079456728
 ---
 
 ## Descricao
 
-Get more information on the LG 65MRGB85BSC. Click for pictures, reviews, and tech specs for the LG Smart TV LG Mini RGB evo AI 4K MRGB85 65 polegadas 2026.
+Descubra a TV LG Mini RGB EVO 65 polegadas com tecnologia 4K e cores intensas. Aproveite uma experiência imersiva com imagens nítidas, ótimo desempenho e recursos Smart TV para streaming, esportes e entretenimento.

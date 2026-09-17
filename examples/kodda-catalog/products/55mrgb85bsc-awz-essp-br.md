@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "55mrgb85bsc-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG Mini RGB evo AI 4K MRGB85 55 polegadas - 55MRGB85BSC"
+name: "Smart TV LG Mini RGB evo AI 4K MRGB85 55 polegadas 2026 - 55MRGB85BSC"
 category: "tvs"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/mini-rgb-evo/55mrgb85bsc/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 55MRGB85BSC. Click for pictures, reviews, and tech specs for the LG Smart TV LG Mini RGB evo AI 4K MRGB85 55 polegadas 2026."
+summary: "Conheça a TV LG Mini RGB EVO 55 polegadas com resolução 4K, cores mais vivas e tecnologia avançada para imagens realistas. Smart TV com alto desempenho, ideal para filmes, jogos e streaming com qualidade superior."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4338.65
   source: "retailer"
-  updated_at: "2026-09-16T22:39:52.195Z"
+  updated_at: "2026-09-17T10:49:26.541Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-16T22:39:52.195Z"
+    verified_at: "2026-09-17T10:49:26.541Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-16T22:39:52.195Z"
+    verified_at: "2026-09-17T10:49:26.541Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-16
+# Data de importacao: 2026-09-17
 # aw_product_id: 45091123461
 ---
 
 ## Descricao
 
-Get more information on the LG 55MRGB85BSC. Click for pictures, reviews, and tech specs for the LG Smart TV LG Mini RGB evo AI 4K MRGB85 55 polegadas 2026.
+Conheça a TV LG Mini RGB EVO 55 polegadas com resolução 4K, cores mais vivas e tecnologia avançada para imagens realistas. Smart TV com alto desempenho, ideal para filmes, jogos e streaming com qualidade superior.

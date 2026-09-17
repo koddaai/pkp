@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/24g411b-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Discover the 24-inch FHD 144Hz IPS gaming monitor, UltraGear™ G4 with 144Hz refresh rate, 1ms MBR, NVIDIA® G-SYNC® compatible, sRGB 99% and HDMI 2.0."
-tags: ["lg", "ai", "hdr", "ultra", "gaming", "gamer"]
+summary: "Get more information on the LG 24G411B-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear™ 24G411B, 144Hz Nativo, 1ms (MBR), Tela IPS 24” FHD, compatível com NVIDIA® G-SYNC® & AMD FreeSync™, HDR10, sRGB 99%, HDMI, DP, Saida Fone de ouvido."
+tags: ["lg", "ai", "hdr", "ultra", "gamer"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 699
   source: "retailer"
-  updated_at: "2026-09-16T22:39:52.179Z"
+  updated_at: "2026-09-17T10:49:26.508Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-16T22:39:52.179Z"
+    verified_at: "2026-09-17T10:49:26.508Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-16T22:39:52.179Z"
+    verified_at: "2026-09-17T10:49:26.508Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-16
+# Data de importacao: 2026-09-17
 # aw_product_id: 45902134208
 ---
 
 ## Descricao
 
-Discover the 24-inch FHD 144Hz IPS gaming monitor, UltraGear™ G4 with 144Hz refresh rate, 1ms MBR, NVIDIA® G-SYNC® compatible, sRGB 99% and HDMI 2.0.
+Get more information on the LG 24G411B-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear™ 24G411B, 144Hz Nativo, 1ms (MBR), Tela IPS 24” FHD, compatível com NVIDIA® G-SYNC® & AMD FreeSync™, HDR10, sRGB 99%, HDMI, DP, Saida Fone de ouvido.
