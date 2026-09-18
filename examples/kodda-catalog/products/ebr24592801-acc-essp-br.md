@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/ebr24592801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso fonte de alimentação Montada com componentes eletroeletrônicos"
+summary: "Get more information on the LG EBR24592801. Click for pictures, reviews, and tech specs for the LG Placa da Fonte LG 65UA8550PSA EBR24592801."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.05
   source: "retailer"
-  updated_at: "2026-09-17T22:41:42.340Z"
+  updated_at: "2026-09-18T10:25:40.410Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-17T22:41:42.340Z"
+    verified_at: "2026-09-18T10:25:40.410Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-17T22:41:42.340Z"
+    verified_at: "2026-09-18T10:25:40.410Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-17
+# Data de importacao: 2026-09-18
 # aw_product_id: 46007765192
 ---
 
 ## Descricao
 
-Placa de circuito impresso fonte de alimentação Montada com componentes eletroeletrônicos
+Get more information on the LG EBR24592801. Click for pictures, reviews, and tech specs for the LG Placa da Fonte LG 65UA8550PSA EBR24592801.

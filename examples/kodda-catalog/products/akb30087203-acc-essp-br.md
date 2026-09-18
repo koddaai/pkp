@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/akb30087203/"
 
 # === DESCOBERTA (L0) ===
-summary: "Controle Remoto TV LG 43NU850BPSA AKB30087203"
+summary: "Get more information on the LG AKB30087203. Click for pictures, reviews, and tech specs for the LG Controle Remoto TV LG 43NU850BPSA AKB30087203."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.99
   source: "retailer"
-  updated_at: "2026-09-17T22:41:42.268Z"
+  updated_at: "2026-09-18T10:25:40.322Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-17T22:41:42.268Z"
+    verified_at: "2026-09-18T10:25:40.322Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-17T22:41:42.268Z"
+    verified_at: "2026-09-18T10:25:40.322Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-17
+# Data de importacao: 2026-09-18
 # aw_product_id: 46000139492
 ---
 
 ## Descricao
 
-Controle Remoto TV LG 43NU850BPSA AKB30087203
+Get more information on the LG AKB30087203. Click for pictures, reviews, and tech specs for the LG Controle Remoto TV LG 43NU850BPSA AKB30087203.

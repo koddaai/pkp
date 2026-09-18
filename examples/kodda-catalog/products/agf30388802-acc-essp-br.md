@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/agf30388802/"
 
 # === DESCOBERTA (L0) ===
-summary: "Kit régua de LED TV LG 65UR9050PSJ AGF30388802"
+summary: "Get more information on the LG AGF30388802. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 65UR9050PSJ AGF30388802."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 521.55
   source: "retailer"
-  updated_at: "2026-09-17T22:41:42.247Z"
+  updated_at: "2026-09-18T10:25:40.297Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-17T22:41:42.247Z"
+    verified_at: "2026-09-18T10:25:40.297Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-17T22:41:42.247Z"
+    verified_at: "2026-09-18T10:25:40.297Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-17
+# Data de importacao: 2026-09-18
 # aw_product_id: 46000139488
 ---
 
 ## Descricao
 
-Kit régua de LED TV LG 65UR9050PSJ AGF30388802
+Get more information on the LG AGF30388802. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 65UR9050PSJ AGF30388802.
