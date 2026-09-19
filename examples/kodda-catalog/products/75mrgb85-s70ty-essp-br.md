@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/75mrgb85-s70ty-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/promocoes/combos/75mrgb85-s70ty/"
+  url: "https://www.lg.com/br/tvs-e-soundbars/mini-rgb-evo/75mrgb85-s70ty/"
 
 # === DESCOBERTA (L0) ===
 summary: "Smart TV LG Mini RGB evo AI 4K MRGB85 75 polegadas 2026 + Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 9736.55
   source: "retailer"
-  updated_at: "2026-09-18T22:19:03.276Z"
+  updated_at: "2026-09-19T10:09:23.808Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-18T22:19:03.276Z"
+    verified_at: "2026-09-19T10:09:23.808Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-18T22:19:03.276Z"
+    verified_at: "2026-09-19T10:09:23.808Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-18
+# Data de importacao: 2026-09-19
 # aw_product_id: 45954636469
 ---
 
