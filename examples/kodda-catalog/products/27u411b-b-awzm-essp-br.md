@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-full-hd-qhd/27u411b-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 27U411B-B. Click for pictures, reviews, and tech specs for the LG Monitor PC Gamer LG com Tela IPS 27”, 144Hz, 1ms (MBR), AMD FreeSync™, HDR 10, sRGB 99%, Reader Mode, Flicker Safe, HDMI, VGA, saída de fone de ouvido - 27U411B."
+summary: "Get more information on the 27U411B-B. Click for pictures, reviews & tech specs for the LG Monitor LG FHD Home & Office com tela IPS 27”, 1ms (MBR), 144Hz (O/C), Modo leitura, Flicker Safe, HDMI, LG Switch, Black Stabilizer, Dynamic Action Sync."
 tags: ["lg", "hdr", "gamer"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 799
   source: "retailer"
-  updated_at: "2026-09-21T23:01:20.578Z"
+  updated_at: "2026-09-22T10:48:04.123Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-21T23:01:20.578Z"
+    verified_at: "2026-09-22T10:48:04.123Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-21T23:01:20.578Z"
+    verified_at: "2026-09-22T10:48:04.123Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-21
+# Data de importacao: 2026-09-22
 # aw_product_id: 45902134211
 ---
 
 ## Descricao
 
-Get more information on the LG 27U411B-B. Click for pictures, reviews, and tech specs for the LG Monitor PC Gamer LG com Tela IPS 27”, 144Hz, 1ms (MBR), AMD FreeSync™, HDR 10, sRGB 99%, Reader Mode, Flicker Safe, HDMI, VGA, saída de fone de ouvido - 27U411B.
+Get more information on the 27U411B-B. Click for pictures, reviews & tech specs for the LG Monitor LG FHD Home & Office com tela IPS 27”, 1ms (MBR), 144Hz (O/C), Modo leitura, Flicker Safe, HDMI, LG Switch, Black Stabilizer, Dynamic Action Sync.

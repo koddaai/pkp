@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "24u411b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG FHD Home & Office com tela IPS 24”, 1ms (MBR), 144Hz (O/C), Modo leitura, Flicker Safe, HDMI, LG Switch, Black Stabilizer, Dynamic Action Sync - 24U411B-B - 24U411B-B"
+name: "Monitor PC Gamer LG com Tela IPS 24”, 144Hz, 1ms (MBR), AMD FreeSync™, HDR 10, sRGB 99%, Reader Mode, Flicker Safe, HDMI, VGA, saída de fone de ouvido - 24U411B - 24U411B-B"
 category: "monitors"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-full-hd-qhd/24u411b-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 24U411B-B. Click for pictures, reviews, and tech specs for the LG Monitor PC Gamer LG com Tela IPS 24”, 144Hz, 1ms (MBR), AMD FreeSync™, HDR 10, sRGB 99%, Reader Mode, Flicker Safe, HDMI, VGA, saída de fone de ouvido - 24U411B."
+summary: "Get more information on the 24U411B-B. Click for pictures, reviews & tech specs for the LG Monitor LG FHD Home & Office com tela IPS 24”, 1ms (MBR), 144Hz , Modo leitura, Flicker Safe, HDMI, LG Switch, Black Stabilizer, Dynamic Action Sync."
 tags: ["lg", "hdr", "gamer"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 649
   source: "retailer"
-  updated_at: "2026-09-21T23:01:20.575Z"
+  updated_at: "2026-09-22T10:48:04.119Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-21T23:01:20.575Z"
+    verified_at: "2026-09-22T10:48:04.119Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-21T23:01:20.575Z"
+    verified_at: "2026-09-22T10:48:04.119Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-21
+# Data de importacao: 2026-09-22
 # aw_product_id: 45902134209
 ---
 
 ## Descricao
 
-Get more information on the LG 24U411B-B. Click for pictures, reviews, and tech specs for the LG Monitor PC Gamer LG com Tela IPS 24”, 144Hz, 1ms (MBR), AMD FreeSync™, HDR 10, sRGB 99%, Reader Mode, Flicker Safe, HDMI, VGA, saída de fone de ouvido - 24U411B.
+Get more information on the 24U411B-B. Click for pictures, reviews & tech specs for the LG Monitor LG FHD Home & Office com tela IPS 24”, 1ms (MBR), 144Hz , Modo leitura, Flicker Safe, HDMI, LG Switch, Black Stabilizer, Dynamic Action Sync.
