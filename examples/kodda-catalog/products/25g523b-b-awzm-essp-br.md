@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "25g523b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraGear™ - 25G523B-B  -Tela IPS de 25”, 200Hz, 1ms (GtG), NVIDIA G-SYNC e AMD FreeSync Premium™, HDR10, sRGB 99%  - 25G523B-B"
+name: "Monitor LG UltraGear™ 25G523B - 200Hz Nativo, Tela IPS 25”, 1ms real (GtG), NVIDIA G-SYNC, AMD FreeSync Premium™, HDR10, sRGB 99%, HDMI, DisplayPort, Saída para fone de ouvido - 25G523B-B"
 category: "monitors"
 
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/25g523b-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 25G523B-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear™ 25G523B - 200Hz Nativo, Tela IPS 25”, 1ms real (GtG), NVIDIA G-SYNC, AMD FreeSync Premium™, HDR10, sRGB 99%, HDMI, DisplayPort, Saída para fone de ouvido."
-tags: ["lg", "5g", "hdr", "premium", "ultra"]
+summary: "Discover the 25-inch FHD 200Hz IPS gaming monitor, UltraGear™ G5 with 200Hz refresh rate, 1ms (GtG) response time, NVIDIA® G-SYNC® compatible, sRGB 99% and HDMI 2.0."
+tags: ["lg", "5g", "hdr", "premium", "ultra", "gaming"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 849
   source: "retailer"
-  updated_at: "2026-09-22T22:45:42.666Z"
+  updated_at: "2026-09-23T10:37:46.599Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-22T22:45:42.666Z"
+    verified_at: "2026-09-23T10:37:46.599Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-22T22:45:42.666Z"
+    verified_at: "2026-09-23T10:37:46.599Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-22
+# Data de importacao: 2026-09-23
 # aw_product_id: 45902134210
 ---
 
 ## Descricao
 
-Get more information on the LG 25G523B-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear™ 25G523B - 200Hz Nativo, Tela IPS 25”, 1ms real (GtG), NVIDIA G-SYNC, AMD FreeSync Premium™, HDR10, sRGB 99%, HDMI, DisplayPort, Saída para fone de ouvido.
+Discover the 25-inch FHD 200Hz IPS gaming monitor, UltraGear™ G5 with 200Hz refresh rate, 1ms (GtG) response time, NVIDIA® G-SYNC® compatible, sRGB 99% and HDMI 2.0.
