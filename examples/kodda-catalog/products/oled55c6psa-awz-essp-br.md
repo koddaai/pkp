@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai", "4k", "oled"]
 price:
   type: "street"
   currency: "BRL"
-  value: 7119.3
+  value: 6934.05
   source: "retailer"
-  updated_at: "2026-09-29T00:12:28.430Z"
+  updated_at: "2026-09-29T11:58:38.654Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T00:12:28.430Z"
+    verified_at: "2026-09-29T11:58:38.654Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T00:12:28.430Z"
+    verified_at: "2026-09-29T11:58:38.654Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
