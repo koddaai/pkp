@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gn-b372pfm2-apygsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira LG Frost Free Inverter 375L Duplex Cor Inox Look  - GN-B372PFM2"
+name: "Geladeira Duplex LG 375L Inox Look com Compressor Smart Inverter - GN-B372PFM2"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-duplex/gn-b372pfm2/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GN-B372PFM2. Click for pictures, reviews, and tech specs for the LG Geladeira Duplex LG 375L Inox Look com Compressor Smart Inverter."
-tags: ["lg", "smart", "inverter"]
+summary: "Geladeira LG Duplex GN-B372PFM2: tecnologia, eficiência e design moderno para sua cozinha. Capacidade ideal e resfriamento avançado. Saiba mais!"
+tags: ["lg", "smart", "ai", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3324.05
   source: "retailer"
-  updated_at: "2026-09-29T23:27:50.261Z"
+  updated_at: "2026-09-30T11:46:42.698Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.261Z"
+    verified_at: "2026-09-30T11:46:42.698Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.261Z"
+    verified_at: "2026-09-30T11:46:42.698Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":375,"unit":"l"}
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-29
+# Data de importacao: 2026-09-30
 # aw_product_id: 43478676920
 ---
 
 ## Descricao
 
-Get more information on the LG GN-B372PFM2. Click for pictures, reviews, and tech specs for the LG Geladeira Duplex LG 375L Inox Look com Compressor Smart Inverter.
+Geladeira LG Duplex GN-B372PFM2: tecnologia, eficiência e design moderno para sua cozinha. Capacidade ideal e resfriamento avançado. Saiba mais!

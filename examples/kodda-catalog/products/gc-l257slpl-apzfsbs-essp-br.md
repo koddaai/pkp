@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-l257slpl-apzfsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Smart LG Frost Free Inverter 635L Side by Side UVnano Inox Look - GC-L257SLPL"
+name: "Geladeira Side by Side LG 635L com ThinQ™ e UVnano™ - GC-L257SLPL"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-side-by-side/gc-l257slpl/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GC-L257SLPL. Click for pictures, reviews, and tech specs for the LG Geladeira Side by Side LG 635L com ThinQ™ e UVnano™."
-tags: ["lg", "smart", "inverter"]
+summary: "Geladeira LG Side by Side 635L com ThinQ, UVnano, Door Cooling+ e compressor Linear Inverter para mais praticidade."
+tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8999.1
   source: "retailer"
-  updated_at: "2026-09-29T23:27:50.260Z"
+  updated_at: "2026-09-30T11:46:42.697Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.260Z"
+    verified_at: "2026-09-30T11:46:42.697Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.260Z"
+    verified_at: "2026-09-30T11:46:42.697Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-29
+# Data de importacao: 2026-09-30
 # aw_product_id: 43478676912
 ---
 
 ## Descricao
 
-Get more information on the LG GC-L257SLPL. Click for pictures, reviews, and tech specs for the LG Geladeira Side by Side LG 635L com ThinQ™ e UVnano™.
+Geladeira LG Side by Side 635L com ThinQ, UVnano, Door Cooling+ e compressor Linear Inverter para mais praticidade.

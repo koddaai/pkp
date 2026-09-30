@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-duplex/gn-b392plmb/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GN-B392PLMB. Click for pictures, reviews, and tech specs for the LG Geladeira LG Frost Free Inverter 395L Duplex Cor Inox Look (GN-B392PLM)."
-tags: ["lg", "inverter"]
+summary: "Descubra a eficiência da Geladeira Inox LG Top Freezer 395 litros 110V GN-B392PLMB com Compressor Smart Inverter. A escolha ideal para frescor prolongado!"
+tags: ["lg", "smart", "inverter", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3229.05
   source: "retailer"
-  updated_at: "2026-09-29T23:27:50.261Z"
+  updated_at: "2026-09-30T11:46:42.699Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.261Z"
+    verified_at: "2026-09-30T11:46:42.699Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.261Z"
+    verified_at: "2026-09-30T11:46:42.699Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":395,"unit":"l"}
+  capacity: {"value":395,"unit":"litros"}
+  voltage: "110V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-29
+# Data de importacao: 2026-09-30
 # aw_product_id: 44092855074
 ---
 
 ## Descricao
 
-Get more information on the LG GN-B392PLMB. Click for pictures, reviews, and tech specs for the LG Geladeira LG Frost Free Inverter 395L Duplex Cor Inox Look (GN-B392PLM).
+Descubra a eficiência da Geladeira Inox LG Top Freezer 395 litros 110V GN-B392PLMB com Compressor Smart Inverter. A escolha ideal para frescor prolongado!

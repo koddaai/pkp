@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gn-b392pqw2-dswgsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira LG Frost Free Inverter 395L Duplex Cor Branca - 220V - GN-B392PQW2"
+name: "Geladeira Duplex LG 395L Branca com Compressor Smart Inverter e Door Cooling+™ - 220V - GN-B392PQW2"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-duplex/gn-b392pqw2/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GN-B392PQW2. Click for pictures, reviews, and tech specs for the LG Geladeira Duplex LG 395L Branca com Compressor Smart Inverter e Door Cooling+™ - 220V."
+summary: "Geladeira LG Frost Free Inverter 395L Duplex Cor Branca"
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2599
   source: "retailer"
-  updated_at: "2026-09-29T23:27:50.261Z"
+  updated_at: "2026-09-30T11:46:42.699Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.261Z"
+    verified_at: "2026-09-30T11:46:42.699Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.261Z"
+    verified_at: "2026-09-30T11:46:42.699Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":395,"unit":"l"}
-  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-29
+# Data de importacao: 2026-09-30
 # aw_product_id: 43478676928
 ---
 
 ## Descricao
 
-Get more information on the LG GN-B392PQW2. Click for pictures, reviews, and tech specs for the LG Geladeira Duplex LG 395L Branca com Compressor Smart Inverter e Door Cooling+™ - 220V.
+Geladeira LG Frost Free Inverter 395L Duplex Cor Branca

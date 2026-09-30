@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-b569nll2-apzgsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Smart LG Frost Free Inverter 451L Inverse Cor Inox Look (GC-B569NLL) - 220V - GC-B569NLL2"
+name: "Geladeira Inverse LG 451L Inox Look com Compressor Smart Inverter - GC-B569NLL2"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-inverse/gc-b569nll2/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GC-B569NLL2. Click for pictures, reviews, and tech specs for the LG Geladeira Inverse LG 451L Inox Look com Compressor Smart Inverter."
+summary: "Descubra a Geladeira LG Inverter Bottom Freezer 451 litros, 220V, a combinação perfeita de tecnologia e elegância para sua cozinha. Acesse aqui!"
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4099
   source: "retailer"
-  updated_at: "2026-09-29T23:27:50.259Z"
+  updated_at: "2026-09-30T11:46:42.696Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.259Z"
+    verified_at: "2026-09-30T11:46:42.696Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.259Z"
+    verified_at: "2026-09-30T11:46:42.696Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":451,"unit":"l"}
+  capacity: {"value":451,"unit":"litros"}
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-29
+# Data de importacao: 2026-09-30
 # aw_product_id: 43478676907
 ---
 
 ## Descricao
 
-Get more information on the LG GC-B569NLL2. Click for pictures, reviews, and tech specs for the LG Geladeira Inverse LG 451L Inox Look com Compressor Smart Inverter.
+Descubra a Geladeira LG Inverter Bottom Freezer 451 litros, 220V, a combinação perfeita de tecnologia e elegância para sua cozinha. Acesse aqui!

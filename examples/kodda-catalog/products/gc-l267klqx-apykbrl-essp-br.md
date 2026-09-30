@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-l267klqx-apykbrl-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Smart LG Frost Free Inverter 638L Side by Side Bivolt Inox (GC-L267KLQ) - GC-L267KLQX"
+name: "Geladeira Side by Side LG 638L Inox com Compressor Inverter Bivolt - GC-L267KLQX"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-side-by-side/gc-l267klqx/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GC-L267KLQX. Click for pictures, reviews, and tech specs for the LG Geladeira Side by Side LG 638L Inox com Compressor Inverter Bivolt."
-tags: ["lg", "smart", "inverter"]
+summary: "Conheça a nova geladeira LG Side by Side com 638 litros de capacidade"
+tags: ["lg", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 9498.99
   source: "retailer"
-  updated_at: "2026-09-29T23:27:50.260Z"
+  updated_at: "2026-09-30T11:46:42.697Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.260Z"
+    verified_at: "2026-09-30T11:46:42.697Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.260Z"
+    verified_at: "2026-09-30T11:46:42.697Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":638,"unit":"l"}
-  voltage: "Bivolt"
+  capacity: {"value":638,"unit":"litros"}
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-29
+# Data de importacao: 2026-09-30
 # aw_product_id: 44745517503
 ---
 
 ## Descricao
 
-Get more information on the LG GC-L267KLQX. Click for pictures, reviews, and tech specs for the LG Geladeira Side by Side LG 638L Inox com Compressor Inverter Bivolt.
+Conheça a nova geladeira LG Side by Side com 638 litros de capacidade

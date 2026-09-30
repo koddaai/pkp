@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-duplex/gn-b372pfmb/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GN-B372PFMB. Click for pictures, reviews, and tech specs for the LG Geladeira LG Frost Free Inverter 375L Duplex Cor Inox Look ."
-tags: ["lg", "inverter"]
+summary: "Geladeira LG Duplex GN-B372PFMB: tecnologia, eficiência e design moderno para sua cozinha. Capacidade ideal e resfriamento avançado. Saiba mais!"
+tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3134.05
   source: "retailer"
-  updated_at: "2026-09-29T23:27:50.261Z"
+  updated_at: "2026-09-30T11:46:42.698Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.261Z"
+    verified_at: "2026-09-30T11:46:42.698Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.261Z"
+    verified_at: "2026-09-30T11:46:42.698Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":375,"unit":"l"}
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-29
+# Data de importacao: 2026-09-30
 # aw_product_id: 43478676921
 ---
 
 ## Descricao
 
-Get more information on the LG GN-B372PFMB. Click for pictures, reviews, and tech specs for the LG Geladeira LG Frost Free Inverter 375L Duplex Cor Inox Look .
+Geladeira LG Duplex GN-B372PFMB: tecnologia, eficiência e design moderno para sua cozinha. Capacidade ideal e resfriamento avançado. Saiba mais!

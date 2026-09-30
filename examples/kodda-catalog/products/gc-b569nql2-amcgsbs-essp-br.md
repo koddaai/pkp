@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-b569nql2-amcgsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Smart LG Frost Free Inverter 451L Inverse Cor Black Inox (GC-B569NQL) - GC-B569NQL2"
+name: "Geladeira Inverse LG 462L Black Inox com Compressor Smart Inverter e Door Cooling+™ - GC-B569NQL2"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-inverse/gc-b569nql2/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GC-B569NQL2. Click for pictures, reviews, and tech specs for the LG Geladeira Inverse LG 462L Black Inox com Compressor Smart Inverter e Door Cooling+™."
+summary: "Descubra a eficiência da Geladeira Frost Free LG Inverter Bottom Freezer, 451L, 220V, cor preto fosco. Modernidade e economia A+++ garantidas!"
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3799.05
   source: "retailer"
-  updated_at: "2026-09-29T23:27:50.259Z"
+  updated_at: "2026-09-30T11:46:42.696Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.259Z"
+    verified_at: "2026-09-30T11:46:42.696Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-29T23:27:50.259Z"
+    verified_at: "2026-09-30T11:46:42.696Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":462,"unit":"l"}
+  capacity: {"value":451,"unit":"l"}
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-29
+# Data de importacao: 2026-09-30
 # aw_product_id: 43478676909
 ---
 
 ## Descricao
 
-Get more information on the LG GC-B569NQL2. Click for pictures, reviews, and tech specs for the LG Geladeira Inverse LG 462L Black Inox com Compressor Smart Inverter e Door Cooling+™.
+Descubra a eficiência da Geladeira Frost Free LG Inverter Bottom Freezer, 451L, 220V, cor preto fosco. Modernidade e economia A+++ garantidas!
