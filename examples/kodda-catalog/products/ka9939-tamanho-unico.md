@@ -20,7 +20,7 @@ canonical:
   url: "http://www.adidas.com.br/mochila-classica-adidas-x-farm/KA9939.html"
 
 # === DESCOBERTA (L0) ===
-summary: "Mochila Clássica adidas X FARM - Multicores, compre na adidas.com.br! Mochila Clássica adidas X FARM - Multicores em vários estilos e cores na página oficial da loja online adidas Brasil. O estilo clássico da adidas ganha um toque tropical com a mochila adidas X FARM Classic. Criada em parceria com a fashion de moda brasileira adidas X FARM Rio, ela é inspirada no espírito dinâmico das quadras de basquete e nos murais coloridos que adornam as paisagens da cidade. Com a adidas, estilo e funcio..."
+summary: "Mochila Clássica adidas X FARM - Bege, compre na adidas.com.br! Mochila Clássica adidas X FARM - Bege em vários estilos e cores na página oficial da loja online adidas Brasil. O estilo clássico da adidas ganha um toque tropical com a mochila adidas X FARM Classic. Criada em parceria com a fashion de moda brasileira adidas X FARM Rio, ela é inspirada no espírito dinâmico das quadras de basquete e nos murais coloridos que adornam as paisagens da cidade. Com a adidas, estilo e funcionalidade and..."
 tags: ["adidas", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.99
   source: "retailer"
-  updated_at: "2026-09-25T23:06:27.160Z"
+  updated_at: "2026-10-01T23:42:03.851Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-25T23:06:27.160Z"
+    verified_at: "2026-10-01T23:42:03.851Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-25T23:06:27.160Z"
+    verified_at: "2026-10-01T23:42:03.851Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Adidas BR (feed_id: 95015)
-# Data de importacao: 2026-09-25
+# Data de importacao: 2026-10-01
 # aw_product_id: 43342673834
 ---
 
 ## Descricao
 
-Mochila Clássica adidas X FARM - Multicores, compre na adidas.com.br! Mochila Clássica adidas X FARM - Multicores em vários estilos e cores na página oficial da loja online adidas Brasil. O estilo clássico da adidas ganha um toque tropical com a mochila adidas X FARM Classic. Criada em parceria com a fashion de moda brasileira adidas X FARM Rio, ela é inspirada no espírito dinâmico das quadras de basquete e nos murais coloridos que adornam as paisagens da cidade.  Com a adidas, estilo e funcionalidade andam de mãos dadas, e esta mochila combina um design que chama a atenção com detalhes práticos, como um fecho com zíper para segurança e amplo espaço para guardar livros, roupas de treino ou itens essenciais do dia a dia.  Com um design que faz referência ao poder do esporte para unir comunidades, esta é mais do que apenas uma bolsa: é uma celebração da energia vibrante encontrada nos espaços da cidade. Abrace o espírito de otimismo rebelde com este acessório único que combina praticidade com o estilo carioca descontraído.
+Mochila Clássica adidas X FARM - Bege, compre na adidas.com.br! Mochila Clássica adidas X FARM - Bege em vários estilos e cores na página oficial da loja online adidas Brasil. O estilo clássico da adidas ganha um toque tropical com a mochila adidas X FARM Classic. Criada em parceria com a fashion de moda brasileira adidas X FARM Rio, ela é inspirada no espírito dinâmico das quadras de basquete e nos murais coloridos que adornam as paisagens da cidade.  Com a adidas, estilo e funcionalidade andam de mãos dadas, e esta mochila combina um design que chama a atenção com detalhes práticos, como um fecho com zíper para segurança e amplo espaço para guardar livros, roupas de treino ou itens essenciais do dia a dia.  Com um design que faz referência ao poder do esporte para unir comunidades, esta é mais do que apenas uma bolsa: é uma celebração da energia vibrante encontrada nos espaços da cidade. Abrace o espírito de otimismo rebelde com este acessório único que combina praticidade com o estilo carioca descontraído.
