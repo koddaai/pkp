@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-duplex/gn-b392pxg2/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GN-B392PXG2. Click for pictures, reviews, and tech specs for the LG Geladeira LG Frost Free Inverter 395L Duplex Cor Black Inox (GN-B392PXG) - 220v."
+summary: "A Geladeira LG Top Freezer 395 litros 220V com acabamento em aço preto oferece o equilíbrio perfeito entre estilo, capacidade e tecnologia. Confira!"
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2749
   source: "retailer"
-  updated_at: "2026-09-30T23:30:34.040Z"
+  updated_at: "2026-10-01T12:15:55.181Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-30T23:30:34.040Z"
+    verified_at: "2026-10-01T12:15:55.181Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-30T23:30:34.040Z"
+    verified_at: "2026-10-01T12:15:55.181Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":395,"unit":"l"}
+  capacity: {"value":395,"unit":"litros"}
   voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-30
+# Data de importacao: 2026-10-01
 # aw_product_id: 44796368969
 ---
 
 ## Descricao
 
-Get more information on the LG GN-B392PXG2. Click for pictures, reviews, and tech specs for the LG Geladeira LG Frost Free Inverter 395L Duplex Cor Black Inox (GN-B392PXG) - 220v.
+A Geladeira LG Top Freezer 395 litros 220V com acabamento em aço preto oferece o equilíbrio perfeito entre estilo, capacidade e tecnologia. Confira!

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/55qned70bsa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a próxima geração de Smart TVs com IA da LG, 55QNED70BSA.BWZ , para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV 4K LG QNED AI QNED70 Mini LED de 55 polegadas."
+summary: "Get more information on the LG 55QNED70BSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED Mini LED AI 4K QNED70 55 polegadas 2026."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3134.05
   source: "retailer"
-  updated_at: "2026-09-30T23:30:33.675Z"
+  updated_at: "2026-10-01T12:15:54.408Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-30T23:30:33.675Z"
+    verified_at: "2026-10-01T12:15:54.408Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-09-30T23:30:33.675Z"
+    verified_at: "2026-10-01T12:15:54.408Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-09-30
+# Data de importacao: 2026-10-01
 # aw_product_id: 45171039424
 ---
 
 ## Descricao
 
-Descubra a próxima geração de Smart TVs com IA da LG, 55QNED70BSA.BWZ , para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV 4K LG QNED AI QNED70 Mini LED de 55 polegadas.
+Get more information on the LG 55QNED70BSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED Mini LED AI 4K QNED70 55 polegadas 2026.
