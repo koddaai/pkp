@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27u711b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor UltraFine™ 27\", UHD 4K IPS - 27U711B-B"
+name: "Monitor LG UltraFine™ U711 -  Tela IPS UHD 4K 27\", HDR10, DCI-P3 90%, Dual Controller, HDMI, DisplaPort, Preto – 27U711B - 27U711B-B"
 category: "monitors"
 
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/uhd-4k-e-5k/27u711b-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 27U711B-B. Click for pictures, reviews, and tech specs for the LG Monitor UltraFine™ 27\", UHD 4K IPS."
-tags: ["lg", "4k", "ultra"]
+summary: "Get more information on the 27U711B-B.AWZM. Click for pictures, reviews & tech specs for the LG Monitor UltraFine™ 27\", UHD 4K IPS"
+tags: ["lg", "4k", "hdr", "ultra"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1399
   source: "retailer"
-  updated_at: "2026-10-01T23:41:54.664Z"
+  updated_at: "2026-10-02T11:44:51.163Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-01T23:41:54.664Z"
+    verified_at: "2026-10-02T11:44:51.163Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-01T23:41:54.664Z"
+    verified_at: "2026-10-02T11:44:51.163Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-01
+# Data de importacao: 2026-10-02
 # aw_product_id: 46031738724
 ---
 
 ## Descricao
 
-Get more information on the LG 27U711B-B. Click for pictures, reviews, and tech specs for the LG Monitor UltraFine™ 27", UHD 4K IPS.
+Get more information on the 27U711B-B.AWZM. Click for pictures, reviews & tech specs for the LG Monitor UltraFine™ 27", UHD 4K IPS
