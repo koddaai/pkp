@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 949.42
   source: "retailer"
-  updated_at: "2026-10-02T23:34:52.435Z"
+  updated_at: "2026-10-03T10:58:24.785Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-02T23:34:52.435Z"
+    verified_at: "2026-10-03T10:58:24.785Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-02T23:34:52.435Z"
+    verified_at: "2026-10-03T10:58:24.785Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-02
+# Data de importacao: 2026-10-03
 # aw_product_id: 43478676546
 ---
 
