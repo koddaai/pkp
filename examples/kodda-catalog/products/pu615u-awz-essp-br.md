@@ -27,9 +27,9 @@ tags: ["lg", "bluetooth", "smart", "4k", "dolby", "pro", "ultra"]
 price:
   type: "street"
   currency: "BRL"
-  value: 6777.98
+  value: 6999
   source: "retailer"
-  updated_at: "2026-10-06T01:08:48.211Z"
+  updated_at: "2026-10-06T12:36:40.977Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:48.211Z"
+    verified_at: "2026-10-06T12:36:40.977Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:48.211Z"
+    verified_at: "2026-10-06T12:36:40.977Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

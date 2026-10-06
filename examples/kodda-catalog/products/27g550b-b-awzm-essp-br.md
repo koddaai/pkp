@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27g550b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraGear, Tela IPS FHD de 27”, 300Hz, 1ms (GtG), NVIDIA G-Sync , AMD FreeSync, HDR10 , HDMI- 27G550B-B - 27G550B-B"
+name: "Monitor LG UltraGear™ G550, 300Hz nativo, Tela IPS 27”, 1ms real (GtG), NVIDIA G-Sync, AMD FreeSync Premium , Ajustes Pro Gamer, HDR10, sRGB 99% , HDMI, DisplayPort, Saída para fone de ouvido, Preto - 27G550B - 27G550B-B"
 category: "monitors"
 
 
@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/27g550b-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 27G550B-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear, Tela IPS FHD de 27”, 300Hz, 1ms (GtG), NVIDIA G-Sync , AMD FreeSync, HDR10 , HDMI- 27G550B-B."
-tags: ["lg", "hdr", "ultra"]
+summary: "Discover the 27-inch FHD 300Hz IPS gaming monitor, UltraGear™ G5 with 300Hz refresh rate, 1ms (GtG) response time, NVIDIA® G-SYNC® compatible, sRGB 99% and HDMI 2.0."
+tags: ["lg", "hdr", "premium", "pro", "ultra", "gaming", "gamer"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 1354.82
+  value: 1399
   source: "retailer"
-  updated_at: "2026-10-06T01:08:47.694Z"
+  updated_at: "2026-10-06T12:36:40.512Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:47.694Z"
+    verified_at: "2026-10-06T12:36:40.512Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:47.694Z"
+    verified_at: "2026-10-06T12:36:40.512Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 27G550B-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear, Tela IPS FHD de 27”, 300Hz, 1ms (GtG), NVIDIA G-Sync , AMD FreeSync, HDR10 , HDMI- 27G550B-B.
+Discover the 27-inch FHD 300Hz IPS gaming monitor, UltraGear™ G5 with 300Hz refresh rate, 1ms (GtG) response time, NVIDIA® G-SYNC® compatible, sRGB 99% and HDMI 2.0.

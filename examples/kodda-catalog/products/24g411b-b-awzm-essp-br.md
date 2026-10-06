@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/24g411b-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 24G411B-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear™ 24G411B, 144Hz Nativo, 1ms (MBR), Tela IPS 24” FHD, compatível com NVIDIA® G-SYNC® & AMD FreeSync™, HDR10, sRGB 99%, HDMI, DP, Saida Fone de ouvido."
-tags: ["lg", "ai", "hdr", "ultra", "gamer"]
+summary: "Descubra o monitor gaming IPS FHD 24G411B-B de 144Hz, UltraGear™ G4 com taxa de atualização de 144Hz, MBR de 1ms, compatível com NVIDIA® G-SYNC®, sRGB 99% e HDMI 2.0."
+tags: ["lg", "ai", "hdr", "ultra", "gaming", "gamer"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 662.21
+  value: 699
   source: "retailer"
-  updated_at: "2026-10-06T01:08:47.692Z"
+  updated_at: "2026-10-06T12:36:40.510Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:47.692Z"
+    verified_at: "2026-10-06T12:36:40.510Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:47.692Z"
+    verified_at: "2026-10-06T12:36:40.510Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 24G411B-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear™ 24G411B, 144Hz Nativo, 1ms (MBR), Tela IPS 24” FHD, compatível com NVIDIA® G-SYNC® & AMD FreeSync™, HDR10, sRGB 99%, HDMI, DP, Saida Fone de ouvido.
+Descubra o monitor gaming IPS FHD 24G411B-B de 144Hz, UltraGear™ G4 com taxa de atualização de 144Hz, MBR de 1ms, compatível com NVIDIA® G-SYNC®, sRGB 99% e HDMI 2.0.

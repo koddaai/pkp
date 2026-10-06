@@ -27,9 +27,9 @@ tags: ["lg", "ai", "hdr", "premium", "ultra", "max", "gamer"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1893.79
+  value: 1999
   source: "retailer"
-  updated_at: "2026-10-06T01:08:47.707Z"
+  updated_at: "2026-10-06T12:36:40.527Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:47.707Z"
+    verified_at: "2026-10-06T12:36:40.527Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:47.707Z"
+    verified_at: "2026-10-06T12:36:40.527Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

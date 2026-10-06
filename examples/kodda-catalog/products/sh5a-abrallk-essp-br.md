@@ -27,9 +27,9 @@ tags: ["lg", "ai", "dolby"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1538.14
+  value: 1529.1
   source: "retailer"
-  updated_at: "2026-10-06T01:08:48.227Z"
+  updated_at: "2026-10-06T12:36:40.992Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:48.227Z"
+    verified_at: "2026-10-06T12:36:40.992Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:48.227Z"
+    verified_at: "2026-10-06T12:36:40.992Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -27,9 +27,9 @@ tags: ["lg", "bluetooth", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 899.1
+  value: 1619.1
   source: "retailer"
-  updated_at: "2026-10-06T01:08:48.242Z"
+  updated_at: "2026-10-06T12:36:41.006Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:48.242Z"
+    verified_at: "2026-10-06T12:36:41.006Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:48.242Z"
+    verified_at: "2026-10-06T12:36:41.006Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

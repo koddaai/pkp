@@ -27,9 +27,9 @@ tags: ["lg", "ai", "pro", "gamer"]
 price:
   type: "street"
   currency: "BRL"
-  value: 454.19
+  value: 469
   source: "retailer"
-  updated_at: "2026-10-06T01:08:47.690Z"
+  updated_at: "2026-10-06T12:36:40.504Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:47.690Z"
+    verified_at: "2026-10-06T12:36:40.504Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:47.690Z"
+    verified_at: "2026-10-06T12:36:40.504Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/27g411b-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 27G411B-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear™ 27G411B, 144Hz Nativo, 1ms (MBR), Tela IPS 27” FHD, compatível com NVIDIA® G-SYNC® & AMD FreeSync™, HDR10, sRGB 99%, HDMI, DP, Saida Fone de ouvido."
-tags: ["lg", "ai", "hdr", "ultra", "gamer"]
+summary: "Discover the 27-inch FHD 144Hz IPS gaming monitor, UltraGear™ G4 with 144Hz refresh rate, 1ms MBR, NVIDIA® G-SYNC® compatible, sRGB 99% and HDMI 2.0."
+tags: ["lg", "ai", "hdr", "ultra", "gaming", "gamer"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 785.37
+  value: 829
   source: "retailer"
-  updated_at: "2026-10-06T01:08:47.693Z"
+  updated_at: "2026-10-06T12:36:40.511Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:47.693Z"
+    verified_at: "2026-10-06T12:36:40.511Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:47.693Z"
+    verified_at: "2026-10-06T12:36:40.511Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 27G411B-B. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear™ 27G411B, 144Hz Nativo, 1ms (MBR), Tela IPS 27” FHD, compatível com NVIDIA® G-SYNC® & AMD FreeSync™, HDR10, sRGB 99%, HDMI, DP, Saida Fone de ouvido.
+Discover the 27-inch FHD 144Hz IPS gaming monitor, UltraGear™ G4 with 144Hz refresh rate, 1ms MBR, NVIDIA® G-SYNC® compatible, sRGB 99% and HDMI 2.0.
