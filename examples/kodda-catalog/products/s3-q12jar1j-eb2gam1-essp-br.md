@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/s3-q12jar1j/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG S3-Q12JAR1J. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-Q12JAR1J."
-tags: ["lg", "inverter"]
+summary: "Get more information on the LG S3-Q12JAR1J. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG Dual Inverter AI ARTCOOL 12.000 BTU Frio 220V."
+tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3079.12
   source: "retailer"
-  updated_at: "2026-10-08T00:01:41.582Z"
+  updated_at: "2026-10-08T12:40:04.483Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-08T00:01:41.582Z"
+    verified_at: "2026-10-08T12:40:04.483Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-08T00:01:41.582Z"
+    verified_at: "2026-10-08T12:40:04.483Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG S3-Q12JAR1J. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-Q12JAR1J.
+Get more information on the LG S3-Q12JAR1J. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG Dual Inverter AI ARTCOOL 12.000 BTU Frio 220V.
