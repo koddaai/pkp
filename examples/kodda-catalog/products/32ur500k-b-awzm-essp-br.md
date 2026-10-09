@@ -27,9 +27,9 @@ tags: ["lg", "4k", "hdr", "ultra", "max"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1742.19
+  value: 1799
   source: "retailer"
-  updated_at: "2026-10-09T00:10:13.565Z"
+  updated_at: "2026-10-09T12:26:36.722Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-09T00:10:13.565Z"
+    verified_at: "2026-10-09T12:26:36.722Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-09T00:10:13.565Z"
+    verified_at: "2026-10-09T12:26:36.722Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

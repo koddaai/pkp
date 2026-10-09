@@ -27,9 +27,9 @@ tags: ["lg", "5g", "oled", "hdr", "premium", "pro", "ultra"]
 price:
   type: "street"
   currency: "BRL"
-  value: 14525.35
+  value: 14999
   source: "retailer"
-  updated_at: "2026-10-09T00:10:13.583Z"
+  updated_at: "2026-10-09T12:26:36.949Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-09T00:10:13.583Z"
+    verified_at: "2026-10-09T12:26:36.949Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-09T00:10:13.583Z"
+    verified_at: "2026-10-09T12:26:36.949Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
