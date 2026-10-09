@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://panasonic.com/nn-st25lwru"
 canonical:
   domain: "panasonic.com"
-  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st25-branco-nn-st25lwru/p?idsku=45054"
+  url: "https://loja.panasonic.com.br/micro-ondas-panasonic-st25-branco-nn-st25lwru/p?idsku=45055"
 
 # === DESCOBERTA (L0) ===
 summary: "O Micro-ondas ST25L tem 21 litros de capacidade, tecnologia Antibacteria Ag, tecnologia Pega Fácil, revestimento antiaderente para facilitar a limpeza, design sofisticado, desodorizador e eficiência energética A.Dupla RefeiçãoA função pode ser ativada para aquecer 300g, 500g e 700g (peso total das duas porções) em pratos diferentes. Basta colocar uma refeição no prato giratório e outra na grelha.Retire o utensílio do jeito que colocou com Pega Fácil1Assim que o aquecimento termina, o prato fa..."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 599
   source: "retailer"
-  updated_at: "2026-10-08T18:18:29.648Z"
+  updated_at: "2026-10-09T00:10:04.744Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-08T18:18:29.648Z"
+    verified_at: "2026-10-09T00:10:04.744Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-08T18:18:29.648Z"
+    verified_at: "2026-10-09T00:10:04.744Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Panasonic BR (feed_id: 97009)
-# Data de importacao: 2026-10-08
+# Data de importacao: 2026-10-09
 # aw_product_id: 38931326581
 ---
 
