@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/oled-evo/oled77c5psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a próxima geração de Smart AI TVs da LG, OLED77C5PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG OLED evo AI C5 4K de 77 polegadas 2025."
+summary: "Get more information on the LG OLED77C5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI C5 4K de 77 polegadas 2025."
 tags: ["lg", "smart", "ai", "4k", "oled"]
 
 # === PRECO ===
@@ -29,13 +29,13 @@ price:
   currency: "BRL"
   value: 16244.05
   source: "retailer"
-  updated_at: "2026-08-27T21:36:00.261Z"
+  updated_at: "2026-10-10T11:45:42.364Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=43478677140&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=46272703530&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-27T21:36:00.261Z"
+    verified_at: "2026-10-10T11:45:42.364Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-27T21:36:00.261Z"
+    verified_at: "2026-10-10T11:45:42.364Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-27
-# aw_product_id: 43478677140
+# Data de importacao: 2026-10-10
+# aw_product_id: 46272703530
 ---
 
 ## Descricao
 
-Descubra a próxima geração de Smart AI TVs da LG, OLED77C5PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG OLED evo AI C5 4K de 77 polegadas 2025.
+Get more information on the LG OLED77C5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI C5 4K de 77 polegadas 2025.

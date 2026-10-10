@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/s3-q24k231c/"
 
 # === DESCOBERTA (L0) ===
-summary: "Ar-condicionado LG AI Dual Inverter Voice Frio 12.000 BTU Branco 220V"
+summary: "Get more information on the LG S3-Q24K231C. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG Dual Inverter AI Voice 24.000 BTU Frio 220V."
 tags: ["lg", "ai", "inverter", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4487.12
   source: "retailer"
-  updated_at: "2026-10-09T23:49:58.818Z"
+  updated_at: "2026-10-10T11:45:42.373Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-09T23:49:58.818Z"
+    verified_at: "2026-10-10T11:45:42.373Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-09T23:49:58.818Z"
+    verified_at: "2026-10-10T11:45:42.373Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-09
+# Data de importacao: 2026-10-10
 # aw_product_id: 44283254101
 ---
 
 ## Descricao
 
-Ar-condicionado LG AI Dual Inverter Voice Frio 12.000 BTU Branco 220V
+Get more information on the LG S3-Q24K231C. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG Dual Inverter AI Voice 24.000 BTU Frio 220V.

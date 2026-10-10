@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/monitores/fhd-qhd/24ms500-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação - 24MS500-B"
+summary: "Get more information on the LG 24MS500-B. Click for pictures, reviews, and tech specs for the LG Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação - 24MS500-B."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 629
+  value: 609.14
   source: "retailer"
-  updated_at: "2026-10-09T23:49:58.402Z"
+  updated_at: "2026-10-10T11:45:39.608Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-09T23:49:58.402Z"
+    verified_at: "2026-10-10T11:45:39.608Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-09T23:49:58.402Z"
+    verified_at: "2026-10-10T11:45:39.608Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-09
+# Data de importacao: 2026-10-10
 # aw_product_id: 45854374299
 ---
 
 ## Descricao
 
-Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação - 24MS500-B
+Get more information on the LG 24MS500-B. Click for pictures, reviews, and tech specs for the LG Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação - 24MS500-B.

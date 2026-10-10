@@ -27,9 +27,9 @@ tags: ["lg", "bluetooth", "smart", "4k", "dolby", "pro", "ultra"]
 price:
   type: "street"
   currency: "BRL"
-  value: 6999
+  value: 6777.98
   source: "retailer"
-  updated_at: "2026-10-09T23:49:58.812Z"
+  updated_at: "2026-10-10T11:45:42.366Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-09T23:49:58.812Z"
+    verified_at: "2026-10-10T11:45:42.366Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-09T23:49:58.812Z"
+    verified_at: "2026-10-10T11:45:42.366Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-09
+# Data de importacao: 2026-10-10
 # aw_product_id: 43510245306
 ---
 
