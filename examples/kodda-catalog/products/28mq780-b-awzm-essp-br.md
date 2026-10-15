@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-full-hd-qhd/28mq780-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 28MQ780-B. Click for pictures, reviews, and tech specs for the LG Monitor LG Ergo DualUp 28\" Nano IPS SDQHD 2560x2880 60Hz 5ms (GtG) USB HDMI HDR10 PBP KVM 28MQ780-B."
-tags: ["lg", "hdr"]
+summary: "Com o Monitor LG DualUp Ergo de 28'' você desfruta da experiência de duas telas em um mesmo produto. Eficiência e produtividade para o seu trabalho. Veja!"
+tags: ["lg", "hdr", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3504.31
   source: "retailer"
-  updated_at: "2026-10-14T23:00:04.619Z"
+  updated_at: "2026-10-15T10:43:31.500Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-14T23:00:04.619Z"
+    verified_at: "2026-10-15T10:43:31.500Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-14T23:00:04.619Z"
+    verified_at: "2026-10-15T10:43:31.500Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 28
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-14
+# Data de importacao: 2026-10-15
 # aw_product_id: 44442535691
 ---
 
 ## Descricao
 
-Get more information on the LG 28MQ780-B. Click for pictures, reviews, and tech specs for the LG Monitor LG Ergo DualUp 28" Nano IPS SDQHD 2560x2880 60Hz 5ms (GtG) USB HDMI HDR10 PBP KVM 28MQ780-B.
+Com o Monitor LG DualUp Ergo de 28'' você desfruta da experiência de duas telas em um mesmo produto. Eficiência e produtividade para o seu trabalho. Veja!

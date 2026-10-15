@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-b569nql2-amcgsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Inverse LG 462L Black Inox com Compressor Smart Inverter e Door Cooling+™ - GC-B569NQL2"
+name: "Geladeira Smart LG Frost Free Inverter 451L Inverse Cor Black Inox (GC-B569NQL2) - 220V - GC-B569NQL2"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-inverse/gc-b569nql2/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG GC-B569NQL2. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 451L Inverse Cor Black Inox (GC-B569NQL2) - 220V."
+summary: "Descubra a eficiência da Geladeira Frost Free LG Inverter Bottom Freezer, 451L, 220V, cor preto fosco. Modernidade e economia A+++ garantidas!"
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3799.05
   source: "retailer"
-  updated_at: "2026-10-14T23:00:05.444Z"
+  updated_at: "2026-10-15T10:43:31.922Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-14T23:00:05.444Z"
+    verified_at: "2026-10-15T10:43:31.922Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-14T23:00:05.444Z"
+    verified_at: "2026-10-15T10:43:31.922Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -56,10 +56,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-14
+# Data de importacao: 2026-10-15
 # aw_product_id: 43478676909
 ---
 
 ## Descricao
 
-Get more information on the LG GC-B569NQL2. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 451L Inverse Cor Black Inox (GC-B569NQL2) - 220V.
+Descubra a eficiência da Geladeira Frost Free LG Inverter Bottom Freezer, 451L, 220V, cor preto fosco. Modernidade e economia A+++ garantidas!

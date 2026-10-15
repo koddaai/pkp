@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-comercial-leve/zv-q36gm1aa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Ar Condicionado LG Teto Inverter 36.000 BTU/h 220V ZV-Q36GM1AA, Só Frio"
+summary: "Get more information on the LG ZV-Q36GM1AA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG Teto Inverter 36.000 BTU/h 220V ZV-Q36GM1AA, Só Frio."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8516.65
   source: "retailer"
-  updated_at: "2026-10-14T23:00:05.582Z"
+  updated_at: "2026-10-15T10:43:31.997Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-14T23:00:05.582Z"
+    verified_at: "2026-10-15T10:43:31.997Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-14T23:00:05.582Z"
+    verified_at: "2026-10-15T10:43:31.997Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-14
+# Data de importacao: 2026-10-15
 # aw_product_id: 45136651381
 ---
 
 ## Descricao
 
-Ar Condicionado LG Teto Inverter 36.000 BTU/h 220V ZV-Q36GM1AA, Só Frio
+Get more information on the LG ZV-Q36GM1AA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG Teto Inverter 36.000 BTU/h 220V ZV-Q36GM1AA, Só Frio.
