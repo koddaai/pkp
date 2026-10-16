@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/mini-rgb-evo/55mrgb85bsc/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça a TV LG Mini RGB EVO 55 polegadas com resolução 4K, cores mais vivas e tecnologia avançada para imagens realistas. Smart TV com alto desempenho, ideal para filmes, jogos e streaming com qualidade superior."
+summary: "Get more information on the LG 55MRGB85BSC. Click for pictures, reviews, and tech specs for the LG Smart TV LG Mini RGB evo AI 4K MRGB85 55 polegadas 2026."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4338.65
   source: "retailer"
-  updated_at: "2026-10-15T22:54:45.486Z"
+  updated_at: "2026-10-16T10:30:50.044Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-15T22:54:45.486Z"
+    verified_at: "2026-10-16T10:30:50.044Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-15T22:54:45.486Z"
+    verified_at: "2026-10-16T10:30:50.044Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-15
+# Data de importacao: 2026-10-16
 # aw_product_id: 45091123461
 ---
 
 ## Descricao
 
-Conheça a TV LG Mini RGB EVO 55 polegadas com resolução 4K, cores mais vivas e tecnologia avançada para imagens realistas. Smart TV com alto desempenho, ideal para filmes, jogos e streaming com qualidade superior.
+Get more information on the LG 55MRGB85BSC. Click for pictures, reviews, and tech specs for the LG Smart TV LG Mini RGB evo AI 4K MRGB85 55 polegadas 2026.
