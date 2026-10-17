@@ -1,14 +1,14 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-17T10:02:00.194Z",
+  "generated_at": "2026-10-17T14:50:05.876Z",
   "stats": {
-    "total_products": 222558,
+    "total_products": 222599,
     "categories": {
       "eletrodomesticos": 3328,
       "games": 1,
       "moda": 2,
       "notebooks": 807,
-      "outros": 206955,
+      "outros": 206996,
       "acessorios": 3217,
       "informatica": 486,
       "monitors": 1499,
@@ -24,7 +24,7 @@
       "2296": 78,
       "Electrolux": 2,
       "Sony": 116,
-      "Adidas": 85729,
+      "Adidas": 85770,
       "Nike": 33673,
       "Dell": 36,
       "Apple": 454,
@@ -13900,7 +13900,7 @@
       "brand": "WEG",
       "category": "celulares/smartphones",
       "price": {
-        "value": 3999.99,
+        "value": 4299.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1036722.md"
@@ -15139,7 +15139,7 @@
       "brand": "Epson",
       "category": "outros",
       "price": {
-        "value": 1299.99,
+        "value": 1499.89,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/104844.md"
@@ -22228,7 +22228,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 359.99,
+        "value": 385.49,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1122711.md"
@@ -23309,7 +23309,7 @@
       "brand": "FreeFaro",
       "category": "outros",
       "price": {
-        "value": 94.9,
+        "value": 8.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1125362.md"
@@ -23320,7 +23320,7 @@
       "brand": "FreeFaro",
       "category": "outros",
       "price": {
-        "value": 94.9,
+        "value": 8.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1125397.md"
@@ -29775,7 +29775,7 @@
       "brand": "Fabrica Pet",
       "category": "outros",
       "price": {
-        "value": 226.9,
+        "value": 22.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1139207.md"
@@ -29786,7 +29786,7 @@
       "brand": "Fabrica Pet",
       "category": "outros",
       "price": {
-        "value": 192.9,
+        "value": 18.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1139215.md"
@@ -29797,7 +29797,7 @@
       "brand": "Fabrica Pet",
       "category": "outros",
       "price": {
-        "value": 158.9,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1139223.md"
@@ -29808,7 +29808,7 @@
       "brand": "Fabrica Pet",
       "category": "outros",
       "price": {
-        "value": 226.9,
+        "value": 22.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1139231.md"
@@ -29819,7 +29819,7 @@
       "brand": "Fabrica Pet",
       "category": "outros",
       "price": {
-        "value": 192.9,
+        "value": 18.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1139240.md"
@@ -29830,7 +29830,7 @@
       "brand": "Fabrica Pet",
       "category": "outros",
       "price": {
-        "value": 158.9,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1139258.md"
@@ -29841,7 +29841,7 @@
       "brand": "Fabrica Pet",
       "category": "outros",
       "price": {
-        "value": 226.9,
+        "value": 22.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1139266.md"
@@ -29852,7 +29852,7 @@
       "brand": "Fabrica Pet",
       "category": "outros",
       "price": {
-        "value": 212.5,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1139274.md"
@@ -29863,7 +29863,7 @@
       "brand": "Fabrica Pet",
       "category": "outros",
       "price": {
-        "value": 174.9,
+        "value": 16.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1139282.md"
@@ -29874,7 +29874,7 @@
       "brand": "Fabrica Pet",
       "category": "outros",
       "price": {
-        "value": 249.5,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1139290.md"
@@ -29885,7 +29885,7 @@
       "brand": "Fabrica Pet",
       "category": "outros",
       "price": {
-        "value": 212.5,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1139304.md"
@@ -29896,7 +29896,7 @@
       "brand": "Fabrica Pet",
       "category": "outros",
       "price": {
-        "value": 174.9,
+        "value": 16.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1139312.md"
@@ -31636,7 +31636,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 161.9,
+        "value": 80.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1142275.md"
@@ -31647,7 +31647,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 161.9,
+        "value": 80.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1142283.md"
@@ -31658,7 +31658,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 188.9,
+        "value": 104.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1142291.md"
@@ -31669,7 +31669,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 209.9,
+        "value": 104.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1142305.md"
@@ -31680,7 +31680,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 209.9,
+        "value": 104.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1142313.md"
@@ -39791,7 +39791,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 283.5,
+        "value": 141.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1158910.md"
@@ -39802,7 +39802,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 254.9,
+        "value": 141.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1158929.md"
@@ -39813,7 +39813,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 283.5,
+        "value": 141.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1158937.md"
@@ -39824,7 +39824,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 254.9,
+        "value": 141.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1158945.md"
@@ -39835,7 +39835,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 283.5,
+        "value": 141.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1158953.md"
@@ -39846,7 +39846,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 283.5,
+        "value": 141.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1158961.md"
@@ -39857,7 +39857,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 254.9,
+        "value": 141.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1158970.md"
@@ -39868,7 +39868,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 283.5,
+        "value": 141.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1158988.md"
@@ -39879,7 +39879,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 283.5,
+        "value": 141.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1158996.md"
@@ -39890,7 +39890,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 283.5,
+        "value": 141.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1159003.md"
@@ -39901,7 +39901,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 283.5,
+        "value": 141.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1159011.md"
@@ -39912,7 +39912,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 283.5,
+        "value": 141.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1159020.md"
@@ -39923,7 +39923,7 @@
       "brand": "Zaylo",
       "category": "outros",
       "price": {
-        "value": 283.5,
+        "value": 141.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1159046.md"
@@ -40510,7 +40510,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 49.9,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160575.md"
@@ -40532,7 +40532,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 49.9,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160591.md"
@@ -40554,7 +40554,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 49.9,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160613.md"
@@ -40565,7 +40565,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 49.9,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160621.md"
@@ -40587,7 +40587,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 49.9,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160648.md"
@@ -40730,7 +40730,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 39.9,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160770.md"
@@ -40741,7 +40741,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 64.9,
+        "value": 31.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160788.md"
@@ -40763,7 +40763,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 44.9,
+        "value": 21.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160800.md"
@@ -40774,7 +40774,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 44.9,
+        "value": 21.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160818.md"
@@ -40785,7 +40785,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 44.9,
+        "value": 21.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160826.md"
@@ -40796,7 +40796,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 64.9,
+        "value": 31.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160834.md"
@@ -40829,7 +40829,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 44.9,
+        "value": 21.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160877.md"
@@ -40840,7 +40840,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 64.9,
+        "value": 31.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160885.md"
@@ -40851,7 +40851,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 64.9,
+        "value": 31.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160893.md"
@@ -40884,7 +40884,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 84.9,
+        "value": 41.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160931.md"
@@ -40906,7 +40906,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 84.9,
+        "value": 41.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160958.md"
@@ -40928,7 +40928,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 104.9,
+        "value": 51.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160974.md"
@@ -40961,7 +40961,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 104.9,
+        "value": 51.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161008.md"
@@ -40983,7 +40983,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 104.9,
+        "value": 51.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161024.md"
@@ -40994,7 +40994,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 89.9,
+        "value": 44.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161040.md"
@@ -41005,7 +41005,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 89.9,
+        "value": 44.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161059.md"
@@ -41016,7 +41016,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 89.9,
+        "value": 44.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161067.md"
@@ -41027,7 +41027,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 84.9,
+        "value": 41.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161075.md"
@@ -41038,7 +41038,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 84.9,
+        "value": 41.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161083.md"
@@ -41049,7 +41049,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 84.9,
+        "value": 41.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161091.md"
@@ -41060,7 +41060,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 84.9,
+        "value": 41.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161105.md"
@@ -41071,7 +41071,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 84.9,
+        "value": 41.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161113.md"
@@ -41082,7 +41082,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 104.9,
+        "value": 51.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161121.md"
@@ -41093,7 +41093,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 104.9,
+        "value": 51.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161130.md"
@@ -41104,7 +41104,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 89.9,
+        "value": 44.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161148.md"
@@ -41115,7 +41115,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 89.9,
+        "value": 44.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161156.md"
@@ -41126,7 +41126,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 164.9,
+        "value": 81.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161164.md"
@@ -41137,7 +41137,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 164.9,
+        "value": 81.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161172.md"
@@ -41148,7 +41148,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 164.9,
+        "value": 81.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161180.md"
@@ -41159,7 +41159,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 164.9,
+        "value": 81.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161199.md"
@@ -41170,7 +41170,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 164.9,
+        "value": 81.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161202.md"
@@ -41181,7 +41181,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 99.9,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161210.md"
@@ -41192,7 +41192,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 99.9,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161229.md"
@@ -41203,7 +41203,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 99.9,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161237.md"
@@ -41214,7 +41214,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 99.9,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161245.md"
@@ -41225,7 +41225,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 99.9,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161253.md"
@@ -41236,7 +41236,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 124.9,
+        "value": 61.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161261.md"
@@ -41247,7 +41247,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 124.9,
+        "value": 61.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161270.md"
@@ -41258,7 +41258,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 124.9,
+        "value": 61.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161288.md"
@@ -41269,7 +41269,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 124.9,
+        "value": 61.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161296.md"
@@ -41280,7 +41280,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 124.9,
+        "value": 61.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161300.md"
@@ -41302,7 +41302,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 234.9,
+        "value": 116.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161326.md"
@@ -41313,7 +41313,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 234.9,
+        "value": 116.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161334.md"
@@ -41324,7 +41324,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 234.9,
+        "value": 116.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161342.md"
@@ -41335,7 +41335,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 234.9,
+        "value": 116.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161350.md"
@@ -41346,7 +41346,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 234.9,
+        "value": 116.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161369.md"
@@ -41357,7 +41357,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 189.9,
+        "value": 94.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161377.md"
@@ -41368,7 +41368,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 189.9,
+        "value": 94.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161385.md"
@@ -41379,7 +41379,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 189.9,
+        "value": 94.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161393.md"
@@ -41390,7 +41390,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 189.9,
+        "value": 94.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161407.md"
@@ -41401,7 +41401,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 189.9,
+        "value": 94.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161415.md"
@@ -41412,7 +41412,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 159.9,
+        "value": 79.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161423.md"
@@ -41423,7 +41423,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 159.9,
+        "value": 79.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161431.md"
@@ -41434,7 +41434,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 159.9,
+        "value": 79.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161440.md"
@@ -41445,7 +41445,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 159.9,
+        "value": 79.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161458.md"
@@ -41456,7 +41456,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 159.9,
+        "value": 79.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1161466.md"
@@ -42603,7 +42603,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 251.58,
+        "value": 251.57,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1163833.md"
@@ -48809,7 +48809,7 @@
       "brand": "Tchucoo",
       "category": "outros",
       "price": {
-        "value": 47.9,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1172670.md"
@@ -58287,7 +58287,7 @@
       "brand": "Soft Care",
       "category": "outros",
       "price": {
-        "value": 168.9,
+        "value": 176.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1184792.md"
@@ -70567,7 +70567,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 29.99,
+        "value": 29.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199536.md"
@@ -70578,7 +70578,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 24.99,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199544.md"
@@ -70589,7 +70589,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 24.99,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199552.md"
@@ -70601,7 +70601,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 99.99,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199560.md"
@@ -70612,7 +70612,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 49.99,
+        "value": 44.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199587.md"
@@ -70623,7 +70623,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 34.99,
+        "value": 31.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199609.md"
@@ -70634,7 +70634,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 31.99,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199617.md"
@@ -70645,7 +70645,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 29.99,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199625.md"
@@ -70656,7 +70656,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 19.99,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199633.md"
@@ -70667,7 +70667,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 29.99,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199641.md"
@@ -70678,7 +70678,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 29.99,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199650.md"
@@ -70689,7 +70689,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 24.99,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199668.md"
@@ -70700,7 +70700,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 24.99,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199676.md"
@@ -70711,7 +70711,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 19.99,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199684.md"
@@ -70722,7 +70722,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 29.99,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199692.md"
@@ -70744,7 +70744,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 24.99,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199706.md"
@@ -70755,7 +70755,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 29.99,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199714.md"
@@ -70766,7 +70766,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 24.99,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199722.md"
@@ -70777,7 +70777,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 24.99,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199730.md"
@@ -70788,7 +70788,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 29.99,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199757.md"
@@ -70799,7 +70799,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 24.99,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199765.md"
@@ -70810,7 +70810,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 19.99,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199773.md"
@@ -70821,7 +70821,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 29.99,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199781.md"
@@ -70832,7 +70832,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 24.99,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199803.md"
@@ -70843,7 +70843,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 19.99,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199820.md"
@@ -70855,7 +70855,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 34.99,
+        "value": 34.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199838.md"
@@ -70867,7 +70867,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 99.99,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199846.md"
@@ -70878,7 +70878,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 49.99,
+        "value": 44.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199854.md"
@@ -70889,7 +70889,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 99.99,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199862.md"
@@ -70900,7 +70900,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 99.99,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199870.md"
@@ -70911,7 +70911,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 99.99,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199897.md"
@@ -70922,7 +70922,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 34.99,
+        "value": 31.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199919.md"
@@ -70933,7 +70933,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 99.99,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199927.md"
@@ -70944,7 +70944,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 34.99,
+        "value": 34.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199935.md"
@@ -70955,7 +70955,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 34.99,
+        "value": 34.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199943.md"
@@ -70966,7 +70966,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 39.99,
+        "value": 39.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199951.md"
@@ -70977,7 +70977,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 99.99,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199960.md"
@@ -70988,7 +70988,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 34.99,
+        "value": 34.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199978.md"
@@ -70999,7 +70999,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 99.99,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199986.md"
@@ -71010,7 +71010,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 34.99,
+        "value": 34.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1199994.md"
@@ -71032,7 +71032,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 49.99,
+        "value": 44.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200003.md"
@@ -71043,7 +71043,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 31.99,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200011.md"
@@ -71054,7 +71054,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 49.99,
+        "value": 44.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200020.md"
@@ -71065,7 +71065,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 31.99,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200046.md"
@@ -71076,7 +71076,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 49.99,
+        "value": 44.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200054.md"
@@ -71087,7 +71087,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 34.99,
+        "value": 31.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200062.md"
@@ -71098,7 +71098,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 31.99,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200070.md"
@@ -71109,7 +71109,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 49.99,
+        "value": 44.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200089.md"
@@ -71120,7 +71120,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 49.99,
+        "value": 44.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200119.md"
@@ -71131,7 +71131,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 34.99,
+        "value": 31.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200127.md"
@@ -71142,7 +71142,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 31.99,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200135.md"
@@ -71153,7 +71153,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 49.99,
+        "value": 44.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200143.md"
@@ -71164,7 +71164,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 39.99,
+        "value": 39.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200151.md"
@@ -71175,7 +71175,7 @@
       "brand": "Spike",
       "category": "outros",
       "price": {
-        "value": 34.99,
+        "value": 31.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1200160.md"
@@ -74498,7 +74498,7 @@
       "brand": "Kelcat",
       "category": "outros",
       "price": {
-        "value": 7.99,
+        "value": 7.19,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/126764.md"
@@ -75187,7 +75187,7 @@
       "brand": "THUNDERX3",
       "category": "outros",
       "price": {
-        "value": 1199.9,
+        "value": 1429.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/129342.md"
@@ -93514,7 +93514,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 22.4,
+        "value": 12.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/198366.md"
@@ -93525,7 +93525,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 30.5,
+        "value": 16.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/198374.md"
@@ -93536,7 +93536,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 47.5,
+        "value": 25.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/198390.md"
@@ -93547,7 +93547,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 26.9,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/198412.md"
@@ -93558,7 +93558,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 34.9,
+        "value": 18.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/198420.md"
@@ -93580,7 +93580,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 26,
+        "value": 14.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/198854.md"
@@ -93591,7 +93591,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 29.5,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/198862.md"
@@ -93602,7 +93602,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 36.5,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/198870.md"
@@ -93613,7 +93613,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 30.9,
+        "value": 16.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/198889.md"
@@ -107376,7 +107376,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 26,
+        "value": 14.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/202789.md"
@@ -107387,7 +107387,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 36.5,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/202797.md"
@@ -107442,7 +107442,7 @@
       "brand": "Pipicat",
       "category": "outros",
       "price": {
-        "value": 19.99,
+        "value": 14.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/203580.md"
@@ -107475,7 +107475,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 36.5,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/204080.md"
@@ -107486,7 +107486,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 39.5,
+        "value": 21.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/204382.md"
@@ -107566,7 +107566,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 23.3,
+        "value": 12.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/205923.md"
@@ -107577,7 +107577,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 13.4,
+        "value": 7.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/205931.md"
@@ -107809,7 +107809,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 17.9,
+        "value": 9.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/209031.md"
@@ -108761,7 +108761,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 47.5,
+        "value": 25.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/220817.md"
@@ -109294,7 +109294,7 @@
       "brand": "Redragon",
       "category": "outros",
       "price": {
-        "value": 259.99,
+        "value": 349.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/227818.md"
@@ -109816,7 +109816,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 15.2,
+        "value": 8.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/232459.md"
@@ -109827,7 +109827,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 18.8,
+        "value": 10.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/232467.md"
@@ -109838,7 +109838,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 21.5,
+        "value": 11.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/232475.md"
@@ -109860,7 +109860,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 27.5,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/232700.md"
@@ -110014,7 +110014,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 49.9,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/234087.md"
@@ -110025,7 +110025,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 31.9,
+        "value": 17.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/234109.md"
@@ -134271,7 +134271,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 86.9,
+        "value": 42.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/325244.md"
@@ -134282,7 +134282,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 113.9,
+        "value": 56.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/325252.md"
@@ -134293,7 +134293,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 114.9,
+        "value": 56.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/325260.md"
@@ -134315,7 +134315,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 121.9,
+        "value": 60.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/325279.md"
@@ -229063,7 +229063,7 @@
       "brand": "Katbom",
       "category": "outros",
       "price": {
-        "value": 46.79,
+        "value": 51.6,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/453315.md"
@@ -229140,7 +229140,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 239.99,
+        "value": 299.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/453374.md"
@@ -229162,7 +229162,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 226.66,
+        "value": 226.6,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/453382.md"
@@ -230098,7 +230098,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 26.9,
+        "value": 13.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454419.md"
@@ -230109,7 +230109,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 28.9,
+        "value": 14.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454427.md"
@@ -230709,7 +230709,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 30.9,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454753.md"
@@ -230742,7 +230742,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 30.9,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454770.md"
@@ -230797,7 +230797,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 32.9,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454800.md"
@@ -230896,7 +230896,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 21.9,
+        "value": 10.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454885.md"
@@ -230907,7 +230907,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 21.9,
+        "value": 10.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454893.md"
@@ -230929,7 +230929,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 21.9,
+        "value": 10.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454907.md"
@@ -230951,7 +230951,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 23.9,
+        "value": 11.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454915.md"
@@ -230973,7 +230973,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 23.9,
+        "value": 11.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454923.md"
@@ -230995,7 +230995,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 23.9,
+        "value": 11.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454931.md"
@@ -231017,7 +231017,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 23.9,
+        "value": 11.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454940.md"
@@ -231039,7 +231039,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 23.9,
+        "value": 11.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454958.md"
@@ -231061,7 +231061,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 23.9,
+        "value": 11.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454966.md"
@@ -231083,7 +231083,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 24.9,
+        "value": 12.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454974.md"
@@ -231105,7 +231105,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 24.9,
+        "value": 12.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454982.md"
@@ -231127,7 +231127,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 24.9,
+        "value": 12.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/454990.md"
@@ -231160,7 +231160,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 25.9,
+        "value": 12.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455008.md"
@@ -231182,7 +231182,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 25.9,
+        "value": 12.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455016.md"
@@ -231204,7 +231204,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 25.9,
+        "value": 12.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455024.md"
@@ -231226,7 +231226,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 26.9,
+        "value": 13.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455032.md"
@@ -231248,7 +231248,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 24.2,
+        "value": 13.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455040.md"
@@ -231270,7 +231270,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 26.9,
+        "value": 13.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455059.md"
@@ -231281,7 +231281,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 28.9,
+        "value": 14.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455067.md"
@@ -231292,7 +231292,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 26,
+        "value": 14.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455075.md"
@@ -231314,7 +231314,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 28.9,
+        "value": 14.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455083.md"
@@ -231369,7 +231369,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 13.9,
+        "value": 6.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455156.md"
@@ -231391,7 +231391,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 13.9,
+        "value": 6.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455164.md"
@@ -231413,7 +231413,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 13.9,
+        "value": 6.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455172.md"
@@ -231435,7 +231435,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 13.9,
+        "value": 6.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455180.md"
@@ -231457,7 +231457,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 13.9,
+        "value": 6.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455199.md"
@@ -231501,7 +231501,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 13.9,
+        "value": 6.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455210.md"
@@ -231523,7 +231523,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 12.5,
+        "value": 6.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455229.md"
@@ -231534,7 +231534,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 13.9,
+        "value": 6.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455237.md"
@@ -231600,7 +231600,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 20.9,
+        "value": 10.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455270.md"
@@ -231611,7 +231611,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 21.9,
+        "value": 10.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455288.md"
@@ -231622,7 +231622,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 21.9,
+        "value": 10.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455296.md"
@@ -231644,7 +231644,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 21.9,
+        "value": 10.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455300.md"
@@ -231732,7 +231732,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 31.9,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455369.md"
@@ -231754,7 +231754,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 31.9,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455377.md"
@@ -231798,7 +231798,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 31.9,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455393.md"
@@ -231820,7 +231820,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 33.9,
+        "value": 16.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455407.md"
@@ -231842,7 +231842,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 33.9,
+        "value": 16.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455415.md"
@@ -231864,7 +231864,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 33.9,
+        "value": 16.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455423.md"
@@ -231886,7 +231886,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 41.9,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455431.md"
@@ -231908,7 +231908,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 41.9,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455440.md"
@@ -231919,7 +231919,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 41.9,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455458.md"
@@ -231941,7 +231941,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 43.9,
+        "value": 21.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455466.md"
@@ -231963,7 +231963,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 43.9,
+        "value": 21.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455474.md"
@@ -231985,7 +231985,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 43.9,
+        "value": 21.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/455482.md"
@@ -287222,7 +287222,7 @@
       "brand": "Hills",
       "category": "outros",
       "price": {
-        "value": 48.99,
+        "value": 52.49,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/511005.md"
@@ -319164,7 +319164,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 19.9,
+        "value": 9.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/541206.md"
@@ -319175,7 +319175,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 22.4,
+        "value": 12.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/541214.md"
@@ -319186,7 +319186,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 29.9,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/541222.md"
@@ -319197,7 +319197,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 34.9,
+        "value": 16.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/541230.md"
@@ -319208,7 +319208,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 39.9,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/541249.md"
@@ -334793,7 +334793,7 @@
       "brand": "Pipicat",
       "category": "outros",
       "price": {
-        "value": 38.99,
+        "value": 43.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/567884.md"
@@ -337357,7 +337357,7 @@
       "brand": "Super Secao",
       "category": "outros",
       "price": {
-        "value": 109,
+        "value": 108.89,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/571857.md"
@@ -372694,7 +372694,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 71.9,
+        "value": 35.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/678856.md"
@@ -376026,7 +376026,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 59.9,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/691593.md"
@@ -376059,7 +376059,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 62.9,
+        "value": 30.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/691674.md"
@@ -376126,7 +376126,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 31.9,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692379.md"
@@ -376159,7 +376159,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 48.9,
+        "value": 23.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692409.md"
@@ -376181,7 +376181,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 57.9,
+        "value": 28.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692425.md"
@@ -376203,7 +376203,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 57.9,
+        "value": 28.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692441.md"
@@ -376302,7 +376302,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 30.9,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692514.md"
@@ -376335,7 +376335,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 30.9,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692549.md"
@@ -376390,7 +376390,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 19.9,
+        "value": 9.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692557.md"
@@ -376401,7 +376401,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 19.9,
+        "value": 9.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692565.md"
@@ -376412,7 +376412,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 19.9,
+        "value": 9.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692573.md"
@@ -376423,7 +376423,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 19.9,
+        "value": 9.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692581.md"
@@ -376445,7 +376445,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 32.9,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692689.md"
@@ -376467,7 +376467,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 32.9,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692700.md"
@@ -383123,7 +383123,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 69.9,
+        "value": 34.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/723681.md"
@@ -383134,7 +383134,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 71.9,
+        "value": 35.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/723690.md"
@@ -387543,7 +387543,7 @@
       "brand": "Homeo Pet",
       "category": "outros",
       "price": {
-        "value": 128.72,
+        "value": 156.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/741426.md"
@@ -387590,7 +387590,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 87.92,
+        "value": 91.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/741540.md"
@@ -390588,7 +390588,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 155.89,
+        "value": 148.94,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/755729.md"
@@ -393831,7 +393831,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 134.9,
+        "value": 66.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/769800.md"
@@ -393842,7 +393842,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 134.9,
+        "value": 66.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/769819.md"
@@ -393853,7 +393853,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 134.9,
+        "value": 66.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/769827.md"
@@ -393864,7 +393864,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 159.9,
+        "value": 79.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/769835.md"
@@ -393875,7 +393875,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 159.9,
+        "value": 79.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/769851.md"
@@ -394410,7 +394410,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 26.9,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/773433.md"
@@ -394421,7 +394421,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 26.9,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/773441.md"
@@ -394432,7 +394432,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 26.9,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/773450.md"
@@ -394443,7 +394443,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 49.9,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/773492.md"
@@ -394465,7 +394465,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 71.9,
+        "value": 39.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/773506.md"
@@ -394476,7 +394476,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 14.3,
+        "value": 7.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/773514.md"
@@ -394487,7 +394487,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 30.9,
+        "value": 16.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/773522.md"
@@ -394498,7 +394498,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 57.9,
+        "value": 31.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/773549.md"
@@ -394509,7 +394509,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 21.5,
+        "value": 11.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/773557.md"
@@ -394520,7 +394520,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 17.9,
+        "value": 9.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/773573.md"
@@ -394531,7 +394531,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 34.9,
+        "value": 18.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/773581.md"
@@ -394542,7 +394542,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 41.9,
+        "value": 22.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/773590.md"
@@ -398944,7 +398944,7 @@
       "brand": "Furacão Pet",
       "category": "outros",
       "price": {
-        "value": 144.9,
+        "value": 115.92,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/792136.md"
@@ -400328,7 +400328,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 29.9,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/798797.md"
@@ -405361,7 +405361,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 117.29,
+        "value": 104.31,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/825581.md"
@@ -408335,7 +408335,7 @@
       "brand": "Hills",
       "category": "outros",
       "price": {
-        "value": 51.99,
+        "value": 55.49,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/843490.md"
@@ -409164,7 +409164,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 219.9,
+        "value": 109.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/848239.md"
@@ -409186,7 +409186,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 219.9,
+        "value": 109.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/848247.md"
@@ -411962,7 +411962,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 199.9,
+        "value": 99.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/867608.md"
@@ -411973,7 +411973,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 199.9,
+        "value": 99.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/867616.md"
@@ -413474,7 +413474,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 52.9,
+        "value": 25.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/873276.md"
@@ -413485,7 +413485,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 48.9,
+        "value": 23.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/873306.md"
@@ -413529,7 +413529,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 76.9,
+        "value": 37.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/873365.md"
@@ -413540,7 +413540,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 76.9,
+        "value": 37.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/873373.md"
@@ -413573,7 +413573,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 124.9,
+        "value": 61.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/873462.md"
@@ -413584,7 +413584,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 124.9,
+        "value": 61.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/873470.md"
@@ -414139,7 +414139,7 @@
       "brand": "Alvorada",
       "category": "outros",
       "price": {
-        "value": 48.9,
+        "value": 14.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/874329.md"
@@ -414150,7 +414150,7 @@
       "brand": "Alvorada",
       "category": "outros",
       "price": {
-        "value": 32.9,
+        "value": 9.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/874337.md"
@@ -414172,7 +414172,7 @@
       "brand": "Alvorada",
       "category": "outros",
       "price": {
-        "value": 48.9,
+        "value": 14.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/874353.md"
@@ -414744,7 +414744,7 @@
       "brand": "Alvorada",
       "category": "outros",
       "price": {
-        "value": 48.9,
+        "value": 14.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/875538.md"
@@ -414832,7 +414832,7 @@
       "brand": "Alvorada",
       "category": "outros",
       "price": {
-        "value": 56.9,
+        "value": 16.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/875635.md"
@@ -414843,7 +414843,7 @@
       "brand": "Alvorada",
       "category": "outros",
       "price": {
-        "value": 63.9,
+        "value": 18.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/875643.md"
@@ -414854,7 +414854,7 @@
       "brand": "Alvorada",
       "category": "outros",
       "price": {
-        "value": 48.9,
+        "value": 14.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/875651.md"
@@ -415087,7 +415087,7 @@
       "brand": "Alvorada",
       "category": "outros",
       "price": {
-        "value": 63.9,
+        "value": 18.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/875970.md"
@@ -420850,7 +420850,7 @@
       "brand": "Vetmedin",
       "category": "outros",
       "price": {
-        "value": 168.51,
+        "value": 188.89,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/884162.md"
@@ -425917,7 +425917,7 @@
       "category": "informatica",
       "subcategory": "armazenamento",
       "price": {
-        "value": 349.99,
+        "value": 529.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/893041.md"
@@ -427523,7 +427523,7 @@
       "brand": "Gran Plus",
       "category": "celulares/smartphones",
       "price": {
-        "value": 70.99,
+        "value": 60.34,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/894915.md"
@@ -429696,7 +429696,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 35.9,
+        "value": 17.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901555.md"
@@ -429707,7 +429707,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 31.9,
+        "value": 17.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901580.md"
@@ -429718,7 +429718,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 35.9,
+        "value": 17.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901601.md"
@@ -429729,7 +429729,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 33.9,
+        "value": 18.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901628.md"
@@ -429740,7 +429740,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 33.9,
+        "value": 18.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901644.md"
@@ -429751,7 +429751,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 37.9,
+        "value": 18.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901660.md"
@@ -429784,7 +429784,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 39.9,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901695.md"
@@ -429795,7 +429795,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 37.5,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901709.md"
@@ -429806,7 +429806,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 41.9,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901717.md"
@@ -429817,7 +429817,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 37.5,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901725.md"
@@ -429872,7 +429872,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 39.9,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901903.md"
@@ -429883,7 +429883,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 35.9,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901911.md"
@@ -429894,7 +429894,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 35.9,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901920.md"
@@ -429905,7 +429905,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 37.5,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901938.md"
@@ -429916,7 +429916,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 37.5,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901946.md"
@@ -429927,7 +429927,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 41.9,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901954.md"
@@ -429938,7 +429938,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 38.5,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901962.md"
@@ -429949,7 +429949,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 42.9,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901970.md"
@@ -429960,7 +429960,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 42.9,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901989.md"
@@ -429971,7 +429971,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 45.9,
+        "value": 22.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901997.md"
@@ -429982,7 +429982,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 45.9,
+        "value": 22.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902004.md"
@@ -429993,7 +429993,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 45.9,
+        "value": 22.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902012.md"
@@ -430004,7 +430004,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 53.9,
+        "value": 26.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902039.md"
@@ -430015,7 +430015,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 64.9,
+        "value": 31.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902047.md"
@@ -430048,7 +430048,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 38.9,
+        "value": 18.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902543.md"
@@ -430103,7 +430103,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 41.9,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902594.md"
@@ -430114,7 +430114,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 42.9,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902608.md"
@@ -430125,7 +430125,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 45.9,
+        "value": 22.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902616.md"
@@ -430136,7 +430136,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 47.9,
+        "value": 23.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902624.md"
@@ -430213,7 +430213,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 29.9,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902896.md"
@@ -430224,7 +430224,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 29.5,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902900.md"
@@ -430292,7 +430292,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 29.5,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902918.md"
@@ -430303,7 +430303,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 26.9,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902926.md"
@@ -430314,7 +430314,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 32.9,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902934.md"
@@ -430348,7 +430348,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 32.9,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902942.md"
@@ -430359,7 +430359,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 26.9,
+        "value": 14.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902950.md"
@@ -430382,7 +430382,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 29.5,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902969.md"
@@ -430393,7 +430393,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 29.5,
+        "value": 15.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902977.md"
@@ -430404,7 +430404,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 39.9,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902985.md"
@@ -430415,7 +430415,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 39.9,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/902993.md"
@@ -430426,7 +430426,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 35.9,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/903000.md"
@@ -430437,7 +430437,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 42.9,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/903019.md"
@@ -430448,7 +430448,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 42.9,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/903027.md"
@@ -430459,7 +430459,7 @@
       "brand": "Santa Fé Pet",
       "category": "outros",
       "price": {
-        "value": 42.9,
+        "value": 20.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/903035.md"
@@ -435232,7 +435232,7 @@
       "brand": "Alvorada",
       "category": "outros",
       "price": {
-        "value": 91.9,
+        "value": 27.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/910368.md"
@@ -435254,7 +435254,7 @@
       "brand": "Alvorada",
       "category": "outros",
       "price": {
-        "value": 114.9,
+        "value": 33.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/910414.md"
@@ -435310,7 +435310,7 @@
       "brand": "Alvorada",
       "category": "outros",
       "price": {
-        "value": 91.9,
+        "value": 27.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/910430.md"
@@ -435321,7 +435321,7 @@
       "brand": "Alvorada",
       "category": "outros",
       "price": {
-        "value": 114.9,
+        "value": 33.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/910449.md"
@@ -435366,7 +435366,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 50.9,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/910538.md"
@@ -435377,7 +435377,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 50.9,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/910546.md"
@@ -435388,7 +435388,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 50.9,
+        "value": 24.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/910554.md"
@@ -435575,7 +435575,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 56.9,
+        "value": 27.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/910589.md"
@@ -435586,7 +435586,7 @@
       "brand": "AMF",
       "category": "outros",
       "price": {
-        "value": 56.9,
+        "value": 27.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/910597.md"
@@ -441373,7 +441373,7 @@
       "brand": "Origens",
       "category": "celulares/smartphones",
       "price": {
-        "value": 30.9,
+        "value": 35.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/919896.md"
@@ -441714,7 +441714,7 @@
       "brand": "Origens",
       "category": "celulares/smartphones",
       "price": {
-        "value": 29.74,
+        "value": 34.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/920444.md"
@@ -454393,7 +454393,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 159.9,
+        "value": 111.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/934186.md"
@@ -471749,7 +471749,7 @@
       "brand": "AULA",
       "category": "outros",
       "price": {
-        "value": 219.99,
+        "value": 299.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/949782.md"
@@ -472654,7 +472654,7 @@
       "brand": "Gran Plus",
       "category": "celulares/smartphones",
       "price": {
-        "value": 33.9,
+        "value": 33.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/950092.md"
@@ -474506,7 +474506,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 51.9,
+        "value": 25.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/951420.md"
@@ -474682,7 +474682,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 43.9,
+        "value": 21.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/951609.md"
@@ -474781,7 +474781,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 81.9,
+        "value": 40.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/951722.md"
@@ -474792,7 +474792,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 69.9,
+        "value": 34.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/951730.md"
@@ -474814,7 +474814,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 65.9,
+        "value": 32.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/951773.md"
@@ -474825,7 +474825,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 69.9,
+        "value": 34.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/951803.md"
@@ -474979,7 +474979,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 100.9,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/951927.md"
@@ -475023,7 +475023,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 73.9,
+        "value": 36.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/951951.md"
@@ -475969,7 +475969,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 100.9,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/951994.md"
@@ -476002,7 +476002,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 100.9,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952036.md"
@@ -476024,7 +476024,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 73.9,
+        "value": 36.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952052.md"
@@ -476035,7 +476035,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 60.9,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952060.md"
@@ -476046,7 +476046,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 100.9,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952079.md"
@@ -476057,7 +476057,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 73.9,
+        "value": 36.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952087.md"
@@ -476068,7 +476068,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 100.9,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952117.md"
@@ -476123,7 +476123,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 91.9,
+        "value": 45.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952192.md"
@@ -476134,7 +476134,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 97.9,
+        "value": 48.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952206.md"
@@ -476145,7 +476145,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 97.9,
+        "value": 48.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952214.md"
@@ -476167,7 +476167,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 53.9,
+        "value": 26.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952230.md"
@@ -476354,7 +476354,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 58.9,
+        "value": 28.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952249.md"
@@ -476486,7 +476486,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 79.9,
+        "value": 39.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952290.md"
@@ -476772,7 +476772,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 62.9,
+        "value": 34.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952567.md"
@@ -477201,7 +477201,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 53.9,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952575.md"
@@ -477267,7 +477267,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 79.9,
+        "value": 39.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952583.md"
@@ -477278,7 +477278,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 69.9,
+        "value": 34.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952591.md"
@@ -477355,7 +477355,7 @@
       "brand": "São Pet",
       "category": "outros",
       "price": {
-        "value": 53.9,
+        "value": 29.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952605.md"
@@ -524400,7 +524400,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 99.9,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/973505.md"
@@ -524411,7 +524411,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 99.9,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/973513.md"
@@ -524433,7 +524433,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 109.9,
+        "value": 54.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/973530.md"
@@ -525314,7 +525314,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 109.9,
+        "value": 54.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/973556.md"
@@ -525567,7 +525567,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 124.9,
+        "value": 61.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/973599.md"
@@ -525589,7 +525589,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 124.9,
+        "value": 61.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/973602.md"
@@ -525765,7 +525765,7 @@
       "brand": "Flexi",
       "category": "outros",
       "price": {
-        "value": 179.9,
+        "value": 89.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/973610.md"
@@ -528804,7 +528804,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 459.92,
+        "value": 499.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/974404.md"
@@ -776984,7 +776984,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 134.7,
+        "value": 129.49,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/990191.md"
@@ -784050,6 +784050,17 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/990390so0358.md"
+    },
+    {
+      "sku": "990390so0389",
+      "name": "Tênis adidas VL Court Bold Feminino",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 449.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/990390so0389.md"
     },
     {
       "sku": "990390so0396",
@@ -1452700,7 +1452711,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 1899.99,
+        "value": 2599.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/998441.md"
@@ -1628226,6 +1628237,94 @@
       "path": "examples/kodda-catalog/products/hq5292002.md"
     },
     {
+      "sku": "hq5450-0006-36",
+      "name": "Tênis  Originals Superstar II Ondulação Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 699.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hq5450-0006-36.md"
+    },
+    {
+      "sku": "hq5450-0007-37",
+      "name": "Tênis  Originals Superstar II Ondulação Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 699.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hq5450-0007-37.md"
+    },
+    {
+      "sku": "hq5450-0008-38",
+      "name": "Tênis  Originals Superstar II Ondulação Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 699.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hq5450-0008-38.md"
+    },
+    {
+      "sku": "hq5450-0009-39",
+      "name": "Tênis  Originals Superstar II Ondulação Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 699.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hq5450-0009-39.md"
+    },
+    {
+      "sku": "hq5450-0011-40",
+      "name": "Tênis  Originals Superstar II Ondulação Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 699.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hq5450-0011-40.md"
+    },
+    {
+      "sku": "hq5450-0014-42",
+      "name": "Tênis  Originals Superstar II Ondulação Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 699.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hq5450-0014-42.md"
+    },
+    {
+      "sku": "hq5450-0016-43",
+      "name": "Tênis  Originals Superstar II Ondulação Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 699.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hq5450-0016-43.md"
+    },
+    {
+      "sku": "hq5450-0018-44",
+      "name": "Tênis  Originals Superstar II Ondulação Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 699.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hq5450-0018-44.md"
+    },
+    {
       "sku": "hq5454-0002-34",
       "name": "Tênis Adistar MLD Unisex adidas",
       "brand": "Adidas",
@@ -1628488,6 +1628587,61 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/hq5601-0008-38.md"
+    },
+    {
+      "sku": "hq5601-0009-39",
+      "name": "Tênis  Originals Superstar II Ondulação Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 699.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hq5601-0009-39.md"
+    },
+    {
+      "sku": "hq5601-0011-40",
+      "name": "Tênis  Originals Superstar II Ondulação Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 699.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hq5601-0011-40.md"
+    },
+    {
+      "sku": "hq5601-0014-42",
+      "name": "Tênis  Originals Superstar II Ondulação Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 699.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hq5601-0014-42.md"
+    },
+    {
+      "sku": "hq5601-0016-43",
+      "name": "Tênis  Originals Superstar II Ondulação Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 699.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hq5601-0016-43.md"
+    },
+    {
+      "sku": "hq5601-0018-44",
+      "name": "Tênis  Originals Superstar II Ondulação Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 699.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hq5601-0018-44.md"
     },
     {
       "sku": "hq5704104",
@@ -1637384,7 +1637538,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 1299.99,
+        "value": 1799.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/hq9497-0002-34.md"
@@ -1637395,7 +1637549,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 1299.99,
+        "value": 1799.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/hq9497-0003-35.md"
@@ -1637406,7 +1637560,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 1299.99,
+        "value": 1799.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/hq9497-0005-36.md"
@@ -1637417,7 +1637571,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 1299.99,
+        "value": 1799.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/hq9497-0006-37.md"
@@ -1637428,7 +1637582,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 1299.99,
+        "value": 1799.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/hq9497-0007-38.md"
@@ -1637439,7 +1637593,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 1299.99,
+        "value": 1799.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/hq9497-0008-39.md"
@@ -1650585,6 +1650739,50 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/hz6601-0005-7-8-anos.md"
+    },
+    {
+      "sku": "hz6612-0001-3-4-anos",
+      "name": "Agasalho SST Kids adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 499.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hz6612-0001-3-4-anos.md"
+    },
+    {
+      "sku": "hz6612-0002-4-5-anos",
+      "name": "Agasalho SST Kids adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 499.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hz6612-0002-4-5-anos.md"
+    },
+    {
+      "sku": "hz6612-0003-5-6-anos",
+      "name": "Agasalho SST Kids adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 499.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hz6612-0003-5-6-anos.md"
+    },
+    {
+      "sku": "hz6612-0005-7-8-anos",
+      "name": "Agasalho SST Kids adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 499.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/hz6612-0005-7-8-anos.md"
     },
     {
       "sku": "hz6624-tamanho-unico",
@@ -1699916,7 +1700114,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 499.99,
+        "value": 449.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/ig1609-0002-34.md"
@@ -1699927,7 +1700125,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 499.99,
+        "value": 449.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/ig1609-0003-35.md"
@@ -1699938,7 +1700136,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 479.99,
+        "value": 449.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/ig1609-0005-36.md"
@@ -1837660,6 +1837858,39 @@
       "path": "examples/kodda-catalog/products/ji0875-0012-44.md"
     },
     {
+      "sku": "ji0878-0001-37",
+      "name": "Tênis Corrida Runfalcon 5 Homem adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ji0878-0001-37.md"
+    },
+    {
+      "sku": "ji0878-0002-38",
+      "name": "Tênis Corrida Runfalcon 5 Homem adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ji0878-0002-38.md"
+    },
+    {
+      "sku": "ji0878-0003-39",
+      "name": "Tênis Corrida Runfalcon 5 Homem adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ji0878-0003-39.md"
+    },
+    {
       "sku": "ji0879-0001-37",
       "name": "Tênis Corrida Runfalcon 5 Homem adidas",
       "brand": "Adidas",
@@ -1873401,7 +1873632,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 349.99,
+        "value": 219.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/jm2616-0003-p.md"
@@ -1909354,6 +1909585,17 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/jp9192-0016-43.md"
+    },
+    {
+      "sku": "jp9192-0018-44",
+      "name": "Tênis Adizero Prime X3 Strung Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 2299.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/jp9192-0018-44.md"
     },
     {
       "sku": "jp9197-0007-37",
@@ -1955266,7 +1955508,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 699.99,
+        "value": 679.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/jq9433-0007-41.md"
@@ -2059752,7 +2059994,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 109.99,
+        "value": 89.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/jy2760-0005-gg.md"
@@ -2069725,7 +2069967,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 199.99,
+        "value": 169.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/jy9744-0004-g.md"
@@ -2150593,7 +2150835,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 149.99,
+        "value": 129.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/kd1360-0003-m.md"
@@ -2150604,7 +2150846,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 149.99,
+        "value": 129.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/kd1360-0004-g.md"
@@ -2150615,7 +2150857,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 149.99,
+        "value": 129.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/kd1360-0005-gg.md"
@@ -2175911,7 +2176153,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 159.99,
+        "value": 139.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/ke0674-tamanho-unico.md"
@@ -2178969,7 +2179211,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 179.99,
+        "value": 139.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/ke1373-0002-p.md"
@@ -2183435,7 +2183677,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 179.99,
+        "value": 129.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/ke3168-0004-m.md"
@@ -2334612,7 +2334854,7 @@
     },
     {
       "sku": "kk2121-0001-26",
-      "name": "Superstar II C Kids adidas",
+      "name": "Tênis Superstar II Kids adidas",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -2334623,7 +2334865,7 @@
     },
     {
       "sku": "kk2121-0002-27",
-      "name": "Superstar II C Kids adidas",
+      "name": "Tênis Superstar II Kids adidas",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -2334634,7 +2334876,7 @@
     },
     {
       "sku": "kk2121-0003-28",
-      "name": "Superstar II C Kids adidas",
+      "name": "Tênis Superstar II Kids adidas",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -2334645,7 +2334887,7 @@
     },
     {
       "sku": "kk2121-0005-29",
-      "name": "Superstar II C Kids adidas",
+      "name": "Tênis Superstar II Kids adidas",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -2334656,7 +2334898,7 @@
     },
     {
       "sku": "kk2121-0007-30",
-      "name": "Superstar II C Kids adidas",
+      "name": "Tênis Superstar II Kids adidas",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -2334667,7 +2334909,7 @@
     },
     {
       "sku": "kk2121-0008-31",
-      "name": "Superstar II C Kids adidas",
+      "name": "Tênis Superstar II Kids adidas",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -2334678,7 +2334920,7 @@
     },
     {
       "sku": "kk2121-0010-32",
-      "name": "Superstar II C Kids adidas",
+      "name": "Tênis Superstar II Kids adidas",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -2362527,6 +2362769,50 @@
       "path": "examples/kodda-catalog/products/kr1756-0006-15-16-anos.md"
     },
     {
+      "sku": "kr2086-0003-p",
+      "name": "Blusa COM Capuz DE Fleece  Basketball Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 599.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/kr2086-0003-p.md"
+    },
+    {
+      "sku": "kr2086-0004-m",
+      "name": "Blusa COM Capuz DE Fleece  Basketball Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 599.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/kr2086-0004-m.md"
+    },
+    {
+      "sku": "kr2086-0005-g",
+      "name": "Blusa COM Capuz DE Fleece  Basketball Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 599.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/kr2086-0005-g.md"
+    },
+    {
+      "sku": "kr2086-0006-gg",
+      "name": "Blusa COM Capuz DE Fleece  Basketball Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 599.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/kr2086-0006-gg.md"
+    },
+    {
       "sku": "kr2093-0003-p",
       "name": "Camiseta DE Basquete  EM Malha Simples Unisex adidas",
       "brand": "Adidas",
@@ -2362613,6 +2362899,28 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/kr2095-0005-g.md"
+    },
+    {
+      "sku": "kr2096-0003-p",
+      "name": "Camiseta DE Basquete  EM Malha Simples Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 249.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/kr2096-0003-p.md"
+    },
+    {
+      "sku": "kr2096-0004-m",
+      "name": "Camiseta DE Basquete  EM Malha Simples Unisex adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 249.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/kr2096-0004-m.md"
     },
     {
       "sku": "kr2126-0002-p",
@@ -2367201,7 +2367509,7 @@
     },
     {
       "sku": "kr4689-0001-3-4-anos",
-      "name": "Conjunto Moletom Folgado  Pokémon Kids adidas",
+      "name": "Conjunto Blusa Capuz Folgada  Pokémon Kids adidas",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -2367212,7 +2367520,7 @@
     },
     {
       "sku": "kr4689-0002-4-5-anos",
-      "name": "Conjunto Moletom Folgado  Pokémon Kids adidas",
+      "name": "Conjunto Blusa Capuz Folgada  Pokémon Kids adidas",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -2367223,7 +2367531,7 @@
     },
     {
       "sku": "kr4689-0003-5-6-anos",
-      "name": "Conjunto Moletom Folgado  Pokémon Kids adidas",
+      "name": "Conjunto Blusa Capuz Folgada  Pokémon Kids adidas",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -2367234,7 +2367542,7 @@
     },
     {
       "sku": "kr4689-0004-6-7-anos",
-      "name": "Conjunto Moletom Folgado  Pokémon Kids adidas",
+      "name": "Conjunto Blusa Capuz Folgada  Pokémon Kids adidas",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -2367245,7 +2367553,7 @@
     },
     {
       "sku": "kr4689-0005-7-8-anos",
-      "name": "Conjunto Moletom Folgado  Pokémon Kids adidas",
+      "name": "Conjunto Blusa Capuz Folgada  Pokémon Kids adidas",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -2381356,6 +2381664,50 @@
       "path": "examples/kodda-catalog/products/ks4751-0006-gg.md"
     },
     {
+      "sku": "ks4767-0002-pp",
+      "name": "Vestido Três Listras (Slim) Mulher adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 249.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ks4767-0002-pp.md"
+    },
+    {
+      "sku": "ks4767-0003-p",
+      "name": "Vestido Três Listras (Slim) Mulher adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 249.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ks4767-0003-p.md"
+    },
+    {
+      "sku": "ks4767-0004-m",
+      "name": "Vestido Três Listras (Slim) Mulher adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 249.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ks4767-0004-m.md"
+    },
+    {
+      "sku": "ks4767-0005-g",
+      "name": "Vestido Três Listras (Slim) Mulher adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 249.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ks4767-0005-g.md"
+    },
+    {
       "sku": "ks4800-0002-pp",
       "name": "Camiseta TEE Firebird Mulher adidas",
       "brand": "Adidas",
@@ -2382834,6 +2383186,17 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/ks5255-tamanho-unico.md"
+    },
+    {
+      "sku": "ks5352-0004-g",
+      "name": "Agasalho  Linear Homem adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 449.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ks5352-0004-g.md"
     },
     {
       "sku": "ks5385-0002-p",
@@ -2388994,6 +2389357,39 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/ks7471-0007-2gg.md"
+    },
+    {
+      "sku": "ks7477-0002-p",
+      "name": "Calça Esportiva Firebird Homem adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 499.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ks7477-0002-p.md"
+    },
+    {
+      "sku": "ks7477-0003-m",
+      "name": "Calça Esportiva Firebird Homem adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 499.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ks7477-0003-m.md"
+    },
+    {
+      "sku": "ks7477-0004-g",
+      "name": "Calça Esportiva Firebird Homem adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 499.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ks7477-0004-g.md"
     },
     {
       "sku": "ks7490-0004-m-l",
@@ -2397764,6 +2398160,17 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/kt0574-0005-gg.md"
+    },
+    {
+      "sku": "kt0575-0003-p",
+      "name": "Calça Malha Parachute Essentials Três Listras Lifestyle Mulher adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 349.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/kt0575-0003-p.md"
     },
     {
       "sku": "kt0650-0002-p",
@@ -2446067,6 +2446474,50 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/lg4276-0006-gg.md"
+    },
+    {
+      "sku": "lg4293-0002-pp",
+      "name": "Calça Esportiva Pregueada DE Tecido Aveludado Mulher adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 599.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/lg4293-0002-pp.md"
+    },
+    {
+      "sku": "lg4293-0003-p",
+      "name": "Calça Esportiva Pregueada DE Tecido Aveludado Mulher adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 599.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/lg4293-0003-p.md"
+    },
+    {
+      "sku": "lg4293-0004-m",
+      "name": "Calça Esportiva Pregueada DE Tecido Aveludado Mulher adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 599.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/lg4293-0004-m.md"
+    },
+    {
+      "sku": "lg4293-0005-g",
+      "name": "Calça Esportiva Pregueada DE Tecido Aveludado Mulher adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 599.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/lg4293-0005-g.md"
     },
     {
       "sku": "lg4302-0002-pp",
