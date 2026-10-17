@@ -6,7 +6,7 @@ sku: "6851w1a002e-acc-essp-br"
 brand: "LG"
 name: "Diodo Forno Microondas LG MH8048APA 6851W1A002E - 6851W1A002E"
 category: "eletrodomesticos"
-subcategory: "micro-ondas"
+subcategory: "forno"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-10-16T22:32:56.667Z"
+  updated_at: "2026-10-17T10:01:30.959Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-16T22:32:56.667Z"
+    verified_at: "2026-10-17T10:01:30.959Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-16T22:32:56.667Z"
+    verified_at: "2026-10-17T10:01:30.959Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-16
+# Data de importacao: 2026-10-17
 # aw_product_id: 44643927390
 ---
 

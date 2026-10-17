@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eab65088202/"
 
 # === DESCOBERTA (L0) ===
-summary: "Alto Falante Woofer Bluetooth Speaker LG - EAB65088202"
+summary: "Get more information on the LG EAB65088202. Click for pictures, reviews, and tech specs for the LG Alto Falante Woofer Bluetooth Speaker LG - EAB65088202."
 tags: ["lg", "bluetooth"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 106.63
   source: "retailer"
-  updated_at: "2026-10-16T22:32:56.805Z"
+  updated_at: "2026-10-17T10:01:31.123Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-16T22:32:56.805Z"
+    verified_at: "2026-10-17T10:01:31.123Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-16T22:32:56.805Z"
+    verified_at: "2026-10-17T10:01:31.123Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-16
+# Data de importacao: 2026-10-17
 # aw_product_id: 43478675853
 ---
 
 ## Descricao
 
-Alto Falante Woofer Bluetooth Speaker LG - EAB65088202
+Get more information on the LG EAB65088202. Click for pictures, reviews, and tech specs for the LG Alto Falante Woofer Bluetooth Speaker LG - EAB65088202.

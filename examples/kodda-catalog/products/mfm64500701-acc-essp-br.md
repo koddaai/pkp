@@ -6,7 +6,7 @@ sku: "mfm64500701-acc-essp-br"
 brand: "LG"
 name: "Membrana Plástica Display Forno Micro Ondas LG MFM64500701 - MFM64500701"
 category: "eletrodomesticos"
-subcategory: "micro-ondas"
+subcategory: "forno"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-10-16T22:32:57.028Z"
+  updated_at: "2026-10-17T10:01:31.445Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-16T22:32:57.028Z"
+    verified_at: "2026-10-17T10:01:31.445Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-16T22:32:57.028Z"
+    verified_at: "2026-10-17T10:01:31.445Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-16
+# Data de importacao: 2026-10-17
 # aw_product_id: 43478677059
 ---
 
