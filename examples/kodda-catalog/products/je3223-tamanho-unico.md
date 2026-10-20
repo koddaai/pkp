@@ -27,9 +27,9 @@ tags: ["adidas", "ai", "pro"]
 price:
   type: "street"
   currency: "BRL"
-  value: 199.99
+  value: 169.99
   source: "retailer"
-  updated_at: "2026-10-06T01:08:58.992Z"
+  updated_at: "2026-10-20T16:12:02.315Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:58.992Z"
+    verified_at: "2026-10-20T16:12:02.315Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-06T01:08:58.992Z"
+    verified_at: "2026-10-20T16:12:02.315Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Adidas BR (feed_id: 95015)
-# Data de importacao: 2026-10-06
+# Data de importacao: 2026-10-20
 # aw_product_id: 44276042107
 ---
 
