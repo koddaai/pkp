@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/oled-evo/oled65c6psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG OLED65C6PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI 4K C6 65 polegadas 2026."
-tags: ["lg", "smart", "ai", "4k", "oled"]
+summary: "Smart TV LG OLED evo C6 de 65 polegadas (2026) com 4K, IA e webOS. Pixels com luz própria para preto profundo e cores reais. Compre na loja oficial LG."
+tags: ["lg", "smart", "ai", "4k", "oled", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 9024.05
   source: "retailer"
-  updated_at: "2026-10-19T23:19:45.271Z"
+  updated_at: "2026-10-20T10:48:57.765Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-19T23:19:45.271Z"
+    verified_at: "2026-10-20T10:48:57.765Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-19T23:19:45.271Z"
+    verified_at: "2026-10-20T10:48:57.765Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-19
+# Data de importacao: 2026-10-20
 # aw_product_id: 44861562154
 ---
 
 ## Descricao
 
-Get more information on the LG OLED65C6PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI 4K C6 65 polegadas 2026.
+Smart TV LG OLED evo C6 de 65 polegadas (2026) com 4K, IA e webOS. Pixels com luz própria para preto profundo e cores reais. Compre na loja oficial LG.

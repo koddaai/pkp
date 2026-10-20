@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/27gx704a-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 27GX704A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ 27GX704A-B 27\", 240Hz, QHD 2K, 0.03ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa AdaptiveSync, HDR True Black 400."
-tags: ["lg", "oled", "hdr", "premium", "pro", "ultra"]
+summary: "Monitor gamer LG UltraGear OLED de 27\" com QHD, 240Hz, 0,03ms (GtG), G-SYNC, FreeSync Premium Pro e HDR True Black 400. Compre na loja oficial LG."
+tags: ["lg", "oled", "hdr", "premium", "pro", "ultra", "gamer"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3775.87
   source: "retailer"
-  updated_at: "2026-10-19T23:19:44.812Z"
+  updated_at: "2026-10-20T10:48:57.357Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-19T23:19:44.812Z"
+    verified_at: "2026-10-20T10:48:57.357Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-19T23:19:44.812Z"
+    verified_at: "2026-10-20T10:48:57.357Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-19
+# Data de importacao: 2026-10-20
 # aw_product_id: 44069144911
 ---
 
 ## Descricao
 
-Get more information on the LG 27GX704A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ 27GX704A-B 27", 240Hz, QHD 2K, 0.03ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa AdaptiveSync, HDR True Black 400.
+Monitor gamer LG UltraGear OLED de 27" com QHD, 240Hz, 0,03ms (GtG), G-SYNC, FreeSync Premium Pro e HDR True Black 400. Compre na loja oficial LG.

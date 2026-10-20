@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/wd18sv2s6b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Lava e Seca LG Smart 18kg Inox Look com Inteligência Artificial AIDD™ (WD18SV2S6B)"
-tags: ["lg", "smart", "ai", "8k"]
+summary: "Lava e seca LG Smart de 18kg Inox Look com inteligência artificial AI DD, que protege mais as roupas na lavagem. Compre na loja oficial LG."
+tags: ["lg", "smart", "ai", "8k", "pro"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 5999
+  value: 6199.01
   source: "retailer"
-  updated_at: "2026-10-19T23:19:45.299Z"
+  updated_at: "2026-10-20T10:48:57.791Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-19T23:19:45.299Z"
+    verified_at: "2026-10-20T10:48:57.791Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-19T23:19:45.299Z"
+    verified_at: "2026-10-20T10:48:57.791Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-19
+# Data de importacao: 2026-10-20
 # aw_product_id: 43478677245
 ---
 
 ## Descricao
 
-Lava e Seca LG Smart 18kg Inox Look com Inteligência Artificial AIDD™ (WD18SV2S6B)
+Lava e seca LG Smart de 18kg Inox Look com inteligência artificial AI DD, que protege mais as roupas na lavagem. Compre na loja oficial LG.

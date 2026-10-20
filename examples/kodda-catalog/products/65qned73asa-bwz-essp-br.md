@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/65qned73asa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 65QNED73ASA. Click for pictures, reviews, and tech specs for the LG Smart TV 4K 65\" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Esportes."
+summary: "Smart TV LG QNED 4K de 65 polegadas com processador α7 AI Gen8, 4K Super Upscaling, Portal de Games e Google Cast. Compre na loja oficial LG."
 tags: ["lg", "smart", "ai", "4k", "google", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3789.55
   source: "retailer"
-  updated_at: "2026-10-19T23:19:44.877Z"
+  updated_at: "2026-10-20T10:48:57.414Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-19T23:19:44.877Z"
+    verified_at: "2026-10-20T10:48:57.414Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-19T23:19:44.877Z"
+    verified_at: "2026-10-20T10:48:57.414Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-19
+# Data de importacao: 2026-10-20
 # aw_product_id: 44183733524
 ---
 
 ## Descricao
 
-Get more information on the LG 65QNED73ASA. Click for pictures, reviews, and tech specs for the LG Smart TV 4K 65" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Esportes.
+Smart TV LG QNED 4K de 65 polegadas com processador α7 AI Gen8, 4K Super Upscaling, Portal de Games e Google Cast. Compre na loja oficial LG.

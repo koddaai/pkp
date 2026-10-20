@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultrawide/34wr50qc-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 34WR50QC-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraWide™ Curvo – Tela VA de 34”, WQHD 3440 x 1440, 21:9, sRGB 99%, HDR10, PBP, 100Hz, AMD FreeSync™ - 34WR50QC-B."
-tags: ["lg", "hdr", "ultra"]
+summary: "Monitor LG UltraWide curvo de 34\" com tela VA WQHD 21:9, 100Hz, HDR10 e sRGB 99%. Mais espaço para trabalhar e jogar. Compre na loja oficial LG."
+tags: ["lg", "ai", "hdr", "ultra"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1693.77
   source: "retailer"
-  updated_at: "2026-10-19T23:19:44.825Z"
+  updated_at: "2026-10-20T10:48:57.368Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-19T23:19:44.825Z"
+    verified_at: "2026-10-20T10:48:57.368Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-19T23:19:44.825Z"
+    verified_at: "2026-10-20T10:48:57.368Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 34
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-19
+# Data de importacao: 2026-10-20
 # aw_product_id: 44379248146
 ---
 
 ## Descricao
 
-Get more information on the LG 34WR50QC-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraWide™ Curvo – Tela VA de 34”, WQHD 3440 x 1440, 21:9, sRGB 99%, HDR10, PBP, 100Hz, AMD FreeSync™ - 34WR50QC-B.
+Monitor LG UltraWide curvo de 34" com tela VA WQHD 21:9, 100Hz, HDR10 e sRGB 99%. Mais espaço para trabalhar e jogar. Compre na loja oficial LG.

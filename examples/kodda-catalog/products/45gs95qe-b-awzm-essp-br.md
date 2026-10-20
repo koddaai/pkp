@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/45gs95qe-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Experimenta el juego como nunca antes con el Monitor gaming curvo OLED UltraGear™️ de 45”. Su impresionante pantalla OLED curvo de 44.5\" en formato 21:9 Ultra-WQHD (3440 x 1440) ofrece un brillo de 275-1300 nits y una relación de contraste de 1.5M:1 gracias a la tecnología DisplayHDR True Black 400. Con 45\" UltraGear™ OLED curved gaming monitor | 800R, DisplayHDR True Black 400, 240Hz, 0.03ms (GtG)"
-tags: ["lg", "5g", "oled", "hdr", "ultra", "gaming", "gamer"]
+summary: "Monitor gamer LG UltraGear OLED curvo de 45\", WQHD 21:9, 240Hz, 0,03ms (GtG) e HDR True Black 400. Compre na loja oficial LG."
+tags: ["lg", "5g", "oled", "hdr", "ultra", "gamer"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8051.69
   source: "retailer"
-  updated_at: "2026-10-19T23:19:44.839Z"
+  updated_at: "2026-10-20T10:48:57.380Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-19T23:19:44.839Z"
+    verified_at: "2026-10-20T10:48:57.380Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-19T23:19:44.839Z"
+    verified_at: "2026-10-20T10:48:57.380Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 44.5
+  screen_size: 45
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-19
+# Data de importacao: 2026-10-20
 # aw_product_id: 43478674884
 ---
 
 ## Descricao
 
-Experimenta el juego como nunca antes con el Monitor gaming curvo OLED UltraGear™️ de 45”. Su impresionante pantalla OLED curvo de 44.5" en formato 21:9 Ultra-WQHD (3440 x 1440) ofrece un brillo de 275-1300 nits y una relación de contraste de 1.5M:1 gracias a la tecnología DisplayHDR True Black 400. Con 45" UltraGear™ OLED curved gaming monitor | 800R, DisplayHDR True Black 400, 240Hz, 0.03ms (GtG)
+Monitor gamer LG UltraGear OLED curvo de 45", WQHD 21:9, 240Hz, 0,03ms (GtG) e HDR True Black 400. Compre na loja oficial LG.
