@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "bounce-abralbk-essp-br"
 # gtin: null
 brand: "LG"
-name: "LG xboom Bounce by will.i.am - Caixa de Som Bluetooth com Radiadores Passivos - BOUNCE"
+name: "LG xboom Grab by will.i.am | Caixa de Som Bluetooth Portátil | Som AI | 30W RMS | 20 Horas de Bateria | IP67 e Durabilidade Militar - GRAB"
 category: "audio"
 subcategory: "speaker"
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/audio/caixas-de-som-xboom/bounce/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG BOUNCE. Click for pictures, reviews, and tech specs for the LG LG xboom Bounce by will.i.am - Caixa de Som Bluetooth com Radiadores Passivos."
+summary: "Conheça a xboom Bounce, que conta com radiadores passivos duplos e o som característico da xboom, ajustado com perfeição por will.i.am. Veja mais!"
 tags: ["lg", "bluetooth", "ai"]
 
 # === PRECO ===
@@ -29,13 +29,13 @@ price:
   currency: "BRL"
   value: 809.1
   source: "retailer"
-  updated_at: "2026-08-18T20:21:41.216Z"
+  updated_at: "2026-10-22T11:00:07.116Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=43478675740&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=46401962888&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-18T20:21:41.216Z"
+    verified_at: "2026-10-22T11:00:07.116Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-18T20:21:41.216Z"
+    verified_at: "2026-10-22T11:00:07.116Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-18
-# aw_product_id: 43478675740
+# Data de importacao: 2026-10-22
+# aw_product_id: 46401962888
 ---
 
 ## Descricao
 
-Get more information on the LG BOUNCE. Click for pictures, reviews, and tech specs for the LG LG xboom Bounce by will.i.am - Caixa de Som Bluetooth com Radiadores Passivos.
+Conheça a xboom Bounce, que conta com radiadores passivos duplos e o som característico da xboom, ajustado com perfeição por will.i.am. Veja mais!

@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/55qned80bsg/"
 
 # === DESCOBERTA (L0) ===
-summary: "Smart TV LG OLED evo G6 de 65 polegadas (2026) com 4K, IA e webOS. Pixels com luz própria para preto profundo e cores reais. Compre na loja oficial LG."
-tags: ["lg", "smart", "ai", "4k", "oled", "pro"]
+summary: "Smart TV LG QNED evo Mini LED de 55 polegadas (2026) com 4K e IA. Mini LED para mais brilho e contraste, com webOS. Compre na loja oficial LG."
+tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2944.05
   source: "retailer"
-  updated_at: "2026-10-21T23:02:59.920Z"
+  updated_at: "2026-10-22T11:00:06.961Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-21T23:02:59.920Z"
+    verified_at: "2026-10-22T11:00:06.961Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-21T23:02:59.920Z"
+    verified_at: "2026-10-22T11:00:06.961Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 65
+  screen_size: 55
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-21
+# Data de importacao: 2026-10-22
 # aw_product_id: 45074047842
 ---
 
 ## Descricao
 
-Smart TV LG OLED evo G6 de 65 polegadas (2026) com 4K, IA e webOS. Pixels com luz própria para preto profundo e cores reais. Compre na loja oficial LG.
+Smart TV LG QNED evo Mini LED de 55 polegadas (2026) com 4K e IA. Mini LED para mais brilho e contraste, com webOS. Compre na loja oficial LG.

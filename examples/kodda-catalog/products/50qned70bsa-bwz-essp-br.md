@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "50qned70bsa-bwz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG QNED Mini LED AI 4K QNED70 50 polegadas 2026 - 50QNED70BSA"
+name: "LG STUDIO Cuisinière élec. de 6,3 pi³/30 po | ProBake Convection🅫, Air Sous-Vide, Air Fry, SelfClean, EasyClean🅫, intell., acier inox., encastr. - LSES6338F"
 category: "tvs"
 
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/50qned70bsa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 50QNED70BSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED Mini LED AI 4K QNED70 50 polegadas 2026."
-tags: ["lg", "smart", "ai", "4k"]
+summary: "Descubra a próxima geração de Smart TVs com IA da LG, 50QNED70BSA.BWZ , para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV 4K LG QNED AI QNED70 Mini LED de 50 polegadas."
+tags: ["lg", "smart", "ai", "4k", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2659.05
   source: "retailer"
-  updated_at: "2026-10-21T23:02:59.909Z"
+  updated_at: "2026-10-22T11:00:06.949Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-21T23:02:59.909Z"
+    verified_at: "2026-10-22T11:00:06.949Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-21T23:02:59.909Z"
+    verified_at: "2026-10-22T11:00:06.949Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-21
+# Data de importacao: 2026-10-22
 # aw_product_id: 45171039423
 ---
 
 ## Descricao
 
-Get more information on the LG 50QNED70BSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED Mini LED AI 4K QNED70 50 polegadas 2026.
+Descubra a próxima geração de Smart TVs com IA da LG, 50QNED70BSA.BWZ , para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV 4K LG QNED AI QNED70 Mini LED de 50 polegadas.
