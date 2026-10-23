@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/washtower/wk14bs6a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG WK14BS6A. Click for pictures, reviews, and tech specs for the LG Lava e Seca Torre WashTower 14kg Black Inox - 220V."
-tags: ["lg", "4k"]
+summary: "Descubra a LG WK14BS6A! Veja imagens, análises e especificações da LG Lava e Seca Smart LG WashTower 14kg Aço Escovado Preto com AI AIDD™. Saiba mais!"
+tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 14249.05
   source: "retailer"
-  updated_at: "2026-10-22T22:59:02.476Z"
+  updated_at: "2026-10-23T10:53:19.866Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-22T22:59:02.476Z"
+    verified_at: "2026-10-23T10:53:19.866Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-22T22:59:02.476Z"
+    verified_at: "2026-10-23T10:53:19.866Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":14,"unit":"kg"}
-  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-22
+# Data de importacao: 2026-10-23
 # aw_product_id: 46236837514
 ---
 
 ## Descricao
 
-Get more information on the LG WK14BS6A. Click for pictures, reviews, and tech specs for the LG Lava e Seca Torre WashTower 14kg Black Inox - 220V.
+Descubra a LG WK14BS6A! Veja imagens, análises e especificações  da LG Lava e Seca Smart LG WashTower 14kg Aço Escovado Preto com AI AIDD™. Saiba mais!
