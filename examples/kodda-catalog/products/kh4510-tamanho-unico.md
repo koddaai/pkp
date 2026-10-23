@@ -27,9 +27,9 @@ tags: ["adidas", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 299.99
+  value: 229.99
   source: "retailer"
-  updated_at: "2026-10-23T10:53:36.762Z"
+  updated_at: "2026-10-23T16:17:27.686Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T10:53:36.762Z"
+    verified_at: "2026-10-23T16:17:27.686Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T10:53:36.762Z"
+    verified_at: "2026-10-23T16:17:27.686Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
