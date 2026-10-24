@@ -1,14 +1,14 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-24T10:08:13.428Z",
+  "generated_at": "2026-10-24T15:15:09.802Z",
   "stats": {
-    "total_products": 238284,
+    "total_products": 238286,
     "categories": {
       "eletrodomesticos": 3349,
       "games": 1,
       "moda": 2,
       "notebooks": 816,
-      "outros": 222225,
+      "outros": 222227,
       "acessorios": 3510,
       "informatica": 494,
       "monitors": 1512,
@@ -24,7 +24,7 @@
       "2296": 78,
       "Electrolux": 2,
       "Sony": 117,
-      "Adidas": 100068,
+      "Adidas": 100069,
       "Nike": 34122,
       "Dell": 37,
       "Apple": 459,
@@ -179,7 +179,7 @@
       "Acer": 46,
       "ELEGOO": 3,
       "Bambu Lab": 13,
-      "Megazoo": 38,
+      "Megazoo": 39,
       "5+": 10,
       "Geonav": 14,
       "Nhs": 32,
@@ -5433,7 +5433,7 @@
       "brand": "Biofresh",
       "category": "celulares/smartphones",
       "price": {
-        "value": 359.9,
+        "value": 355.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1004190.md"
@@ -18999,7 +18999,7 @@
       "brand": "Apple",
       "category": "celulares/smartphones",
       "price": {
-        "value": 11699.1,
+        "value": 12999,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1072460.md"
@@ -25327,6 +25327,17 @@
       "path": "examples/kodda-catalog/products/1127306.md"
     },
     {
+      "sku": "1127357",
+      "name": "Ração Extrusada Megazoo para Calopsitas e Periquitos PM13 - 900 g",
+      "brand": "Megazoo",
+      "category": "outros",
+      "price": {
+        "value": 80.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/1127357.md"
+    },
+    {
       "sku": "1127373",
       "name": "Ração N&D Quinoa Pele e Pelo Cães Adultos Raças Mini Pato - 2,5 kg",
       "brand": "N&D",
@@ -25354,7 +25365,7 @@
       "brand": "Megazoo",
       "category": "celulares/smartphones",
       "price": {
-        "value": 46.39,
+        "value": 57.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1127403.md"
@@ -41066,7 +41077,7 @@
       "brand": "Hills",
       "category": "outros",
       "price": {
-        "value": 427.99,
+        "value": 438.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1159240.md"
@@ -210607,7 +210618,7 @@
       "brand": "Corsair",
       "category": "outros",
       "price": {
-        "value": 349.99,
+        "value": 499.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/433279.md"
@@ -235329,7 +235340,7 @@
       "brand": "Biofresh",
       "category": "celulares/smartphones",
       "price": {
-        "value": 431.91,
+        "value": 407.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/457540.md"
@@ -243076,7 +243087,7 @@
       "brand": "Churu",
       "category": "outros",
       "price": {
-        "value": 24.99,
+        "value": 24.84,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/465275.md"
@@ -336860,7 +336871,7 @@
       "brand": "Pipicat",
       "category": "outros",
       "price": {
-        "value": 40.9,
+        "value": 39.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/567884.md"
@@ -367402,7 +367413,7 @@
       "brand": "Gigabyte",
       "category": "monitors",
       "price": {
-        "value": 7499.99,
+        "value": 8999.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/636502.md"
@@ -372304,7 +372315,7 @@
       "brand": "Gran Plus",
       "category": "celulares/smartphones",
       "price": {
-        "value": 151.99,
+        "value": 151.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/659525.md"
@@ -397710,7 +397721,7 @@
       "brand": "Octoo",
       "category": "notebooks",
       "price": {
-        "value": 34.99,
+        "value": 44.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/77451.md"
@@ -411271,7 +411282,7 @@
       "brand": "Zootekna",
       "category": "outros",
       "price": {
-        "value": 31.99,
+        "value": 39.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/842788.md"
@@ -413414,7 +413425,7 @@
       "brand": "Gran Plus",
       "category": "celulares/smartphones",
       "price": {
-        "value": 136,
+        "value": 135.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/853925.md"
@@ -421625,7 +421636,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 329.99,
+        "value": 599.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/882194.md"
@@ -432929,7 +432940,7 @@
       "brand": "Megazoo",
       "category": "outros",
       "price": {
-        "value": 51.19,
+        "value": 63.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901385.md"
@@ -438186,7 +438197,7 @@
       "brand": "Guabi Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 104.9,
+        "value": 104.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/910031.md"
@@ -440312,7 +440323,7 @@
       "brand": "MACH1",
       "category": "outros",
       "price": {
-        "value": 229.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/912182.md"
@@ -449813,7 +449824,7 @@
       "brand": "Apple",
       "category": "celulares/smartphones",
       "price": {
-        "value": 8499.99,
+        "value": 11499,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/925348.md"
@@ -463296,7 +463307,7 @@
       "brand": "Glicopan",
       "category": "outros",
       "price": {
-        "value": 40.85,
+        "value": 39.09,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/940585.md"
@@ -470604,7 +470615,7 @@
       "brand": "Vet Life",
       "category": "outros",
       "price": {
-        "value": 20.5,
+        "value": 20.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/947512.md"
@@ -470989,7 +471000,7 @@
       "brand": "Gran Plus",
       "category": "celulares/smartphones",
       "price": {
-        "value": 124.8,
+        "value": 123.24,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/947989.md"
@@ -603144,7 +603155,7 @@
       "brand": "Guabi Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 237.99,
+        "value": 239.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/982563.md"
@@ -721456,7 +721467,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 45.07,
+        "value": 43.11,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/987948.md"
@@ -1776700,6 +1776711,17 @@
       "path": "examples/kodda-catalog/products/ih8215-0013-44.md"
     },
     {
+      "sku": "ih8215-0014-45",
+      "name": "Tênis Corrida Duramo SL 2 Homem adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 499.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ih8215-0014-45.md"
+    },
+    {
       "sku": "ih8215-0015-43",
       "name": "Tênis Corrida Duramo SL 2 Homem adidas",
       "brand": "Adidas",
@@ -2181197,7 +2181219,7 @@
       "brand": "Adidas",
       "category": "outros",
       "price": {
-        "value": 109.99,
+        "value": 99.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/ka5077-0007-2gg.md"
