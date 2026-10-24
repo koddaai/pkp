@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/3087a10025l/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 3087A10025L. Clique para ver imagens, análises e especificações técnicas da LG Tampa de proteção frontal Ar Condicionado LG LVNC549LLA0, LVNC54BLLA0, TVNC529LLA5 - 3087A10025L"
+summary: "Get more information on the LG 3087A10025L. Click for pictures, reviews, and tech specs for the LG Tampa de proteção frontal Ar Condicionado LG LVNC549LLA0, LVNC54BLLA0, TVNC529LLA5 - 3087A10025L."
 tags: ["lg", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 322.05
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.980Z"
+  updated_at: "2026-10-24T10:07:43.661Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.980Z"
+    verified_at: "2026-10-24T10:07:43.661Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.980Z"
+    verified_at: "2026-10-24T10:07:43.661Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478674795
 ---
 
 ## Descricao
 
-Descubra a LG 3087A10025L. Clique para ver imagens, análises e especificações técnicas da LG Tampa de proteção frontal Ar Condicionado LG LVNC549LLA0, LVNC54BLLA0, TVNC529LLA5 - 3087A10025L
+Get more information on the LG 3087A10025L. Click for pictures, reviews, and tech specs for the LG Tampa de proteção frontal Ar Condicionado LG LVNC549LLA0, LVNC54BLLA0, TVNC529LLA5 - 3087A10025L.

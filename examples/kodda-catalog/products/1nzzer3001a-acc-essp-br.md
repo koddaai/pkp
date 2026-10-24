@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/acessorio/1nzzer3001a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Porca de aço galvanizado"
+summary: "Get more information on the LG 1NZZER3001A. Click for pictures, reviews, and tech specs for the LG Porca Vaporizador De Ar LG S3MFBN 1NZZER3001A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.968Z"
+  updated_at: "2026-10-24T10:07:43.648Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.968Z"
+    verified_at: "2026-10-24T10:07:43.648Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.968Z"
+    verified_at: "2026-10-24T10:07:43.648Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478674757
 ---
 
 ## Descricao
 
-Porca de aço galvanizado
+Get more information on the LG 1NZZER3001A. Click for pictures, reviews, and tech specs for the LG Porca Vaporizador De Ar LG S3MFBN 1NZZER3001A.

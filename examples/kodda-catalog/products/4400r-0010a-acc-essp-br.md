@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/4400r-0010a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Junta de Borracha Vulcanizada DVD LG DN1F0H 4400R-0010A"
+summary: "Get more information on the LG 4400R-0010A. Click for pictures, reviews, and tech specs for the LG Junta de Borracha Vulcanizada DVD LG DN1F0H 4400R-0010A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-10-23T22:54:53.002Z"
+  updated_at: "2026-10-24T10:07:43.680Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:53.002Z"
+    verified_at: "2026-10-24T10:07:43.680Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:53.002Z"
+    verified_at: "2026-10-24T10:07:43.680Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478674873
 ---
 
 ## Descricao
 
-Junta de Borracha Vulcanizada DVD LG DN1F0H 4400R-0010A
+Get more information on the LG 4400R-0010A. Click for pictures, reviews, and tech specs for the LG Junta de Borracha Vulcanizada DVD LG DN1F0H 4400R-0010A.

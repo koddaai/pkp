@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/3h01487a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 3H01487A. Clique para ver imagens, análises e especificações técnicas da LG Capacitor elétrico Ar Condicionado LG LMNC092D4A0, LMNC122D4AA, TS-C122LBA1 - 3H01487A"
+summary: "Get more information on the LG 3H01487A. Click for pictures, reviews, and tech specs for the LG Capacitor elétrico Ar Condicionado LG LMNC092D4A0, LMNC122D4AA, TS-C122LBA1 - 3H01487A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.991Z"
+  updated_at: "2026-10-24T10:07:43.671Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.991Z"
+    verified_at: "2026-10-24T10:07:43.671Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.991Z"
+    verified_at: "2026-10-24T10:07:43.671Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478674835
 ---
 
 ## Descricao
 
-Descubra a LG 3H01487A. Clique para ver imagens, análises e especificações técnicas da LG Capacitor elétrico Ar Condicionado LG LMNC092D4A0, LMNC122D4AA, TS-C122LBA1 - 3H01487A
+Get more information on the LG 3H01487A. Click for pictures, reviews, and tech specs for the LG Capacitor elétrico Ar Condicionado LG LMNC092D4A0, LMNC122D4AA, TS-C122LBA1 - 3H01487A.

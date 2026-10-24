@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/3390w1a013j/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 3390W1A013J. Clique para ver imagens, análises e especificações técnicas da LG Prato giratório metálico Forno Micro-ondas LG MP-9482SR - 3390W1A013J"
+summary: "Get more information on the LG 3390W1A013J. Click for pictures, reviews, and tech specs for the LG Prato giratório metálico Forno Micro-ondas LG MP-9482SR - 3390W1A013J."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 455.05
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.985Z"
+  updated_at: "2026-10-24T10:07:43.665Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.985Z"
+    verified_at: "2026-10-24T10:07:43.665Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.985Z"
+    verified_at: "2026-10-24T10:07:43.665Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478674808
 ---
 
 ## Descricao
 
-Descubra a LG 3390W1A013J. Clique para ver imagens, análises e especificações técnicas da LG Prato giratório metálico Forno Micro-ondas LG MP-9482SR - 3390W1A013J
+Get more information on the LG 3390W1A013J. Click for pictures, reviews, and tech specs for the LG Prato giratório metálico Forno Micro-ondas LG MP-9482SR - 3390W1A013J.

@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/projectors/others/eay62990921/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre a EAY62990921. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa LG para projetores (19 V, 3,42 A, 65 W, cabo de alimentação não incluído, branco)."
-tags: ["lg", "ai", "pro"]
+summary: "Get more information on the LG EAY62990921. Click for pictures, reviews, and tech specs for the LG Fonte de alimentação externa para projetores (19 V, 3,42 A, 65 W, cabo de alimentação não incluído, branco)."
+tags: ["lg", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 265.05
   source: "retailer"
-  updated_at: "2026-10-23T22:54:53.278Z"
+  updated_at: "2026-10-24T10:07:43.971Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:53.278Z"
+    verified_at: "2026-10-24T10:07:43.971Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:53.278Z"
+    verified_at: "2026-10-24T10:07:43.971Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478676243
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre a EAY62990921. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa LG para projetores (19 V, 3,42 A, 65 W, cabo de alimentação não incluído, branco).
+Get more information on the LG EAY62990921. Click for pictures, reviews, and tech specs for the LG Fonte de alimentação externa para projetores (19 V, 3,42 A, 65 W, cabo de alimentação não incluído, branco).

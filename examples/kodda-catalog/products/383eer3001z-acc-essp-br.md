@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/383eer3001z/"
 
 # === DESCOBERTA (L0) ===
-summary: "Dispositivo (amortecedor) para sustentar o tambor de máquina de lavar roupa Próprio para uso em máquina de lavar roupa de capacidade superior a 10kg (13kg) Incluso 02 pinos"
+summary: "Get more information on the LG 383EER3001Z. Click for pictures, reviews, and tech specs for the LG Amortecedor Lavadora de Roupas LG CWG27MDCRS 383EER3001Z."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.990Z"
+  updated_at: "2026-10-24T10:07:43.670Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.990Z"
+    verified_at: "2026-10-24T10:07:43.670Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.990Z"
+    verified_at: "2026-10-24T10:07:43.670Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":10,"unit":"kg"}
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 44564914727
 ---
 
 ## Descricao
 
-Dispositivo (amortecedor) para sustentar o tambor de máquina de lavar roupa Próprio para uso em máquina de lavar roupa de capacidade superior a 10kg (13kg) Incluso 02 pinos
+Get more information on the LG 383EER3001Z. Click for pictures, reviews, and tech specs for the LG Amortecedor Lavadora de Roupas LG CWG27MDCRS 383EER3001Z.

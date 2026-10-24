@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/4036el3001a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Vedação de Borracha Secadora LG DY1119RD7 4036EL3001A"
+summary: "Get more information on the LG 4036EL3001A. Click for pictures, reviews, and tech specs for the LG Vedação de Borracha Secadora LG DY1119RD7 4036EL3001A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.994Z"
+  updated_at: "2026-10-24T10:07:43.674Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.994Z"
+    verified_at: "2026-10-24T10:07:43.674Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.994Z"
+    verified_at: "2026-10-24T10:07:43.674Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 44290564718
 ---
 
 ## Descricao
 
-Vedação de Borracha Secadora LG DY1119RD7 4036EL3001A
+Get more information on the LG 4036EL3001A. Click for pictures, reviews, and tech specs for the LG Vedação de Borracha Secadora LG DY1119RD7 4036EL3001A.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/4280a20004m/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 4280A20004M. Clique para ver imagens, análises e especificações técnicas da LG Mancal de borracha Ar Condicionado LG ARNU24GS5L2, AMNW07GDBR0, AMNW09GEBA0 - 4280A20004M"
+summary: "Get more information on the LG 4280A20004M. Click for pictures, reviews, and tech specs for the LG Mancal de borracha Ar Condicionado LG ARNU24GS5L2, AMNW07GDBR0, AMNW09GEBA0 - 4280A20004M."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.995Z"
+  updated_at: "2026-10-24T10:07:43.676Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.995Z"
+    verified_at: "2026-10-24T10:07:43.676Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.995Z"
+    verified_at: "2026-10-24T10:07:43.676Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478674854
 ---
 
 ## Descricao
 
-Descubra a LG 4280A20004M. Clique para ver imagens, análises e especificações técnicas da LG Mancal de borracha Ar Condicionado LG ARNU24GS5L2, AMNW07GDBR0, AMNW09GEBA0 - 4280A20004M
+Get more information on the LG 4280A20004M. Click for pictures, reviews, and tech specs for the LG Mancal de borracha Ar Condicionado LG ARNU24GS5L2, AMNW07GDBR0, AMNW09GEBA0 - 4280A20004M.

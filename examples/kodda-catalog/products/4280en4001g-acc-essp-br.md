@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/4280en4001g/"
 
 # === DESCOBERTA (L0) ===
-summary: "Rolamento de esfera de carga radial Diâmetro externo 80mm"
+summary: "Get more information on the LG 4280EN4001G. Click for pictures, reviews, and tech specs for the LG Rolamento de esfera de Carga radial Lavadora LG 4280EN4001G."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.996Z"
+  updated_at: "2026-10-24T10:07:43.677Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.996Z"
+    verified_at: "2026-10-24T10:07:43.677Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.996Z"
+    verified_at: "2026-10-24T10:07:43.677Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 44193354428
 ---
 
 ## Descricao
 
-Rolamento de esfera de carga radial Diâmetro externo 80mm
+Get more information on the LG 4280EN4001G. Click for pictures, reviews, and tech specs for the LG Rolamento de esfera de Carga radial Lavadora LG 4280EN4001G.

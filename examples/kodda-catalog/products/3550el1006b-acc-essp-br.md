@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/3550el1006b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Tampa plástica Próprio para uso em secadora de roupa com apacidade inferior ou igual a 23L (10L)"
+summary: "Get more information on the LG 3550EL1006B. Click for pictures, reviews, and tech specs for the LG Tampa Plástica Secadora de Roupa LG RV1329C4P 3550EL1006B."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 190.48
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.989Z"
+  updated_at: "2026-10-24T10:07:43.669Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.989Z"
+    verified_at: "2026-10-24T10:07:43.669Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.989Z"
+    verified_at: "2026-10-24T10:07:43.669Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":23,"unit":"l"}
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478674825
 ---
 
 ## Descricao
 
-Tampa plástica Próprio para uso em secadora de roupa com apacidade inferior ou igual a 23L (10L)
+Get more information on the LG 3550EL1006B. Click for pictures, reviews, and tech specs for the LG Tampa Plástica Secadora de Roupa LG RV1329C4P 3550EL1006B.

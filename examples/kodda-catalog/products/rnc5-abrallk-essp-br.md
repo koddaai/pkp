@@ -4,9 +4,9 @@ schema: pkp/1.0
 sku: "rnc5-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bluetooth speaker LG XBOOM RNC5 Karaokê Party Speaker - RNC5"
-category: "outros"
-
+name: "Torre de Som LG XBOOM Graves Potentes, Bass Boost, Iluminação Colorida, Karaokê, Party Speaker - RNC5 - RNC5"
+category: "audio"
+subcategory: "headphones"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/audio/caixas-de-som-xboom/rnc5/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG RNC5. Click for pictures, reviews, and tech specs for the LG Torre de Som LG XBOOM Graves Potentes, Bass Boost, Iluminação Colorida, Karaokê, Party Speaker - RNC5."
-tags: ["lg", "bluetooth"]
+summary: "A Caixa de Som Acústica LG Xboom RNC5 possui conexão multi Bluetooth, entrada para guitarra e microfone. Anime suas festas com a função DJ e Karaokê. Confira!"
+tags: ["lg", "bluetooth", "ai"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1079.1
   source: "retailer"
-  updated_at: "2026-10-23T22:54:53.467Z"
+  updated_at: "2026-10-24T10:07:44.169Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:53.467Z"
+    verified_at: "2026-10-24T10:07:44.169Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:53.467Z"
+    verified_at: "2026-10-24T10:07:44.169Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478677145
 ---
 
 ## Descricao
 
-Get more information on the LG RNC5. Click for pictures, reviews, and tech specs for the LG Torre de Som LG XBOOM Graves Potentes, Bass Boost, Iluminação Colorida, Karaokê, Party Speaker - RNC5.
+A Caixa de Som Acústica LG Xboom RNC5 possui conexão multi Bluetooth, entrada para guitarra e microfone. Anime suas festas com a função DJ e Karaokê. Confira!

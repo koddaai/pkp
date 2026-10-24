@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/microwave-ovens/tray/3390w1a044b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o 3390W1A044B. Clique para ver imagens, avaliações e especificações técnicas do prato de vidro para fornos de micro-ondas da LG."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG 3390W1A044B. Click for pictures, reviews, and tech specs for the LG Prato de vidro para fornos de micro-ondas."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 71.1
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.985Z"
+  updated_at: "2026-10-24T10:07:43.666Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.985Z"
+    verified_at: "2026-10-24T10:07:43.666Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.985Z"
+    verified_at: "2026-10-24T10:07:43.666Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478674809
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre o 3390W1A044B. Clique para ver imagens, avaliações e especificações técnicas do prato de vidro para fornos de micro-ondas da LG.
+Get more information on the LG 3390W1A044B. Click for pictures, reviews, and tech specs for the LG Prato de vidro para fornos de micro-ondas.

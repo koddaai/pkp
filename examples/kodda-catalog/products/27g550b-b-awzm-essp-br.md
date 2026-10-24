@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/27g550b-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Discover the 27-inch FHD 300Hz IPS gaming monitor, UltraGear™ G5 with 300Hz refresh rate, 1ms (GtG) response time, NVIDIA® G-SYNC® compatible, sRGB 99% and HDMI 2.0."
-tags: ["lg", "hdr", "premium", "pro", "ultra", "gaming", "gamer"]
+summary: "Get more information on the LG 27G550B-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear™ G550, 300Hz nativo, Tela IPS 27”, 1ms real (GtG), NVIDIA G-Sync, AMD FreeSync Premium , Ajustes Pro Gamer, HDR10, sRGB 99% , HDMI, DisplayPort, Saída para fone de ouvido, Preto - 27G550B."
+tags: ["lg", "hdr", "premium", "pro", "ultra", "gamer"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1399
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.973Z"
+  updated_at: "2026-10-24T10:07:43.653Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.973Z"
+    verified_at: "2026-10-24T10:07:43.653Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.973Z"
+    verified_at: "2026-10-24T10:07:43.653Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 46181677493
 ---
 
 ## Descricao
 
-Discover the 27-inch FHD 300Hz IPS gaming monitor, UltraGear™ G5 with 300Hz refresh rate, 1ms (GtG) response time, NVIDIA® G-SYNC® compatible, sRGB 99% and HDMI 2.0.
+Get more information on the LG 27G550B-B. Click for pictures, reviews, and tech specs for the LG Monitor LG UltraGear™ G550, 300Hz nativo, Tela IPS 27”, 1ms real (GtG), NVIDIA G-Sync, AMD FreeSync Premium , Ajustes Pro Gamer, HDR10, sRGB 99% , HDMI, DisplayPort, Saída para fone de ouvido, Preto - 27G550B.

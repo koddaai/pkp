@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/4026er4002b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Contrapino Máquina de Lavar Roupas LG WD1409RD5 4026ER4002B"
+summary: "Get more information on the LG 4026ER4002B. Click for pictures, reviews, and tech specs for the LG Contrapino Máquina de Lavar Roupas LG WD1409RD5 4026ER4002B."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.993Z"
+  updated_at: "2026-10-24T10:07:43.674Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.993Z"
+    verified_at: "2026-10-24T10:07:43.674Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.993Z"
+    verified_at: "2026-10-24T10:07:43.674Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478674848
 ---
 
 ## Descricao
 
-Contrapino Máquina de Lavar Roupas LG WD1409RD5 4026ER4002B
+Get more information on the LG 4026ER4002B. Click for pictures, reviews, and tech specs for the LG Contrapino Máquina de Lavar Roupas LG WD1409RD5 4026ER4002B.

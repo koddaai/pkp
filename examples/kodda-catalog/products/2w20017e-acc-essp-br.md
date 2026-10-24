@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/2w20017e/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 2W20017E. Clique para ver imagens, análises e especificações técnicas da LG Abraçadeira de aço Máquina de Lavar Roupas LG WD-13436RD, WD1014RWA, WD13436RN - 2W20017E"
+summary: "Get more information on the LG 2W20017E. Click for pictures, reviews, and tech specs for the LG Abraçadeira de aço Máquina de Lavar Roupas LG WD-13436RD, WD1014RWA, WD13436RN - 2W20017E."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.979Z"
+  updated_at: "2026-10-24T10:07:43.660Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.979Z"
+    verified_at: "2026-10-24T10:07:43.660Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.979Z"
+    verified_at: "2026-10-24T10:07:43.660Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478674789
 ---
 
 ## Descricao
 
-Descubra a LG 2W20017E. Clique para ver imagens, análises e especificações técnicas da LG Abraçadeira de aço Máquina de Lavar Roupas LG WD-13436RD, WD1014RWA, WD13436RN - 2W20017E
+Get more information on the LG 2W20017E. Click for pictures, reviews, and tech specs for the LG Abraçadeira de aço Máquina de Lavar Roupas LG WD-13436RD, WD1014RWA, WD13436RN - 2W20017E.

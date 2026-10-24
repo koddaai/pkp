@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/40247356/"
 
 # === DESCOBERTA (L0) ===
-summary: "Kit Cabos de Velas Ar Condicionado LG GPUW250BSSM 40247356"
+summary: "Get more information on the LG 40247356. Click for pictures, reviews, and tech specs for the LG Kit Cabos de Velas Ar Condicionado LG GPUW250BSSM 40247356."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 597.55
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.993Z"
+  updated_at: "2026-10-24T10:07:43.673Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.993Z"
+    verified_at: "2026-10-24T10:07:43.673Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.993Z"
+    verified_at: "2026-10-24T10:07:43.673Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478674847
 ---
 
 ## Descricao
 
-Kit Cabos de Velas Ar Condicionado LG GPUW250BSSM 40247356
+Get more information on the LG 40247356. Click for pictures, reviews, and tech specs for the LG Kit Cabos de Velas Ar Condicionado LG GPUW250BSSM 40247356.

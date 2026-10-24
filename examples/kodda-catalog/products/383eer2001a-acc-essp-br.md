@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/washing-machines/filter/383eer2001a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o produto 383EER2001A. Clique para ver imagens, avaliações e especificações técnicas do filtro da bomba de drenagem para lavadoras de carga frontal."
-tags: ["lg", "ai", "pro"]
+summary: "Get more information on the LG 383EER2001A. Click for pictures, reviews, and tech specs for the LG Filtro da bomba de drenagem para lavadoras de carga frontal."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-10-23T22:54:52.989Z"
+  updated_at: "2026-10-24T10:07:43.669Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.989Z"
+    verified_at: "2026-10-24T10:07:43.669Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-23T22:54:52.989Z"
+    verified_at: "2026-10-24T10:07:43.669Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-23
+# Data de importacao: 2026-10-24
 # aw_product_id: 43478674827
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre o produto 383EER2001A. Clique para ver imagens, avaliações e especificações técnicas do filtro da bomba de drenagem para lavadoras de carga frontal.
+Get more information on the LG 383EER2001A. Click for pictures, reviews, and tech specs for the LG Filtro da bomba de drenagem para lavadoras de carga frontal.
