@@ -1,14 +1,14 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-25T15:25:29.387Z",
+  "generated_at": "2026-10-25T22:19:34.197Z",
   "stats": {
-    "total_products": 238399,
+    "total_products": 238401,
     "categories": {
       "eletrodomesticos": 3349,
       "games": 1,
       "moda": 2,
       "notebooks": 816,
-      "outros": 222340,
+      "outros": 222342,
       "acessorios": 3510,
       "informatica": 494,
       "monitors": 1512,
@@ -24,7 +24,7 @@
       "2296": 78,
       "Electrolux": 2,
       "Sony": 117,
-      "Adidas": 100116,
+      "Adidas": 100118,
       "Nike": 34144,
       "Dell": 37,
       "Apple": 460,
@@ -2030,7 +2030,7 @@
       "brand": "Pet Games",
       "category": "outros",
       "price": {
-        "value": 49.9,
+        "value": 54.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1000004.md"
@@ -2987,7 +2987,7 @@
       "brand": "Amicus",
       "category": "outros",
       "price": {
-        "value": 27.99,
+        "value": 26.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1002481.md"
@@ -5280,7 +5280,7 @@
       "brand": "Biofresh",
       "category": "celulares/smartphones",
       "price": {
-        "value": 379.99,
+        "value": 379.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1004042.md"
@@ -16310,7 +16310,7 @@
       "brand": "Logitech G",
       "category": "monitors",
       "price": {
-        "value": 599.9,
+        "value": 749.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1056563.md"
@@ -25367,7 +25367,7 @@
       "brand": "Megazoo",
       "category": "celulares/smartphones",
       "price": {
-        "value": 57.99,
+        "value": 46.39,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1127403.md"
@@ -25877,7 +25877,7 @@
       "brand": "Pro Plan",
       "category": "outros",
       "price": {
-        "value": 505.99,
+        "value": 505.39,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1129449.md"
@@ -27657,7 +27657,7 @@
       "brand": "N&D",
       "category": "outros",
       "price": {
-        "value": 462.5,
+        "value": 462.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1132695.md"
@@ -28584,7 +28584,7 @@
       "brand": "ProHealth",
       "category": "outros",
       "price": {
-        "value": 73.99,
+        "value": 66.59,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1135520.md"
@@ -28661,7 +28661,7 @@
       "brand": "ProHealth",
       "category": "outros",
       "price": {
-        "value": 41.99,
+        "value": 37.79,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1135597.md"
@@ -29400,7 +29400,7 @@
       "brand": "Gran Plus",
       "category": "celulares/smartphones",
       "price": {
-        "value": 16.99,
+        "value": 16.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1137174.md"
@@ -29565,7 +29565,7 @@
       "brand": "Kong",
       "category": "outros",
       "price": {
-        "value": 139.99,
+        "value": 107.8,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1137360.md"
@@ -33129,7 +33129,7 @@
       "brand": "Hills",
       "category": "outros",
       "price": {
-        "value": 301.99,
+        "value": 301.49,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1143433.md"
@@ -41688,7 +41688,7 @@
       "brand": "Origens",
       "category": "celulares/smartphones",
       "price": {
-        "value": 172.99,
+        "value": 172.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1160680.md"
@@ -47071,7 +47071,7 @@
       "category": "eletrodomesticos",
       "subcategory": "purificador",
       "price": {
-        "value": 349.9,
+        "value": 279.92,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1169211.md"
@@ -51772,7 +51772,7 @@
       "brand": "Optimum",
       "category": "celulares/smartphones",
       "price": {
-        "value": 8.99,
+        "value": 8.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1175270.md"
@@ -56950,7 +56950,7 @@
       "brand": "Alcon",
       "category": "outros",
       "price": {
-        "value": 30.9,
+        "value": 24.72,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1182072.md"
@@ -58662,7 +58662,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 414.99,
+        "value": 320,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1183923.md"
@@ -58673,7 +58673,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 414.99,
+        "value": 290.49,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1183931.md"
@@ -58684,7 +58684,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 579.99,
+        "value": 579.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1183940.md"
@@ -58695,7 +58695,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 499.99,
+        "value": 499.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1183958.md"
@@ -58827,7 +58827,7 @@
       "brand": "N&D",
       "category": "outros",
       "price": {
-        "value": 554.99,
+        "value": 554.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1184113.md"
@@ -78133,7 +78133,7 @@
       "brand": "Noctua",
       "category": "outros",
       "price": {
-        "value": 69.99,
+        "value": 86.98,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/135833.md"
@@ -88499,7 +88499,7 @@
       "brand": "Alcon",
       "category": "outros",
       "price": {
-        "value": 54.9,
+        "value": 59.55,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/175498.md"
@@ -91197,7 +91197,7 @@
       "brand": "Alcon",
       "category": "outros",
       "price": {
-        "value": 26.32,
+        "value": 28.04,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/182311.md"
@@ -91252,7 +91252,7 @@
       "brand": "Alcon",
       "category": "outros",
       "price": {
-        "value": 23.9,
+        "value": 19.12,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/182389.md"
@@ -109717,7 +109717,7 @@
     },
     {
       "sku": "21617",
-      "name": "Meia Cano Médio de Performance Mizuno 35-38 Cinza",
+      "name": "Meia Cano Médio de Corrida Mizuno DL 35-38 Cinza",
       "brand": "Mizuno",
       "category": "outros",
       "price": {
@@ -187246,7 +187246,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 392.35,
+        "value": 464.07,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/394555.md"
@@ -230802,7 +230802,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 99.99,
+        "value": 69.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/453340.md"
@@ -230868,7 +230868,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 299.99,
+        "value": 231.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/453382.md"
@@ -235001,7 +235001,7 @@
       "brand": "Biofresh",
       "category": "celulares/smartphones",
       "price": {
-        "value": 199.99,
+        "value": 199.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/457205.md"
@@ -235034,7 +235034,7 @@
       "brand": "Biofresh",
       "category": "celulares/smartphones",
       "price": {
-        "value": 199.9,
+        "value": 199.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/457230.md"
@@ -243155,7 +243155,7 @@
       "brand": "Churu",
       "category": "outros",
       "price": {
-        "value": 24.84,
+        "value": 24.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/465275.md"
@@ -249870,7 +249870,7 @@
       "brand": "Whiskas",
       "category": "outros",
       "price": {
-        "value": 49.99,
+        "value": 49.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/471895.md"
@@ -321890,7 +321890,7 @@
       "brand": "MSI",
       "category": "outros",
       "price": {
-        "value": 1268.99,
+        "value": 1509.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/544161.md"
@@ -357741,7 +357741,7 @@
       "brand": "Husky",
       "category": "outros",
       "price": {
-        "value": 249.99,
+        "value": 399.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/593864.md"
@@ -358119,7 +358119,7 @@
       "brand": "Rise Mode",
       "category": "outros",
       "price": {
-        "value": 99.99,
+        "value": 219.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/595936.md"
@@ -358749,7 +358749,7 @@
       "brand": "Pet Clean",
       "category": "outros",
       "price": {
-        "value": 21.9,
+        "value": 19.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/600687.md"
@@ -361509,7 +361509,7 @@
       "brand": "N&D",
       "category": "outros",
       "price": {
-        "value": 526.4,
+        "value": 485,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/616427.md"
@@ -380524,7 +380524,7 @@
       "brand": "Friskies",
       "category": "outros",
       "price": {
-        "value": 3.59,
+        "value": 2.84,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/697796.md"
@@ -380702,7 +380702,7 @@
       "brand": "JBL",
       "category": "celulares/smartphones",
       "price": {
-        "value": 299.9,
+        "value": 419.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/698163.md"
@@ -390270,7 +390270,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 147.54,
+        "value": 154.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/734683.md"
@@ -392742,7 +392742,7 @@
       "brand": "MSI",
       "category": "monitors",
       "price": {
-        "value": 3899.99,
+        "value": 5000,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/751904.md"
@@ -393748,7 +393748,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 164.9,
+        "value": 169.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/755729.md"
@@ -395175,7 +395175,7 @@
       "brand": "Asus",
       "category": "outros",
       "price": {
-        "value": 3399.99,
+        "value": 3999.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/761532.md"
@@ -402114,7 +402114,7 @@
       "brand": "Furacão Pet",
       "category": "outros",
       "price": {
-        "value": 115.92,
+        "value": 144.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/792136.md"
@@ -406998,7 +406998,7 @@
       "brand": "Vet Life",
       "category": "outros",
       "price": {
-        "value": 168.39,
+        "value": 166,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/820652.md"
@@ -411362,7 +411362,7 @@
       "brand": "Zootekna",
       "category": "outros",
       "price": {
-        "value": 39.99,
+        "value": 31.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/842788.md"
@@ -427420,7 +427420,7 @@
       "brand": "Furacão Pet",
       "category": "outros",
       "price": {
-        "value": 143.99,
+        "value": 131.92,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/889415.md"
@@ -430958,7 +430958,7 @@
       "brand": "Kingston",
       "category": "celulares/smartphones",
       "price": {
-        "value": 199.9,
+        "value": 229.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/895126.md"
@@ -433053,7 +433053,7 @@
       "brand": "Megazoo",
       "category": "outros",
       "price": {
-        "value": 63.99,
+        "value": 51.19,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/901385.md"
@@ -433981,7 +433981,7 @@
       "brand": "Friskies",
       "category": "outros",
       "price": {
-        "value": 2.99,
+        "value": 2.84,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/903256.md"
@@ -439459,7 +439459,7 @@
       "brand": "N&D",
       "category": "outros",
       "price": {
-        "value": 370.4,
+        "value": 389.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/911054.md"
@@ -451397,7 +451397,7 @@
       "brand": "Redragon",
       "category": "outros",
       "price": {
-        "value": 135.9,
+        "value": 185.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/926425.md"
@@ -456570,7 +456570,7 @@
       "brand": "Redragon",
       "category": "outros",
       "price": {
-        "value": 149.99,
+        "value": 229.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/93160.md"
@@ -457837,7 +457837,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 74.99,
+        "value": 52.49,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/934097.md"
@@ -457848,7 +457848,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 154.99,
+        "value": 108.49,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/934100.md"
@@ -457881,7 +457881,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 384.99,
+        "value": 269.49,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/934143.md"
@@ -457936,7 +457936,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 159.99,
+        "value": 113.69,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/934186.md"
@@ -458079,7 +458079,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 164.99,
+        "value": 115.49,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/934313.md"
@@ -458123,7 +458123,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 84.99,
+        "value": 59.49,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/934372.md"
@@ -468761,7 +468761,7 @@
       "brand": "Zootekna",
       "category": "outros",
       "price": {
-        "value": 33.99,
+        "value": 32.79,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/946133.md"
@@ -471123,7 +471123,7 @@
       "brand": "Gran Plus",
       "category": "celulares/smartphones",
       "price": {
-        "value": 124.8,
+        "value": 124.1,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/947989.md"
@@ -481797,7 +481797,7 @@
       "brand": "N&D",
       "category": "outros",
       "price": {
-        "value": 118.5,
+        "value": 118.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/953725.md"
@@ -503371,7 +503371,7 @@
       "brand": "N&D",
       "category": "outros",
       "price": {
-        "value": 497.99,
+        "value": 497.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/965448.md"
@@ -545464,7 +545464,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 649.99,
+        "value": 699.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/976481042047.md"
@@ -601023,7 +601023,7 @@
       "brand": "Origens",
       "category": "celulares/smartphones",
       "price": {
-        "value": 199.99,
+        "value": 169.92,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/982253.md"
@@ -601199,7 +601199,7 @@
       "brand": "Origens",
       "category": "celulares/smartphones",
       "price": {
-        "value": 154.99,
+        "value": 136.73,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/982261.md"
@@ -603586,7 +603586,7 @@
       "brand": "Guabi Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 266.89,
+        "value": 275.4,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/982652.md"
@@ -757638,7 +757638,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 459.9,
+        "value": 460.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/989355.md"
@@ -783729,7 +783729,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 184.99,
+        "value": 134.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/990191.md"
@@ -784345,7 +784345,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 84.99,
+        "value": 59.59,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/990205.md"
@@ -1763388,6 +1763388,17 @@
       "path": "examples/kodda-catalog/products/ih4637-0007-38.md"
     },
     {
+      "sku": "ih4637-0007-39",
+      "name": "Tênis Crazyflight 7 Homem adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 1299.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ih4637-0007-39.md"
+    },
+    {
       "sku": "ih4637-0008-39",
       "name": "Tênis Crazyflight 7 Homem adidas",
       "brand": "Adidas",
@@ -2177430,6 +2177441,17 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/ka2666-0006-gg.md"
+    },
+    {
+      "sku": "ka2667-0001-pp",
+      "name": "Calça  Originals Wide Leg em Cetim Mulher adidas",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 329.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/ka2667-0001-pp.md"
     },
     {
       "sku": "ka2667-0002-pp",
