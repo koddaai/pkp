@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "39gx950b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraGear OLED 39GX950B 5K2K de 39” com Dual Mode (165Hz FHD 330Hz), 0,03ms (GtG), Compatível com NVIDIA G-Sync™ e AMD FreeSync™ Premium Pro, DisplayHDR™ 500 - 39GX950B-B"
+name: "Monitor LG OLED UltraGear™ 39GX950B 39”, Dual-Mode 5K2K, 0.03ms real (GtG), DisplayHDR True Black 500, NVIDIA G-Sync™, AMD FreeSync™ Premium Pro, Recursos IA, DP2.1, HDMI2.1, USB-C - 39GX950B-B"
 category: "monitors"
 
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear-oled/39gx950b-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 39GX950B-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ 39GX950B 39”, Dual-Mode 5K2K, 0.03ms real (GtG), DisplayHDR True Black 500, NVIDIA G-Sync™, AMD FreeSync™ Premium Pro, Recursos IA, DP2.1, HDMI2.1, USB-C."
-tags: ["lg", "oled", "hdr", "premium", "pro", "ultra"]
+summary: "Discover the world’s first 39-inch 5K2K Tandem OLED curved gaming monitor offering on-device AI upscaling without a graphics card upgrade and dual mode (WUHD 165Hz or WFHD 330Hz)."
+tags: ["lg", "ai", "oled", "hdr", "premium", "pro", "ultra", "gaming"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 9999
   source: "retailer"
-  updated_at: "2026-10-27T23:30:46.595Z"
+  updated_at: "2026-10-28T11:59:26.721Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-27T23:30:46.595Z"
+    verified_at: "2026-10-28T11:59:26.721Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-27T23:30:46.595Z"
+    verified_at: "2026-10-28T11:59:26.721Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-27
+# Data de importacao: 2026-10-28
 # aw_product_id: 46196598733
 ---
 
 ## Descricao
 
-Get more information on the LG 39GX950B-B. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ 39GX950B 39”, Dual-Mode 5K2K, 0.03ms real (GtG), DisplayHDR True Black 500, NVIDIA G-Sync™, AMD FreeSync™ Premium Pro, Recursos IA, DP2.1, HDMI2.1, USB-C.
+Discover the world’s first 39-inch 5K2K Tandem OLED curved gaming monitor offering on-device AI upscaling without a graphics card upgrade and dual mode (WUHD 165Hz or WFHD 330Hz).
