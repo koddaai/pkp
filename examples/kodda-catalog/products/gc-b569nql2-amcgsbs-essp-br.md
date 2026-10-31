@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-inverse/gc-b569nql2/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a eficiência da Geladeira Frost Free LG Inverter Bottom Freezer, 451L, 220V, cor preto fosco. Modernidade e economia A+++ garantidas!"
+summary: "Get more information on the LG GC-B569NQL2. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 451L Inverse Cor Black Inox (GC-B569NQL2) - 220V."
 tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3799.05
   source: "retailer"
-  updated_at: "2026-10-30T23:28:54.225Z"
+  updated_at: "2026-10-31T11:34:18.795Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-30T23:28:54.225Z"
+    verified_at: "2026-10-31T11:34:18.795Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-30T23:28:54.225Z"
+    verified_at: "2026-10-31T11:34:18.795Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -56,10 +56,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-30
+# Data de importacao: 2026-10-31
 # aw_product_id: 43478676909
 ---
 
 ## Descricao
 
-Descubra a eficiência da Geladeira Frost Free LG Inverter Bottom Freezer, 451L, 220V, cor preto fosco. Modernidade e economia A+++ garantidas!
+Get more information on the LG GC-B569NQL2. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 451L Inverse Cor Black Inox (GC-B569NQL2) - 220V.

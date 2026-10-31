@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-inverse/gc-b569nqlc/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a Geladeira LG Inverter Bottom Freezer 451 litros, 127V, alta eficiência energétcia e design premium. Acesse aqui e confira!"
-tags: ["lg", "smart", "inverter", "premium"]
+summary: "Get more information on the LG GC-B569NQLC. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 451L Inverse Cor Black Inox (GC-B569NQLC) - 127V."
+tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5224.05
   source: "retailer"
-  updated_at: "2026-10-30T23:28:54.225Z"
+  updated_at: "2026-10-31T11:34:18.796Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,23 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-30T23:28:54.225Z"
+    verified_at: "2026-10-31T11:34:18.796Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-30T23:28:54.225Z"
+    verified_at: "2026-10-31T11:34:18.796Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":451,"unit":"litros"}
+  capacity: {"value":451,"unit":"l"}
   voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-30
+# Data de importacao: 2026-10-31
 # aw_product_id: 43478676910
 ---
 
 ## Descricao
 
-Descubra a Geladeira LG Inverter Bottom Freezer 451 litros, 127V, alta eficiência energétcia e design premium. Acesse aqui e confira!
+Get more information on the LG GC-B569NQLC. Click for pictures, reviews, and tech specs for the LG Geladeira Smart LG Frost Free Inverter 451L Inverse Cor Black Inox (GC-B569NQLC) - 127V.
