@@ -1,14 +1,14 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-02T21:18:12.526Z",
+  "generated_at": "2026-11-03T02:02:26.668Z",
   "stats": {
-    "total_products": 240402,
+    "total_products": 240403,
     "categories": {
       "eletrodomesticos": 3359,
       "games": 1,
       "moda": 2,
       "notebooks": 821,
-      "outros": 224246,
+      "outros": 224247,
       "acessorios": 3517,
       "informatica": 503,
       "monitors": 1541,
@@ -25,7 +25,7 @@
       "Electrolux": 2,
       "Sony": 117,
       "Adidas": 100892,
-      "Nike": 34551,
+      "Nike": 34552,
       "Dell": 37,
       "Apple": 461,
       "LG": 3247,
@@ -735408,6 +735408,17 @@
       "path": "examples/kodda-catalog/products/9883071b2051.md"
     },
     {
+      "sku": "988307312012",
+      "name": "Camiseta Feminina Nike Manga Curta Dri-fit One Classic",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 229.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/988307312012.md"
+    },
+    {
       "sku": "988307312029",
       "name": "Camiseta Feminina Nike Manga Curta Dri-fit One Classic",
       "brand": "Nike",
@@ -810781,7 +810792,7 @@
     },
     {
       "sku": "990659030445",
-      "name": "Tênis Masculino Olympikus Grafeno 3",
+      "name": "Tênis Masculino Olympikus Corre Grafeno 3",
       "brand": "Olympikus",
       "category": "outros",
       "price": {
