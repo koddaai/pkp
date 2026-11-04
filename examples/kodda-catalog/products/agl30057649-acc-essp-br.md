@@ -6,7 +6,7 @@ sku: "agl30057649-acc-essp-br"
 brand: "LG"
 name: "Painel de Controle Lava e Seca LG CV5013EC4 AGL30057649 - AGL30057649"
 category: "eletrodomesticos"
-subcategory: "lavadora"
+subcategory: "lava-e-seca"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/agl30057649/"
 
 # === DESCOBERTA (L0) ===
-summary: "Painel de controle montado com componentes Próprio para uso em máquina de lavar roupa de capacidade superior a 10kg (13kg)"
+summary: "Get more information on the LG AGL30057649. Click for pictures, reviews, and tech specs for the LG Painel de Controle Lava e Seca LG CV5013EC4 AGL30057649."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 523.01
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.432Z"
+  updated_at: "2026-11-04T13:39:51.041Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.432Z"
+    verified_at: "2026-11-04T13:39:51.041Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.432Z"
+    verified_at: "2026-11-04T13:39:51.041Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":10,"unit":"kg"}
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Painel de controle montado com componentes Próprio para uso em máquina de lavar roupa de capacidade superior a 10kg (13kg)
+Get more information on the LG AGL30057649. Click for pictures, reviews, and tech specs for the LG Painel de Controle Lava e Seca LG CV5013EC4 AGL30057649.

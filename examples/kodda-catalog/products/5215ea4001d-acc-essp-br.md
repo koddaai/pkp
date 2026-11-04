@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/5215ea4001d/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5215EA4001D. Clique para ver imagens, análises e especificações técnicas da LG Tubo de borrracha Lavadora LG WD-1403RD, WD-1485AD, WD-1485AD5 - 5215EA4001D"
+summary: "Get more information on the LG 5215EA4001D. Click for pictures, reviews, and tech specs for the LG Tubo de borrracha Lavadora LG WD-1403RD, WD-1485AD, WD-1485AD5 - 5215EA4001D."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.329Z"
+  updated_at: "2026-11-04T13:39:49.964Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.329Z"
+    verified_at: "2026-11-04T13:39:49.964Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.329Z"
+    verified_at: "2026-11-04T13:39:49.964Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5215EA4001D. Clique para ver imagens, análises e especificações técnicas da LG Tubo de borrracha Lavadora LG WD-1403RD, WD-1485AD, WD-1485AD5 - 5215EA4001D
+Get more information on the LG 5215EA4001D. Click for pictures, reviews, and tech specs for the LG Tubo de borrracha Lavadora LG WD-1403RD, WD-1485AD, WD-1485AD5 - 5215EA4001D.

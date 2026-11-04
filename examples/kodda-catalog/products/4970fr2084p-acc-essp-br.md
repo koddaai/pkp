@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/4970fr2084p/"
 
 # === DESCOBERTA (L0) ===
-summary: "Mola Helicoidal cilíndrica de aço Para uso em máquina de lavar roupas"
+summary: "Get more information on the LG 4970FR2084P. Click for pictures, reviews, and tech specs for the LG Mola do Tanque para Lavadora LG WD13436RD 4970FR2084P."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.323Z"
+  updated_at: "2026-11-04T13:39:49.904Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.323Z"
+    verified_at: "2026-11-04T13:39:49.904Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.323Z"
+    verified_at: "2026-11-04T13:39:49.904Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Mola Helicoidal cilíndrica de aço Para uso em máquina de lavar roupas
+Get more information on the LG 4970FR2084P. Click for pictures, reviews, and tech specs for the LG Mola do Tanque para Lavadora LG WD13436RD 4970FR2084P.

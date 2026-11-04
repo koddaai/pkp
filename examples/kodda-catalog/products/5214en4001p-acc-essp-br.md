@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/5214en4001p/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5214EN4001P. Clique para ver imagens, análises e especificações técnicas da LG Tubo de borracha Lavadora LG CV9011EC4, CV5013WC4A, CV7011TC4 - 5214EN4001P"
+summary: "Get more information on the LG 5214EN4001P. Click for pictures, reviews, and tech specs for the LG Tubo de borracha Lavadora LG CV9011EC4, CV5013WC4A, CV7011TC4 - 5214EN4001P."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.328Z"
+  updated_at: "2026-11-04T13:39:49.955Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.328Z"
+    verified_at: "2026-11-04T13:39:49.955Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.328Z"
+    verified_at: "2026-11-04T13:39:49.955Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5214EN4001P. Clique para ver imagens, análises e especificações técnicas da LG Tubo de borracha Lavadora LG CV9011EC4, CV5013WC4A, CV7011TC4 - 5214EN4001P
+Get more information on the LG 5214EN4001P. Click for pictures, reviews, and tech specs for the LG Tubo de borracha Lavadora LG CV9011EC4, CV5013WC4A, CV7011TC4 - 5214EN4001P.

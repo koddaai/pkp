@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/mbl65547907/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MBL65547907. Clique para ver imagens, análises e especificações técnicas da LG Tampa Plástica Máquina de Lavar Roupas LG CV7011WS4 - MBL65547907"
+summary: "Get more information on the LG MBL65547907. Click for pictures, reviews, and tech specs for the LG Tampa Plástica Máquina de Lavar Roupas LG CV7011WS4 - MBL65547907."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.702Z"
+  updated_at: "2026-11-04T13:39:52.301Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.702Z"
+    verified_at: "2026-11-04T13:39:52.301Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.702Z"
+    verified_at: "2026-11-04T13:39:52.301Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MBL65547907. Clique para ver imagens, análises e especificações técnicas da LG Tampa Plástica Máquina de Lavar Roupas LG CV7011WS4 - MBL65547907
+Get more information on the LG MBL65547907. Click for pictures, reviews, and tech specs for the LG Tampa Plástica Máquina de Lavar Roupas LG CV7011WS4 - MBL65547907.

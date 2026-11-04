@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebg62805802/"
 
 # === DESCOBERTA (L0) ===
-summary: "Para unidade condensadora Sensor de temperatura da serpentina da condensadora formado por termistor e cabo elétrico"
+summary: "Get more information on the LG EBG62805802. Click for pictures, reviews, and tech specs for the LG Sensor de temperatura Ar Condicionado LG EBG62805802."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.590Z"
+  updated_at: "2026-11-04T13:39:52.153Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.590Z"
+    verified_at: "2026-11-04T13:39:52.153Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.590Z"
+    verified_at: "2026-11-04T13:39:52.153Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Para unidade condensadora Sensor de temperatura da serpentina da condensadora formado por termistor e cabo elétrico
+Get more information on the LG EBG62805802. Click for pictures, reviews, and tech specs for the LG Sensor de temperatura Ar Condicionado LG EBG62805802.

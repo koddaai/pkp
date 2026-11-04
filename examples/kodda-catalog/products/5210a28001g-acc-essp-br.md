@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5210a28001g/"
 
 # === DESCOBERTA (L0) ===
-summary: "Tubo Conector (Y) LG 5210A28001G, em cobre, para o trocador de calor da unidade condensadora de Ar Condicionado. Essencial para a conexão eficiente dos sistemas, garantindo o fluxo adequado de refrigerante e o desempenho ideal do equipamento."
+summary: "Get more information on the LG 5210A28001G. Click for pictures, reviews, and tech specs for the LG Tubo Conector (Y) para Ar Condicionado LG 5210A28001G."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.327Z"
+  updated_at: "2026-11-04T13:39:49.936Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.327Z"
+    verified_at: "2026-11-04T13:39:49.936Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.327Z"
+    verified_at: "2026-11-04T13:39:49.936Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Tubo Conector (Y) LG 5210A28001G, em cobre, para o trocador de calor da unidade condensadora de Ar Condicionado. Essencial para a conexão eficiente dos sistemas, garantindo o fluxo adequado de refrigerante e o desempenho ideal do equipamento.
+Get more information on the LG 5210A28001G. Click for pictures, reviews, and tech specs for the LG Tubo Conector (Y) para Ar Condicionado LG 5210A28001G.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/4986er0004p/"
 
 # === DESCOBERTA (L0) ===
-summary: "Vedação em borracha da porta (guarnição) Lavadora LG 4986ER0004P"
+summary: "Get more information on the LG 4986ER0004P. Click for pictures, reviews, and tech specs for the LG Vedação em borracha da porta (guarnição) Lavadora LG 4986ER0004P."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 233.75
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.323Z"
+  updated_at: "2026-11-04T13:39:49.905Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.323Z"
+    verified_at: "2026-11-04T13:39:49.905Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.323Z"
+    verified_at: "2026-11-04T13:39:49.905Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Vedação em borracha da porta (guarnição) Lavadora LG 4986ER0004P
+Get more information on the LG 4986ER0004P. Click for pictures, reviews, and tech specs for the LG Vedação em borracha da porta (guarnição) Lavadora LG 4986ER0004P.

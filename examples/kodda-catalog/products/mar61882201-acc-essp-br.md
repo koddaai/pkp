@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/mar61882201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MAR61882201. Clique para ver imagens, análises e especificações técnicas da LG Tubo de borracha Máquina de Lavar Roupas LG WD11EP6A - MAR61882201"
+summary: "Get more information on the LG MAR61882201. Click for pictures, reviews, and tech specs for the LG Tubo de borracha Máquina de Lavar Roupas LG WD11EP6A - MAR61882201."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.700Z"
+  updated_at: "2026-11-04T13:39:52.299Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.700Z"
+    verified_at: "2026-11-04T13:39:52.299Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.700Z"
+    verified_at: "2026-11-04T13:39:52.299Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MAR61882201. Clique para ver imagens, análises e especificações técnicas da LG Tubo de borracha Máquina de Lavar Roupas LG WD11EP6A - MAR61882201
+Get more information on the LG MAR61882201. Click for pictures, reviews, and tech specs for the LG Tubo de borracha Máquina de Lavar Roupas LG WD11EP6A - MAR61882201.

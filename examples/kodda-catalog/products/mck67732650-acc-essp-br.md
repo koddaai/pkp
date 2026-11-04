@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/mck67732650/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MCK67732650. Clique para ver imagens, análises e especificações técnicas da LG Gabinete metálico frontal Lavadora LG CV9011EC4, CV9011EC4A, CV9013EC4 - MCK67732650"
+summary: "Get more information on the LG MCK67732650. Click for pictures, reviews, and tech specs for the LG Gabinete metálico frontal Lavadora LG CV9011EC4, CV9011EC4A, CV9013EC4 - MCK67732650."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1006.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.704Z"
+  updated_at: "2026-11-04T13:39:52.304Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.704Z"
+    verified_at: "2026-11-04T13:39:52.304Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.704Z"
+    verified_at: "2026-11-04T13:39:52.304Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MCK67732650. Clique para ver imagens, análises e especificações técnicas da LG Gabinete metálico frontal Lavadora LG CV9011EC4, CV9011EC4A, CV9013EC4 - MCK67732650
+Get more information on the LG MCK67732650. Click for pictures, reviews, and tech specs for the LG Gabinete metálico frontal Lavadora LG CV9011EC4, CV9011EC4A, CV9013EC4 - MCK67732650.

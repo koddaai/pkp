@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/4620er4002c/"
 
 # === DESCOBERTA (L0) ===
-summary: "ATENÇÃO: Contém somente 01 unidade Calço de borracha vulcanizada não endurecida Utilizado no pé de borracha Para uso em máquina de lavar roupa LG"
+summary: "Get more information on the LG 4620ER4002C. Click for pictures, reviews, and tech specs for the LG Calço Lavadora de Roupas LG WDS12MPAC 4620ER4002C."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 26
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.315Z"
+  updated_at: "2026-11-04T13:39:49.667Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.315Z"
+    verified_at: "2026-11-04T13:39:49.667Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.315Z"
+    verified_at: "2026-11-04T13:39:49.667Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-ATENÇÃO: Contém somente 01 unidade Calço de borracha vulcanizada não endurecida Utilizado no pé de borracha Para uso em máquina de lavar roupa LG
+Get more information on the LG 4620ER4002C. Click for pictures, reviews, and tech specs for the LG Calço Lavadora de Roupas LG WDS12MPAC 4620ER4002C.

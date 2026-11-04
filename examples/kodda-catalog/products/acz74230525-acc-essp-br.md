@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/acz74230525/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ACZ74230525. Clique para ver imagens, análises e especificações técnicas da LG Dispenser de sabão Lavadora LG CV5010WG4A, CV5011WG4A, CV7011TC4 - ACZ74230525"
+summary: "Get more information on the LG ACZ74230525. Click for pictures, reviews, and tech specs for the LG Dispenser de sabão Lavadora LG CV5010WG4A, CV5011WG4A, CV7011TC4 - ACZ74230525."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.389Z"
+  updated_at: "2026-11-04T13:39:50.692Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.389Z"
+    verified_at: "2026-11-04T13:39:50.692Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.389Z"
+    verified_at: "2026-11-04T13:39:50.692Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ACZ74230525. Clique para ver imagens, análises e especificações técnicas da LG Dispenser de sabão Lavadora LG CV5010WG4A, CV5011WG4A, CV7011TC4 - ACZ74230525
+Get more information on the LG ACZ74230525. Click for pictures, reviews, and tech specs for the LG Dispenser de sabão Lavadora LG CV5010WG4A, CV5011WG4A, CV7011TC4 - ACZ74230525.

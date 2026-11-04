@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/4781jr2005u/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 4781JR2005U. Clique para ver imagens, análises e especificações técnicas da LG Sensor de temperatura Refrigerador LG GC-L216BSK - 4781JR2005U"
+summary: "Get more information on the LG 4781JR2005U. Click for pictures, reviews, and tech specs for the LG Sensor de temperatura Refrigerador LG GC-L216BSK - 4781JR2005U."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.321Z"
+  updated_at: "2026-11-04T13:39:49.844Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.321Z"
+    verified_at: "2026-11-04T13:39:49.844Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.321Z"
+    verified_at: "2026-11-04T13:39:49.844Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 4781JR2005U. Clique para ver imagens, análises e especificações técnicas da LG Sensor de temperatura Refrigerador LG GC-L216BSK - 4781JR2005U
+Get more information on the LG 4781JR2005U. Click for pictures, reviews, and tech specs for the LG Sensor de temperatura Refrigerador LG GC-L216BSK - 4781JR2005U.

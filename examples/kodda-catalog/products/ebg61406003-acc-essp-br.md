@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebg61406003/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBG61406003. Clique para ver imagens, análises e especificações técnicas da LG Termistor (NTC) Ar Condicionado LG ATUW36GYLP0, AUUQ36GH2, AVUQ36GM1A0 - EBG61406003"
+summary: "Get more information on the LG EBG61406003. Click for pictures, reviews, and tech specs for the LG Termistor (NTC) Ar Condicionado LG ATUW36GYLP0, AUUQ36GH2, AVUQ36GM1A0 - EBG61406003."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.588Z"
+  updated_at: "2026-11-04T13:39:52.150Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.588Z"
+    verified_at: "2026-11-04T13:39:52.150Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.588Z"
+    verified_at: "2026-11-04T13:39:52.150Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBG61406003. Clique para ver imagens, análises e especificações técnicas da LG Termistor (NTC) Ar Condicionado LG ATUW36GYLP0, AUUQ36GH2, AVUQ36GM1A0 - EBG61406003
+Get more information on the LG EBG61406003. Click for pictures, reviews, and tech specs for the LG Termistor (NTC) Ar Condicionado LG ATUW36GYLP0, AUUQ36GH2, AVUQ36GM1A0 - EBG61406003.

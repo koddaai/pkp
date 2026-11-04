@@ -5,7 +5,7 @@ sku: "eat62833604-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa BLUETOOTH Mini System LG CK43-FB, CK56-AB, CK99-AB - EAT62833604 - EAT62833604 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eat62833604/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAT62833604. Clique para ver imagens, análises e especificações técnicas da LG Placa BLUETOOTH Mini System LG CK43-FB, CK56-AB, CK99-AB - EAT62833604"
+summary: "Get more information on the LG EAT62833604. Click for pictures, reviews, and tech specs for the LG Placa BLUETOOTH Mini System LG CK43-FB, CK56-AB, CK99-AB - EAT62833604."
 tags: ["lg", "bluetooth"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.546Z"
+  updated_at: "2026-11-04T13:39:52.106Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.546Z"
+    verified_at: "2026-11-04T13:39:52.106Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.546Z"
+    verified_at: "2026-11-04T13:39:52.106Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAT62833604. Clique para ver imagens, análises e especificações técnicas da LG Placa BLUETOOTH Mini System LG CK43-FB, CK56-AB, CK99-AB - EAT62833604
+Get more information on the LG EAT62833604. Click for pictures, reviews, and tech specs for the LG Placa BLUETOOTH Mini System LG CK43-FB, CK56-AB, CK99-AB - EAT62833604.

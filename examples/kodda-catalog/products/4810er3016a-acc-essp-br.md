@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/4810er3016a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 4810ER3016A. Clique para ver imagens, análises e especificações técnicas da LG Suporte metálico de aço Lava e Seca LG WD-1403RD5, F14U1FCNK8, FH4U1JBSK2 - 4810ER3016A"
+summary: "Get more information on the LG 4810ER3016A. Click for pictures, reviews, and tech specs for the LG Suporte metálico de aço Lava e Seca LG WD-1403RD5, F14U1FCNK8, FH4U1JBSK2 - 4810ER3016A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.321Z"
+  updated_at: "2026-11-04T13:39:49.845Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.321Z"
+    verified_at: "2026-11-04T13:39:49.845Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.321Z"
+    verified_at: "2026-11-04T13:39:49.845Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 4810ER3016A. Clique para ver imagens, análises e especificações técnicas da LG Suporte metálico de aço Lava e Seca LG WD-1403RD5, F14U1FCNK8, FH4U1JBSK2 - 4810ER3016A
+Get more information on the LG 4810ER3016A. Click for pictures, reviews, and tech specs for the LG Suporte metálico de aço Lava e Seca LG WD-1403RD5, F14U1FCNK8, FH4U1JBSK2 - 4810ER3016A.

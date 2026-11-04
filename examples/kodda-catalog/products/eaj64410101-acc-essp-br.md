@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj64410101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Tela de cristal líquido (Módulo) TV LG 75UK6520PSA - EAJ64410101"
+summary: "Get more information on the LG EAJ64410101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) TV LG 75UK6520PSA - EAJ64410101."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2602.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.522Z"
+  updated_at: "2026-11-04T13:39:52.077Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.522Z"
+    verified_at: "2026-11-04T13:39:52.077Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.522Z"
+    verified_at: "2026-11-04T13:39:52.077Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Tela de cristal líquido (Módulo) TV LG 75UK6520PSA - EAJ64410101
+Get more information on the LG EAJ64410101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) TV LG 75UK6520PSA - EAJ64410101.

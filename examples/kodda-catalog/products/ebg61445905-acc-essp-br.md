@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebg61445905/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBG61445905. Clique para ver imagens, análises e especificações técnicas da LG Termistor NTC Ar Condicionado LG A5UW30GFA0, ATUW60GYLP0, AUUQ18GH1 - EBG61445905"
+summary: "Get more information on the LG EBG61445905. Click for pictures, reviews, and tech specs for the LG Termistor NTC Ar Condicionado LG A5UW30GFA0, ATUW60GYLP0, AUUQ18GH1 - EBG61445905."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.589Z"
+  updated_at: "2026-11-04T13:39:52.151Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.589Z"
+    verified_at: "2026-11-04T13:39:52.151Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.589Z"
+    verified_at: "2026-11-04T13:39:52.151Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBG61445905. Clique para ver imagens, análises e especificações técnicas da LG Termistor NTC Ar Condicionado LG A5UW30GFA0, ATUW60GYLP0, AUUQ18GH1 - EBG61445905
+Get more information on the LG EBG61445905. Click for pictures, reviews, and tech specs for the LG Termistor NTC Ar Condicionado LG A5UW30GFA0, ATUW60GYLP0, AUUQ18GH1 - EBG61445905.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/4974el1003b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Tampa plástica do filtro tela de fiapos da secadora LG"
+summary: "Get more information on the LG 4974EL1003B. Click for pictures, reviews, and tech specs for the LG Tampa do Filtro Secadora de Roupa LG RV1329C4P 4974EL1003B."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 24.48
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.323Z"
+  updated_at: "2026-11-04T13:39:49.905Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.323Z"
+    verified_at: "2026-11-04T13:39:49.905Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.323Z"
+    verified_at: "2026-11-04T13:39:49.905Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Tampa plástica do filtro tela de fiapos da secadora LG
+Get more information on the LG 4974EL1003B. Click for pictures, reviews, and tech specs for the LG Tampa do Filtro Secadora de Roupa LG RV1329C4P 4974EL1003B.

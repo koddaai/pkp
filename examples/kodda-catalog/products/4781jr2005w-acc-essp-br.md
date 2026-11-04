@@ -5,8 +5,8 @@ sku: "4781jr2005w-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Controle descongelamento Regrigerador LG GC-P216BSK1 - 4781JR2005W - 4781JR2005W"
-category: "outros"
-
+category: "eletrodomesticos"
+subcategory: "refrigerador"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/4781jr2005w/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 4781JR2005W. Click for pictures, reviews, and tech specs for the LG Controle descongelamento Regrigerador LG GC-P216BSK1 - 4781JR2005W."
+summary: "Get more information on the LG 4781JR2005W. Click for pictures, reviews, and tech specs for the LG Sensor Degelo Refrigerador LG GC-P216BSK1 4781JR2005W."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.321Z"
+  updated_at: "2026-11-04T13:39:49.845Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.321Z"
+    verified_at: "2026-11-04T13:39:49.845Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.321Z"
+    verified_at: "2026-11-04T13:39:49.845Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 4781JR2005W. Click for pictures, reviews, and tech specs for the LG Controle descongelamento Regrigerador LG GC-P216BSK1 - 4781JR2005W.
+Get more information on the LG 4781JR2005W. Click for pictures, reviews, and tech specs for the LG Sensor Degelo Refrigerador LG GC-P216BSK1 4781JR2005W.

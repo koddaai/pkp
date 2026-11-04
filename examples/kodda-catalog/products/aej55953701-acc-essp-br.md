@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/aej55953701/"
 
 # === DESCOBERTA (L0) ===
-summary: "Suporte plástico com parafuso Lavadora LG AEJ55953701"
+summary: "Get more information on the LG AEJ55953701. Click for pictures, reviews, and tech specs for the LG Suporte plástico com parafuso Lavadora LG AEJ55953701."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 50.88
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.407Z"
+  updated_at: "2026-11-04T13:39:50.814Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.407Z"
+    verified_at: "2026-11-04T13:39:50.814Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.407Z"
+    verified_at: "2026-11-04T13:39:50.814Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Suporte plástico com parafuso Lavadora LG AEJ55953701
+Get more information on the LG AEJ55953701. Click for pictures, reviews, and tech specs for the LG Suporte plástico com parafuso Lavadora LG AEJ55953701.

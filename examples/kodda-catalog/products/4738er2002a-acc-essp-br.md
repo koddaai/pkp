@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/4738er2002a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 4738ER2002A. Click for pictures, reviews, and tech specs for the LG Tubo de borracha saída de ar Lavadora LG WD-12320RD, WD11WCS6A, WD1252RD - 4738ER2002A."
+summary: "Get more information on the LG 4738ER2002A. Click for pictures, reviews, and tech specs for the LG Tubo de Borracha Saída de Ar Lavadora LG WD-12320RD 4738ER2002A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.320Z"
+  updated_at: "2026-11-04T13:39:49.786Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.320Z"
+    verified_at: "2026-11-04T13:39:49.786Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.320Z"
+    verified_at: "2026-11-04T13:39:49.786Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 4738ER2002A. Click for pictures, reviews, and tech specs for the LG Tubo de borracha saída de ar Lavadora LG WD-12320RD, WD11WCS6A, WD1252RD - 4738ER2002A.
+Get more information on the LG 4738ER2002A. Click for pictures, reviews, and tech specs for the LG Tubo de Borracha Saída de Ar Lavadora LG WD-12320RD 4738ER2002A.

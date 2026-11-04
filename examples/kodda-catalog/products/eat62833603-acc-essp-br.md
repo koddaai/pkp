@@ -5,7 +5,7 @@ sku: "eat62833603-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa bluetooth Mini System LG CM4350, CJ44, CJ65 - EAT62833603 - EAT62833603"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 170.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.545Z"
+  updated_at: "2026-11-04T13:39:52.106Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.545Z"
+    verified_at: "2026-11-04T13:39:52.106Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.545Z"
+    verified_at: "2026-11-04T13:39:52.106Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

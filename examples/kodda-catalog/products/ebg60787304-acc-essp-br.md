@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebg60787304/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBG60787304. Clique para ver imagens, análises e especificações técnicas da LG Termistor (NTC) Ar Condicionado LG ASNQ182CSA1, AMNW07GSJA0, AMNW09GSJA0 - EBG60787304"
+summary: "Get more information on the LG EBG60787304. Click for pictures, reviews, and tech specs for the LG Termistor (NTC) Ar Condicionado LG ASNQ182CSA1, AMNW07GSJA0, AMNW09GSJA0 - EBG60787304."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.583Z"
+  updated_at: "2026-11-04T13:39:52.144Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.583Z"
+    verified_at: "2026-11-04T13:39:52.144Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.583Z"
+    verified_at: "2026-11-04T13:39:52.144Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBG60787304. Clique para ver imagens, análises e especificações técnicas da LG Termistor (NTC) Ar Condicionado LG ASNQ182CSA1, AMNW07GSJA0, AMNW09GSJA0 - EBG60787304
+Get more information on the LG EBG60787304. Click for pictures, reviews, and tech specs for the LG Termistor (NTC) Ar Condicionado LG ASNQ182CSA1, AMNW07GSJA0, AMNW09GSJA0 - EBG60787304.

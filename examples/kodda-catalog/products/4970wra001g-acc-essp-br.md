@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-forno-micro-ondas/peca-de-reposicao/4970wra001g/"
 
 # === DESCOBERTA (L0) ===
-summary: "Mola helicoidal cilíndrica de aço Extrusion HSW3 T0.2 Diâmetro 0.8 LATCH LGEUS MV1648ADL"
+summary: "Get more information on the LG 4970WRA001G. Click for pictures, reviews, and tech specs for the LG Mola Helicoidal Forno Micro Ondas LG MH7043R 4970WRA001G."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 43.17
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.323Z"
+  updated_at: "2026-11-04T13:39:49.905Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.323Z"
+    verified_at: "2026-11-04T13:39:49.905Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.323Z"
+    verified_at: "2026-11-04T13:39:49.905Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Mola helicoidal cilíndrica de aço  Extrusion HSW3  T0.2  Diâmetro 0.8  LATCH LGEUS MV1648ADL
+Get more information on the LG 4970WRA001G. Click for pictures, reviews, and tech specs for the LG Mola Helicoidal Forno Micro Ondas LG MH7043R 4970WRA001G.

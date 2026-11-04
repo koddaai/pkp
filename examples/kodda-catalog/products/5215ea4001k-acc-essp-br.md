@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/5215ea4001k/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5215EA4001K. Clique para ver imagens, análises e especificações técnicas da LG Tubo de borracha Lavadora LG CV7011WS4A, CV9011EC4, CV9013WC4A - 5215EA4001K"
+summary: "Get more information on the LG 5215EA4001K. Click for pictures, reviews, and tech specs for the LG Tubo de borracha Lavadora LG CV7011WS4A, CV9011EC4, CV9013WC4A - 5215EA4001K."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.329Z"
+  updated_at: "2026-11-04T13:39:49.984Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.329Z"
+    verified_at: "2026-11-04T13:39:49.984Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.329Z"
+    verified_at: "2026-11-04T13:39:49.984Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5215EA4001K. Clique para ver imagens, análises e especificações técnicas da LG Tubo de borracha Lavadora LG CV7011WS4A, CV9011EC4, CV9013WC4A - 5215EA4001K
+Get more information on the LG 5215EA4001K. Click for pictures, reviews, and tech specs for the LG Tubo de borracha Lavadora LG CV7011WS4A, CV9011EC4, CV9013WC4A - 5215EA4001K.

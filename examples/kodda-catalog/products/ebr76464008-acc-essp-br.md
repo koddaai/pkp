@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr76464008/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa eeprom da unidade evaporadora"
+summary: "Get more information on the LG EBR76464008. Click for pictures, reviews, and tech specs for the LG Placa Eeprom Ar Condicionado LG EBR76464008."
 tags: ["lg", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.613Z"
+  updated_at: "2026-11-04T13:39:52.198Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.613Z"
+    verified_at: "2026-11-04T13:39:52.198Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.613Z"
+    verified_at: "2026-11-04T13:39:52.198Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa eeprom da unidade evaporadora
+Get more information on the LG EBR76464008. Click for pictures, reviews, and tech specs for the LG Placa Eeprom Ar Condicionado LG EBR76464008.

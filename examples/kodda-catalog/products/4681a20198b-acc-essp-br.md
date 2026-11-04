@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/4681a20198b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 4681A20198B. Clique para ver imagens, análises e especificações técnicas da LG Motor de corrente contínua Ar Condicionado LG URNU36GVKA2, CRNU36GVKA2 - 4681A20198B"
+summary: "Get more information on the LG 4681A20198B. Click for pictures, reviews, and tech specs for the LG Motor de corrente contínua Ar Condicionado LG URNU36GVKA2, CRNU36GVKA2 - 4681A20198B."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1177.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.317Z"
+  updated_at: "2026-11-04T13:39:49.687Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.317Z"
+    verified_at: "2026-11-04T13:39:49.687Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.317Z"
+    verified_at: "2026-11-04T13:39:49.687Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 4681A20198B. Clique para ver imagens, análises e especificações técnicas da LG Motor de corrente contínua Ar Condicionado LG URNU36GVKA2, CRNU36GVKA2 - 4681A20198B
+Get more information on the LG 4681A20198B. Click for pictures, reviews, and tech specs for the LG Motor de corrente contínua Ar Condicionado LG URNU36GVKA2, CRNU36GVKA2 - 4681A20198B.

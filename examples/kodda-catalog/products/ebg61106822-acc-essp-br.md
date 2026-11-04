@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebg61106822/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBG61106822. Clique para ver imagens, análises e especificações técnicas da LG Termistor (NTC) Ar Condicionado LG ARNU24GBHA2, CRNU12GBHA4, CRNU09GBHA2 - EBG61106822"
+summary: "Get more information on the LG EBG61106822. Click for pictures, reviews, and tech specs for the LG Termistor (NTC) Ar Condicionado LG ARNU24GBHA2, CRNU12GBHA4, CRNU09GBHA2 - EBG61106822."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.584Z"
+  updated_at: "2026-11-04T13:39:52.145Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.584Z"
+    verified_at: "2026-11-04T13:39:52.145Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.584Z"
+    verified_at: "2026-11-04T13:39:52.145Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -62,4 +62,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBG61106822. Clique para ver imagens, análises e especificações técnicas da LG Termistor (NTC) Ar Condicionado LG ARNU24GBHA2, CRNU12GBHA4, CRNU09GBHA2 - EBG61106822
+Get more information on the LG EBG61106822. Click for pictures, reviews, and tech specs for the LG Termistor (NTC) Ar Condicionado LG ARNU24GBHA2, CRNU12GBHA4, CRNU09GBHA2 - EBG61106822.

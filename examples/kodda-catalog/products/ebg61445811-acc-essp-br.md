@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebg61445811/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBG61445811. Clique para ver imagens, análises e especificações técnicas da LG Termistor NTC Ar Condicionado LG A3UW21GFA0, A2UW16GFA2, A2UW18GFA2 - EBG61445811"
+summary: "Get more information on the LG EBG61445811. Click for pictures, reviews, and tech specs for the LG Termistor NTC Ar Condicionado LG A3UW21GFA0, A2UW16GFA2, A2UW18GFA2 - EBG61445811."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.589Z"
+  updated_at: "2026-11-04T13:39:52.151Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.589Z"
+    verified_at: "2026-11-04T13:39:52.151Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.589Z"
+    verified_at: "2026-11-04T13:39:52.151Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBG61445811. Clique para ver imagens, análises e especificações técnicas da LG Termistor NTC Ar Condicionado LG A3UW21GFA0, A2UW16GFA2, A2UW18GFA2 - EBG61445811
+Get more information on the LG EBG61445811. Click for pictures, reviews, and tech specs for the LG Termistor NTC Ar Condicionado LG A3UW21GFA0, A2UW16GFA2, A2UW18GFA2 - EBG61445811.

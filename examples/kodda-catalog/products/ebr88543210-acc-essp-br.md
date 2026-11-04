@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr88543210/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR88543210. Clique para ver imagens, análises e especificações técnicas da LG Placa principal evaporadora Ar Condicionado LG S4NQ18KL31A - EBR88543210"
+summary: "Get more information on the LG EBR88543210. Click for pictures, reviews, and tech specs for the LG Placa principal evaporadora Ar Condicionado LG S4NQ18KL31A - EBR88543210."
 tags: ["lg", "8k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 626.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.648Z"
+  updated_at: "2026-11-04T13:39:52.240Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.648Z"
+    verified_at: "2026-11-04T13:39:52.240Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.648Z"
+    verified_at: "2026-11-04T13:39:52.240Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR88543210. Clique para ver imagens, análises e especificações técnicas da LG Placa principal evaporadora Ar Condicionado LG S4NQ18KL31A - EBR88543210
+Get more information on the LG EBR88543210. Click for pictures, reviews, and tech specs for the LG Placa principal evaporadora Ar Condicionado LG S4NQ18KL31A - EBR88543210.

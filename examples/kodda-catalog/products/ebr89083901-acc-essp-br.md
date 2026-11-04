@@ -5,7 +5,7 @@ sku: "ebr89083901-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa Fonte Mini System LG CL87-AB, CL87-FB, CL88-AB - EBR89083901 - EBR89083901"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 673.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.652Z"
+  updated_at: "2026-11-04T13:39:52.244Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.652Z"
+    verified_at: "2026-11-04T13:39:52.244Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.652Z"
+    verified_at: "2026-11-04T13:39:52.244Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

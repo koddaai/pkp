@@ -5,7 +5,7 @@ sku: "mbn62627502-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Gabinete Home Theater LG BH6730S - MBN62627502 - MBN62627502 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.702Z"
+  updated_at: "2026-11-04T13:39:52.301Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.702Z"
+    verified_at: "2026-11-04T13:39:52.301Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.702Z"
+    verified_at: "2026-11-04T13:39:52.301Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

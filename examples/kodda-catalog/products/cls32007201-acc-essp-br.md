@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/cls32007201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Sensor para medida de temperatura e pressão, para bombas de calor do tipo GHP (gas heat pump)"
+summary: "Get more information on the LG CLS32007201. Click for pictures, reviews, and tech specs for the LG Sensor de temperatura e pressão da bomba Ar Condicionado GHP LG CLS32007201."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 683.24
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.474Z"
+  updated_at: "2026-11-04T13:39:52.021Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.474Z"
+    verified_at: "2026-11-04T13:39:52.021Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.474Z"
+    verified_at: "2026-11-04T13:39:52.021Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Sensor para medida de temperatura e pressão, para bombas de calor do tipo GHP (gas heat pump)
+Get more information on the LG CLS32007201. Click for pictures, reviews, and tech specs for the LG Sensor de temperatura e pressão da bomba Ar Condicionado GHP LG CLS32007201.

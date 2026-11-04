@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-audio/peca-de-reposicao/ebr72912708/"
 
 # === DESCOBERTA (L0) ===
-summary: "Condutor isolado para usos elétricos Sem peças de conexão 300v Para Home Theater"
+summary: "Get more information on the LG EBR72912708. Click for pictures, reviews, and tech specs for the LG Condutor Elétrico Home Theater LG BH7220BW EBR72912708."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.609Z"
+  updated_at: "2026-11-04T13:39:52.176Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.609Z"
+    verified_at: "2026-11-04T13:39:52.176Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.609Z"
+    verified_at: "2026-11-04T13:39:52.176Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Condutor isolado para usos elétricos Sem peças de conexão 300v Para Home Theater
+Get more information on the LG EBR72912708. Click for pictures, reviews, and tech specs for the LG Condutor Elétrico Home Theater LG BH7220BW EBR72912708.

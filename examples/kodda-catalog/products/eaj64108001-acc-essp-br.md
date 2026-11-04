@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj64108001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAJ64108001. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (BA) TV LG EAJ64108001"
+summary: "Get more information on the LG EAJ64108001. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG EAJ64108001."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1709.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.522Z"
+  updated_at: "2026-11-04T13:39:52.076Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.522Z"
+    verified_at: "2026-11-04T13:39:52.076Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.522Z"
+    verified_at: "2026-11-04T13:39:52.076Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAJ64108001. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (BA) TV LG EAJ64108001
+Get more information on the LG EAJ64108001. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG EAJ64108001.

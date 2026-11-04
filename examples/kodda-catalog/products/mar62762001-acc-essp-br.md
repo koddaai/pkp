@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/mar62762001/"
 
 # === DESCOBERTA (L0) ===
-summary: "LG FV3011WG4 MAR62762001 Washing Machine Rubber Tube"
+summary: "Get more information on the LG MAR62762001. Click for pictures, reviews, and tech specs for the LG Tubo de Borracha Lavadora de Roupas LG FV3011WG4 MAR62762001."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 41.89
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.701Z"
+  updated_at: "2026-11-04T13:39:52.299Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.701Z"
+    verified_at: "2026-11-04T13:39:52.299Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.701Z"
+    verified_at: "2026-11-04T13:39:52.299Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-LG FV3011WG4 MAR62762001 Washing Machine Rubber Tube
+Get more information on the LG MAR62762001. Click for pictures, reviews, and tech specs for the LG Tubo de Borracha Lavadora de Roupas LG FV3011WG4 MAR62762001.

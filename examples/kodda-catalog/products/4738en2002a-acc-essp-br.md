@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/4738en2002a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 4738EN2002A. Clique para ver imagens, análises e especificações técnicas da LG Tubo de borracha Lavadora LG WD-1485TDA - 4738EN2002A"
+summary: "Get more information on the LG 4738EN2002A. Click for pictures, reviews, and tech specs for the LG Tubo de borracha Lavadora LG WD-1485TDA - 4738EN2002A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.319Z"
+  updated_at: "2026-11-04T13:39:49.746Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.319Z"
+    verified_at: "2026-11-04T13:39:49.746Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.319Z"
+    verified_at: "2026-11-04T13:39:49.746Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 4738EN2002A. Clique para ver imagens, análises e especificações técnicas da LG Tubo de borracha Lavadora LG WD-1485TDA - 4738EN2002A
+Get more information on the LG 4738EN2002A. Click for pictures, reviews, and tech specs for the LG Tubo de borracha Lavadora LG WD-1485TDA - 4738EN2002A.

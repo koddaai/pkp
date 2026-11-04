@@ -27,9 +27,9 @@ tags: ["lg", "ai", "dolby", "pro", "sem-fio"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2699.1
+  value: 2969.1
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.747Z"
+  updated_at: "2026-11-04T13:39:52.352Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.747Z"
+    verified_at: "2026-11-04T13:39:52.352Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.747Z"
+    verified_at: "2026-11-04T13:39:52.352Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-duplex/gn-b452pffq/"
 
 # === DESCOBERTA (L0) ===
-summary: "Alimentos frescos com tecnologia de ponta.Conheça a geladeira LG GN-B452PFFQ 461L Frost Free Inverter Duplex e compre em até 12x s/ juros no site LG!Saiba mais!"
-tags: ["lg", "ai", "inverter"]
+summary: "Get more information on the LG GN-B452PFFQ. Click for pictures, reviews, and tech specs for the LG Geladeira LG Frost Free Inverter 461L Duplex Cor Inox Look - 110V."
+tags: ["lg", "inverter"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4559.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.695Z"
+  updated_at: "2026-11-04T13:39:52.292Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,16 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.695Z"
+    verified_at: "2026-11-04T13:39:52.292Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.695Z"
+    verified_at: "2026-11-04T13:39:52.292Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":461,"unit":"l"}
+  voltage: "110V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +62,4 @@ specs:
 
 ## Descricao
 
-Alimentos frescos com tecnologia de ponta.Conheça a geladeira LG GN-B452PFFQ 461L Frost Free Inverter Duplex e compre em até 12x s/ juros no site LG!Saiba mais!
+Get more information on the LG GN-B452PFFQ. Click for pictures, reviews, and tech specs for the LG Geladeira LG Frost Free Inverter 461L Duplex Cor Inox Look - 110V.

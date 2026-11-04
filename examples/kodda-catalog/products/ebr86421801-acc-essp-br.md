@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr86421801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR86421801. Clique para ver imagens, análises e especificações técnicas da LG Plava WI-FI Ar Condicionado LG S4NQ09WA51C, S4NW12JARXB, S4NW18KL31C - EBR86421801"
+summary: "Get more information on the LG EBR86421801. Click for pictures, reviews, and tech specs for the LG Placa WI-FI Ar Condicionado LG S4NQ09WA51C, S4NW12JARXB, S4NW18KL31C - EBR86421801."
 tags: ["lg", "8k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.643Z"
+  updated_at: "2026-11-04T13:39:52.233Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.643Z"
+    verified_at: "2026-11-04T13:39:52.233Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.643Z"
+    verified_at: "2026-11-04T13:39:52.233Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR86421801. Clique para ver imagens, análises e especificações técnicas da LG Plava WI-FI Ar Condicionado LG S4NQ09WA51C, S4NW12JARXB, S4NW18KL31C - EBR86421801
+Get more information on the LG EBR86421801. Click for pictures, reviews, and tech specs for the LG Placa WI-FI Ar Condicionado LG S4NQ09WA51C, S4NW12JARXB, S4NW18KL31C - EBR86421801.

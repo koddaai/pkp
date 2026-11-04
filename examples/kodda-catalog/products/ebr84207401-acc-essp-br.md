@@ -5,7 +5,7 @@ sku: "ebr84207401-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa modulo WI-FI e Bluetooth LG 43UJ6300 - EBR84207401 - EBR84207401 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr84207401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR84207401. Clique para ver imagens, análises e especificações técnicas da LG Placa modulo WI-FI e Bluetooth LG 43UJ6300 - EBR84207401"
+summary: "Get more information on the LG EBR84207401. Click for pictures, reviews, and tech specs for the LG Placa modulo WI-FI e Bluetooth LG 43UJ6300 - EBR84207401."
 tags: ["lg", "bluetooth"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.633Z"
+  updated_at: "2026-11-04T13:39:52.222Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.633Z"
+    verified_at: "2026-11-04T13:39:52.222Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.633Z"
+    verified_at: "2026-11-04T13:39:52.222Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR84207401. Clique para ver imagens, análises e especificações técnicas da LG Placa modulo WI-FI e Bluetooth LG 43UJ6300 - EBR84207401
+Get more information on the LG EBR84207401. Click for pictures, reviews, and tech specs for the LG Placa modulo WI-FI e Bluetooth LG 43UJ6300 - EBR84207401.

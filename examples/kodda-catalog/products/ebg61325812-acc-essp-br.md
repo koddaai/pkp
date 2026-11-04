@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebg61325812/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBG61325812. Clique para ver imagens, análises e especificações técnicas da LG Termistor NTC Ar Condicionado LG ASUQ182CSA1, ASUW092B1U0, ASUW1223WB0 - EBG61325812"
+summary: "Get more information on the LG EBG61325812. Click for pictures, reviews, and tech specs for the LG Termistor NTC Ar Condicionado LG ASUQ182CSA1, ASUW092B1U0, ASUW1223WB0 - EBG61325812."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.588Z"
+  updated_at: "2026-11-04T13:39:52.149Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.588Z"
+    verified_at: "2026-11-04T13:39:52.149Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.588Z"
+    verified_at: "2026-11-04T13:39:52.149Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBG61325812. Clique para ver imagens, análises e especificações técnicas da LG Termistor NTC Ar Condicionado LG ASUQ182CSA1, ASUW092B1U0, ASUW1223WB0 - EBG61325812
+Get more information on the LG EBG61325812. Click for pictures, reviews, and tech specs for the LG Termistor NTC Ar Condicionado LG ASUQ182CSA1, ASUW092B1U0, ASUW1223WB0 - EBG61325812.

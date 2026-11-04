@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj64088801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Tela de cristal líquido (Módulo) TV LG 32LJ520B, 32LJ600B, 32LJ601C - EAJ64088801"
+summary: "Get more information on the LG EAJ64088801. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) TV LG 32LJ520B, 32LJ600B, 32LJ601C - EAJ64088801."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 550.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.521Z"
+  updated_at: "2026-11-04T13:39:52.076Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.521Z"
+    verified_at: "2026-11-04T13:39:52.076Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.521Z"
+    verified_at: "2026-11-04T13:39:52.076Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Tela de cristal líquido (Módulo) TV LG 32LJ520B, 32LJ600B, 32LJ601C - EAJ64088801
+Get more information on the LG EAJ64088801. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) TV LG 32LJ520B, 32LJ600B, 32LJ601C - EAJ64088801.

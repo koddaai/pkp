@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/4932ja3002b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 4932JA3002B. Clique para ver imagens, análises e especificações técnicas da LG Conexão para tubo Refrigerador LG GR-P277BTBA, GC-J257CSFS, GC-L216BSK - 4932JA3002B"
+summary: "Get more information on the LG 4932JA3002B. Click for pictures, reviews, and tech specs for the LG Conexão para tubo Refrigerador LG GR-P277BTBA, GC-J257CSFS, GC-L216BSK - 4932JA3002B."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.06
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.322Z"
+  updated_at: "2026-11-04T13:39:49.886Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.322Z"
+    verified_at: "2026-11-04T13:39:49.886Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.322Z"
+    verified_at: "2026-11-04T13:39:49.886Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 4932JA3002B. Clique para ver imagens, análises e especificações técnicas da LG Conexão para tubo Refrigerador LG GR-P277BTBA, GC-J257CSFS, GC-L216BSK - 4932JA3002B
+Get more information on the LG 4932JA3002B. Click for pictures, reviews, and tech specs for the LG Conexão para tubo Refrigerador LG GR-P277BTBA, GC-J257CSFS, GC-L216BSK - 4932JA3002B.

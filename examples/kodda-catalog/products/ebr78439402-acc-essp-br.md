@@ -5,7 +5,7 @@ sku: "ebr78439402-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa principal DVD Player LG DP132 - EBR78439402 - EBR78439402 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr78439402/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR78439402. Clique para ver imagens, análises e especificações técnicas da LG Placa principal DVD Player LG DP132 - EBR78439402"
+summary: "Get more information on the LG EBR78439402. Click for pictures, reviews, and tech specs for the LG Placa principal DVD Player LG DP132 - EBR78439402."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.617Z"
+  updated_at: "2026-11-04T13:39:52.203Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.617Z"
+    verified_at: "2026-11-04T13:39:52.203Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.617Z"
+    verified_at: "2026-11-04T13:39:52.203Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR78439402. Clique para ver imagens, análises e especificações técnicas da LG Placa principal DVD Player LG DP132 - EBR78439402
+Get more information on the LG EBR78439402. Click for pictures, reviews, and tech specs for the LG Placa principal DVD Player LG DP132 - EBR78439402.

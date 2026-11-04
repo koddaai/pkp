@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/geladeiras/geladeiras-duplex/gn-b372pfm2/"
 
 # === DESCOBERTA (L0) ===
-summary: "Geladeira LG Duplex GN-B372PFM2: tecnologia, eficiência e design moderno para sua cozinha. Capacidade ideal e resfriamento avançado. Saiba mais!"
-tags: ["lg", "smart", "ai", "inverter"]
+summary: "Get more information on the LG GN-B372PFM2. Click for pictures, reviews, and tech specs for the LG Geladeira Duplex LG 375L Inox Look com Compressor Smart Inverter."
+tags: ["lg", "smart", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 3134.05
+  value: 3324.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.693Z"
+  updated_at: "2026-11-04T13:39:52.290Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.693Z"
+    verified_at: "2026-11-04T13:39:52.290Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.693Z"
+    verified_at: "2026-11-04T13:39:52.290Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  capacity: {"value":375,"unit":"l"}
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Geladeira LG Duplex GN-B372PFM2: tecnologia, eficiência e design moderno para sua cozinha. Capacidade ideal e resfriamento avançado. Saiba mais!
+Get more information on the LG GN-B372PFM2. Click for pictures, reviews, and tech specs for the LG Geladeira Duplex LG 375L Inox Look com Compressor Smart Inverter.

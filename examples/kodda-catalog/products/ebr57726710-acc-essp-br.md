@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr57726710/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso eeprom"
+summary: "Get more information on the LG EBR57726710. Click for pictures, reviews, and tech specs for the LG Placa Eeprom Ar Condicionado LG EBR57726710."
 tags: ["lg", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 135.89
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.607Z"
+  updated_at: "2026-11-04T13:39:52.173Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.607Z"
+    verified_at: "2026-11-04T13:39:52.173Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.607Z"
+    verified_at: "2026-11-04T13:39:52.173Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso eeprom
+Get more information on the LG EBR57726710. Click for pictures, reviews, and tech specs for the LG Placa Eeprom Ar Condicionado LG EBR57726710.

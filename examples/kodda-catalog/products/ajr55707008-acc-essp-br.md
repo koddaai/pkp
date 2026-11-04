@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ajr55707008/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AJR55707008. Clique para ver imagens, análises e especificações técnicas da LG Válvula expansão Ar Condicionado LG ARNU07GTUB4, ARNU09GTUB4, ARNU12GTUA4 - AJR55707008"
+summary: "Get more information on the LG AJR55707008. Click for pictures, reviews, and tech specs for the LG Válvula expansão Ar Condicionado LG ARNU07GTUB4, ARNU09GTUB4, ARNU12GTUA4 - AJR55707008."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 350.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.449Z"
+  updated_at: "2026-11-04T13:39:51.970Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.449Z"
+    verified_at: "2026-11-04T13:39:51.970Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.449Z"
+    verified_at: "2026-11-04T13:39:51.970Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AJR55707008. Clique para ver imagens, análises e especificações técnicas da LG Válvula expansão Ar Condicionado LG ARNU07GTUB4, ARNU09GTUB4, ARNU12GTUA4 - AJR55707008
+Get more information on the LG AJR55707008. Click for pictures, reviews, and tech specs for the LG Válvula expansão Ar Condicionado LG ARNU07GTUB4, ARNU09GTUB4, ARNU12GTUA4 - AJR55707008.

@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/cov37818001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo de visualização de tela (Ecrã), plana, modelo: LCB20Hb7ESGB03H0X, de 32 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de cristal líquido Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG COV37818001. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo TV LG 32LR600BPSA COV37818001."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1053.55
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.478Z"
+  updated_at: "2026-11-04T13:39:52.025Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.478Z"
+    verified_at: "2026-11-04T13:39:52.025Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.478Z"
+    verified_at: "2026-11-04T13:39:52.025Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 32
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulo de visualização de tela (Ecrã), plana, modelo: LCB20Hb7ESGB03H0X, de 32 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de cristal líquido Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)
+Get more information on the LG COV37818001. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo TV LG 32LR600BPSA COV37818001.

@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/agf04105304/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo de visualização de tela (Ecrã), plana, modelo: HC500DQG-VKDA2, de 50 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de cristal líquido Display completo e cabos flat (EAD64666302 / EAD64666301) Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AGF04105304. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo TV LG 50UP7750PSB EAJ65666701."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1779.84
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.412Z"
+  updated_at: "2026-11-04T13:39:50.832Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.412Z"
+    verified_at: "2026-11-04T13:39:50.832Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.412Z"
+    verified_at: "2026-11-04T13:39:50.832Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 50
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulo de visualização de tela (Ecrã), plana, modelo: HC500DQG-VKDA2, de 50 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de cristal líquido Display completo e cabos flat (EAD64666302 / EAD64666301) Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)
+Get more information on the LG AGF04105304. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo TV LG 50UP7750PSB EAJ65666701.

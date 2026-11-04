@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/agu33163368/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGU33163368. Clique para ver imagens, análises e especificações técnicas da LG Tampa Superior Gabinete Máquina de Lavar Roupas LG CV5011TS4 - AGU33163368"
+summary: "Get more information on the LG AGU33163368. Click for pictures, reviews, and tech specs for the LG Tampa Superior Gabinete Máquina de Lavar Roupas LG CV5011TS4 - AGU33163368."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 360.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.439Z"
+  updated_at: "2026-11-04T13:39:51.720Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.439Z"
+    verified_at: "2026-11-04T13:39:51.720Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.439Z"
+    verified_at: "2026-11-04T13:39:51.720Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AGU33163368. Clique para ver imagens, análises e especificações técnicas da LG Tampa Superior Gabinete Máquina de Lavar Roupas LG CV5011TS4 - AGU33163368
+Get more information on the LG AGU33163368. Click for pictures, reviews, and tech specs for the LG Tampa Superior Gabinete Máquina de Lavar Roupas LG CV5011TS4 - AGU33163368.

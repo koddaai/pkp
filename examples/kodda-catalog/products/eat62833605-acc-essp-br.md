@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eat62833605/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Bluetooth Aparelho Mini System LG CK43 EAT62833605"
+summary: "Get more information on the LG EAT62833605. Click for pictures, reviews, and tech specs for the LG Placa Bluetooth Aparelho Mini System LG CK43 EAT62833605."
 tags: ["lg", "bluetooth"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.546Z"
+  updated_at: "2026-11-04T13:39:52.106Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.546Z"
+    verified_at: "2026-11-04T13:39:52.106Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.546Z"
+    verified_at: "2026-11-04T13:39:52.106Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa Bluetooth Aparelho Mini System LG CK43 EAT62833605
+Get more information on the LG EAT62833605. Click for pictures, reviews, and tech specs for the LG Placa Bluetooth Aparelho Mini System LG CK43 EAT62833605.

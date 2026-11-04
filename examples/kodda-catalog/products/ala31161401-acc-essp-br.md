@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ala31161401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ALA31161401. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (Módulo) TV LG 50UP7550PSF - ALA31161401"
+summary: "Get more information on the LG ALA31161401. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) TV LG 50UP7550PSF - ALA31161401."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1063.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.471Z"
+  updated_at: "2026-11-04T13:39:52.018Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.471Z"
+    verified_at: "2026-11-04T13:39:52.018Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.471Z"
+    verified_at: "2026-11-04T13:39:52.018Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ALA31161401. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (Módulo) TV LG 50UP7550PSF - ALA31161401
+Get more information on the LG ALA31161401. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) TV LG 50UP7550PSF - ALA31161401.

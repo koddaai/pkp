@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aba73168201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ABA73168201. Clique para ver imagens, análises e especificações técnicas da LG Suporte Metálico Ar Condicionado LG ASNW092HDW0, A2UW18GFAC, A4UW30GFA - ABA73168201"
+summary: "Get more information on the LG ABA73168201. Click for pictures, reviews, and tech specs for the LG Suporte Metálico Ar Condicionado LG ASNW092HDW0, A2UW18GFAC, A4UW30GFA - ABA73168201."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.374Z"
+  updated_at: "2026-11-04T13:39:50.613Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.374Z"
+    verified_at: "2026-11-04T13:39:50.613Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.374Z"
+    verified_at: "2026-11-04T13:39:50.613Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ABA73168201. Clique para ver imagens, análises e especificações técnicas da LG Suporte Metálico Ar Condicionado LG ASNW092HDW0, A2UW18GFAC, A4UW30GFA - ABA73168201
+Get more information on the LG ABA73168201. Click for pictures, reviews, and tech specs for the LG Suporte Metálico Ar Condicionado LG ASNW092HDW0, A2UW18GFAC, A4UW30GFA - ABA73168201.

@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/washing-machines/others/4620er4002b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o produto 4620ER4002B. Clique para ver imagens, avaliações e especificações do calço antiderrapante de borracha para lavadoras de roupas LG (para piso de madeira)."
-tags: ["lg", "ai", "pro"]
+summary: "Get more information on the LG 4620ER4002B. Click for pictures, reviews, and tech specs for the LG Calço antiderrapante de borracha para lavadoras de roupas LG."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 54.11
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.315Z"
+  updated_at: "2026-11-04T13:39:49.666Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.315Z"
+    verified_at: "2026-11-04T13:39:49.666Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.315Z"
+    verified_at: "2026-11-04T13:39:49.666Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o produto 4620ER4002B. Clique para ver imagens, avaliações e especificações do calço antiderrapante de borracha para lavadoras de roupas LG (para piso de madeira).
+Get more information on the LG 4620ER4002B. Click for pictures, reviews, and tech specs for the LG Calço antiderrapante de borracha para lavadoras de roupas LG.

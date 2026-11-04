@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/6871a20554a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 6871A20554A. Clique para ver imagens, análises e especificações técnicas da LG Placa Ar Condicionado LG PQDSA - 6871A20554A"
+summary: "Get more information on the LG 6871A20554A. Click for pictures, reviews, and tech specs for the LG Placa Ar Condicionado LG PQDSA - 6871A20554A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 204.34
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.355Z"
+  updated_at: "2026-11-04T13:39:50.433Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.355Z"
+    verified_at: "2026-11-04T13:39:50.433Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.355Z"
+    verified_at: "2026-11-04T13:39:50.433Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 6871A20554A. Clique para ver imagens, análises e especificações técnicas da LG Placa Ar Condicionado LG PQDSA - 6871A20554A
+Get more information on the LG 6871A20554A. Click for pictures, reviews, and tech specs for the LG Placa Ar Condicionado LG PQDSA - 6871A20554A.

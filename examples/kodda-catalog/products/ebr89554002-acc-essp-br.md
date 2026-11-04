@@ -5,7 +5,7 @@ sku: "ebr89554002-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa fonte Mini System LG CJ98 - EBR89554002 - EBR89554002"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 778.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.654Z"
+  updated_at: "2026-11-04T13:39:52.246Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.654Z"
+    verified_at: "2026-11-04T13:39:52.246Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.654Z"
+    verified_at: "2026-11-04T13:39:52.246Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
