@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/aha74013903/"
 
 # === DESCOBERTA (L0) ===
-summary: "Bomba centrífuga com vazão de 0,4 litros por minuto com bep (ponto de maxima eficiência) de 0,024m3/h Monofásico Potência de 0,005cv 4W 12V"
-tags: ["lg", "max"]
+summary: "Get more information on the LG AHA74013903. Click for pictures, reviews, and tech specs for the LG Bomba Centrífuga Ar Condicionado LG ARNU24GTSC4 AHA74013903."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 305.24
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.350Z"
+  updated_at: "2026-11-05T13:52:24.813Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.350Z"
+    verified_at: "2026-11-05T13:52:24.813Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.350Z"
+    verified_at: "2026-11-05T13:52:24.813Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":4,"unit":"litros"}
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Bomba centrífuga com vazão de 0,4 litros por minuto com bep (ponto de maxima eficiência) de 0,024m3/h Monofásico Potência de 0,005cv 4W 12V
+Get more information on the LG AHA74013903. Click for pictures, reviews, and tech specs for the LG Bomba Centrífuga Ar Condicionado LG ARNU24GTSC4 AHA74013903.

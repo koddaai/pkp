@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr85102061/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para ar condicionado"
+summary: "Get more information on the LG EBR85102061. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4NW30L43FA EBR85102061."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 379.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.518Z"
+  updated_at: "2026-11-05T13:52:25.007Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.518Z"
+    verified_at: "2026-11-05T13:52:25.007Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.518Z"
+    verified_at: "2026-11-05T13:52:25.007Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para ar condicionado
+Get more information on the LG EBR85102061. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4NW30L43FA EBR85102061.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead63990608/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAD63990608. Clique para ver imagens, análises e especificações técnicas da LG Cabo flat TV LG 32LK610BPSA - EAD63990608"
+summary: "Get more information on the LG EAD63990608. Click for pictures, reviews, and tech specs for the LG Cabo flat TV LG 32LK610BPSA - EAD63990608."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.404Z"
+  updated_at: "2026-11-05T13:52:24.874Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.404Z"
+    verified_at: "2026-11-05T13:52:24.874Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.404Z"
+    verified_at: "2026-11-05T13:52:24.874Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAD63990608. Clique para ver imagens, análises e especificações técnicas da LG Cabo flat TV LG 32LK610BPSA - EAD63990608
+Get more information on the LG EAD63990608. Click for pictures, reviews, and tech specs for the LG Cabo flat TV LG 32LK610BPSA - EAD63990608.

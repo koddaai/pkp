@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/meg41149603/"
 
 # === DESCOBERTA (L0) ===
-summary: "Suporte plástico (pp) lateral do mancal"
+summary: "Get more information on the LG MEG41149603. Click for pictures, reviews, and tech specs for the LG Suporte Serpentina Ar Condicionado LG ARNU09GTUB4 MEG41149603."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.588Z"
+  updated_at: "2026-11-05T13:52:25.086Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.588Z"
+    verified_at: "2026-11-05T13:52:25.086Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.588Z"
+    verified_at: "2026-11-05T13:52:25.086Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Suporte plástico (pp) lateral do mancal
+Get more information on the LG MEG41149603. Click for pictures, reviews, and tech specs for the LG Suporte Serpentina Ar Condicionado LG ARNU09GTUB4 MEG41149603.

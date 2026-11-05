@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/agf30110401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Kit régua de LED TV LG 55UP7550PSF AGF30110401"
+summary: "Get more information on the LG AGF30110401. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UP7550PSF AGF30110401."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.326Z"
+  updated_at: "2026-11-05T13:52:24.788Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.326Z"
+    verified_at: "2026-11-05T13:52:24.788Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.326Z"
+    verified_at: "2026-11-05T13:52:24.788Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Kit régua de LED TV LG 55UP7550PSF AGF30110401
+Get more information on the LG AGF30110401. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UP7550PSF AGF30110401.

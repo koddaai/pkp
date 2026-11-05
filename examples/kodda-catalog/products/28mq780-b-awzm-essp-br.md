@@ -27,9 +27,9 @@ tags: ["lg", "hdr", "pro"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3582.19
+  value: 3489.35
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.205Z"
+  updated_at: "2026-11-05T13:52:24.674Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.205Z"
+    verified_at: "2026-11-05T13:52:24.674Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.205Z"
+    verified_at: "2026-11-05T13:52:24.674Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

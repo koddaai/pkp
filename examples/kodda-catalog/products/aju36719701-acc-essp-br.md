@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aju36719701/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AJU36719701. Clique para ver imagens, análises e especificações técnicas da LG Válvula Solenóide Ar Condicionado LG ARUN120LT2, ARUN080LTS4, ARUN100BLS4 - AJU36719701"
+summary: "Get more information on the LG AJU36719701. Click for pictures, reviews, and tech specs for the LG Válvula Solenóide Ar Condicionado LG ARUN120LT2, ARUN080LTS4, ARUN100BLS4 - AJU36719701."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1777.64
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.359Z"
+  updated_at: "2026-11-05T13:52:24.822Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.359Z"
+    verified_at: "2026-11-05T13:52:24.822Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.359Z"
+    verified_at: "2026-11-05T13:52:24.822Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AJU36719701. Clique para ver imagens, análises e especificações técnicas da LG Válvula Solenóide Ar Condicionado LG ARUN120LT2, ARUN080LTS4, ARUN100BLS4 - AJU36719701
+Get more information on the LG AJU36719701. Click for pictures, reviews, and tech specs for the LG Válvula Solenóide Ar Condicionado LG ARUN120LT2, ARUN080LTS4, ARUN100BLS4 - AJU36719701.

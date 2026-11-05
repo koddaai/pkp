@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eaj65897199/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo de visualização de tela (Ecrã), plana, modelo: AC650AQW-CSA1, de 65 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers)e circuito de controle Display completo Não acompanha demais peças que constituem o Televisor (cabos, placas principais)"
-tags: ["lg", "ai", "oled"]
+summary: "Get more information on the LG EAJ65897199. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo TV LG OLED65C4PSA EAJ65897199."
+tags: ["lg", "oled"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6331.65
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.436Z"
+  updated_at: "2026-11-05T13:52:24.918Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.436Z"
+    verified_at: "2026-11-05T13:52:24.918Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.436Z"
+    verified_at: "2026-11-05T13:52:24.918Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 65
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulo de visualização de tela (Ecrã), plana, modelo: AC650AQW-CSA1, de 65 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers)e circuito de controle Display completo Não acompanha demais peças que constituem o Televisor (cabos, placas principais)
+Get more information on the LG EAJ65897199. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo TV LG OLED65C4PSA EAJ65897199.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf30092307/"
 
 # === DESCOBERTA (L0) ===
-summary: "Contém 05 barras de LED Quantidade de LED por barra: 05 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED"
+summary: "Get more information on the LG AGF30092307. Click for pictures, reviews, and tech specs for the LG Kit Régua de LED TV LG AGF30092307."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 265.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.325Z"
+  updated_at: "2026-11-05T13:52:24.787Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.325Z"
+    verified_at: "2026-11-05T13:52:24.787Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.325Z"
+    verified_at: "2026-11-05T13:52:24.787Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Contém 05 barras de LED Quantidade de LED por barra: 05 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED
+Get more information on the LG AGF30092307. Click for pictures, reviews, and tech specs for the LG Kit Régua de LED TV LG AGF30092307.

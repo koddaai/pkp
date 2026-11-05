@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/aan75811006/"
 
 # === DESCOBERTA (L0) ===
-summary: "Base do gabinete da unidade condensadora De metal comum Para aparelho de ar condicionado"
+summary: "Get more information on the LG AAN75811006. Click for pictures, reviews, and tech specs for the LG Base do Gabinete Ar Condicionado LG USUQ122HSG3 AAN75811006."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 118.84
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.279Z"
+  updated_at: "2026-11-05T13:52:24.742Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.279Z"
+    verified_at: "2026-11-05T13:52:24.742Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.279Z"
+    verified_at: "2026-11-05T13:52:24.742Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "110V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Base do gabinete da unidade condensadora De metal comum Para aparelho de ar condicionado
+Get more information on the LG AAN75811006. Click for pictures, reviews, and tech specs for the LG Base do Gabinete Ar Condicionado LG USUQ122HSG3 AAN75811006.

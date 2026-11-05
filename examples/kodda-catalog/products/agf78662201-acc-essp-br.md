@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-informatica/agf78662201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGF78662201. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED Monitor Signage LG 65LS33A-5D - AGF78662201"
+summary: "Get more information on the LG AGF78662201. Click for pictures, reviews, and tech specs for the LG Kit régua de LED Monitor Signage LG 65LS33A-5D - AGF78662201."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 322.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.334Z"
+  updated_at: "2026-11-05T13:52:24.796Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.334Z"
+    verified_at: "2026-11-05T13:52:24.796Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.334Z"
+    verified_at: "2026-11-05T13:52:24.796Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AGF78662201. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED Monitor Signage LG 65LS33A-5D - AGF78662201
+Get more information on the LG AGF78662201. Click for pictures, reviews, and tech specs for the LG Kit régua de LED Monitor Signage LG 65LS33A-5D - AGF78662201.

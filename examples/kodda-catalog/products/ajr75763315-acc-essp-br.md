@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ajr75763315/"
 
 # === DESCOBERTA (L0) ===
-summary: "Tubo capilar dobrado montado com tubo de ligação Para sistema de refrigeração da unidade condensadora do condicionador de ar LG tipo Split System"
+summary: "Get more information on the LG AJR75763315. Click for pictures, reviews, and tech specs for the LG Tubo Capilar Ar Condicionado LG S3UQ09AA31A AJR75763315."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.357Z"
+  updated_at: "2026-11-05T13:52:24.820Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.357Z"
+    verified_at: "2026-11-05T13:52:24.820Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.357Z"
+    verified_at: "2026-11-05T13:52:24.820Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Tubo capilar dobrado montado com tubo de ligação Para sistema de refrigeração da unidade condensadora do condicionador de ar LG tipo Split System
+Get more information on the LG AJR75763315. Click for pictures, reviews, and tech specs for the LG Tubo Capilar Ar Condicionado LG S3UQ09AA31A AJR75763315.

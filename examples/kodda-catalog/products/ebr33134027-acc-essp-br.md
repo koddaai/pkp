@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr33134027/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para unidade evaporadora"
+summary: "Get more information on the LG EBR33134027. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4NW24K2RXE EBR33134027."
 tags: ["lg", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 303.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.483Z"
+  updated_at: "2026-11-05T13:52:24.969Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.483Z"
+    verified_at: "2026-11-05T13:52:24.969Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.483Z"
+    verified_at: "2026-11-05T13:52:24.969Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para unidade evaporadora
+Get more information on the LG EBR33134027. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4NW24K2RXE EBR33134027.

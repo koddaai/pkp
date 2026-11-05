@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5220a90013e/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5220A90013E. Clique para ver imagens, análises e especificações técnicas da LG Válvula de expansão termostática Ar Condicionado LG A3UW21GFA2, A5UQ48GFA0, A5UW40GFA0 - 5220A90013E"
+summary: "Get more information on the LG 5220A90013E. Click for pictures, reviews, and tech specs for the LG Válvula de expansão termostática Ar Condicionado LG A3UW21GFA2, A5UQ48GFA0, A5UW40GFA0 - 5220A90013E."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.244Z"
+  updated_at: "2026-11-05T13:52:24.709Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.244Z"
+    verified_at: "2026-11-05T13:52:24.709Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.244Z"
+    verified_at: "2026-11-05T13:52:24.709Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5220A90013E. Clique para ver imagens, análises e especificações técnicas da LG Válvula de expansão termostática Ar Condicionado LG A3UW21GFA2, A5UQ48GFA0, A5UW40GFA0 - 5220A90013E
+Get more information on the LG 5220A90013E. Click for pictures, reviews, and tech specs for the LG Válvula de expansão termostática Ar Condicionado LG A3UW21GFA2, A5UQ48GFA0, A5UW40GFA0 - 5220A90013E.

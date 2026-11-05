@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead64666228/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAD64666228. Clique para ver imagens, análises e especificações técnicas da LG Cabo Flat TV LG 50UP7750PSB, 50UQ751C0SF, 50UQ801C0SB - EAD64666228"
+summary: "Get more information on the LG EAD64666228. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG 50UP7750PSB, 50UQ751C0SF, 50UQ801C0SB - EAD64666228."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.405Z"
+  updated_at: "2026-11-05T13:52:24.876Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.405Z"
+    verified_at: "2026-11-05T13:52:24.876Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.405Z"
+    verified_at: "2026-11-05T13:52:24.876Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAD64666228. Clique para ver imagens, análises e especificações técnicas da LG Cabo Flat TV LG 50UP7750PSB, 50UQ751C0SF, 50UQ801C0SB - EAD64666228
+Get more information on the LG EAD64666228. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG 50UP7750PSB, 50UQ751C0SF, 50UQ801C0SB - EAD64666228.

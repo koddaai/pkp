@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5858a10001l/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5858A10001L. Clique para ver imagens, análises e especificações técnicas da LG Bomba de drenagem de água Ar Condicionado LG URNU76GB8A2, LRNU48GBRA0, URNU96GB8Z2 - 5858A10001L"
+summary: "Get more information on the LG 5858A10001L. Click for pictures, reviews, and tech specs for the LG Bomba de drenagem de água Ar Condicionado LG URNU76GB8A2, LRNU48GBRA0, URNU96GB8Z2 - 5858A10001L."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 246.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.251Z"
+  updated_at: "2026-11-05T13:52:24.715Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.251Z"
+    verified_at: "2026-11-05T13:52:24.715Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.251Z"
+    verified_at: "2026-11-05T13:52:24.715Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -62,4 +62,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5858A10001L. Clique para ver imagens, análises e especificações técnicas da LG Bomba de drenagem de água Ar Condicionado LG URNU76GB8A2, LRNU48GBRA0, URNU96GB8Z2 - 5858A10001L
+Get more information on the LG 5858A10001L. Click for pictures, reviews, and tech specs for the LG Bomba de drenagem de água Ar Condicionado LG URNU76GB8A2, LRNU48GBRA0, URNU96GB8Z2 - 5858A10001L.

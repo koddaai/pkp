@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead63990602/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAD63990602. Clique para ver imagens, análises e especificações técnicas da LG Cabo Flat TV LG 32LJ520B, 32LQ621CBSB, 32LT330HBSB - EAD63990602"
+summary: "Get more information on the LG EAD63990602. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG 32LJ520B, 32LQ621CBSB, 32LT330HBSB - EAD63990602."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.404Z"
+  updated_at: "2026-11-05T13:52:24.874Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.404Z"
+    verified_at: "2026-11-05T13:52:24.874Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.404Z"
+    verified_at: "2026-11-05T13:52:24.874Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAD63990602. Clique para ver imagens, análises e especificações técnicas da LG Cabo Flat TV LG 32LJ520B, 32LQ621CBSB, 32LT330HBSB - EAD63990602
+Get more information on the LG EAD63990602. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG 32LJ520B, 32LQ621CBSB, 32LT330HBSB - EAD63990602.

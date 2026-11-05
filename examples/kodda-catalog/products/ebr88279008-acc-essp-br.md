@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr88279008/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso secundária Montada com componentes eletroeletrônicos"
+summary: "Get more information on the LG EBR88279008. Click for pictures, reviews, and tech specs for the LG Placa Secundária Ar Condicionado LG ARUN120BTE5 EBR88279008."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 11969.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.530Z"
+  updated_at: "2026-11-05T13:52:25.021Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.530Z"
+    verified_at: "2026-11-05T13:52:25.021Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.530Z"
+    verified_at: "2026-11-05T13:52:25.021Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso secundária Montada com componentes eletroeletrônicos
+Get more information on the LG EBR88279008. Click for pictures, reviews, and tech specs for the LG Placa Secundária Ar Condicionado LG ARUN120BTE5 EBR88279008.

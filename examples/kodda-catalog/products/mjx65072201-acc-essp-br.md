@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mjx65072201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MJX65072201. Clique para ver imagens, análises e especificações técnicas da LG Válvula de expensão Ar Condicionado LG ARNU09GTUA2, ARNU07GTUB4, ARNU12GTUC4 - MJX65072201"
+summary: "Get more information on the LG MJX65072201. Click for pictures, reviews, and tech specs for the LG Válvula de expensão Ar Condicionado LG ARNU09GTUA2, ARNU07GTUB4, ARNU12GTUC4 - MJX65072201."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 312.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.600Z"
+  updated_at: "2026-11-05T13:52:25.099Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.600Z"
+    verified_at: "2026-11-05T13:52:25.099Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.600Z"
+    verified_at: "2026-11-05T13:52:25.099Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MJX65072201. Clique para ver imagens, análises e especificações técnicas da LG Válvula de expensão Ar Condicionado LG ARNU09GTUA2, ARNU07GTUB4, ARNU12GTUC4 - MJX65072201
+Get more information on the LG MJX65072201. Click for pictures, reviews, and tech specs for the LG Válvula de expensão Ar Condicionado LG ARNU09GTUA2, ARNU07GTUB4, ARNU12GTUC4 - MJX65072201.

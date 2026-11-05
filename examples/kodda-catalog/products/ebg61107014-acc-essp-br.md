@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebg61107014/"
 
 # === DESCOBERTA (L0) ===
-summary: "Sensor de temperatura Formado por termistor e cabo elétrico Desprovido de mostrador Utilizado em equipamentos de ar condicionado para controle da temperatura"
-tags: ["lg", "pro"]
+summary: "Get more information on the LG EBG61107014. Click for pictures, reviews, and tech specs for the LG Sensor Termistor Ar Condicionado LG ASUW182C4A0 EBG61107014."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.470Z"
+  updated_at: "2026-11-05T13:52:24.955Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.470Z"
+    verified_at: "2026-11-05T13:52:24.955Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.470Z"
+    verified_at: "2026-11-05T13:52:24.955Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "110V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Sensor de temperatura Formado por termistor e cabo elétrico Desprovido de mostrador Utilizado em equipamentos de ar condicionado para controle da temperatura
+Get more information on the LG EBG61107014. Click for pictures, reviews, and tech specs for the LG Sensor Termistor Ar Condicionado LG ASUW182C4A0 EBG61107014.

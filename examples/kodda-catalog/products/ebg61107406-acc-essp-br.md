@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebg61107406/"
 
 # === DESCOBERTA (L0) ===
-summary: "Sensor de temperatura, Formado por termistor e cabo elétrico, Desprovido de mostrador, Utilizado em equipamentos de ar condicionado, Para controle da temperatura"
-tags: ["lg", "pro"]
+summary: "Get more information on the LG EBG61107406. Click for pictures, reviews, and tech specs for the LG Termistor Ar Condicionado LG RPUW200X9S EBG61107406."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 208.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.471Z"
+  updated_at: "2026-11-05T13:52:24.956Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.471Z"
+    verified_at: "2026-11-05T13:52:24.956Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.471Z"
+    verified_at: "2026-11-05T13:52:24.956Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "110V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Sensor de temperatura, Formado por termistor e cabo elétrico, Desprovido de mostrador, Utilizado em equipamentos de ar condicionado, Para controle da temperatura
+Get more information on the LG EBG61107406. Click for pictures, reviews, and tech specs for the LG Termistor Ar Condicionado LG RPUW200X9S EBG61107406.

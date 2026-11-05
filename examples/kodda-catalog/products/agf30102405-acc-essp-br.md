@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/agf30102405/"
 
 # === DESCOBERTA (L0) ===
-summary: "Contém 08 barras de LED Quantidade de LED por barra: 07 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display"
+summary: "Get more information on the LG AGF30102405. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 65UQ7950PSB AGF30102405."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 436.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.326Z"
+  updated_at: "2026-11-05T13:52:24.788Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.326Z"
+    verified_at: "2026-11-05T13:52:24.788Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.326Z"
+    verified_at: "2026-11-05T13:52:24.788Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Contém 08 barras de LED Quantidade de LED por barra: 07 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display
+Get more information on the LG AGF30102405. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 65UQ7950PSB AGF30102405.

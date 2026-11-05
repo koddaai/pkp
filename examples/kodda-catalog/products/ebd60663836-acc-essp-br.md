@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebd60663836/"
 
 # === DESCOBERTA (L0) ===
-summary: "Sensor para medida de pressão Utilizado para medida de pressão na faixa de 0 a 2mpa 5V 2hmp3-8"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EBD60663836. Click for pictures, reviews, and tech specs for the LG Sensor Ar Condicionado LG ATUW36GMLP0 EBD60663836."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 797.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.468Z"
+  updated_at: "2026-11-05T13:52:24.953Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.468Z"
+    verified_at: "2026-11-05T13:52:24.953Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.468Z"
+    verified_at: "2026-11-05T13:52:24.953Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Sensor para medida de pressão Utilizado para medida de pressão na faixa de 0 a 2mpa 5V 2hmp3-8
+Get more information on the LG EBD60663836. Click for pictures, reviews, and tech specs for the LG Sensor Ar Condicionado LG ATUW36GMLP0 EBD60663836.

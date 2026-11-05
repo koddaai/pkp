@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf30132101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGF30132101. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 55NANO80SPA, 55NANO85SPA - AGF30132101"
+summary: "Get more information on the LG AGF30132101. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55NANO80SPA, 55NANO85SPA - AGF30132101."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.327Z"
+  updated_at: "2026-11-05T13:52:24.789Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.327Z"
+    verified_at: "2026-11-05T13:52:24.789Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.327Z"
+    verified_at: "2026-11-05T13:52:24.789Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AGF30132101. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 55NANO80SPA, 55NANO85SPA - AGF30132101
+Get more information on the LG AGF30132101. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55NANO80SPA, 55NANO85SPA - AGF30132101.

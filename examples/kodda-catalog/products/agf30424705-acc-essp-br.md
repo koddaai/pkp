@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf30424705/"
 
 # === DESCOBERTA (L0) ===
-summary: "Contém 02 barras de LED Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display Placa LED Array para TV LG, circuito impresso com iluminação LED e função de backlight, montada com componentes eletroeletrônicos de alta qualidade. Ideal para dispositivos de cristal líquido com tecnologia LED, proporcionando excelente d..."
-tags: ["lg", "pro"]
+summary: "Get more information on the LG AGF30424705. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UR9050PSJ AGF30424705."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 398.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.330Z"
+  updated_at: "2026-11-05T13:52:24.792Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.330Z"
+    verified_at: "2026-11-05T13:52:24.792Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.330Z"
+    verified_at: "2026-11-05T13:52:24.792Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Contém 02 barras de LED Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display Placa LED Array para TV LG, circuito impresso com iluminação LED e função de backlight, montada com componentes eletroeletrônicos de alta qualidade. Ideal para dispositivos de cristal líquido com tecnologia LED, proporcionando excelente desempenho no televisor.
+Get more information on the LG AGF30424705. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UR9050PSJ AGF30424705.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr86444850/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Principal Ar Condicionado LG S3UQ18KLQAL EBR86444850"
+summary: "Get more information on the LG EBR86444850. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3UQ18KLQAL EBR86444850."
 tags: ["lg", "8k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 863.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.525Z"
+  updated_at: "2026-11-05T13:52:25.016Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.525Z"
+    verified_at: "2026-11-05T13:52:25.016Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.525Z"
+    verified_at: "2026-11-05T13:52:25.016Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa Principal Ar Condicionado LG S3UQ18KLQAL EBR86444850
+Get more information on the LG EBR86444850. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3UQ18KLQAL EBR86444850.

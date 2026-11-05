@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ajr74147003/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AJR74147003. Clique para ver imagens, análises e especificações técnicas da LG Tubo coletor da serpentina condensadora Ar Condicionado LG USUW092WSZ2 - AJR74147003"
+summary: "Get more information on the LG AJR74147003. Click for pictures, reviews, and tech specs for the LG Tubo Coletor da Serpentina Condensadora Ar Condicionado LG USUW092WSZ2 AJR74147003."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 153.04
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.356Z"
+  updated_at: "2026-11-05T13:52:24.819Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.356Z"
+    verified_at: "2026-11-05T13:52:24.819Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.356Z"
+    verified_at: "2026-11-05T13:52:24.819Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AJR74147003. Clique para ver imagens, análises e especificações técnicas da LG Tubo coletor da serpentina condensadora Ar Condicionado  LG USUW092WSZ2 - AJR74147003
+Get more information on the LG AJR74147003. Click for pictures, reviews, and tech specs for the LG Tubo Coletor da Serpentina Condensadora Ar Condicionado  LG USUW092WSZ2 AJR74147003.

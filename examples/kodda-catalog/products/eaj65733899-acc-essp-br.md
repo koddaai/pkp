@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65733899/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo (Display) LCD TV OLED LG - EAJ65733899"
+summary: "Get more information on the LG EAJ65733899. Click for pictures, reviews, and tech specs for the LG Módulo (Display) LCD TV OLED LG - EAJ65733899."
 tags: ["lg", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6509.3
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.425Z"
+  updated_at: "2026-11-05T13:52:24.906Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.425Z"
+    verified_at: "2026-11-05T13:52:24.906Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.425Z"
+    verified_at: "2026-11-05T13:52:24.906Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulo (Display) LCD TV OLED LG - EAJ65733899
+Get more information on the LG EAJ65733899. Click for pictures, reviews, and tech specs for the LG Módulo (Display) LCD TV OLED LG - EAJ65733899.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ajr69527904/"
 
 # === DESCOBERTA (L0) ===
-summary: "Tubo conector com presilha"
+summary: "Get more information on the LG AJR69527904. Click for pictures, reviews, and tech specs for the LG Tubo Conector Ar Condicionado LG S3UQ12JA31K AJR69527904."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 52.53
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.356Z"
+  updated_at: "2026-11-05T13:52:24.819Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.356Z"
+    verified_at: "2026-11-05T13:52:24.819Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.356Z"
+    verified_at: "2026-11-05T13:52:24.819Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Tubo conector com presilha
+Get more information on the LG AJR69527904. Click for pictures, reviews, and tech specs for the LG Tubo Conector Ar Condicionado LG S3UQ12JA31K AJR69527904.

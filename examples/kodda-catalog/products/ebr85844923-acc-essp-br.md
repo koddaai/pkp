@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr85844923/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso principal, Montada com componentes eletroeletronicos Para unidade condensadora"
+summary: "Get more information on the LG EBR85844923. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3UQ12JA31B EBR85844923."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 987.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.521Z"
+  updated_at: "2026-11-05T13:52:25.012Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.521Z"
+    verified_at: "2026-11-05T13:52:25.012Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.521Z"
+    verified_at: "2026-11-05T13:52:25.012Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso principal,  Montada com componentes eletroeletronicos Para unidade condensadora
+Get more information on the LG EBR85844923. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3UQ12JA31B EBR85844923.

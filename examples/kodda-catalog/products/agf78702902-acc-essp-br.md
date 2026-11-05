@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf78702902/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGF78702902. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 55UJ6545 - AGF78702902"
+summary: "Get more information on the LG AGF78702902. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UJ6545 - AGF78702902."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 303.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.335Z"
+  updated_at: "2026-11-05T13:52:24.797Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.335Z"
+    verified_at: "2026-11-05T13:52:24.797Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.335Z"
+    verified_at: "2026-11-05T13:52:24.797Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AGF78702902. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 55UJ6545 - AGF78702902
+Get more information on the LG AGF78702902. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UJ6545 - AGF78702902.

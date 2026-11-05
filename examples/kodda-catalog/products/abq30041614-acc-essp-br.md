@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/abq30041614/"
 
 # === DESCOBERTA (L0) ===
-summary: "Dispositivo de transmissão e recepção com tecnologia do tipo Wi-Fi, sem fio, com faixa de frequências de 40 Mhz com 150 mbit/s (ieee 802.11 a/b/g/n), single band wireless ieee 802.11b/g/n, pci montado no suporte plástico, uso interno na evaporadora, para Ar Condicionado."
-tags: ["lg", "ai", "sem-fio", "wireless"]
+summary: "Get more information on the LG ABQ30041614. Click for pictures, reviews, and tech specs for the LG Dispositivo Wi-Fi Ar Condicionado LG ABQ30041614."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 113.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.287Z"
+  updated_at: "2026-11-05T13:52:24.750Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.287Z"
+    verified_at: "2026-11-05T13:52:24.750Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.287Z"
+    verified_at: "2026-11-05T13:52:24.750Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Dispositivo de transmissão e recepção com tecnologia do tipo Wi-Fi, sem fio, com faixa de frequências de 40 Mhz com 150 mbit/s (ieee 802.11 a/b/g/n), single band wireless ieee 802.11b/g/n, pci montado no suporte plástico, uso interno na evaporadora, para Ar Condicionado.
+Get more information on the LG ABQ30041614. Click for pictures, reviews, and tech specs for the LG Dispositivo Wi-Fi Ar Condicionado LG ABQ30041614.

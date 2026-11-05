@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/agf30027304/"
 
 # === DESCOBERTA (L0) ===
-summary: "Contém 12 barras de LED Quantidade de LED por barra: 06 barras \"A\" com 06 e 06 barras \"B\" com 06 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display"
+summary: "Get more information on the LG AGF30027304. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 82UM7570PSB AGF30027304."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1063.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.325Z"
+  updated_at: "2026-11-05T13:52:24.787Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.325Z"
+    verified_at: "2026-11-05T13:52:24.787Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.325Z"
+    verified_at: "2026-11-05T13:52:24.787Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Contém 12 barras de LED Quantidade de LED por barra: 06 barras "A" com 06 e 06 barras "B" com 06 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display
+Get more information on the LG AGF30027304. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 82UM7570PSB AGF30027304.

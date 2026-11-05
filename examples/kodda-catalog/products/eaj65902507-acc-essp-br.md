@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65902507/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo (Display) LCD TV LG - EAJ65902507"
+summary: "Get more information on the LG EAJ65902507. Click for pictures, reviews, and tech specs for the LG Módulo (Display) LCD TV LG - EAJ65902507."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1661.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.437Z"
+  updated_at: "2026-11-05T13:52:24.918Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.437Z"
+    verified_at: "2026-11-05T13:52:24.918Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.437Z"
+    verified_at: "2026-11-05T13:52:24.918Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulo (Display) LCD TV LG - EAJ65902507
+Get more information on the LG EAJ65902507. Click for pictures, reviews, and tech specs for the LG Módulo (Display) LCD TV LG - EAJ65902507.

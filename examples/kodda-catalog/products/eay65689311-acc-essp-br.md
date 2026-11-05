@@ -27,9 +27,9 @@ tags: ["lg", "5g", "oled"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1557.05
+  value: 1292.35
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.461Z"
+  updated_at: "2026-11-05T13:52:24.945Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.461Z"
+    verified_at: "2026-11-05T13:52:24.945Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.461Z"
+    verified_at: "2026-11-05T13:52:24.945Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

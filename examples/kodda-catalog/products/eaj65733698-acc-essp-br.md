@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eaj65733698/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo de visualização de tela (Ecrã), plana, modelo: AC550AQL-BQA1, de 55 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de OLED Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)"
-tags: ["lg", "ai", "oled"]
+summary: "Get more information on the LG EAJ65733698. Click for pictures, reviews, and tech specs for the LG Tela OLED TV LG OLED55CXPSA EAJ65733698."
+tags: ["lg", "oled"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4217.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.424Z"
+  updated_at: "2026-11-05T13:52:24.906Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.424Z"
+    verified_at: "2026-11-05T13:52:24.906Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.424Z"
+    verified_at: "2026-11-05T13:52:24.906Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 55
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulo de visualização de tela (Ecrã), plana, modelo: AC550AQL-BQA1, de 55 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de OLED Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)
+Get more information on the LG EAJ65733698. Click for pictures, reviews, and tech specs for the LG Tela OLED TV LG OLED55CXPSA EAJ65733698.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/ead65611709/"
 
 # === DESCOBERTA (L0) ===
-summary: "Condutor flat flexível isolado para usos elétricos Sem peças de conexão Para tensão de 60V Cobre revestido com pet 60p UL20861 575mmmm 60P8FN-2F01J-1"
+summary: "Get more information on the LG EAD65611709. Click for pictures, reviews, and tech specs for the LG Cabo Flat Televisão LG 49UH6500 EAD65611709."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.408Z"
+  updated_at: "2026-11-05T13:52:24.880Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.408Z"
+    verified_at: "2026-11-05T13:52:24.880Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.408Z"
+    verified_at: "2026-11-05T13:52:24.880Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Condutor flat flexível isolado para usos elétricos Sem peças de conexão Para tensão de 60V Cobre revestido com pet 60p UL20861 575mmmm 60P8FN-2F01J-1
+Get more information on the LG EAD65611709. Click for pictures, reviews, and tech specs for the LG Cabo Flat Televisão LG 49UH6500 EAD65611709.

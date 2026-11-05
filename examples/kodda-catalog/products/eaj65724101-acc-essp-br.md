@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65724101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAJ65724101. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (BA) TV LG 43UP751C0SF, 43UQ7500PSF, 43US660H0SD - EAJ65724101"
+summary: "Get more information on the LG EAJ65724101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG 43UP751C0SF EAJ65724101."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 512.13
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.424Z"
+  updated_at: "2026-11-05T13:52:24.906Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.424Z"
+    verified_at: "2026-11-05T13:52:24.906Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.424Z"
+    verified_at: "2026-11-05T13:52:24.906Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAJ65724101. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (BA) TV LG 43UP751C0SF, 43UQ7500PSF, 43US660H0SD - EAJ65724101
+Get more information on the LG EAJ65724101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG 43UP751C0SF EAJ65724101.

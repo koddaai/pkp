@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai", "4k", "pro"]
 price:
   type: "street"
   currency: "BRL"
-  value: 5794.05
+  value: 5509.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.261Z"
+  updated_at: "2026-11-05T13:52:24.725Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.261Z"
+    verified_at: "2026-11-05T13:52:24.725Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.261Z"
+    verified_at: "2026-11-05T13:52:24.725Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

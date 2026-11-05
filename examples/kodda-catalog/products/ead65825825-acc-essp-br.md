@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead65825825/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAD65825825. Clique para ver imagens, análises e especificações técnicas da LG Cabo Flat TV LG 65UP7750PSB, 65UQ8050PSB, 55UQ7950PSB - EAD65825825"
+summary: "Get more information on the LG EAD65825825. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG 65UP7750PSB, 65UQ8050PSB, 55UQ7950PSB - EAD65825825."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.409Z"
+  updated_at: "2026-11-05T13:52:24.881Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.409Z"
+    verified_at: "2026-11-05T13:52:24.881Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.409Z"
+    verified_at: "2026-11-05T13:52:24.881Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAD65825825. Clique para ver imagens, análises e especificações técnicas da LG Cabo Flat TV LG 65UP7750PSB, 65UQ8050PSB, 55UQ7950PSB - EAD65825825
+Get more information on the LG EAD65825825. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG 65UP7750PSB, 65UQ8050PSB, 55UQ7950PSB - EAD65825825.

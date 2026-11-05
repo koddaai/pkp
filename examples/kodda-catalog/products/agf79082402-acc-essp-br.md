@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf79082402/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGF79082402. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 49UH6100 - AGF79082402"
+summary: "Get more information on the LG AGF79082402. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 49UH6100 - AGF79082402."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.337Z"
+  updated_at: "2026-11-05T13:52:24.799Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.337Z"
+    verified_at: "2026-11-05T13:52:24.799Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.337Z"
+    verified_at: "2026-11-05T13:52:24.799Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AGF79082402. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED  TV LG 49UH6100 - AGF79082402
+Get more information on the LG AGF79082402. Click for pictures, reviews, and tech specs for the LG Kit régua de LED  TV LG 49UH6100 - AGF79082402.

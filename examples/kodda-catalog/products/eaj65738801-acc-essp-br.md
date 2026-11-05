@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65738801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo de visualização de tela (ecrã), plana, modelo: AC550AQL-BPA1, de 55 polegadas, sem tela sensível ao toque (ecrã táctil), com controladores (drivers) e circuito de controle, de diodos emissores de luz organicos (OLED) Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)"
-tags: ["lg", "ai", "oled"]
+summary: "Get more information on the LG EAJ65738801. Click for pictures, reviews, and tech specs for the LG Tela OLED Módulo TV LG OLED55B6P EAJ65738801."
+tags: ["lg", "oled"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3856.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.425Z"
+  updated_at: "2026-11-05T13:52:24.907Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.425Z"
+    verified_at: "2026-11-05T13:52:24.907Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.425Z"
+    verified_at: "2026-11-05T13:52:24.907Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 55
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulo de visualização de tela (ecrã), plana, modelo: AC550AQL-BPA1, de 55 polegadas, sem tela sensível ao toque (ecrã táctil), com controladores (drivers) e circuito de controle, de diodos emissores de luz organicos (OLED) Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)
+Get more information on the LG EAJ65738801. Click for pictures, reviews, and tech specs for the LG Tela OLED Módulo TV LG OLED55B6P EAJ65738801.

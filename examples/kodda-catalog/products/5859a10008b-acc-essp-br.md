@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5859a10008b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5859A10008B. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Ar Condicionado LG LMDN125HV, ARNU09GB3G4, ARNU12GB1G2 - 5859A10008B"
+summary: "Get more information on the LG 5859A10008B. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Ar Condicionado LG LMDN125HV, ARNU09GB3G4, ARNU12GB1G2 - 5859A10008B."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.251Z"
+  updated_at: "2026-11-05T13:52:24.715Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.251Z"
+    verified_at: "2026-11-05T13:52:24.715Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.251Z"
+    verified_at: "2026-11-05T13:52:24.715Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5859A10008B. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Ar Condicionado LG LMDN125HV, ARNU09GB3G4, ARNU12GB1G2 - 5859A10008B
+Get more information on the LG 5859A10008B. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Ar Condicionado LG LMDN125HV, ARNU09GB3G4, ARNU12GB1G2 - 5859A10008B.

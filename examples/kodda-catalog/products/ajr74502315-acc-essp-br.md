@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ajr74502315/"
 
 # === DESCOBERTA (L0) ===
-summary: "Para unidade condensadora,Tubo capilar, dobrado, para sistema de refrigeração da unidade condensadora do condicionador de ar tipo split system."
+summary: "Get more information on the LG AJR74502315. Click for pictures, reviews, and tech specs for the LG Tubo capilar dobrado Ar Condicionado LG AJR74502315."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 54.04
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.356Z"
+  updated_at: "2026-11-05T13:52:24.819Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.356Z"
+    verified_at: "2026-11-05T13:52:24.819Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.356Z"
+    verified_at: "2026-11-05T13:52:24.819Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Para unidade condensadora,Tubo capilar, dobrado, para sistema de refrigeração da unidade condensadora do condicionador de ar tipo split system.
+Get more information on the LG AJR74502315. Click for pictures, reviews, and tech specs for the LG Tubo capilar dobrado Ar Condicionado LG AJR74502315.

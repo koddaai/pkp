@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr83968455/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para ar condicionado"
+summary: "Get more information on the LG EBR83968455. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3UW24K2R7A EBR83968455."
 tags: ["lg", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2032.85
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.516Z"
+  updated_at: "2026-11-05T13:52:25.005Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.516Z"
+    verified_at: "2026-11-05T13:52:25.005Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.516Z"
+    verified_at: "2026-11-05T13:52:25.005Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para ar condicionado
+Get more information on the LG EBR83968455. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3UW24K2R7A EBR83968455.

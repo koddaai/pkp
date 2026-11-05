@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf30320601/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGF30320601. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 55UM670H0UA, 55UQ7950PSB - AGF30320601"
+summary: "Get more information on the LG AGF30320601. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UM670H0UA, 55UQ7950PSB - AGF30320601."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 305.95
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.329Z"
+  updated_at: "2026-11-05T13:52:24.790Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.329Z"
+    verified_at: "2026-11-05T13:52:24.790Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.329Z"
+    verified_at: "2026-11-05T13:52:24.790Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AGF30320601. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 55UM670H0UA, 55UQ7950PSB - AGF30320601
+Get more information on the LG AGF30320601. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UM670H0UA, 55UQ7950PSB - AGF30320601.

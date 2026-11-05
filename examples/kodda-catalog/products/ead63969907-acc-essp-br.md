@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/ead63969907/"
 
 # === DESCOBERTA (L0) ===
-summary: "Condutor isolado para usos elétricos Sem peças de conexão 60V 60P Cobre revestido pet 470mm"
+summary: "Get more information on the LG EAD63969907. Click for pictures, reviews, and tech specs for the LG Condutor Flexível Televisor LG 49UJ7500 EAD63969907."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.402Z"
+  updated_at: "2026-11-05T13:52:24.872Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.402Z"
+    verified_at: "2026-11-05T13:52:24.872Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.402Z"
+    verified_at: "2026-11-05T13:52:24.872Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Condutor isolado para usos elétricos Sem peças de conexão 60V 60P Cobre revestido pet 470mm
+Get more information on the LG EAD63969907. Click for pictures, reviews, and tech specs for the LG Condutor Flexível Televisor LG 49UJ7500 EAD63969907.

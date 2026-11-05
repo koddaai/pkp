@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eaj65835507/"
 
 # === DESCOBERTA (L0) ===
-summary: "Peça para reparo do módulo LCD (BA) Módulo de visualização de tela (Ecrã), plana, modelo: HC650EQG-ABBA1, de 65 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido Não contém demais peças do módulo completo (régua de LED e refletores)"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAJ65835507. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido BA TV LG 65QNED80TSA EAJ65835507."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3124.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.434Z"
+  updated_at: "2026-11-05T13:52:24.916Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.434Z"
+    verified_at: "2026-11-05T13:52:24.916Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.434Z"
+    verified_at: "2026-11-05T13:52:24.916Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 65
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Peça para reparo do módulo LCD (BA) Módulo de visualização de tela (Ecrã), plana, modelo: HC650EQG-ABBA1, de 65 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido Não contém demais peças do módulo completo (régua de LED e refletores)
+Get more information on the LG EAJ65835507. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido BA TV LG 65QNED80TSA EAJ65835507.

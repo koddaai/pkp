@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aha76461701/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AHA76461701. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Ar Condicionado LG ARNU12GM1A4, ARNU15GM1A4, ARNU18GM1A4 - AHA76461701"
+summary: "Get more information on the LG AHA76461701. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Ar Condicionado LG ARNU12GM1A4, ARNU15GM1A4, ARNU18GM1A4 - AHA76461701."
 tags: ["lg", "5g"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 540.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.352Z"
+  updated_at: "2026-11-05T13:52:24.815Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.352Z"
+    verified_at: "2026-11-05T13:52:24.815Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.352Z"
+    verified_at: "2026-11-05T13:52:24.815Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AHA76461701. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Ar Condicionado LG ARNU12GM1A4, ARNU15GM1A4, ARNU18GM1A4 - AHA76461701
+Get more information on the LG AHA76461701. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Ar Condicionado LG ARNU12GM1A4, ARNU15GM1A4, ARNU18GM1A4 - AHA76461701.

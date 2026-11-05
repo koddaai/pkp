@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/abw74732601/"
 
 # === DESCOBERTA (L0) ===
-summary: "Base de plástico do gabinete Para unidade evaporadora do ar condicionado"
+summary: "Get more information on the LG ABW74732601. Click for pictures, reviews, and tech specs for the LG Base do Gabinete Ar Condicionado LG S4NW09AA31A ABW74732601."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.291Z"
+  updated_at: "2026-11-05T13:52:24.754Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.291Z"
+    verified_at: "2026-11-05T13:52:24.754Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.291Z"
+    verified_at: "2026-11-05T13:52:24.754Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Base de plástico do gabinete   Para unidade evaporadora do ar condicionado
+Get more information on the LG ABW74732601. Click for pictures, reviews, and tech specs for the LG Base do Gabinete Ar Condicionado LG S4NW09AA31A ABW74732601.

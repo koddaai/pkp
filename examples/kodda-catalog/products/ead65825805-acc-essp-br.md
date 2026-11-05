@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead65825805/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAD65825805. Clique para ver imagens, análises e especificações técnicas da LG Cabo Flat TV LG 65UN7310PSC, 55NANO79SND, 55UN7310PSC - EAD65825805"
+summary: "Get more information on the LG EAD65825805. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG 65UN7310PSC EAD65825805."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 24.44
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.409Z"
+  updated_at: "2026-11-05T13:52:24.880Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.409Z"
+    verified_at: "2026-11-05T13:52:24.880Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.409Z"
+    verified_at: "2026-11-05T13:52:24.880Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAD65825805. Clique para ver imagens, análises e especificações técnicas da LG Cabo Flat TV LG 65UN7310PSC, 55NANO79SND, 55UN7310PSC - EAD65825805
+Get more information on the LG EAD65825805. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG 65UN7310PSC EAD65825805.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aha75113301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AHA75113301. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Ar Condicionado LG AMNW18GTTC0, ARNU12GTUC4, ARNU24GTTB4 - AHA75113301"
+summary: "Get more information on the LG AHA75113301. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Ar Condicionado LG AMNW18GTTC0, ARNU12GTUC4, ARNU24GTTB4 - AHA75113301."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 407.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.350Z"
+  updated_at: "2026-11-05T13:52:24.813Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.350Z"
+    verified_at: "2026-11-05T13:52:24.813Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.350Z"
+    verified_at: "2026-11-05T13:52:24.813Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AHA75113301. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Ar Condicionado LG AMNW18GTTC0, ARNU12GTUC4, ARNU24GTTB4 - AHA75113301
+Get more information on the LG AHA75113301. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Ar Condicionado LG AMNW18GTTC0, ARNU12GTUC4, ARNU24GTTB4 - AHA75113301.

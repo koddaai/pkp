@@ -5,7 +5,7 @@ sku: "eaj65826601-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "TELA DE CRISTAL LIQUIDO OPENCELL(BA) - EAJ65826601 - EAJ65826601"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65826601/"
 
 # === DESCOBERTA (L0) ===
-summary: "TELA DE CRISTAL LIQUIDO OPENCELL(BA) - EAJ65826601"
+summary: "Get more information on the LG EAJ65826601. Click for pictures, reviews, and tech specs for the LG TELA DE CRISTAL LIQUIDO OPENCELL(BA) - EAJ65826601."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1832.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.432Z"
+  updated_at: "2026-11-05T13:52:24.914Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.432Z"
+    verified_at: "2026-11-05T13:52:24.914Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.432Z"
+    verified_at: "2026-11-05T13:52:24.914Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-TELA DE CRISTAL LIQUIDO OPENCELL(BA) - EAJ65826601
+Get more information on the LG EAJ65826601. Click for pictures, reviews, and tech specs for the LG TELA DE CRISTAL LIQUIDO OPENCELL(BA) - EAJ65826601.

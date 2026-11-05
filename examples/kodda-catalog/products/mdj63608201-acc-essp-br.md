@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/mdj63608201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Filtro de Entrada Ar Condicionado LG USNW092WSZ2 MDJ63608201"
+summary: "Get more information on the LG MDJ63608201. Click for pictures, reviews, and tech specs for the LG Filtro de Entrada Ar Condicionado LG USNW092WSZ2 MDJ63608201."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 28.02
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.582Z"
+  updated_at: "2026-11-05T13:52:25.078Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.582Z"
+    verified_at: "2026-11-05T13:52:25.078Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.582Z"
+    verified_at: "2026-11-05T13:52:25.078Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Filtro de Entrada Ar Condicionado LG USNW092WSZ2 MDJ63608201
+Get more information on the LG MDJ63608201. Click for pictures, reviews, and tech specs for the LG Filtro de Entrada Ar Condicionado LG USNW092WSZ2 MDJ63608201.

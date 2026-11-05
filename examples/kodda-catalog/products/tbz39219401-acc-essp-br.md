@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/tbz39219401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Motocompressor hermético LG Para sistema de ar condicionado de uso comercial Capacidade de 6.376,81 frigorias/hora (25.300 btu) Trifásico 380V Tipo rotativo Modelo: GJT240MA*"
+summary: "Get more information on the LG TBZ39219401. Click for pictures, reviews, and tech specs for the LG Motocompressor Ar Condicionado LG AVUW36GM1P0 TBZ39219401."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3305.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.623Z"
+  updated_at: "2026-11-05T13:52:25.172Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.623Z"
+    verified_at: "2026-11-05T13:52:25.172Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.623Z"
+    verified_at: "2026-11-05T13:52:25.172Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  storage: {"value":0,"unit":"TB"}
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Motocompressor hermético LG Para sistema de ar condicionado de uso comercial Capacidade de 6.376,81 frigorias/hora (25.300 btu) Trifásico 380V Tipo rotativo Modelo: GJT240MA*
+Get more information on the LG TBZ39219401. Click for pictures, reviews, and tech specs for the LG Motocompressor Ar Condicionado LG AVUW36GM1P0 TBZ39219401.

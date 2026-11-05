@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-comercial-leve/zt-w36gylba/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG ZT-W36GYLBA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG Round Cassete 36.000 BTU/h 220V ZT-W36GYLBA, Quente e Frio."
+summary: "Ar Condicionado LG Round Casste 36.000 BTU/h 220V ZT-W36GYLBA, Quente e Frio"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 14936.85
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.634Z"
+  updated_at: "2026-11-05T13:52:25.184Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.634Z"
+    verified_at: "2026-11-05T13:52:25.184Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.634Z"
+    verified_at: "2026-11-05T13:52:25.184Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG ZT-W36GYLBA. Click for pictures, reviews, and tech specs for the LG Ar Condicionado LG Round Cassete 36.000 BTU/h 220V ZT-W36GYLBA, Quente e Frio.
+Ar Condicionado LG Round Casste 36.000 BTU/h 220V ZT-W36GYLBA, Quente e Frio

@@ -5,8 +5,8 @@ sku: "ebr42383704-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa Principal Ar Condicionado LG S3NQ24K231B EBR42383704 - EBR42383704"
-category: "monitors"
-
+category: "eletrodomesticos"
+subcategory: "ar-condicionado"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr42383704/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Principal Ar Condicionado LG S3NQ24K231B EBR42383704"
+summary: "Get more information on the LG EBR42383704. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3NQ24K231B EBR42383704."
 tags: ["lg", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 246.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.489Z"
+  updated_at: "2026-11-05T13:52:24.976Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.489Z"
+    verified_at: "2026-11-05T13:52:24.976Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.489Z"
+    verified_at: "2026-11-05T13:52:24.976Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa Principal Ar Condicionado LG S3NQ24K231B EBR42383704
+Get more information on the LG EBR42383704. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3NQ24K231B EBR42383704.

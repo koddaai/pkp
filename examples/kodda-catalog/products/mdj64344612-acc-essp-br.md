@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/mdj64344612/"
 
 # === DESCOBERTA (L0) ===
-summary: "Filtro de Entrada Ar Condicionado LG S4NQ18KL3WB MDJ64344612"
+summary: "Get more information on the LG MDJ64344612. Click for pictures, reviews, and tech specs for the LG Filtro de Entrada Ar Condicionado LG S4NQ18KL3WB MDJ64344612."
 tags: ["lg", "8k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 72.48
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.583Z"
+  updated_at: "2026-11-05T13:52:25.079Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.583Z"
+    verified_at: "2026-11-05T13:52:25.079Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.583Z"
+    verified_at: "2026-11-05T13:52:25.079Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Filtro de Entrada Ar Condicionado LG S4NQ18KL3WB MDJ64344612
+Get more information on the LG MDJ64344612. Click for pictures, reviews, and tech specs for the LG Filtro de Entrada Ar Condicionado LG S4NQ18KL3WB MDJ64344612.

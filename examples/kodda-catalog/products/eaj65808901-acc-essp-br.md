@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65808901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo OLED TV LG OLED48C2PSA - EAJ65808901"
+summary: "Get more information on the LG EAJ65808901. Click for pictures, reviews, and tech specs for the LG Módulo OLED TV LG OLED48C2PSA - EAJ65808901."
 tags: ["lg", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4596.95
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.431Z"
+  updated_at: "2026-11-05T13:52:24.913Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.431Z"
+    verified_at: "2026-11-05T13:52:24.913Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.431Z"
+    verified_at: "2026-11-05T13:52:24.913Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulo OLED TV LG OLED48C2PSA - EAJ65808901
+Get more information on the LG EAJ65808901. Click for pictures, reviews, and tech specs for the LG Módulo OLED TV LG OLED48C2PSA - EAJ65808901.

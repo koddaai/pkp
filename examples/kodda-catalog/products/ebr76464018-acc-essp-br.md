@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr76464018/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso funções Montada com componentes eletroeletrônicos"
+summary: "Get more information on the LG EBR76464018. Click for pictures, reviews, and tech specs for the LG Placa Eeprom Ar Condicionado LG USNW122HSG3 EBR76464018."
 tags: ["lg", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.497Z"
+  updated_at: "2026-11-05T13:52:24.985Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.497Z"
+    verified_at: "2026-11-05T13:52:24.985Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.497Z"
+    verified_at: "2026-11-05T13:52:24.985Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso funções Montada com componentes eletroeletrônicos
+Get more information on the LG EBR76464018. Click for pictures, reviews, and tech specs for the LG Placa Eeprom Ar Condicionado LG USNW122HSG3 EBR76464018.

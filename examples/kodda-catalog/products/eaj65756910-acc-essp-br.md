@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65756910/"
 
 # === DESCOBERTA (L0) ===
-summary: "Peça para reparo do módulo LCD (BA) Módulo de visualização de tela (Ecrã), plana, modelo: HC550DQG-ABDA4, de 55 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido"
+summary: "Get more information on the LG EAJ65756910. Click for pictures, reviews, and tech specs for the LG Peça Tela de cristal líquido BA TV LG EAJ65756910."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1566.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.429Z"
+  updated_at: "2026-11-05T13:52:24.911Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.429Z"
+    verified_at: "2026-11-05T13:52:24.911Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.429Z"
+    verified_at: "2026-11-05T13:52:24.911Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 55
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Peça para reparo do módulo LCD (BA) Módulo de visualização de tela (Ecrã), plana, modelo: HC550DQG-ABDA4, de 55 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido
+Get more information on the LG EAJ65756910. Click for pictures, reviews, and tech specs for the LG Peça Tela de cristal líquido BA TV LG EAJ65756910.

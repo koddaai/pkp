@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-e-audio/eaj65829801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo de visualização de tela (Ecrã), plana, modelo: HC430DQG-ABHA1, de 43 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de cristal líquido,Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAJ65829801. Click for pictures, reviews, and tech specs for the LG Peça - Tela de cristal líquido (Módulo) TV LG - EAJ65829801."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1305.2
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.433Z"
+  updated_at: "2026-11-05T13:52:24.915Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.433Z"
+    verified_at: "2026-11-05T13:52:24.915Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.433Z"
+    verified_at: "2026-11-05T13:52:24.915Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 43
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulo de visualização de tela (Ecrã), plana, modelo: HC430DQG-ABHA1, de 43 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de cristal líquido,Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)
+Get more information on the LG EAJ65829801. Click for pictures, reviews, and tech specs for the LG Peça - Tela de cristal líquido (Módulo) TV LG - EAJ65829801.

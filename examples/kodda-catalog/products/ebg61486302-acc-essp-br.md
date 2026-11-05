@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebg61486302/"
 
 # === DESCOBERTA (L0) ===
-summary: "Sensor de temperatura Formado por termistor e cabo eletrico Desprovido de mostrador Utilizado em equipamentos de ar condicionado Para controle da temperatura"
-tags: ["lg", "pro"]
+summary: "Get more information on the LG EBG61486302. Click for pictures, reviews, and tech specs for the LG Termistor Ar Condicionado LG ARUM220LTE5 EBG61486302."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 208.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.475Z"
+  updated_at: "2026-11-05T13:52:24.960Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.475Z"
+    verified_at: "2026-11-05T13:52:24.960Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.475Z"
+    verified_at: "2026-11-05T13:52:24.960Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Sensor de temperatura  Formado por termistor e cabo eletrico Desprovido de mostrador  Utilizado em equipamentos de ar condicionado  Para controle da temperatura
+Get more information on the LG EBG61486302. Click for pictures, reviews, and tech specs for the LG Termistor Ar Condicionado LG ARUM220LTE5 EBG61486302.

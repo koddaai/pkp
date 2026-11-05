@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eaj65841101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo de visualização de tela (Ecrã), plana, modelo: NC860TQE-VBMH3, de 86 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers)e circuito de controle, de cristal líquido Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAJ65841101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo TV LG 86UR8750PSA EAJ65841101."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4847.75
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.435Z"
+  updated_at: "2026-11-05T13:52:24.916Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.435Z"
+    verified_at: "2026-11-05T13:52:24.916Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.435Z"
+    verified_at: "2026-11-05T13:52:24.916Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 86
+  voltage: "110V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulo de visualização de tela (Ecrã), plana, modelo: NC860TQE-VBMH3, de 86 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers)e circuito de controle, de cristal líquido Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)
+Get more information on the LG EAJ65841101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo TV LG 86UR8750PSA EAJ65841101.

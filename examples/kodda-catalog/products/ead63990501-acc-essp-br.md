@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead63990501/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAD63990501. Clique para ver imagens, análises e especificações técnicas da LG Cabo Flat TV LG 43LJ5500, 43LK5700PSC, 43LK571C-SB - EAD63990501"
+summary: "Get more information on the LG EAD63990501. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG 43LJ5500, 43LK5700PSC, 43LK571C-SB - EAD63990501."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.403Z"
+  updated_at: "2026-11-05T13:52:24.873Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.403Z"
+    verified_at: "2026-11-05T13:52:24.873Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.403Z"
+    verified_at: "2026-11-05T13:52:24.873Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAD63990501. Clique para ver imagens, análises e especificações técnicas da LG Cabo Flat TV LG 43LJ5500, 43LK5700PSC, 43LK571C-SB - EAD63990501
+Get more information on the LG EAD63990501. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG 43LJ5500, 43LK5700PSC, 43LK571C-SB - EAD63990501.

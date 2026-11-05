@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65754201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Peça para reparo do módulo LCD (BA) Módulo de visualização de tela (Ecrã), plana, modelo: HC500DQG-VCDA1, de 50 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido Não contém demais peças do módulo completo (régua de LED, moldura e refletores)"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAJ65754201. Click for pictures, reviews, and tech specs for the LG Peça - Tela de cristal líquido (BA) TV LG - EAJ65754201."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1587.35
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.428Z"
+  updated_at: "2026-11-05T13:52:24.910Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.428Z"
+    verified_at: "2026-11-05T13:52:24.910Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.428Z"
+    verified_at: "2026-11-05T13:52:24.910Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 50
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Peça para reparo do módulo LCD (BA) Módulo de visualização de tela (Ecrã), plana, modelo: HC500DQG-VCDA1, de 50 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido Não contém demais peças do módulo completo (régua de LED, moldura e refletores)
+Get more information on the LG EAJ65754201. Click for pictures, reviews, and tech specs for the LG Peça - Tela de cristal líquido (BA) TV LG - EAJ65754201.

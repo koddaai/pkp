@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead64666304/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAD64666304. Clique para ver imagens, análises e especificações técnicas da LG Cabo Flat TV LG 75UN8000PSB, 70UP7750PSB, 75NANO75SPA - EAD64666304"
+summary: "Get more information on the LG EAD64666304. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG 75UN8000PSB, 70UP7750PSB, 75NANO75SPA - EAD64666304."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.405Z"
+  updated_at: "2026-11-05T13:52:24.876Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.405Z"
+    verified_at: "2026-11-05T13:52:24.876Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.405Z"
+    verified_at: "2026-11-05T13:52:24.876Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAD64666304. Clique para ver imagens, análises e especificações técnicas da LG Cabo Flat TV LG 75UN8000PSB, 70UP7750PSB, 75NANO75SPA - EAD64666304
+Get more information on the LG EAD64666304. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG 75UN8000PSB, 70UP7750PSB, 75NANO75SPA - EAD64666304.

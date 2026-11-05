@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5220a90013j/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5220A90013J. Clique para ver imagens, análises e especificações técnicas da LG Válvula de expansão termostática Ar Condicionado ATUW60GYLP0, AVUQ48GM2A0, AVUQ60GM2A0 - LG 5220A90013J"
+summary: "Get more information on the LG 5220A90013J. Click for pictures, reviews, and tech specs for the LG Válvula de expansão termostática Ar Condicionado ATUW60GYLP0, AVUQ48GM2A0, AVUQ60GM2A0 - LG 5220A90013J."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 366.79
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.244Z"
+  updated_at: "2026-11-05T13:52:24.709Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.244Z"
+    verified_at: "2026-11-05T13:52:24.709Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.244Z"
+    verified_at: "2026-11-05T13:52:24.709Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5220A90013J. Clique para ver imagens, análises e especificações técnicas da LG Válvula de expansão termostática Ar Condicionado ATUW60GYLP0, AVUQ48GM2A0, AVUQ60GM2A0 - LG 5220A90013J
+Get more information on the LG 5220A90013J. Click for pictures, reviews, and tech specs for the LG Válvula de expansão termostática Ar Condicionado ATUW60GYLP0, AVUQ48GM2A0, AVUQ60GM2A0 - LG 5220A90013J.

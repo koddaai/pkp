@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf30218901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Contém 02 barras de LED Quantidade de LED por barra: 05 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display Placa LED Array para TV LG, circuito impresso com iluminação LED e função de backlight, montada com componentes eletroeletrônicos de alta qualidade. Ideal para dispositivos de cristal líquido com tecnologia..."
-tags: ["lg", "pro"]
+summary: "Get more information on the LG AGF30218901. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 32LJ600B AGF30218901."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 134.47
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.328Z"
+  updated_at: "2026-11-05T13:52:24.790Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.328Z"
+    verified_at: "2026-11-05T13:52:24.790Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.328Z"
+    verified_at: "2026-11-05T13:52:24.790Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Contém 02 barras de LED Quantidade de LED por barra: 05 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display Placa LED Array para TV LG, circuito impresso com iluminação LED e função de backlight, montada com componentes eletroeletrônicos de alta qualidade. Ideal para dispositivos de cristal líquido com tecnologia LED, proporcionando excelente desempenho no televisor.
+Get more information on the LG AGF30218901. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 32LJ600B AGF30218901.

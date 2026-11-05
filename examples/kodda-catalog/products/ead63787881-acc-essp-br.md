@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/ead63787881/"
 
 # === DESCOBERTA (L0) ===
-summary: "Condutor flexível elétrico munidos de peças de conexão 60V cobre revestido com pet 225mm 51P UL20861 51P1WN-0F07J"
+summary: "Get more information on the LG EAD63787881. Click for pictures, reviews, and tech specs for the LG Condutor Flexível Televisor LG OLED55C3PSA EAD63787881."
 tags: ["lg", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.401Z"
+  updated_at: "2026-11-05T13:52:24.871Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.401Z"
+    verified_at: "2026-11-05T13:52:24.871Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.401Z"
+    verified_at: "2026-11-05T13:52:24.871Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Condutor flexível elétrico munidos de peças de conexão 60V cobre revestido com pet 225mm 51P UL20861 51P1WN-0F07J
+Get more information on the LG EAD63787881. Click for pictures, reviews, and tech specs for the LG Condutor Flexível Televisor LG OLED55C3PSA EAD63787881.

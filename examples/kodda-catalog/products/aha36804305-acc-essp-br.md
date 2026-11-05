@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aha36804305/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AHA36804305. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Ar Condicionado LG AMNW09GTUC0, AMNW12GTUC0, AMNW18GTTC0 - AHA36804305"
+summary: "Get more information on the LG AHA36804305. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Ar Condicionado LG AMNW09GTUC0, AMNW12GTUC0, AMNW18GTTC0 - AHA36804305."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 208.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.349Z"
+  updated_at: "2026-11-05T13:52:24.812Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.349Z"
+    verified_at: "2026-11-05T13:52:24.812Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.349Z"
+    verified_at: "2026-11-05T13:52:24.812Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AHA36804305. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Ar Condicionado LG AMNW09GTUC0, AMNW12GTUC0, AMNW18GTTC0 - AHA36804305
+Get more information on the LG AHA36804305. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Ar Condicionado LG AMNW09GTUC0, AMNW12GTUC0, AMNW18GTTC0 - AHA36804305.

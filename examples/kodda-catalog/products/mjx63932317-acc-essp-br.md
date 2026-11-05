@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/mjx63932317/"
 
 # === DESCOBERTA (L0) ===
-summary: "Válvula de serviço tipo schrader Para conexão ao sistema de refrigeração da unidade condensadora de ar tipo split system"
+summary: "Get more information on the LG MJX63932317. Click for pictures, reviews, and tech specs for the LG Válvula Schrader Ar Condicionado LG ASNW092HDW0 MJX63932317."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.599Z"
+  updated_at: "2026-11-05T13:52:25.098Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.599Z"
+    verified_at: "2026-11-05T13:52:25.098Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.599Z"
+    verified_at: "2026-11-05T13:52:25.098Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Válvula de serviço tipo schrader Para conexão ao sistema de refrigeração da unidade condensadora de ar tipo split system
+Get more information on the LG MJX63932317. Click for pictures, reviews, and tech specs for the LG Válvula Schrader Ar Condicionado LG ASNW092HDW0 MJX63932317.

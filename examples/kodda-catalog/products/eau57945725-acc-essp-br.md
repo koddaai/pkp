@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/eau57945725/"
 
 # === DESCOBERTA (L0) ===
-summary: "Para unidade condensadora"
+summary: "Get more information on the LG EAU57945725. Click for pictures, reviews, and tech specs for the LG Motor Ar Condicionado LG S32Q16UAGA0 EAU57945725."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 303.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.445Z"
+  updated_at: "2026-11-05T13:52:24.928Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.445Z"
+    verified_at: "2026-11-05T13:52:24.928Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.445Z"
+    verified_at: "2026-11-05T13:52:24.928Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Para unidade condensadora
+Get more information on the LG EAU57945725. Click for pictures, reviews, and tech specs for the LG Motor Ar Condicionado LG S32Q16UAGA0 EAU57945725.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr42383713/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para unidade evaporadora"
+summary: "Get more information on the LG EBR42383713.. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3NQ12JA31B EBR42383713."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.490Z"
+  updated_at: "2026-11-05T13:52:24.977Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.490Z"
+    verified_at: "2026-11-05T13:52:24.977Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.490Z"
+    verified_at: "2026-11-05T13:52:24.977Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para unidade evaporadora
+Get more information on the LG EBR42383713.. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3NQ12JA31B EBR42383713.

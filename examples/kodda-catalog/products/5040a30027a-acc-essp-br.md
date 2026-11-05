@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5040a30027a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5040A30027A. Clique para ver imagens, análises e especificações técnicas da LG Calço de borracha Ar Condicionado LG ARNU24GS5L2, ARNU15GSJR4, ARNU18GS5L2 - 5040A30027A"
+summary: "Get more information on the LG 5040A30027A. Click for pictures, reviews, and tech specs for the LG Calço de borracha Ar Condicionado LG ARNU24GS5L2, ARNU15GSJR4, ARNU18GS5L2 - 5040A30027A."
 tags: ["lg", "5g"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.238Z"
+  updated_at: "2026-11-05T13:52:24.704Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.238Z"
+    verified_at: "2026-11-05T13:52:24.704Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.238Z"
+    verified_at: "2026-11-05T13:52:24.704Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5040A30027A. Clique para ver imagens, análises e especificações técnicas da LG Calço de borracha Ar Condicionado LG ARNU24GS5L2, ARNU15GSJR4, ARNU18GS5L2 - 5040A30027A
+Get more information on the LG 5040A30027A. Click for pictures, reviews, and tech specs for the LG Calço de borracha Ar Condicionado LG ARNU24GS5L2, ARNU15GSJR4, ARNU18GS5L2 - 5040A30027A.

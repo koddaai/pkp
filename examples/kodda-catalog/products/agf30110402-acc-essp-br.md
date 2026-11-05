@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf30110402/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGF30110402. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 55UP7750PSB, 55UQ801C0SB, 55UQ8050PSB - AGF30110402"
+summary: "Get more information on the LG AGF30110402. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UP7750PSB, 55UQ801C0SB, 55UQ8050PSB - AGF30110402."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.326Z"
+  updated_at: "2026-11-05T13:52:24.788Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.326Z"
+    verified_at: "2026-11-05T13:52:24.788Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.326Z"
+    verified_at: "2026-11-05T13:52:24.788Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AGF30110402. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 55UP7750PSB, 55UQ801C0SB, 55UQ8050PSB - AGF30110402
+Get more information on the LG AGF30110402. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UP7750PSB, 55UQ801C0SB, 55UQ8050PSB - AGF30110402.

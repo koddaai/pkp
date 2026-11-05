@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65741301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Tela de cristal líquido (Módulo) TV LG OLED65A1PSA - EAJ65741301"
+summary: "Get more information on the LG EAJ65741301. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) TV LG OLED65A1PSA - EAJ65741301."
 tags: ["lg", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5244.85
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.425Z"
+  updated_at: "2026-11-05T13:52:24.907Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.425Z"
+    verified_at: "2026-11-05T13:52:24.907Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.425Z"
+    verified_at: "2026-11-05T13:52:24.907Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Tela de cristal líquido (Módulo) TV LG OLED65A1PSA - EAJ65741301
+Get more information on the LG EAJ65741301. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) TV LG OLED65A1PSA - EAJ65741301.
