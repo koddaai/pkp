@@ -1,17 +1,17 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-06T18:47:13.321Z",
+  "generated_at": "2026-11-06T23:58:49.186Z",
   "stats": {
-    "total_products": 242048,
+    "total_products": 242122,
     "categories": {
       "eletrodomesticos": 3365,
       "games": 1,
       "moda": 2,
       "notebooks": 826,
-      "outros": 225820,
+      "outros": 225895,
       "acessorios": 3550,
       "informatica": 506,
-      "monitors": 1564,
+      "monitors": 1563,
       "audio": 1406,
       "celulares/smartphones": 2828,
       "tvs": 1770,
@@ -24,8 +24,8 @@
       "2296": 78,
       "Electrolux": 2,
       "Sony": 117,
-      "Adidas": 101656,
-      "Nike": 34881,
+      "Adidas": 101673,
+      "Nike": 34908,
       "Dell": 37,
       "Apple": 459,
       "LG": 3247,
@@ -53,8 +53,8 @@
       "Gomoov": 16,
       "Jambo": 115,
       "Credeli": 17,
-      "ASICS": 9858,
-      "Royal Canin": 259,
+      "ASICS": 9859,
+      "Royal Canin": 260,
       "Bichinho Chic": 299,
       "Cooler Master": 97,
       "Sure Petcare": 8,
@@ -116,7 +116,7 @@
       "Epson": 41,
       "THUNDERX3": 35,
       "Equilíbrio": 14,
-      "Mizuno": 19262,
+      "Mizuno": 19263,
       "ASRock": 85,
       "Lacie": 3,
       "Fabrica Pet": 386,
@@ -148,7 +148,7 @@
       "HYRAX": 38,
       "Canon": 11,
       "Mastig": 21,
-      "TP-Link": 65,
+      "TP-Link": 66,
       "Attack Shark": 140,
       "Goldentec": 5,
       "Zee.Dog": 222,
@@ -379,7 +379,7 @@
       "LongCare": 14,
       "Cerâmica Regina": 8,
       "Decrise": 3,
-      "Soft Care": 31,
+      "Soft Care": 32,
       "Bio Canis": 2,
       "Wow": 24,
       "Ferplast": 18,
@@ -508,7 +508,7 @@
       "Simpress": 4,
       "AKG": 4,
       "Force Line": 10,
-      "Multivisão": 14,
+      "Multivisão": 13,
       "Aurora": 5,
       "Warrior": 6,
       "Duotrill": 2,
@@ -611,8 +611,8 @@
       "Mobile Legends": 8,
       "Edifier": 3,
       "Xencelabs": 5,
-      "Wilson": 247,
-      "Oxer": 7638,
+      "Wilson": 248,
+      "Oxer": 7643,
       "SEGOTEP": 12,
       "Rimadyl": 3,
       "Zelotril": 3,
@@ -825,7 +825,7 @@
       "Penalty": 420,
       "Bellogatto": 4,
       "Columbia": 55,
-      "Adams": 449,
+      "Adams": 451,
       "Effipro": 1,
       "Surosolve": 1,
       "Vectra": 10,
@@ -837,7 +837,7 @@
       "Caloi": 37,
       "Drop Shot": 3,
       "Acte Sports": 14,
-      "Nord Outdoor": 872,
+      "Nord Outdoor": 888,
       "Cesar": 4,
       "Simparic": 12,
       "Max Titanium": 17,
@@ -845,7 +845,7 @@
       "Mormaii": 425,
       "Khs": 1,
       "Triton Dog": 28,
-      "Oakley": 261,
+      "Oakley": 263,
       "Lupo": 19,
       "Ringo": 4,
       "Umbro": 1975,
@@ -872,7 +872,7 @@
       "Flamavet": 3,
       "Powercolor": 10,
       "Kappa": 294,
-      "Puma": 6151,
+      "Puma": 6152,
       "Polipex": 1,
       "Delta": 6,
       "Ranivet": 1,
@@ -1152,7 +1152,7 @@
       "APPROVE": 129,
       "C3 Tech Tech": 3,
       "Farm Rio": 24,
-      "Palit Microsystem": 4,
+      "Palit Microsystem": 3,
       "Esquadrão": 5,
       "Cariuma": 21,
       "RODRIGO SANCHES": 5,
@@ -3133,7 +3133,7 @@
       "brand": "XTRIKE ME",
       "category": "monitors",
       "price": {
-        "value": 29.99,
+        "value": 24.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1002511.md"
@@ -4044,7 +4044,7 @@
       "category": "informatica",
       "subcategory": "armazenamento",
       "price": {
-        "value": 249.99,
+        "value": 649.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1002984.md"
@@ -4442,7 +4442,7 @@
       "brand": "Lenovo",
       "category": "notebooks",
       "price": {
-        "value": 5699,
+        "value": 5599,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1003399.md"
@@ -5807,7 +5807,7 @@
       "brand": "Sony",
       "category": "celulares/smartphones",
       "price": {
-        "value": 557.07,
+        "value": 445.47,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1004688.md"
@@ -6151,7 +6151,7 @@
       "brand": "JBL",
       "category": "celulares/smartphones",
       "price": {
-        "value": 115.9,
+        "value": 114.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1004894.md"
@@ -6309,7 +6309,7 @@
       "brand": "JBL",
       "category": "celulares/smartphones",
       "price": {
-        "value": 557.9,
+        "value": 539.55,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1004908.md"
@@ -6353,7 +6353,7 @@
       "brand": "JBL",
       "category": "celulares/smartphones",
       "price": {
-        "value": 2599.9,
+        "value": 2499.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1004912.md"
@@ -7209,7 +7209,7 @@
       "brand": "HP",
       "category": "monitors",
       "price": {
-        "value": 879.99,
+        "value": 1099.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1006138.md"
@@ -7379,7 +7379,7 @@
       "brand": "Epson",
       "category": "celulares/smartphones",
       "price": {
-        "value": 3299.9,
+        "value": 3199.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1006529.md"
@@ -7401,7 +7401,7 @@
       "brand": "Epson",
       "category": "celulares/smartphones",
       "price": {
-        "value": 3699.9,
+        "value": 3148,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1006531.md"
@@ -7412,7 +7412,7 @@
       "brand": "Epson",
       "category": "celulares/smartphones",
       "price": {
-        "value": 3899.9,
+        "value": 3799.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1006532.md"
@@ -7423,7 +7423,7 @@
       "brand": "Epson",
       "category": "celulares/smartphones",
       "price": {
-        "value": 4999.9,
+        "value": 7099.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1006533.md"
@@ -7445,7 +7445,7 @@
       "brand": "Epson",
       "category": "celulares/smartphones",
       "price": {
-        "value": 5359.9,
+        "value": 5358.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1006535.md"
@@ -9669,7 +9669,7 @@
       "brand": "Apple",
       "category": "notebooks",
       "price": {
-        "value": 12499.99,
+        "value": 12999,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1014728.md"
@@ -9724,7 +9724,7 @@
       "brand": "Apple",
       "category": "notebooks",
       "price": {
-        "value": 17499,
+        "value": 24999.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1014733.md"
@@ -11095,7 +11095,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 179.9,
+        "value": 149.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/101797.md"
@@ -11778,7 +11778,7 @@
       "brand": "Fortrek",
       "category": "outros",
       "price": {
-        "value": 139.99,
+        "value": 259.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1022152.md"
@@ -11789,7 +11789,7 @@
       "brand": "Fortrek",
       "category": "outros",
       "price": {
-        "value": 139.99,
+        "value": 259.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1022153.md"
@@ -12746,7 +12746,7 @@
       "category": "eletrodomesticos",
       "subcategory": "aspirador",
       "price": {
-        "value": 17.99,
+        "value": 21.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1027963.md"
@@ -13191,7 +13191,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 1999.99,
+        "value": 1199.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/103038.md"
@@ -13709,7 +13709,7 @@
       "brand": "Sony",
       "category": "tvs",
       "price": {
-        "value": 398.97,
+        "value": 464.07,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1032835.md"
@@ -15037,7 +15037,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 1299.9,
+        "value": 919.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1040999.md"
@@ -15797,7 +15797,7 @@
       "brand": "Samsung",
       "category": "tvs",
       "price": {
-        "value": 4799.9,
+        "value": 4499.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1049645.md"
@@ -15819,7 +15819,7 @@
       "brand": "Samsung",
       "category": "celulares/smartphones",
       "price": {
-        "value": 2199.9,
+        "value": 1999.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1049647.md"
@@ -16448,7 +16448,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 2299.99,
+        "value": 2999.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1053116.md"
@@ -16944,7 +16944,7 @@
       "brand": "MSI",
       "category": "monitors",
       "price": {
-        "value": 4499.99,
+        "value": 4699.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1057931.md"
@@ -18433,7 +18433,7 @@
       "brand": "MSI",
       "category": "monitors",
       "price": {
-        "value": 729.99,
+        "value": 699.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1064844.md"
@@ -18784,7 +18784,7 @@
       "brand": "Dell",
       "category": "notebooks",
       "price": {
-        "value": 9151.82,
+        "value": 6499,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1066088.md"
@@ -19495,7 +19495,7 @@
       "brand": "Gigabyte",
       "category": "monitors",
       "price": {
-        "value": 3399.99,
+        "value": 3999.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1070734.md"
@@ -20833,7 +20833,7 @@
       "brand": "STARLINK",
       "category": "outros",
       "price": {
-        "value": 589.9,
+        "value": 549.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1074997.md"
@@ -22120,7 +22120,7 @@
       "brand": "Zotac",
       "category": "outros",
       "price": {
-        "value": 5799.99,
+        "value": 6999.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1078273.md"
@@ -22132,7 +22132,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 5299.99,
+        "value": 7599.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1078274.md"
@@ -22566,7 +22566,7 @@
       "brand": "Corsair",
       "category": "outros",
       "price": {
-        "value": 289.99,
+        "value": 269.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/108066.md"
@@ -24436,7 +24436,7 @@
       "brand": "Rise Mode",
       "category": "outros",
       "price": {
-        "value": 16.99,
+        "value": 9.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/111133.md"
@@ -24747,7 +24747,7 @@
       "brand": "F3",
       "category": "outros",
       "price": {
-        "value": 59.9,
+        "value": 105.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/112030.md"
@@ -37932,7 +37932,7 @@
       "brand": "WEG",
       "category": "monitors",
       "price": {
-        "value": 409.99,
+        "value": 479.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/115066.md"
@@ -39114,7 +39114,7 @@
       "brand": "SteelSeries",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 659.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/115347.md"
@@ -39842,7 +39842,7 @@
       "brand": "GXTrust",
       "category": "outros",
       "price": {
-        "value": 49.99,
+        "value": 39.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/115557.md"
@@ -39875,7 +39875,7 @@
       "brand": "GXTrust",
       "category": "outros",
       "price": {
-        "value": 159.9,
+        "value": 129.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/115559.md"
@@ -41832,7 +41832,7 @@
       "brand": "Bionatural Prime",
       "category": "celulares/smartphones",
       "price": {
-        "value": 207.67,
+        "value": 221.52,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1157949.md"
@@ -41843,7 +41843,7 @@
       "brand": "Bionatural Prime",
       "category": "celulares/smartphones",
       "price": {
-        "value": 215.17,
+        "value": 229.52,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1157957.md"
@@ -48001,7 +48001,7 @@
       "brand": "Whiskas",
       "category": "outros",
       "price": {
-        "value": 20.99,
+        "value": 20.93,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1167642.md"
@@ -48023,7 +48023,7 @@
       "brand": "Whiskas",
       "category": "outros",
       "price": {
-        "value": 20.93,
+        "value": 20.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1167669.md"
@@ -48079,7 +48079,7 @@
       "brand": "Pedigree",
       "category": "outros",
       "price": {
-        "value": 20.93,
+        "value": 20.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1167715.md"
@@ -49326,7 +49326,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 159.79,
+        "value": 150.39,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1169904.md"
@@ -49359,7 +49359,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 9.99,
+        "value": 9.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/1169939.md"
@@ -76863,7 +76863,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 789.99,
+        "value": 1199.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/120487.md"
@@ -78974,7 +78974,7 @@
       "brand": "Fallen",
       "category": "outros",
       "price": {
-        "value": 299.99,
+        "value": 159.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/128525.md"
@@ -79009,7 +79009,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 89.99,
+        "value": 149.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/128627.md"
@@ -80446,7 +80446,7 @@
       "brand": "Fortrek",
       "category": "outros",
       "price": {
-        "value": 29.99,
+        "value": 15.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/134585.md"
@@ -82201,7 +82201,7 @@
       "brand": "Husky",
       "category": "outros",
       "price": {
-        "value": 32.99,
+        "value": 25.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/149803.md"
@@ -84338,7 +84338,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 169.9,
+        "value": 149.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/155438.md"
@@ -111528,7 +111528,7 @@
       "brand": "Pipicat",
       "category": "outros",
       "price": {
-        "value": 15.9,
+        "value": 19.2,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/203580.md"
@@ -112435,7 +112435,7 @@
       "brand": "SteelSeries",
       "category": "outros",
       "price": {
-        "value": 99.99,
+        "value": 89.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/216618.md"
@@ -112803,7 +112803,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 1099.99,
+        "value": 1545.27,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/220523.md"
@@ -114608,7 +114608,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 248.9,
+        "value": 245.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/240553.md"
@@ -114875,7 +114875,7 @@
       "brand": "KABUM! smart",
       "category": "celulares/smartphones",
       "price": {
-        "value": 399.99,
+        "value": 499.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/242187.md"
@@ -120152,7 +120152,7 @@
       "brand": "Logitech",
       "category": "outros",
       "price": {
-        "value": 39.99,
+        "value": 37.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/275861.md"
@@ -126192,7 +126192,7 @@
       "brand": "Razer",
       "category": "outros",
       "price": {
-        "value": 259.99,
+        "value": 399.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/290834.md"
@@ -165476,7 +165476,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 164.99,
+        "value": 189.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/333549.md"
@@ -166567,7 +166567,7 @@
       "brand": "Microsoft",
       "category": "outros",
       "price": {
-        "value": 1699.99,
+        "value": 1499.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/335198.md"
@@ -169500,7 +169500,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 8.9,
+        "value": 15.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/347291.md"
@@ -170295,7 +170295,7 @@
       "brand": "Sandisk",
       "category": "notebooks",
       "price": {
-        "value": 1399.99,
+        "value": 1799.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/351527.md"
@@ -173111,7 +173111,7 @@
       "brand": "Huion",
       "category": "tablets",
       "price": {
-        "value": 439.99,
+        "value": 555.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/356990.md"
@@ -173851,7 +173851,7 @@
       "brand": "Raveo",
       "category": "outros",
       "price": {
-        "value": 398.9,
+        "value": 354,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/358089.md"
@@ -173917,7 +173917,7 @@
       "brand": "Raveo",
       "category": "celulares/smartphones",
       "price": {
-        "value": 1889.99,
+        "value": 1156.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/358098.md"
@@ -173974,7 +173974,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 113.9,
+        "value": 99.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/358116.md"
@@ -176186,7 +176186,7 @@
       "brand": "Dazz",
       "category": "outros",
       "price": {
-        "value": 89.99,
+        "value": 129.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/363053.md"
@@ -180314,7 +180314,7 @@
       "brand": "Hyperx",
       "category": "outros",
       "price": {
-        "value": 119.99,
+        "value": 114.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/371591.md"
@@ -181913,7 +181913,7 @@
       "category": "monitors",
       "subcategory": "projetor",
       "price": {
-        "value": 3799.9,
+        "value": 4929.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/375044.md"
@@ -187678,7 +187678,7 @@
       "brand": "DT3 Office",
       "category": "outros",
       "price": {
-        "value": 1329.99,
+        "value": 1599.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/388905.md"
@@ -189513,7 +189513,7 @@
       "brand": "Ts shara",
       "category": "tvs",
       "price": {
-        "value": 1399.99,
+        "value": 1499.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/394016.md"
@@ -190165,7 +190165,7 @@
       "brand": "Elements",
       "category": "outros",
       "price": {
-        "value": 879.99,
+        "value": 1199.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/395571.md"
@@ -204989,7 +204989,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 139.9,
+        "value": 129.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/418261.md"
@@ -226145,7 +226145,7 @@
       "brand": "Trust",
       "category": "outros",
       "price": {
-        "value": 44.99,
+        "value": 34.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/447002.md"
@@ -233610,7 +233610,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 69.99,
+        "value": 79.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/453340.md"
@@ -233775,7 +233775,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 135.99,
+        "value": 132.88,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/453463.md"
@@ -238029,7 +238029,7 @@
       "brand": "Biofresh",
       "category": "celulares/smartphones",
       "price": {
-        "value": 303.29,
+        "value": 302.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/457361.md"
@@ -238084,7 +238084,7 @@
       "brand": "Biofresh",
       "category": "celulares/smartphones",
       "price": {
-        "value": 319.49,
+        "value": 296.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/457396.md"
@@ -238106,7 +238106,7 @@
       "brand": "Biofresh",
       "category": "celulares/smartphones",
       "price": {
-        "value": 319.49,
+        "value": 283.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/457400.md"
@@ -238293,7 +238293,7 @@
       "brand": "Biofresh",
       "category": "celulares/smartphones",
       "price": {
-        "value": 431.99,
+        "value": 387.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/457523.md"
@@ -239850,7 +239850,7 @@
       "brand": "ASRock",
       "category": "monitors",
       "price": {
-        "value": 1849.99,
+        "value": 1899.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/459144.md"
@@ -239929,7 +239929,7 @@
       "brand": "Raveo",
       "category": "celulares/smartphones",
       "price": {
-        "value": 393.9,
+        "value": 392.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/459376.md"
@@ -239940,7 +239940,7 @@
       "brand": "Raveo",
       "category": "celulares/smartphones",
       "price": {
-        "value": 639.99,
+        "value": 409.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/459377.md"
@@ -241145,7 +241145,7 @@
       "brand": "Amazon",
       "category": "outros",
       "price": {
-        "value": 479.9,
+        "value": 899.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/460471.md"
@@ -241156,7 +241156,7 @@
       "brand": "Amazon",
       "category": "tvs",
       "price": {
-        "value": 599.9,
+        "value": 899.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/460472.md"
@@ -247873,7 +247873,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 299.99,
+        "value": 239.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/466801.md"
@@ -257872,7 +257872,7 @@
       "brand": "Gigabyte",
       "category": "monitors",
       "price": {
-        "value": 2149.99,
+        "value": 2249.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/475651.md"
@@ -258327,7 +258327,7 @@
       "category": "informatica",
       "subcategory": "armazenamento",
       "price": {
-        "value": 1099.99,
+        "value": 1199.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/476239.md"
@@ -259205,7 +259205,7 @@
       "brand": "XPG",
       "category": "outros",
       "price": {
-        "value": 929.99,
+        "value": 1129.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/477149.md"
@@ -259381,7 +259381,7 @@
       "brand": "Logitech G",
       "category": "outros",
       "price": {
-        "value": 94.99,
+        "value": 69.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/477541.md"
@@ -259403,7 +259403,7 @@
       "brand": "Logitech G",
       "category": "outros",
       "price": {
-        "value": 199.99,
+        "value": 159.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/477543.md"
@@ -259646,7 +259646,7 @@
       "brand": "Fortrek",
       "category": "outros",
       "price": {
-        "value": 9.99,
+        "value": 4.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/47777.md"
@@ -267741,7 +267741,7 @@
       "brand": "Fifine",
       "category": "monitors",
       "price": {
-        "value": 279.99,
+        "value": 209.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/486214.md"
@@ -270598,11 +270598,11 @@
     },
     {
       "sku": "48953",
-      "name": "Apoio Multivisão Ergonômico para os Pés - APOIO-ABS",
-      "brand": "Multivisão",
+      "name": "Porta-Chuteira Mizuno Morelia U Preto",
+      "brand": "Mizuno",
       "category": "outros",
       "price": {
-        "value": 69.99,
+        "value": 129.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/48953.md"
@@ -283808,7 +283808,7 @@
       "brand": "Sony",
       "category": "tvs",
       "price": {
-        "value": 149.9,
+        "value": 220.76,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/503390.md"
@@ -288085,7 +288085,7 @@
       "brand": "Redragon",
       "category": "outros",
       "price": {
-        "value": 279.99,
+        "value": 282.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/508106.md"
@@ -294125,7 +294125,7 @@
       "brand": "THUNDERX3",
       "category": "outros",
       "price": {
-        "value": 2249.9,
+        "value": 2899.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/513376.md"
@@ -300388,7 +300388,7 @@
       "brand": "Husky",
       "category": "outros",
       "price": {
-        "value": 329.99,
+        "value": 299.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/518745.md"
@@ -308480,7 +308480,7 @@
       "brand": "Inno3d",
       "category": "outros",
       "price": {
-        "value": 1499.99,
+        "value": 2041.44,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/525561.md"
@@ -319248,7 +319248,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 49.99,
+        "value": 119.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/534955.md"
@@ -319391,7 +319391,7 @@
       "brand": "DT3",
       "category": "outros",
       "price": {
-        "value": 879.9,
+        "value": 889.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/535109.md"
@@ -322800,7 +322800,7 @@
       "brand": "Husky",
       "category": "tvs",
       "price": {
-        "value": 179.99,
+        "value": 189.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/538689.md"
@@ -322833,7 +322833,7 @@
       "brand": "Husky",
       "category": "outros",
       "price": {
-        "value": 179.99,
+        "value": 189.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/538692.md"
@@ -322844,7 +322844,7 @@
       "brand": "Husky",
       "category": "outros",
       "price": {
-        "value": 179.99,
+        "value": 189.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/538693.md"
@@ -322855,7 +322855,7 @@
       "brand": "Husky",
       "category": "tvs",
       "price": {
-        "value": 259.99,
+        "value": 269.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/538695.md"
@@ -322910,7 +322910,7 @@
       "brand": "Husky",
       "category": "tvs",
       "price": {
-        "value": 249.99,
+        "value": 269.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/538701.md"
@@ -322921,7 +322921,7 @@
       "brand": "Husky",
       "category": "outros",
       "price": {
-        "value": 246.99,
+        "value": 269.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/538702.md"
@@ -324518,7 +324518,7 @@
       "brand": "Raveo",
       "category": "celulares/smartphones",
       "price": {
-        "value": 1299.99,
+        "value": 899.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/540568.md"
@@ -325117,7 +325117,7 @@
       "brand": "FANTECH",
       "category": "outros",
       "price": {
-        "value": 64.99,
+        "value": 99.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/543248.md"
@@ -325161,7 +325161,7 @@
       "brand": "FANTECH",
       "category": "outros",
       "price": {
-        "value": 69.99,
+        "value": 129.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/543252.md"
@@ -325682,7 +325682,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 199.9,
+        "value": 89.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/545673.md"
@@ -325861,7 +325861,7 @@
       "category": "audio",
       "subcategory": "speaker",
       "price": {
-        "value": 1319.9,
+        "value": 1293.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/545883.md"
@@ -341379,7 +341379,7 @@
       "brand": "Pipicat",
       "category": "outros",
       "price": {
-        "value": 38.99,
+        "value": 42.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/567884.md"
@@ -351218,7 +351218,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 320,
+        "value": 249.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/579125.md"
@@ -351870,7 +351870,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 319.99,
+        "value": 479.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/579673.md"
@@ -355273,7 +355273,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 1249.9,
+        "value": 1248.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/583341.md"
@@ -357254,7 +357254,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 139.99,
+        "value": 259.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/585860.md"
@@ -362386,7 +362386,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 499.99,
+        "value": 339.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/592297.md"
@@ -362410,7 +362410,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 499.99,
+        "value": 299.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/592318.md"
@@ -363884,7 +363884,7 @@
       "brand": "MSI",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 439.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/597065.md"
@@ -364498,7 +364498,7 @@
       "brand": "Clamper",
       "category": "outros",
       "price": {
-        "value": 35.99,
+        "value": 39.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/602069.md"
@@ -366076,7 +366076,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 1199.99,
+        "value": 899.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/612557.md"
@@ -366088,7 +366088,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 1069.99,
+        "value": 899.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/612558.md"
@@ -366212,7 +366212,7 @@
       "brand": "Beats",
       "category": "monitors",
       "price": {
-        "value": 1630.3,
+        "value": 1628.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/613254.md"
@@ -366223,7 +366223,7 @@
       "brand": "Beats",
       "category": "monitors",
       "price": {
-        "value": 1629.9,
+        "value": 1628.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/613255.md"
@@ -366687,7 +366687,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 199.99,
+        "value": 344.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/614911.md"
@@ -367103,7 +367103,7 @@
       "brand": "Clamper",
       "category": "outros",
       "price": {
-        "value": 119.99,
+        "value": 99.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/616087.md"
@@ -367565,7 +367565,7 @@
       "brand": "MSI",
       "category": "outros",
       "price": {
-        "value": 84.99,
+        "value": 129.98,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/617460.md"
@@ -370029,7 +370029,7 @@
       "brand": "Epson",
       "category": "tvs",
       "price": {
-        "value": 8999.9,
+        "value": 8499.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/626822.md"
@@ -370040,7 +370040,7 @@
       "brand": "Epson",
       "category": "celulares/smartphones",
       "price": {
-        "value": 8999.9,
+        "value": 8499.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/626823.md"
@@ -373109,7 +373109,7 @@
       "brand": "Gigabyte",
       "category": "monitors",
       "price": {
-        "value": 5899.99,
+        "value": 8999.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/636501.md"
@@ -373120,7 +373120,7 @@
       "brand": "Gigabyte",
       "category": "monitors",
       "price": {
-        "value": 7499.99,
+        "value": 8999.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/636502.md"
@@ -375646,7 +375646,7 @@
       "brand": "Intel",
       "category": "outros",
       "price": {
-        "value": 1199.99,
+        "value": 999.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/645180.md"
@@ -379536,7 +379536,7 @@
       "brand": "MD9",
       "category": "monitors",
       "price": {
-        "value": 14.9,
+        "value": 17.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/66740.md"
@@ -382029,7 +382029,7 @@
       "brand": "Zowie",
       "category": "monitors",
       "price": {
-        "value": 5999.99,
+        "value": 10558.59,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/680513.md"
@@ -382643,7 +382643,7 @@
       "brand": "HYRAX",
       "category": "outros",
       "price": {
-        "value": 249.99,
+        "value": 199.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/685841.md"
@@ -384485,7 +384485,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 1398.9,
+        "value": 1290.05,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/690300.md"
@@ -384497,7 +384497,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 233.9,
+        "value": 232.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/690301.md"
@@ -384521,7 +384521,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 234.9,
+        "value": 233.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/690303.md"
@@ -385141,7 +385141,7 @@
       "brand": "Nzxt",
       "category": "outros",
       "price": {
-        "value": 849.99,
+        "value": 699.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692553.md"
@@ -385163,7 +385163,7 @@
       "brand": "Nzxt",
       "category": "outros",
       "price": {
-        "value": 999.99,
+        "value": 929.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/692555.md"
@@ -386428,7 +386428,7 @@
       "brand": "Astro Gaming",
       "category": "celulares/smartphones",
       "price": {
-        "value": 1569.99,
+        "value": 2499.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/698804.md"
@@ -386505,7 +386505,7 @@
       "brand": "THUNDERX3",
       "category": "outros",
       "price": {
-        "value": 1599.99,
+        "value": 1999.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/698827.md"
@@ -387524,7 +387524,7 @@
       "category": "informatica",
       "subcategory": "armazenamento",
       "price": {
-        "value": 799.99,
+        "value": 829.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/703111.md"
@@ -388802,7 +388802,7 @@
       "brand": "Kingston",
       "category": "outros",
       "price": {
-        "value": 2399.99,
+        "value": 2569.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/708332.md"
@@ -389493,7 +389493,7 @@
       "brand": "Samsung",
       "category": "monitors",
       "price": {
-        "value": 1049.99,
+        "value": 1029.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/713377.md"
@@ -390570,7 +390570,7 @@
       "brand": "Trust Gaming",
       "category": "outros",
       "price": {
-        "value": 84.99,
+        "value": 69.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/716781.md"
@@ -390581,7 +390581,7 @@
       "brand": "Trust Gaming",
       "category": "outros",
       "price": {
-        "value": 89.99,
+        "value": 69.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/716782.md"
@@ -390722,11 +390722,11 @@
     },
     {
       "sku": "717502",
-      "name": "Fonte CORSAIR RM650e, 650W, Platinum, Full Modular, ATX 3.1 e PCIe 5.1, Eficiência Cybenetics Gold, Baixo ruído, Preto - CP-9020302-BR",
+      "name": "Fonte Corsair RMe Series RM650e, 650W, 80 Plus Gold, Full Modular, ATX 3.1, Preto - CP-9020302-BR",
       "brand": "Corsair",
       "category": "outros",
       "price": {
-        "value": 589.99,
+        "value": 639.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/717502.md"
@@ -393980,7 +393980,7 @@
       "brand": "Kingston",
       "category": "celulares/smartphones",
       "price": {
-        "value": 1549.9,
+        "value": 1199.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/727720.md"
@@ -394162,7 +394162,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 149.9,
+        "value": 249.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/727786.md"
@@ -397553,7 +397553,7 @@
       "brand": "Aiwa",
       "category": "celulares/smartphones",
       "price": {
-        "value": 161.65,
+        "value": 159.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/747570.md"
@@ -398446,7 +398446,7 @@
       "brand": "APC",
       "category": "outros",
       "price": {
-        "value": 339.99,
+        "value": 449.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/751853.md"
@@ -402894,7 +402894,7 @@
       "brand": "AOC",
       "category": "monitors",
       "price": {
-        "value": 399.99,
+        "value": 649.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/770128.md"
@@ -405025,7 +405025,7 @@
       "brand": "Logitech G",
       "category": "outros",
       "price": {
-        "value": 894.99,
+        "value": 799.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/779283.md"
@@ -408933,7 +408933,7 @@
       "brand": "Razer",
       "category": "outros",
       "price": {
-        "value": 1499.99,
+        "value": 899.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/797566.md"
@@ -408944,7 +408944,7 @@
       "brand": "Razer",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 1319.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/797570.md"
@@ -409997,7 +409997,7 @@
       "brand": "Octoo",
       "category": "notebooks",
       "price": {
-        "value": 49.99,
+        "value": 39.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/80366.md"
@@ -410746,7 +410746,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 427.54,
+        "value": 412,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/806641.md"
@@ -412061,7 +412061,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 124.09,
+        "value": 116.79,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/817988.md"
@@ -412746,7 +412746,7 @@
       "brand": "Vet Life",
       "category": "outros",
       "price": {
-        "value": 163.35,
+        "value": 145.2,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/820652.md"
@@ -413102,6 +413102,17 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/821500.md"
+    },
+    {
+      "sku": "821535",
+      "name": "Ração Royal Canin para Cães Adultos Schnauzer Miniature",
+      "brand": "Royal Canin",
+      "category": "outros",
+      "price": {
+        "value": 184.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/821535.md"
     },
     {
       "sku": "821543",
@@ -416868,7 +416879,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 107.09,
+        "value": 100.79,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/840181.md"
@@ -419308,7 +419319,7 @@
       "brand": "Gran Plus",
       "category": "celulares/smartphones",
       "price": {
-        "value": 129.9,
+        "value": 128.71,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/853925.md"
@@ -421608,7 +421619,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 479.9,
+        "value": 499,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/870979.md"
@@ -424239,7 +424250,7 @@
       "category": "audio",
       "subcategory": "speaker",
       "price": {
-        "value": 629.94,
+        "value": 628.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/876267.md"
@@ -424311,7 +424322,7 @@
       "category": "audio",
       "subcategory": "speaker",
       "price": {
-        "value": 949.9,
+        "value": 948.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/876275.md"
@@ -424370,7 +424381,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 450.41,
+        "value": 340.04,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/876280.md"
@@ -424474,7 +424485,7 @@
       "brand": "JBL",
       "category": "celulares/smartphones",
       "price": {
-        "value": 599.9,
+        "value": 370.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/876289.md"
@@ -424666,7 +424677,7 @@
       "brand": "Fallen",
       "category": "outros",
       "price": {
-        "value": 299.99,
+        "value": 199.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/877544.md"
@@ -424700,7 +424711,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 2899.99,
+        "value": 3999.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/877565.md"
@@ -425401,7 +425412,7 @@
       "brand": "Kodak",
       "category": "celulares/smartphones",
       "price": {
-        "value": 2419.99,
+        "value": 1536.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/879095.md"
@@ -426704,7 +426715,7 @@
       "brand": "Dazz",
       "category": "outros",
       "price": {
-        "value": 59.99,
+        "value": 49.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/881114.md"
@@ -426836,7 +426847,7 @@
       "brand": "Polyvox",
       "category": "celulares/smartphones",
       "price": {
-        "value": 627.9,
+        "value": 564.11,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/881309.md"
@@ -429567,7 +429578,7 @@
       "brand": "HYRAX",
       "category": "outros",
       "price": {
-        "value": 179.99,
+        "value": 159.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/883644.md"
@@ -430719,7 +430730,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 239.99,
+        "value": 509.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/885390.md"
@@ -432143,7 +432154,7 @@
       "brand": "Nzxt",
       "category": "outros",
       "price": {
-        "value": 1699.99,
+        "value": 1349.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/887950.md"
@@ -434776,7 +434787,7 @@
       "brand": "Rise Mode",
       "category": "monitors",
       "price": {
-        "value": 259.99,
+        "value": 199.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/892553.md"
@@ -438696,7 +438707,7 @@
       "brand": "Rapoo",
       "category": "outros",
       "price": {
-        "value": 69.99,
+        "value": 149.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/900244.md"
@@ -440868,7 +440879,7 @@
       "brand": "Intel",
       "category": "outros",
       "price": {
-        "value": 889.99,
+        "value": 1199.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/904655.md"
@@ -441149,7 +441160,7 @@
       "brand": "DT3",
       "category": "outros",
       "price": {
-        "value": 1829.9,
+        "value": 2499.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/904909.md"
@@ -441273,7 +441284,7 @@
       "brand": "Ergofirst",
       "category": "monitors",
       "price": {
-        "value": 299.99,
+        "value": 149.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/905108.md"
@@ -441579,7 +441590,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 461.99,
+        "value": 599.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/905362.md"
@@ -441591,7 +441602,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 649.99,
+        "value": 749.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/905364.md"
@@ -441638,7 +441649,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 999.99,
+        "value": 1099.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/905372.md"
@@ -441709,7 +441720,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 399.99,
+        "value": 379.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/905385.md"
@@ -441779,7 +441790,7 @@
       "brand": "MONTECH",
       "category": "outros",
       "price": {
-        "value": 349.99,
+        "value": 379.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/905391.md"
@@ -441848,7 +441859,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 349.99,
+        "value": 329.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/905397.md"
@@ -441915,7 +441926,7 @@
       "brand": "TP-Link",
       "category": "celulares/smartphones",
       "price": {
-        "value": 284.9,
+        "value": 289.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/905404.md"
@@ -443209,7 +443220,7 @@
       "brand": "Husky",
       "category": "outros",
       "price": {
-        "value": 119.99,
+        "value": 99.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/908910.md"
@@ -443568,7 +443579,7 @@
       "brand": "AOC",
       "category": "monitors",
       "price": {
-        "value": 599.99,
+        "value": 619.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/909139.md"
@@ -444865,7 +444876,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 59.99,
+        "value": 39.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/910584.md"
@@ -445143,7 +445154,7 @@
       "brand": "N&D",
       "category": "outros",
       "price": {
-        "value": 389.9,
+        "value": 365.5,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/910864.md"
@@ -445812,7 +445823,7 @@
       "brand": "Havit",
       "category": "outros",
       "price": {
-        "value": 29.99,
+        "value": 25.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/91161.md"
@@ -445858,7 +445869,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 3999.9,
+        "value": 3945.8,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/911712.md"
@@ -446107,7 +446118,7 @@
       "brand": "Optimum",
       "category": "outros",
       "price": {
-        "value": 68.5,
+        "value": 68.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/911968.md"
@@ -446305,7 +446316,7 @@
       "brand": "MACH1",
       "category": "outros",
       "price": {
-        "value": 229.99,
+        "value": 269.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/912176.md"
@@ -448667,7 +448678,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 9.99,
+        "value": 8.79,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/916293.md"
@@ -451171,7 +451182,7 @@
       "brand": "DT3",
       "category": "outros",
       "price": {
-        "value": 659.9,
+        "value": 799.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/920502.md"
@@ -451524,7 +451535,7 @@
       "brand": "Razer",
       "category": "outros",
       "price": {
-        "value": 119.99,
+        "value": 99.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/921133.md"
@@ -451592,7 +451603,7 @@
       "brand": "Razer",
       "category": "outros",
       "price": {
-        "value": 499.99,
+        "value": 299.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/921136.md"
@@ -452947,7 +452958,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 489.99,
+        "value": 1099.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/922165.md"
@@ -452959,7 +452970,7 @@
       "category": "acessorios",
       "subcategory": "capa",
       "price": {
-        "value": 789.99,
+        "value": 1999.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/922166.md"
@@ -455894,7 +455905,7 @@
       "brand": "Apple",
       "category": "celulares/smartphones",
       "price": {
-        "value": 12999,
+        "value": 9999.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/925349.md"
@@ -455905,7 +455916,7 @@
       "brand": "Apple",
       "category": "celulares/smartphones",
       "price": {
-        "value": 12999,
+        "value": 8499.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/925350.md"
@@ -456808,7 +456819,7 @@
       "brand": "Apple",
       "category": "celulares/smartphones",
       "price": {
-        "value": 2799.9,
+        "value": 2099,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/926042.md"
@@ -456962,7 +456973,7 @@
       "brand": "Mercusys",
       "category": "outros",
       "price": {
-        "value": 99.9,
+        "value": 119.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/92607.md"
@@ -456973,7 +456984,7 @@
       "brand": "Mercusys",
       "category": "notebooks",
       "price": {
-        "value": 49.9,
+        "value": 47.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/92608.md"
@@ -458353,7 +458364,7 @@
       "brand": "Gran Plus",
       "category": "celulares/smartphones",
       "price": {
-        "value": 206.99,
+        "value": 183.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/927422.md"
@@ -459570,7 +459581,7 @@
       "brand": "TCL",
       "category": "monitors",
       "price": {
-        "value": 1199.99,
+        "value": 1149.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/929597.md"
@@ -459870,7 +459881,7 @@
       "brand": "JBL",
       "category": "celulares/smartphones",
       "price": {
-        "value": 170.53,
+        "value": 189.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/929899.md"
@@ -462954,6 +462965,39 @@
       "path": "examples/kodda-catalog/products/932209022906.md"
     },
     {
+      "sku": "932209042027",
+      "name": "Kit de Meias Nike Everyday Cushioned Crew Cano Alto Unissex",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 149.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/932209042027.md"
+    },
+    {
+      "sku": "932209042034",
+      "name": "Kit de Meias Nike Everyday Cushioned Crew Cano Alto Unissex",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 149.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/932209042034.md"
+    },
+    {
+      "sku": "932209042041",
+      "name": "Kit de Meias Nike Everyday Cushioned Crew Cano Alto Unissex",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 149.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/932209042041.md"
+    },
+    {
       "sku": "932209310423",
       "name": "Kit de Meias Nike Everyday Cushioned Crew Cano Alto Unissex",
       "brand": "Nike",
@@ -463949,7 +463993,7 @@
       "brand": "Formula Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 111.99,
+        "value": 127.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/934186.md"
@@ -464259,7 +464303,7 @@
       "category": "informatica",
       "subcategory": "armazenamento",
       "price": {
-        "value": 5299,
+        "value": 4537.47,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/934759.md"
@@ -468113,7 +468157,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 259.99,
+        "value": 139.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/938730.md"
@@ -468204,7 +468248,7 @@
       "category": "eletrodomesticos",
       "subcategory": "ar-condicionado",
       "price": {
-        "value": 4399.99,
+        "value": 3749.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/938872.md"
@@ -468216,7 +468260,7 @@
       "category": "eletrodomesticos",
       "subcategory": "ar-condicionado",
       "price": {
-        "value": 4399.99,
+        "value": 3749.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/938873.md"
@@ -468261,7 +468305,7 @@
       "brand": "Alpha Gamer",
       "category": "outros",
       "price": {
-        "value": 1299.99,
+        "value": 1399.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/93909.md"
@@ -470833,7 +470877,7 @@
       "brand": "Octoo",
       "category": "celulares/smartphones",
       "price": {
-        "value": 69.99,
+        "value": 29.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/942068.md"
@@ -474152,7 +474196,7 @@
       "brand": "Sony",
       "category": "tvs",
       "price": {
-        "value": 510.57,
+        "value": 447.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/945665.md"
@@ -476590,7 +476634,7 @@
       "category": "audio",
       "subcategory": "speaker",
       "price": {
-        "value": 413.9,
+        "value": 339.88,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/947304.md"
@@ -476626,7 +476670,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 628.9,
+        "value": 664.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/947307.md"
@@ -478640,7 +478684,7 @@
       "brand": "Epson",
       "category": "celulares/smartphones",
       "price": {
-        "value": 7999.9,
+        "value": 11599.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/948519.md"
@@ -480363,6 +480407,17 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9491079e2038.md"
+    },
+    {
+      "sku": "949107cd2028",
+      "name": "Camiseta Básica Nike Club Logo Pequeno Masculina",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 129.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/949107cd2028.md"
     },
     {
       "sku": "949107cd2035",
@@ -485020,7 +485075,7 @@
       "brand": "Raveo",
       "category": "outros",
       "price": {
-        "value": 874.9,
+        "value": 873.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/95187.md"
@@ -487798,7 +487853,7 @@
       "category": "audio",
       "subcategory": "headphones",
       "price": {
-        "value": 108.9,
+        "value": 106.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/952816.md"
@@ -488062,7 +488117,7 @@
       "brand": "Fancy Feast",
       "category": "outros",
       "price": {
-        "value": 6.09,
+        "value": 5.75,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/953210.md"
@@ -488643,7 +488698,7 @@
     },
     {
       "sku": "953923",
-      "name": "SSD Kingston Portátil, 512GB, Portátil, USB 3.2 Gen 2, Leitura: 1050 MB/s, Gravação: 950 MB/s - SPSD/512GB",
+      "name": "SSD Kingston Portátil, 512GB, USB 3.2 Gen 2, Leitura: 1050 MB/s, Gravação: 950 MB/s - SPSD/512GB",
       "brand": "Kingston",
       "category": "celulares/smartphones",
       "price": {
@@ -488654,7 +488709,7 @@
     },
     {
       "sku": "953924",
-      "name": "SSD Kingston Portátil, 1TB, Portátil, USB 3.2 Gen 2, Leitura: 1050 MB/s, Gravação: 950 MB/s - SPSD/1TB",
+      "name": "SSD Kingston Portátil, 1TB, USB 3.2 Gen 2, Leitura: 1050 MB/s, Gravação: 950 MB/s - SPSD/1TB",
       "brand": "Kingston",
       "category": "celulares/smartphones",
       "price": {
@@ -488665,7 +488720,7 @@
     },
     {
       "sku": "953925",
-      "name": "SSD Kingston Portátil, 2TB, Portátil, USB 3.2 Gen 2, Leitura: 1050 MB/s, Gravação: 950 MB/s - SPSD/2TB",
+      "name": "SSD Kingston Portátil, 2TB, USB 3.2 Gen 2, Leitura: 1050 MB/s, Gravação: 950 MB/s - SPSD/2TB",
       "brand": "Kingston",
       "category": "celulares/smartphones",
       "price": {
@@ -490465,7 +490520,7 @@
       "brand": "Origens",
       "category": "celulares/smartphones",
       "price": {
-        "value": 238.99,
+        "value": 238.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/954810.md"
@@ -491695,7 +491750,7 @@
       "brand": "Benq",
       "category": "notebooks",
       "price": {
-        "value": 4999.9,
+        "value": 3699.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/956047.md"
@@ -492717,6 +492772,17 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/957277022054.md"
+    },
+    {
+      "sku": "95728",
+      "name": "Repetidor TP-LINK AC1750 - RE450",
+      "brand": "TP-Link",
+      "category": "outros",
+      "price": {
+        "value": 529.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/95728.md"
     },
     {
       "sku": "957284312049",
@@ -493773,6 +493839,17 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/957371010421.md"
+    },
+    {
+      "sku": "957371010438",
+      "name": "Chinelo Nike Shower - Slide - Masculino",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 149.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/957371010438.md"
     },
     {
       "sku": "9573712r0424",
@@ -530644,7 +530721,7 @@
       "brand": "Mercusys",
       "category": "outros",
       "price": {
-        "value": 87.99,
+        "value": 74.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/97248.md"
@@ -535033,7 +535110,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 329.99,
+        "value": 349.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9732233i2058.md"
@@ -540682,7 +540759,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 348.49,
+        "value": 327.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/974374.md"
@@ -540847,7 +540924,7 @@
       "brand": "Royal Canin",
       "category": "outros",
       "price": {
-        "value": 501.49,
+        "value": 499.09,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/974404.md"
@@ -611832,7 +611909,7 @@
       "brand": "Guabi Natural",
       "category": "celulares/smartphones",
       "price": {
-        "value": 228,
+        "value": 226.39,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/982601.md"
@@ -665089,7 +665166,7 @@
       "brand": "Corsair",
       "category": "outros",
       "price": {
-        "value": 599.99,
+        "value": 549.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/985210.md"
@@ -699551,7 +699628,7 @@
       "brand": "LG",
       "category": "monitors",
       "price": {
-        "value": 569.99,
+        "value": 599.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/986739.md"
@@ -720035,7 +720112,7 @@
       "brand": "Husky",
       "category": "outros",
       "price": {
-        "value": 179.99,
+        "value": 169.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/987423.md"
@@ -756336,6 +756413,17 @@
       "path": "examples/kodda-catalog/products/988580012210.md"
     },
     {
+      "sku": "988580022219",
+      "name": "Testeira ASICS Racket Adulto",
+      "brand": "ASICS",
+      "category": "outros",
+      "price": {
+        "value": 39.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/988580022219.md"
+    },
+    {
       "sku": "988580312211",
       "name": "Testeira ASICS Racket Adulto",
       "brand": "ASICS",
@@ -769331,11 +769419,11 @@
     },
     {
       "sku": "989622",
-      "name": "Placa de Video Palit GeForce RTX 5070 WHITE OC 12GB GDDR7 192bit 3-DP e HDMI - NE75070U19K9-GB2050W",
-      "brand": "Palit Microsystem",
-      "category": "monitors",
+      "name": "Lubrificante Oftálmico Olhos Secos Vetguar Soft Care - 10 ml",
+      "brand": "Soft Care",
+      "category": "outros",
       "price": {
-        "value": 5499.99,
+        "value": 94.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/989622.md"
@@ -877188,7 +877276,7 @@
       "brand": "Raveo",
       "category": "outros",
       "price": {
-        "value": 459.9,
+        "value": 449.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/99246.md"
@@ -930213,7 +930301,7 @@
       "brand": "Gopro",
       "category": "celulares/smartphones",
       "price": {
-        "value": 3412.94,
+        "value": 2748.9,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/993248.md"
@@ -972295,7 +972383,7 @@
     },
     {
       "sku": "9939713l0405",
-      "name": "Chuteira Society Adulto Umbro Class Footballer",
+      "name": "Chuteira de Society Adulto Umbro Class Footballer",
       "brand": "Umbro",
       "category": "outros",
       "price": {
@@ -988017,6 +988105,17 @@
       "path": "examples/kodda-catalog/products/9942626t2217.md"
     },
     {
+      "sku": "994262of2217",
+      "name": "Boné Aba Curva Puma Strapback ESS No1 Logo BB Adulto",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 99.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/994262of2217.md"
+    },
+    {
       "sku": "994262rj2219",
       "name": "Boné Aba Curva Puma Strapback ESS No1 Logo BB Adulto",
       "brand": "Puma",
@@ -995767,7 +995866,7 @@
       "brand": "KALKAN",
       "category": "outros",
       "price": {
-        "value": 54.99,
+        "value": 39.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/994351.md"
@@ -1010801,7 +1010900,7 @@
       "brand": "Gigabyte",
       "category": "monitors",
       "price": {
-        "value": 6499.99,
+        "value": 8000,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/994959.md"
@@ -1190577,6 +1190676,17 @@
       "path": "examples/kodda-catalog/products/9972hj022218.md"
     },
     {
+      "sku": "9972hjez2218",
+      "name": "Bandagem Adams para Lutas 3 Metros",
+      "brand": "Adams",
+      "category": "outros",
+      "price": {
+        "value": 29.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9972hjez2218.md"
+    },
+    {
       "sku": "9972hk022217",
       "name": "Bandagem Adams para Lutas 5 Metros",
       "brand": "Adams",
@@ -1190597,6 +1190707,17 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9972hl002218.md"
+    },
+    {
+      "sku": "9972hm062211",
+      "name": "Tênis de Mesa Adams com 3 Unidades",
+      "brand": "Adams",
+      "category": "outros",
+      "price": {
+        "value": 49.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9972hm062211.md"
     },
     {
       "sku": "9972hn022214",
@@ -1320831,6 +1320952,50 @@
       "path": "examples/kodda-catalog/products/9974c13w2050.md"
     },
     {
+      "sku": "9974c1bl2026",
+      "name": "Camiseta Regata Nike M NK Strid Masculina",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 349.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9974c1bl2026.md"
+    },
+    {
+      "sku": "9974c1bl2033",
+      "name": "Camiseta Regata Nike M NK Strid Masculina",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 349.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9974c1bl2033.md"
+    },
+    {
+      "sku": "9974c1bl2040",
+      "name": "Camiseta Regata Nike M NK Strid Masculina",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 349.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9974c1bl2040.md"
+    },
+    {
+      "sku": "9974c1bl2057",
+      "name": "Camiseta Regata Nike M NK Strid Masculina",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 349.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9974c1bl2057.md"
+    },
+    {
       "sku": "9974c2000006",
       "name": "Caixa MU Mukebar Paçoquita com 12 Unidades",
       "brand": "+Mu",
@@ -1385593,6 +1385758,83 @@
       "path": "examples/kodda-catalog/products/9975d69e8041.md"
     },
     {
+      "sku": "9975d6ju0341",
+      "name": "Tênis Feminino Nike Free Metcon 7",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 999.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9975d6ju0341.md"
+    },
+    {
+      "sku": "9975d6ju0358",
+      "name": "Tênis Feminino Nike Free Metcon 7",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 999.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9975d6ju0358.md"
+    },
+    {
+      "sku": "9975d6ju0365",
+      "name": "Tênis Feminino Nike Free Metcon 7",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 999.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9975d6ju0365.md"
+    },
+    {
+      "sku": "9975d6ju0372",
+      "name": "Tênis Feminino Nike Free Metcon 7",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 999.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9975d6ju0372.md"
+    },
+    {
+      "sku": "9975d6ju0396",
+      "name": "Tênis Feminino Nike Free Metcon 7",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 999.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9975d6ju0396.md"
+    },
+    {
+      "sku": "9975d6ju0402",
+      "name": "Tênis Feminino Nike Free Metcon 7",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 999.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9975d6ju0402.md"
+    },
+    {
+      "sku": "9975d6ju8040",
+      "name": "Tênis Feminino Nike Free Metcon 7",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 999.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9975d6ju8040.md"
+    },
+    {
       "sku": "9975d6mk0347",
       "name": "Tênis Feminino Nike Free Metcon 7",
       "brand": "Nike",
@@ -1397209,6 +1397451,17 @@
       "path": "examples/kodda-catalog/products/9975ifh32219.md"
     },
     {
+      "sku": "9975ig2i2213",
+      "name": "Bolsa Nike NK Heritage S Crossb",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 199.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9975ig2i2213.md"
+    },
+    {
       "sku": "9975ig312217",
       "name": "Bolsa Nike NK Heritage S Crossb",
       "brand": "Nike",
@@ -1402336,7 +1402589,7 @@
     },
     {
       "sku": "9975lb342036",
-      "name": "Camisa Atlético de Madrid II 2006 Nike Torcedor Masculina",
+      "name": "Camisa Atlético de Madrid II 2026 Nike Torcedor Masculina",
       "brand": "Nike",
       "category": "outros",
       "price": {
@@ -1411531,6 +1411784,61 @@
       "path": "examples/kodda-catalog/products/9975ut520019.md"
     },
     {
+      "sku": "9975uu022215",
+      "name": "Pochete Oxer Porta Número de Peito",
+      "brand": "Oxer",
+      "category": "outros",
+      "price": {
+        "value": 49.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9975uu022215.md"
+    },
+    {
+      "sku": "9975uw022022",
+      "name": "SHORT OXER VERANO",
+      "brand": "Oxer",
+      "category": "outros",
+      "price": {
+        "value": 119.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9975uw022022.md"
+    },
+    {
+      "sku": "9975uw022039",
+      "name": "SHORT OXER VERANO",
+      "brand": "Oxer",
+      "category": "outros",
+      "price": {
+        "value": 119.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9975uw022039.md"
+    },
+    {
+      "sku": "9975uw022046",
+      "name": "SHORT OXER VERANO",
+      "brand": "Oxer",
+      "category": "outros",
+      "price": {
+        "value": 119.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9975uw022046.md"
+    },
+    {
+      "sku": "9975uw022053",
+      "name": "SHORT OXER VERANO",
+      "brand": "Oxer",
+      "category": "outros",
+      "price": {
+        "value": 119.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9975uw022053.md"
+    },
+    {
       "sku": "9975v0022026",
       "name": "Calça Legging Oxer Campe Com Bolso Feminina",
       "brand": "Oxer",
@@ -1419889,6 +1420197,182 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/99766a1b2214.md"
+    },
+    {
+      "sku": "99766e052023",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766e052023.md"
+    },
+    {
+      "sku": "99766e052030",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766e052030.md"
+    },
+    {
+      "sku": "99766e052047",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766e052047.md"
+    },
+    {
+      "sku": "99766e052054",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766e052054.md"
+    },
+    {
+      "sku": "99766e122023",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766e122023.md"
+    },
+    {
+      "sku": "99766e122030",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766e122030.md"
+    },
+    {
+      "sku": "99766e122047",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766e122047.md"
+    },
+    {
+      "sku": "99766e122054",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766e122054.md"
+    },
+    {
+      "sku": "99766e3w2022",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766e3w2022.md"
+    },
+    {
+      "sku": "99766e3w2039",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766e3w2039.md"
+    },
+    {
+      "sku": "99766e3w2046",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766e3w2046.md"
+    },
+    {
+      "sku": "99766e3w2053",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766e3w2053.md"
+    },
+    {
+      "sku": "99766ene2025",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766ene2025.md"
+    },
+    {
+      "sku": "99766ene2032",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766ene2032.md"
+    },
+    {
+      "sku": "99766ene2049",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766ene2049.md"
+    },
+    {
+      "sku": "99766ene2056",
+      "name": "Camiseta Nord CML Estampada Unissex",
+      "brand": "Nord Outdoor",
+      "category": "outros",
+      "price": {
+        "value": 79.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99766ene2056.md"
     },
     {
       "sku": "99766fju0088",
@@ -1429272,6 +1429756,72 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9976da030388.md"
+    },
+    {
+      "sku": "9976db510209",
+      "name": "TENIS ADIDAS BREAKNET 3 0 CF I",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 249.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976db510209.md"
+    },
+    {
+      "sku": "9976db510216",
+      "name": "TENIS ADIDAS BREAKNET 3 0 CF I",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 249.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976db510216.md"
+    },
+    {
+      "sku": "9976db510223",
+      "name": "TENIS ADIDAS BREAKNET 3 0 CF I",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 249.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976db510223.md"
+    },
+    {
+      "sku": "9976db510230",
+      "name": "TENIS ADIDAS BREAKNET 3 0 CF I",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 249.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976db510230.md"
+    },
+    {
+      "sku": "9976db510247",
+      "name": "TENIS ADIDAS BREAKNET 3 0 CF I",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 249.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976db510247.md"
+    },
+    {
+      "sku": "9976db510254",
+      "name": "TENIS ADIDAS BREAKNET 3 0 CF I",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 249.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976db510254.md"
     },
     {
       "sku": "9976dc319283",
@@ -1446401,6 +1446951,39 @@
       "path": "examples/kodda-catalog/products/9976oj312055.md"
     },
     {
+      "sku": "9976oj3f2025",
+      "name": "Camiseta adidas 3S Treino Unissex",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 159.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976oj3f2025.md"
+    },
+    {
+      "sku": "9976oj3f2032",
+      "name": "Camiseta adidas 3S Treino Unissex",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 159.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976oj3f2032.md"
+    },
+    {
+      "sku": "9976oj3f2049",
+      "name": "Camiseta adidas 3S Treino Unissex",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 159.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976oj3f2049.md"
+    },
+    {
       "sku": "9976ok312023",
       "name": "Camiseta adidas Treino 3S Unissex",
       "brand": "Adidas",
@@ -1446575,6 +1447158,50 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9976om062056.md"
+    },
+    {
+      "sku": "9976om072024",
+      "name": "Camiseta adidas Treino Unissex",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 119.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976om072024.md"
+    },
+    {
+      "sku": "9976om072031",
+      "name": "Camiseta adidas Treino Unissex",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 119.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976om072031.md"
+    },
+    {
+      "sku": "9976om072048",
+      "name": "Camiseta adidas Treino Unissex",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 119.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976om072048.md"
+    },
+    {
+      "sku": "9976om072055",
+      "name": "Camiseta adidas Treino Unissex",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 119.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976om072055.md"
     },
     {
       "sku": "9976om312021",
@@ -1450029,6 +1450656,50 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9976qv012056.md"
+    },
+    {
+      "sku": "9976qv3f2027",
+      "name": "Camiseta Polo adidas Club Feminina",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 199.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976qv3f2027.md"
+    },
+    {
+      "sku": "9976qv3f2034",
+      "name": "Camiseta Polo adidas Club Feminina",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 199.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976qv3f2034.md"
+    },
+    {
+      "sku": "9976qv3f2041",
+      "name": "Camiseta Polo adidas Club Feminina",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 199.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976qv3f2041.md"
+    },
+    {
+      "sku": "9976qv3f2058",
+      "name": "Camiseta Polo adidas Club Feminina",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 199.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976qv3f2058.md"
     },
     {
       "sku": "9976qw312025",
@@ -1475102,6 +1475773,50 @@
       "path": "examples/kodda-catalog/products/9977ae9o2055.md"
     },
     {
+      "sku": "9977aeu72023",
+      "name": "Camiseta Nike Dri-Fit Standard Run Masculina",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 179.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977aeu72023.md"
+    },
+    {
+      "sku": "9977aeu72030",
+      "name": "Camiseta Nike Dri-Fit Standard Run Masculina",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 179.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977aeu72030.md"
+    },
+    {
+      "sku": "9977aeu72047",
+      "name": "Camiseta Nike Dri-Fit Standard Run Masculina",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 179.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977aeu72047.md"
+    },
+    {
+      "sku": "9977aeu72054",
+      "name": "Camiseta Nike Dri-Fit Standard Run Masculina",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 179.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977aeu72054.md"
+    },
+    {
       "sku": "9977af140349",
       "name": "Tênis Feminino Puma Scend Pro 3 Wns",
       "brand": "Puma",
@@ -1485321,6 +1486036,17 @@
       "path": "examples/kodda-catalog/products/99787n020042.md"
     },
     {
+      "sku": "99787r062215",
+      "name": "Bolsa Wilson Super Tour Small Duffel",
+      "brand": "Wilson",
+      "category": "outros",
+      "price": {
+        "value": 749.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99787r062215.md"
+    },
+    {
       "sku": "99787x072218",
       "name": "Mochila Wilson Team VD Unissex",
       "brand": "Wilson",
@@ -1488038,6 +1488764,28 @@
       "path": "examples/kodda-catalog/products/9978ds022215.md"
     },
     {
+      "sku": "9978ek520006",
+      "name": "Óculos de Sol Unissex Oakley Stunt Devil S",
+      "brand": "Oakley",
+      "category": "outros",
+      "price": {
+        "value": 1359.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9978ek520006.md"
+    },
+    {
+      "sku": "9978ek580000",
+      "name": "Óculos de Sol Unissex Oakley Stunt Devil S",
+      "brand": "Oakley",
+      "category": "outros",
+      "price": {
+        "value": 1359.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9978ek580000.md"
+    },
+    {
       "sku": "9978fw3x3033",
       "name": "Raquete de Tênis Babolat Eagle Adulto",
       "brand": "Babolat",
@@ -1488476,6 +1489224,72 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9978ng0j0407.md"
+    },
+    {
+      "sku": "9978ng310345",
+      "name": "Tênis de Corrida Nike Hybrid Run Unissex",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 899.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9978ng310345.md"
+    },
+    {
+      "sku": "9978ng310352",
+      "name": "Tênis de Corrida Nike Hybrid Run Unissex",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 899.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9978ng310352.md"
+    },
+    {
+      "sku": "9978ng310369",
+      "name": "Tênis de Corrida Nike Hybrid Run Unissex",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 899.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9978ng310369.md"
+    },
+    {
+      "sku": "9978ng310376",
+      "name": "Tênis de Corrida Nike Hybrid Run Unissex",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 899.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9978ng310376.md"
+    },
+    {
+      "sku": "9978ng310383",
+      "name": "Tênis de Corrida Nike Hybrid Run Unissex",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 899.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9978ng310383.md"
+    },
+    {
+      "sku": "9978ng310390",
+      "name": "Tênis de Corrida Nike Hybrid Run Unissex",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 899.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9978ng310390.md"
     },
     {
       "sku": "9978ng3i0350",
