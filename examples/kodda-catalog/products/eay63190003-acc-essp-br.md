@@ -5,7 +5,7 @@ sku: "eay63190003-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Fonte de alimentação externa (19 V, 2,1 A, 40 W, cabo de alimentação não incluído, preto) - EAY63190003"
-category: "outros"
+category: "monitors"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/monitors/adapter-power-cord/eay63190003/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre a EAY63190003. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa LG (19 V, 2,1 A, 40 W, cabo de alimentação não incluído, preto)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAY63190003. Click for pictures, reviews, and tech specs for the LG Fonte de Alimentação Monitor Desktop EAY63190003."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.525Z"
+  updated_at: "2026-11-06T13:36:58.392Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.525Z"
+    verified_at: "2026-11-06T13:36:58.392Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.525Z"
+    verified_at: "2026-11-06T13:36:58.392Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre a EAY63190003. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa LG (19 V, 2,1 A, 40 W, cabo de alimentação não incluído, preto).
+Get more information on the LG EAY63190003. Click for pictures, reviews, and tech specs for the LG Fonte de Alimentação Monitor Desktop EAY63190003.

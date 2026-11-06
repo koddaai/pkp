@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/acessorio/eay65889906/"
 
 # === DESCOBERTA (L0) ===
-summary: "Fonte de alimentação para monitor desktop (100-240VCA) (19V/1,7A) ADS-45FSQ-19"
+summary: "Get more information on the LG EAY65889906. Click for pictures, reviews, and tech specs for the LG Fonte Externa ADS-45FSQ-19 Monitor LG 25UM58P EAY65889906."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 98.61
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.533Z"
+  updated_at: "2026-11-06T13:36:58.399Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.533Z"
+    verified_at: "2026-11-06T13:36:58.399Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.533Z"
+    verified_at: "2026-11-06T13:36:58.399Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Fonte de alimentação para monitor desktop (100-240VCA) (19V/1,7A) ADS-45FSQ-19
+Get more information on the LG EAY65889906. Click for pictures, reviews, and tech specs for the LG Fonte Externa ADS-45FSQ-19 Monitor LG 25UM58P EAY65889906.

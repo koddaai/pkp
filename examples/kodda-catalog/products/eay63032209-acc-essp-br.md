@@ -5,7 +5,7 @@ sku: "eay63032209-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Fonte de alimentação externa (19 V, 5,79 A, 110 W, cabo de alimentação não incluído, preto) - EAY63032209"
-category: "outros"
+category: "monitors"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/monitors/adapter-power-cord/eay63032209/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre a EAY63032209. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa LG (19 V, 5,79 A, 110 W, cabo de alimentação não incluído, preto)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAY63032209. Click for pictures, reviews, and tech specs for the LG Fonte de Alimentação Monitor EAY63032209."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 208.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.519Z"
+  updated_at: "2026-11-06T13:36:58.391Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.519Z"
+    verified_at: "2026-11-06T13:36:58.391Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.519Z"
+    verified_at: "2026-11-06T13:36:58.391Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre a EAY63032209. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa LG (19 V, 5,79 A, 110 W, cabo de alimentação não incluído, preto).
+Get more information on the LG EAY63032209. Click for pictures, reviews, and tech specs for the LG Fonte de Alimentação Monitor EAY63032209.

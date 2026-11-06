@@ -6,7 +6,7 @@ sku: "adq75801766-acc-essp-br"
 brand: "LG"
 name: "Filtro de Ar Purificador LG AS101DSH0 ADQ75801766 - ADQ75801766"
 category: "eletrodomesticos"
-subcategory: "ar-condicionado"
+subcategory: "purificador"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/adq75801766/"
 
 # === DESCOBERTA (L0) ===
-summary: "Filtro de entrada de ar tipo cartucho Para aparelho purificador de ar LG"
+summary: "Get more information on the LG ADQ75801766. Click for pictures, reviews, and tech specs for the LG Filtro de Ar Purificador LG AS101DSH0 ADQ75801766."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 379.05
+  value: 357.1
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.364Z"
+  updated_at: "2026-11-06T13:36:58.245Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.364Z"
+    verified_at: "2026-11-06T13:36:58.245Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.364Z"
+    verified_at: "2026-11-06T13:36:58.245Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Filtro de entrada de ar tipo cartucho Para aparelho purificador de ar LG
+Get more information on the LG ADQ75801766. Click for pictures, reviews, and tech specs for the LG Filtro de Ar Purificador LG AS101DSH0 ADQ75801766.

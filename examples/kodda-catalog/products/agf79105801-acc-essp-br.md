@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf79105801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGF79105801. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 49LH5100 - AGF79105801"
+summary: "Get more information on the LG AGF79105801. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 49LH5100 - AGF79105801."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 170.06
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.389Z"
+  updated_at: "2026-11-06T13:36:58.270Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.389Z"
+    verified_at: "2026-11-06T13:36:58.270Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.389Z"
+    verified_at: "2026-11-06T13:36:58.270Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AGF79105801. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 49LH5100 - AGF79105801
+Get more information on the LG AGF79105801. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 49LH5100 - AGF79105801.

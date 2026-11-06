@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/6930w1a003b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 6930W1A003B. Clique para ver imagens, análises e especificações técnicas da LG Termostato Forno Micro-onda LG MH8048AP, MH6346SSA, MH7043R - 6930W1A003B"
+summary: "Get more information on the LG 6930W1A003B. Click for pictures, reviews, and tech specs for the LG Termostato Forno Micro-onda LG MH8048AP, MH6346SSA, MH7043R - 6930W1A003B."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 46.55
+  value: 25.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.319Z"
+  updated_at: "2026-11-06T13:36:58.196Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.319Z"
+    verified_at: "2026-11-06T13:36:58.196Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.319Z"
+    verified_at: "2026-11-06T13:36:58.196Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 6930W1A003B. Clique para ver imagens, análises e especificações técnicas da LG Termostato Forno Micro-onda LG MH8048AP, MH6346SSA, MH7043R - 6930W1A003B
+Get more information on the LG 6930W1A003B. Click for pictures, reviews, and tech specs for the LG Termostato Forno Micro-onda LG MH8048AP, MH6346SSA, MH7043R - 6930W1A003B.

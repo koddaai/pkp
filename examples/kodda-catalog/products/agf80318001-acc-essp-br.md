@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf80318001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGF80318001. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 49UH6500 - AGF80318001"
+summary: "Get more information on the LG AGF80318001. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 49UH6500 - AGF80318001."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.392Z"
+  updated_at: "2026-11-06T13:36:58.272Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.392Z"
+    verified_at: "2026-11-06T13:36:58.272Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.392Z"
+    verified_at: "2026-11-06T13:36:58.272Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AGF80318001. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 49UH6500 - AGF80318001
+Get more information on the LG AGF80318001. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 49UH6500 - AGF80318001.

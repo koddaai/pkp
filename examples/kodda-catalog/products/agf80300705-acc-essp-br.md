@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/refrigerators/water-filter-filter/agf80300705/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AGF80300705. Clique para ver fotos, avaliações e especificações técnicas do filtro de água para geladeira LG LT1000P."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AGF80300705. Click for pictures, reviews, and tech specs for the LG Filtro de água para geladeira LG LT1000P."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 242.1
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.391Z"
+  updated_at: "2026-11-06T13:36:58.271Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.391Z"
+    verified_at: "2026-11-06T13:36:58.271Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.391Z"
+    verified_at: "2026-11-06T13:36:58.271Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o AGF80300705. Clique para ver fotos, avaliações e especificações técnicas do filtro de água para geladeira LG LT1000P.
+Get more information on the LG AGF80300705. Click for pictures, reviews, and tech specs for the LG Filtro de água para geladeira LG LT1000P.

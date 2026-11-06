@@ -5,7 +5,7 @@ sku: "afp73827101-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Receptor USB para mouse - AFP73827101"
-category: "outros"
+category: "notebooks"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 50.88
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.374Z"
+  updated_at: "2026-11-06T13:36:58.255Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.374Z"
+    verified_at: "2026-11-06T13:36:58.255Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.374Z"
+    verified_at: "2026-11-06T13:36:58.255Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

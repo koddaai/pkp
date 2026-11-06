@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eay62850504/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAY62850504. Clique para ver imagens, análises e especificações técnicas da LG Fonte externa LCAP 25B 19V/2.1A Monitor LG 26MA33D-PS - EAY62850504"
+summary: "Get more information on the LG EAY62850504. Click for pictures, reviews, and tech specs for the LG Fonte externa LCAP 25B 19V/2.1A Monitor LG 26MA33D-PS - EAY62850504."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.516Z"
+  updated_at: "2026-11-06T13:36:58.389Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.516Z"
+    verified_at: "2026-11-06T13:36:58.389Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.516Z"
+    verified_at: "2026-11-06T13:36:58.389Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAY62850504. Clique para ver imagens, análises e especificações técnicas da LG Fonte externa LCAP 25B 19V/2.1A Monitor LG 26MA33D-PS - EAY62850504
+Get more information on the LG EAY62850504. Click for pictures, reviews, and tech specs for the LG Fonte externa LCAP 25B 19V/2.1A Monitor LG 26MA33D-PS - EAY62850504.

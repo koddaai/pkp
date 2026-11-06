@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eay62768629/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conversor estático, retificador a base de cristal (semicondutores) em corrente alternada (100-240VCA) para corrente contínua (19V/1.3A)"
+summary: "Get more information on the LG EAY62768629. Click for pictures, reviews, and tech specs for the LG Fonte externa ADS-25FSF-19 Monitor LG EAY62768629."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 98.1
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.515Z"
+  updated_at: "2026-11-06T13:36:58.388Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.515Z"
+    verified_at: "2026-11-06T13:36:58.388Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.515Z"
+    verified_at: "2026-11-06T13:36:58.388Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Conversor estático, retificador a base de cristal (semicondutores) em corrente alternada (100-240VCA) para corrente contínua (19V/1.3A)
+Get more information on the LG EAY62768629. Click for pictures, reviews, and tech specs for the LG Fonte externa ADS-25FSF-19 Monitor LG EAY62768629.

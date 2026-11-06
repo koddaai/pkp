@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mfm64056902/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MFM64056902. Clique para ver imagens, análises e especificações técnicas da LG Membrana display Micro-ondas LG MS3097AR - MFM64056902"
+summary: "Get more information on the LG MFM64056902. Click for pictures, reviews, and tech specs for the LG Membrana display Micro-ondas LG MS3097AR - MFM64056902."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.672Z"
+  updated_at: "2026-11-06T13:36:58.536Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.672Z"
+    verified_at: "2026-11-06T13:36:58.536Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.672Z"
+    verified_at: "2026-11-06T13:36:58.536Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MFM64056902. Clique para ver imagens, análises e especificações técnicas da LG Membrana display Micro-ondas LG MS3097AR - MFM64056902
+Get more information on the LG MFM64056902. Click for pictures, reviews, and tech specs for the LG Membrana display Micro-ondas LG MS3097AR - MFM64056902.

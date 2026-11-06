@@ -27,9 +27,9 @@ tags: ["lg", "inverter", "8k", "pro"]
 price:
   type: "street"
   currency: "BRL"
-  value: 873.05
+  value: 838.13
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.339Z"
+  updated_at: "2026-11-06T13:36:58.222Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.339Z"
+    verified_at: "2026-11-06T13:36:58.222Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.339Z"
+    verified_at: "2026-11-06T13:36:58.222Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

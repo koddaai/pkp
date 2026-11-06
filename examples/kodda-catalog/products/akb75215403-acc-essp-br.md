@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/akb75215403/"
 
 # === DESCOBERTA (L0) ===
-summary: "Não acompanha pilhas"
+summary: "Get more information on the LG AKB75215403. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar Condicionado LG AKB75215403."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 141.55
+  value: 129.67
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.425Z"
+  updated_at: "2026-11-06T13:36:58.301Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.425Z"
+    verified_at: "2026-11-06T13:36:58.301Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.425Z"
+    verified_at: "2026-11-06T13:36:58.301Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Não acompanha pilhas
+Get more information on the LG AKB75215403. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar Condicionado LG AKB75215403.

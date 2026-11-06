@@ -5,8 +5,8 @@ sku: "akb75095387-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Controle Remoto Projetor LG PF50KS AKB75095387 - AKB75095387"
-category: "tvs"
-
+category: "monitors"
+subcategory: "projetor"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -27,9 +27,9 @@ tags: ["lg", "pro"]
 price:
   type: "street"
   currency: "BRL"
-  value: 64.74
+  value: 60.79
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.424Z"
+  updated_at: "2026-11-06T13:36:58.300Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.424Z"
+    verified_at: "2026-11-06T13:36:58.300Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.424Z"
+    verified_at: "2026-11-06T13:36:58.300Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/akb76038419/"
 
 # === DESCOBERTA (L0) ===
-summary: "Controle Remoto sem fio LG AKB76038419, para Ar Condicionado. Comando à distância via infravermelho (IR), proporcionando praticidade e conforto no ajuste de temperatura e funções do aparelho, garantindo maior comodidade no controle do ambiente."
-tags: ["lg", "ai", "pro", "sem-fio"]
+summary: "Get more information on the LG AKB76038419. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar Condicionado LG AKB76038419."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.429Z"
+  updated_at: "2026-11-06T13:36:58.305Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.429Z"
+    verified_at: "2026-11-06T13:36:58.305Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.429Z"
+    verified_at: "2026-11-06T13:36:58.305Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Controle Remoto sem fio LG AKB76038419, para Ar Condicionado. Comando à distância via infravermelho (IR), proporcionando praticidade e conforto no ajuste de temperatura e funções do aparelho, garantindo maior comodidade no controle do ambiente.
+Get more information on the LG AKB76038419. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar Condicionado LG AKB76038419.

@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/laptops/adapter-power-cord/eay62990909/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre a EAY62990909. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa LG para laptop (19 V, 3,42 A, 65 W, cabo de alimentação não incluído, branco)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAY62990909. Click for pictures, reviews, and tech specs for the LG Fonte de Alimentação All In One e Monitor Desktop EAY62990909."
+tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 246.05
+  value: 216.46
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.517Z"
+  updated_at: "2026-11-06T13:36:58.390Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.517Z"
+    verified_at: "2026-11-06T13:36:58.390Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.517Z"
+    verified_at: "2026-11-06T13:36:58.390Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre a EAY62990909. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa LG para laptop (19 V, 3,42 A, 65 W, cabo de alimentação não incluído, branco).
+Get more information on the LG EAY62990909. Click for pictures, reviews, and tech specs for the LG Fonte de Alimentação All In One e Monitor Desktop EAY62990909.

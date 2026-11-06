@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acg75244633/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha informações sobre o LG ACG75244633. Encontre imagens, avaliações e especificações técnicas para o LG ACG75244633 Serpentina condensadora Ar Condicionado LG S4UW24K231E, S4UW24K23XE, S4UW24K2RXE - ACG75244633"
+summary: "Get more information on the LG ACG75244633. Click for pictures, reviews, and tech specs for the LG Serpentina condensadora Ar Condicionado LG S4UW24K231E, S4UW24K23XE, S4UW24K2RXE - ACG75244633."
 tags: ["lg", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1614.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.344Z"
+  updated_at: "2026-11-06T13:36:58.227Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.344Z"
+    verified_at: "2026-11-06T13:36:58.227Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.344Z"
+    verified_at: "2026-11-06T13:36:58.227Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha informações sobre o LG ACG75244633. Encontre imagens, avaliações e especificações técnicas para o LG ACG75244633 Serpentina condensadora Ar Condicionado LG S4UW24K231E, S4UW24K23XE, S4UW24K2RXE - ACG75244633
+Get more information on the LG ACG75244633. Click for pictures, reviews, and tech specs for the LG Serpentina condensadora Ar Condicionado LG S4UW24K231E, S4UW24K23XE, S4UW24K2RXE - ACG75244633.

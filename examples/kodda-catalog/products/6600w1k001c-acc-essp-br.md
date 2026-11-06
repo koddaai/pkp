@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/6600w1k001c/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 6600W1K001C. Clique para ver imagens, análises e especificações técnicas da LG Micro chave Forno Micro-ondas LG MH8048AP, MH7048AP, MS3048GA - 6600W1K001C"
+summary: "Get more information on the LG 6600W1K001C. Click for pictures, reviews, and tech specs for the LG Micro chave Forno Micro-ondas LG MH8048AP, MH7048AP, MS3048GA - 6600W1K001C."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.313Z"
+  updated_at: "2026-11-06T13:36:58.191Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.313Z"
+    verified_at: "2026-11-06T13:36:58.191Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.313Z"
+    verified_at: "2026-11-06T13:36:58.191Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 6600W1K001C. Clique para ver imagens, análises e especificações técnicas da LG Micro chave Forno Micro-ondas LG MH8048AP, MH7048AP, MS3048GA - 6600W1K001C
+Get more information on the LG 6600W1K001C. Click for pictures, reviews, and tech specs for the LG Micro chave Forno Micro-ondas LG MH8048AP, MH7048AP, MS3048GA - 6600W1K001C.

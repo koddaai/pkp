@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/refrigerators/water-filter-filter/adq73693903/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o ADQ73693903. Clique para ver fotos, avaliações e especificações técnicas do filtro de água para geladeira LG FSS-002 (6 meses)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG ADQ73693903. Click for pictures, reviews, and tech specs for the LG Filtro de água Refrigerador LG ADQ73693903 ."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 242.1
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.363Z"
+  updated_at: "2026-11-06T13:36:58.244Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.363Z"
+    verified_at: "2026-11-06T13:36:58.244Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.363Z"
+    verified_at: "2026-11-06T13:36:58.244Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o ADQ73693903. Clique para ver fotos, avaliações e especificações técnicas do filtro de água para geladeira LG FSS-002 (6 meses).
+Get more information on the LG ADQ73693903. Click for pictures, reviews, and tech specs for the LG Filtro de água Refrigerador LG ADQ73693903 .

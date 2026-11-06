@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/tbz39254301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Motocompressor Hermético LG para Ar Condicionado residencial, modelo DST102MA*, com capacidade de 3.339,63 Frigorias/Hora (13.250 BTU). Equipamento trifásico, tipo rotativo, ideal para garantir alta performance e eficiência no funcionamento do sistema de climatização."
+summary: "Get more information on the LG TBZ39254301. Click for pictures, reviews, and tech specs for the LG Compressor Inverter DST102MA Ar Condicionado LG TBZ39254301."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 752.52
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.702Z"
+  updated_at: "2026-11-06T13:36:58.563Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.702Z"
+    verified_at: "2026-11-06T13:36:58.563Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.702Z"
+    verified_at: "2026-11-06T13:36:58.563Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Motocompressor Hermético LG para Ar Condicionado residencial, modelo DST102MA*, com capacidade de 3.339,63 Frigorias/Hora (13.250 BTU). Equipamento trifásico, tipo rotativo, ideal para garantir alta performance e eficiência no funcionamento do sistema de climatização.
+Get more information on the LG TBZ39254301. Click for pictures, reviews, and tech specs for the LG Compressor Inverter DST102MA Ar Condicionado LG TBZ39254301.

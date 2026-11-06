@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/6851w1a002k/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 6851W1A002K. Clique para ver imagens, análises e especificações técnicas da LG Diodo de alta tensão CL04-12A Forno Micro-ondas LG MS2346G, MH6346S, MH7043BAR - 6851W1A002K"
+summary: "Get more information on the LG 6851W1A002K. Click for pictures, reviews, and tech specs for the LG Diodo de alta tensão CL04-12A Forno Micro-ondas LG MS2346G, MH6346S, MH7043BAR - 6851W1A002K."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 33.2
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.315Z"
+  updated_at: "2026-11-06T13:36:58.193Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.315Z"
+    verified_at: "2026-11-06T13:36:58.193Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.315Z"
+    verified_at: "2026-11-06T13:36:58.193Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 6851W1A002K. Clique para ver imagens, análises e especificações técnicas da LG Diodo de alta tensão CL04-12A Forno Micro-ondas LG MS2346G, MH6346S, MH7043BAR - 6851W1A002K
+Get more information on the LG 6851W1A002K. Click for pictures, reviews, and tech specs for the LG Diodo de alta tensão CL04-12A Forno Micro-ondas LG MS2346G, MH6346S, MH7043BAR - 6851W1A002K.

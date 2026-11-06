@@ -5,8 +5,8 @@ sku: "akb75735303-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Controle Remoto Smart Magic Projetor LG HU70LA - AKB75735303 - AKB75735303 | LG BR"
-category: "tvs"
-
+category: "monitors"
+subcategory: "projetor"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/akb75735303/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AKB75735303. Clique para ver imagens, análises e especificações técnicas da LG Controle Remoto Smart Magic Projetor LG HU70LA - AKB75735303"
+summary: "Get more information on the LG AKB75735303. Click for pictures, reviews, and tech specs for the LG Controle Remoto Smart Magic Projetor LG HU70LA - AKB75735303."
 tags: ["lg", "smart", "pro"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 189.05
+  value: 157.09
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.426Z"
+  updated_at: "2026-11-06T13:36:58.302Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.426Z"
+    verified_at: "2026-11-06T13:36:58.302Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.426Z"
+    verified_at: "2026-11-06T13:36:58.302Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AKB75735303. Clique para ver imagens, análises e especificações técnicas da LG Controle Remoto Smart Magic Projetor LG HU70LA - AKB75735303
+Get more information on the LG AKB75735303. Click for pictures, reviews, and tech specs for the LG Controle Remoto Smart Magic Projetor LG HU70LA - AKB75735303.

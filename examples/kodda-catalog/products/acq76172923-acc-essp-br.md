@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/acq76172923/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ACQ76172923. Clique para ver imagens, análises e especificações técnicas da LG Tampa frontal Lavadora de Louça LG D1454TFS - ACQ76172923"
+summary: "Get more information on the LG ACQ76172923. Click for pictures, reviews, and tech specs for the LG Tampa frontal Lavadora de Louça LG D1454TFS - ACQ76172923."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.346Z"
+  updated_at: "2026-11-06T13:36:58.229Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.346Z"
+    verified_at: "2026-11-06T13:36:58.229Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.346Z"
+    verified_at: "2026-11-06T13:36:58.229Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ACQ76172923. Clique para ver imagens, análises e especificações técnicas da LG Tampa frontal Lavadora de Louça LG D1454TFS - ACQ76172923
+Get more information on the LG ACQ76172923. Click for pictures, reviews, and tech specs for the LG Tampa frontal Lavadora de Louça LG D1454TFS - ACQ76172923.

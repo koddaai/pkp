@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/mfa62162901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MFA62162901. Clique para ver imagens, análises e especificações técnicas da LG Parafuso de aço Refrigerador LG GR-S501GLP - MFA62162901"
+summary: "Get more information on the LG MFA62162901. Click for pictures, reviews, and tech specs for the LG Parafuso de aço Refrigerador LG GR-S501GLP - MFA62162901."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 19.73
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.667Z"
+  updated_at: "2026-11-06T13:36:58.531Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.667Z"
+    verified_at: "2026-11-06T13:36:58.531Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.667Z"
+    verified_at: "2026-11-06T13:36:58.531Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MFA62162901. Clique para ver imagens, análises e especificações técnicas da LG Parafuso de aço Refrigerador LG GR-S501GLP - MFA62162901
+Get more information on the LG MFA62162901. Click for pictures, reviews, and tech specs for the LG Parafuso de aço Refrigerador LG GR-S501GLP - MFA62162901.

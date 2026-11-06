@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/monitors/others/ead65185201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre a EAD65185201. Clique para ver imagens, avaliações e especificações técnicas do Cabo HDMI para HDMI 2.0 para monitor (1,5 m, preto)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAD65185201. Click for pictures, reviews, and tech specs for the LG Cabo HDMI para HDMI 2.0 para monitor (1,5 m, preto)."
+tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 75.05
+  value: 60.04
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.468Z"
+  updated_at: "2026-11-06T13:36:58.344Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.468Z"
+    verified_at: "2026-11-06T13:36:58.344Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.468Z"
+    verified_at: "2026-11-06T13:36:58.344Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre a EAD65185201. Clique para ver imagens, avaliações e especificações técnicas do Cabo HDMI para HDMI 2.0 para monitor (1,5 m, preto).
+Get more information on the LG EAD65185201. Click for pictures, reviews, and tech specs for the LG Cabo HDMI para HDMI 2.0 para monitor (1,5 m, preto).

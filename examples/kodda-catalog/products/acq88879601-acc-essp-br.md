@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/refrigerators/shelf/acq88879601/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o ACQ88879601. Clique para ver imagens, avaliações e especificações técnicas do prato de vidro para fornos de micro-ondas da LG."
+summary: "Get more information on the LG ACQ88879601. Click for pictures, reviews, and tech specs for the LG Tampa da gaveta de vegetais da geladeira."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 338.34
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.347Z"
+  updated_at: "2026-11-06T13:36:58.229Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.347Z"
+    verified_at: "2026-11-06T13:36:58.229Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.347Z"
+    verified_at: "2026-11-06T13:36:58.229Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o ACQ88879601. Clique para ver imagens, avaliações e especificações técnicas do prato de vidro para fornos de micro-ondas da LG.
+Get more information on the LG ACQ88879601. Click for pictures, reviews, and tech specs for the LG Tampa da gaveta de vegetais da geladeira.

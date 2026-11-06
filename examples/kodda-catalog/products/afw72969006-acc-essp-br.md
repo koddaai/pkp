@@ -5,7 +5,7 @@ sku: "afw72969006-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Mouse USB com fio (Branco) - AFW72969006"
-category: "outros"
+category: "notebooks"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/laptops/others/afw72969006/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AFW72969006. Clique para ver imagens, análises e especificações técnicas do mouse USB com fio LG (Branco)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AFW72969006. Click for pictures, reviews, and tech specs for the LG Mouse USB com fio (Branco)."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.374Z"
+  updated_at: "2026-11-06T13:36:58.255Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.374Z"
+    verified_at: "2026-11-06T13:36:58.255Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.374Z"
+    verified_at: "2026-11-06T13:36:58.255Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o AFW72969006. Clique para ver imagens, análises e especificações técnicas do mouse USB com fio LG (Branco).
+Get more information on the LG AFW72969006. Click for pictures, reviews, and tech specs for the LG Mouse USB com fio (Branco).

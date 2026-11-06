@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5403a20037k/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5403A20037K. Clique para ver imagens, análises e especificações técnicas da LG Serpentina Condensadora Ar Condicionado LG LTUC362NLE0 - 5403A20037K"
+summary: "Get more information on the LG 5403A20037K. Click for pictures, reviews, and tech specs for the LG Serpentina Condensadora Ar Condicionado LG LTUC362NLE0 - 5403A20037K."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2317.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.296Z"
+  updated_at: "2026-11-06T13:36:58.178Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.296Z"
+    verified_at: "2026-11-06T13:36:58.178Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.296Z"
+    verified_at: "2026-11-06T13:36:58.178Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5403A20037K. Clique para ver imagens, análises e especificações técnicas da LG Serpentina Condensadora Ar Condicionado LG LTUC362NLE0 - 5403A20037K
+Get more information on the LG 5403A20037K. Click for pictures, reviews, and tech specs for the LG Serpentina Condensadora Ar Condicionado LG LTUC362NLE0 - 5403A20037K.

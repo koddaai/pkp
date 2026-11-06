@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/ajs73029201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AJS73029201. Clique para ver imagens, análises e especificações técnicas da LG Eixo do suporte do prato giratório para Forno Micro-ondas LG MS2357R, MS2355R - AJS73029201"
+summary: "Get more information on the LG AJS73029201. Click for pictures, reviews, and tech specs for the LG Eixo do suporte do prato giratório para Forno Micro-ondas LG MS2357R, MS2355R - AJS73029201."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 65.55
+  value: 60.04
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.415Z"
+  updated_at: "2026-11-06T13:36:58.291Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.415Z"
+    verified_at: "2026-11-06T13:36:58.291Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.415Z"
+    verified_at: "2026-11-06T13:36:58.291Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AJS73029201. Clique para ver imagens, análises e especificações técnicas da LG Eixo do suporte do prato giratório para Forno Micro-ondas LG MS2357R, MS2355R - AJS73029201
+Get more information on the LG AJS73029201. Click for pictures, reviews, and tech specs for the LG Eixo do suporte do prato giratório para Forno Micro-ondas LG MS2357R, MS2355R - AJS73029201.

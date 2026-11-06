@@ -5,8 +5,8 @@ sku: "acg73444942-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Serpendina da unidade condensadora Ar Condocionado LG USUW092WSZ2, S4UW09WA5WA, S4UQ12JA3WC - ACG73444942 - ACG73444942"
-category: "outros"
-
+category: "eletrodomesticos"
+subcategory: "ar-condicionado"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acg73444942/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG ACG73444942. Click for pictures, reviews, and tech specs for the LG Serpendina da unidade condensadora Ar Condocionado LG USUW092WSZ2, S4UW09WA5WA, S4UQ12JA3WC - ACG73444942."
+summary: "Get more information on the LG ACG73444942. Click for pictures, reviews, and tech specs for the LG Serpentina da unidade condensadora Ar Condicionado LG USUW092WSZ2, S4UW09WA5WA, S4UQ12JA3WC - ACG73444942."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 711.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.342Z"
+  updated_at: "2026-11-06T13:36:58.225Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.342Z"
+    verified_at: "2026-11-06T13:36:58.225Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.342Z"
+    verified_at: "2026-11-06T13:36:58.225Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG ACG73444942. Click for pictures, reviews, and tech specs for the LG Serpendina da unidade condensadora Ar Condocionado LG USUW092WSZ2, S4UW09WA5WA, S4UQ12JA3WC - ACG73444942.
+Get more information on the LG ACG73444942. Click for pictures, reviews, and tech specs for the LG Serpentina da unidade condensadora Ar Condicionado LG USUW092WSZ2, S4UW09WA5WA, S4UQ12JA3WC - ACG73444942.

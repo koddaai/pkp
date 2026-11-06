@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agm76871301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGM76871301. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 32LH510B-SC, 32LH560B-SD, 32LH570B-SC - AGM76871301"
+summary: "Get more information on the LG AGM76871301. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 32LH510B-SC, 32LH560B-SD, 32LH570B-SC - AGM76871301."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.398Z"
+  updated_at: "2026-11-06T13:36:58.277Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.398Z"
+    verified_at: "2026-11-06T13:36:58.277Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.398Z"
+    verified_at: "2026-11-06T13:36:58.277Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AGM76871301. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 32LH510B-SC, 32LH560B-SD, 32LH570B-SC - AGM76871301
+Get more information on the LG AGM76871301. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 32LH510B-SC, 32LH560B-SD, 32LH570B-SC - AGM76871301.

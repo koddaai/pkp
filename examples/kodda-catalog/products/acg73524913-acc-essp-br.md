@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/acg73524913/"
 
 # === DESCOBERTA (L0) ===
-summary: "Trocador de calor da unidade condensadora (condensador) do ar condicionado"
+summary: "Get more information on the LG ACG73524913. Click for pictures, reviews, and tech specs for the LG Serpentina Ar Condicionado LG S3NQ12JA31K ACG73524913."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 721.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.342Z"
+  updated_at: "2026-11-06T13:36:58.225Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.342Z"
+    verified_at: "2026-11-06T13:36:58.225Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.342Z"
+    verified_at: "2026-11-06T13:36:58.225Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Trocador de calor da unidade condensadora (condensador) do ar condicionado
+Get more information on the LG ACG73524913. Click for pictures, reviews, and tech specs for the LG Serpentina Ar Condicionado LG S3NQ12JA31K ACG73524913.

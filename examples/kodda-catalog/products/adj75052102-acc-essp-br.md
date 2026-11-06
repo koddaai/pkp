@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adj75052102/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ADJ75052102. Clique para ver imagens, análises e especificações técnicas da LG Duto de ventilaço flexivel Ar Condicionado Portátil LG LP1419IVSM - ADJ75052102"
+summary: "Get more information on the LG ADJ75052102. Click for pictures, reviews, and tech specs for the LG Duto de ventilação flexível Ar Condicionado Portátil LG LP1419IVSM - ADJ75052102."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 474.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.353Z"
+  updated_at: "2026-11-06T13:36:58.235Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.353Z"
+    verified_at: "2026-11-06T13:36:58.235Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.353Z"
+    verified_at: "2026-11-06T13:36:58.235Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ADJ75052102. Clique para ver imagens, análises e especificações técnicas da LG Duto de ventilaço flexivel Ar Condicionado Portátil LG LP1419IVSM - ADJ75052102
+Get more information on the LG ADJ75052102. Click for pictures, reviews, and tech specs for the LG Duto de ventilação flexível Ar Condicionado Portátil LG LP1419IVSM - ADJ75052102.

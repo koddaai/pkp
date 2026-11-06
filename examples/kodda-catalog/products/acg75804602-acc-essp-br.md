@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/acg75804602/"
 
 # === DESCOBERTA (L0) ===
-summary: "Trocador de calor da unidade condensadora (condensador) do ar condicionado"
+summary: "Get more information on the LG ACG75804602. Click for pictures, reviews, and tech specs for the LG Serpentina Ar Condicionado LG TSUC122B4A0 ACG75804602."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 635.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.344Z"
+  updated_at: "2026-11-06T13:36:58.227Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.344Z"
+    verified_at: "2026-11-06T13:36:58.227Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.344Z"
+    verified_at: "2026-11-06T13:36:58.227Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Trocador de calor da unidade condensadora (condensador) do ar condicionado
+Get more information on the LG ACG75804602. Click for pictures, reviews, and tech specs for the LG Serpentina Ar Condicionado LG TSUC122B4A0 ACG75804602.

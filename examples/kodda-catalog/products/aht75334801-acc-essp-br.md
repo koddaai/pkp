@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/acessorio/aht75334801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Prateleira de Vidro Refrigerador LG GNB392PLMB AHT75334801"
+summary: "Get more information on the LG AHT75334801. Click for pictures, reviews, and tech specs for the LG Prateleira de Vidro Refrigerador LG GNB392PLMB AHT75334801."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 350.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.406Z"
+  updated_at: "2026-11-06T13:36:58.285Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.406Z"
+    verified_at: "2026-11-06T13:36:58.285Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.406Z"
+    verified_at: "2026-11-06T13:36:58.285Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Prateleira de Vidro Refrigerador LG GNB392PLMB AHT75334801
+Get more information on the LG AHT75334801. Click for pictures, reviews, and tech specs for the LG Prateleira de Vidro Refrigerador LG GNB392PLMB AHT75334801.

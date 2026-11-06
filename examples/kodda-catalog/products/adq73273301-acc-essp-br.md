@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/air-conditioners/filter/adq73273301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o ADQ73273301. Clique para ver imagens, avaliações e especificações técnicas do Pre-Filter para aparelhos de ar-condicionado cassete LG."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG ADQ73273301. Click for pictures, reviews, and tech specs for the LG Filtro evaporadora Ar condicionado LG PT-UMC, PT-MAHW0, PT-MCGW0 - ADQ73273301."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 128.44
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.362Z"
+  updated_at: "2026-11-06T13:36:58.244Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.362Z"
+    verified_at: "2026-11-06T13:36:58.244Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.362Z"
+    verified_at: "2026-11-06T13:36:58.244Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o ADQ73273301. Clique para ver imagens, avaliações e especificações técnicas do Pre-Filter para aparelhos de ar-condicionado cassete LG.
+Get more information on the LG ADQ73273301. Click for pictures, reviews, and tech specs for the LG Filtro evaporadora Ar condicionado LG PT-UMC, PT-MAHW0, PT-MCGW0 - ADQ73273301.

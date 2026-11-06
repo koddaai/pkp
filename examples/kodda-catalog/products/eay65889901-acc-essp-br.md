@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eay65889901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAY65889901. Clique para ver imagens, análises e especificações técnicas da LG Fonte externa ADS-45SQ-19-3 Monitor LG 24GL600F-B - EAY65889901"
+summary: "Get more information on the LG EAY65889901. Click for pictures, reviews, and tech specs for the LG Fonte externa ADS-45SQ-19-3 Monitor LG 24GL600F-B - EAY65889901."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 109.6
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.532Z"
+  updated_at: "2026-11-06T13:36:58.399Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.532Z"
+    verified_at: "2026-11-06T13:36:58.399Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.532Z"
+    verified_at: "2026-11-06T13:36:58.399Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAY65889901. Clique para ver imagens, análises e especificações técnicas da LG Fonte externa ADS-45SQ-19-3 Monitor LG 24GL600F-B - EAY65889901
+Get more information on the LG EAY65889901. Click for pictures, reviews, and tech specs for the LG Fonte externa ADS-45SQ-19-3 Monitor LG 24GL600F-B - EAY65889901.

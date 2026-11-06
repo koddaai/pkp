@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/tbz39254001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Motocompressor Ar Condicionado LG S3UQ18KLQAL TBZ39254001"
+summary: "Get more information on the LG TBZ39254001. Click for pictures, reviews, and tech specs for the LG Motocompressor Ar Condicionado LG S3UQ18KLQAL TBZ39254001."
 tags: ["lg", "8k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1690.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.702Z"
+  updated_at: "2026-11-06T13:36:58.563Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.702Z"
+    verified_at: "2026-11-06T13:36:58.563Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.702Z"
+    verified_at: "2026-11-06T13:36:58.563Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Motocompressor Ar Condicionado LG S3UQ18KLQAL TBZ39254001
+Get more information on the LG TBZ39254001. Click for pictures, reviews, and tech specs for the LG Motocompressor Ar Condicionado LG S3UQ18KLQAL TBZ39254001.

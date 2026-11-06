@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mdj64504901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MDJ64504901. Clique para ver imagens, análises e especificações técnicas da LG Filtro de entrada de ar para unidade evaporadora do Ar Condicionado LG AVNQ36GM1A0, ARNU18GV1A4, ARNU24GV1A4 - MDJ64504901"
+summary: "Get more information on the LG MDJ64504901. Click for pictures, reviews, and tech specs for the LG Filtro de entrada de ar para unidade evaporadora do Ar Condicionado LG AVNQ36GM1A0, ARNU18GV1A4, ARNU24GV1A4 - MDJ64504901."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 39.33
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.660Z"
+  updated_at: "2026-11-06T13:36:58.524Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.660Z"
+    verified_at: "2026-11-06T13:36:58.524Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.660Z"
+    verified_at: "2026-11-06T13:36:58.524Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MDJ64504901. Clique para ver imagens, análises e especificações técnicas da LG Filtro de entrada de ar para unidade evaporadora do Ar Condicionado LG AVNQ36GM1A0, ARNU18GV1A4, ARNU24GV1A4 - MDJ64504901
+Get more information on the LG MDJ64504901. Click for pictures, reviews, and tech specs for the LG Filtro de entrada de ar para unidade evaporadora do Ar Condicionado LG AVNQ36GM1A0, ARNU18GV1A4, ARNU24GV1A4 - MDJ64504901.

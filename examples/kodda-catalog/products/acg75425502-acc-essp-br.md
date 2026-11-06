@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acg75425502/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ACG75425502. Clique para ver imagens, análises e especificações técnicas da LG Serpentina da unidade condensadora Ar Condicionado LG ATUW24GPLP0 - ACG75425502"
+summary: "Get more information on the LG ACG75425502. Click for pictures, reviews, and tech specs for the LG Serpentina da unidade condensadora Ar Condicionado LG ATUW24GPLP0 - ACG75425502."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2725.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.344Z"
+  updated_at: "2026-11-06T13:36:58.227Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.344Z"
+    verified_at: "2026-11-06T13:36:58.227Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.344Z"
+    verified_at: "2026-11-06T13:36:58.227Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ACG75425502. Clique para ver imagens, análises e especificações técnicas da LG Serpentina da unidade condensadora Ar Condicionado LG ATUW24GPLP0 - ACG75425502
+Get more information on the LG ACG75425502. Click for pictures, reviews, and tech specs for the LG Serpentina da unidade condensadora Ar Condicionado LG ATUW24GPLP0 - ACG75425502.

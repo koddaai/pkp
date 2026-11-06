@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acg76576201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Serpentina Condensadora Ar Condicionado LG ACG76576201"
+summary: "Get more information on the LG ACG76576201. Click for pictures, reviews, and tech specs for the LG Serpentina Condensadora Ar Condicionado LG ACG76576201."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1481.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.345Z"
+  updated_at: "2026-11-06T13:36:58.227Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.345Z"
+    verified_at: "2026-11-06T13:36:58.227Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.345Z"
+    verified_at: "2026-11-06T13:36:58.227Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Serpentina Condensadora Ar Condicionado LG ACG76576201
+Get more information on the LG ACG76576201. Click for pictures, reviews, and tech specs for the LG Serpentina Condensadora Ar Condicionado LG ACG76576201.

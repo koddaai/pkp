@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/refrigerators/water-filter-filter/agf80300702/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AGF80300702. Clique para ver fotos, avaliações e especificações técnicas do filtro de água para geladeiras LG LT700P (6 meses, NSF)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AGF80300702. Click for pictures, reviews, and tech specs for the LG Filtro de água LT700P Refrigerador LG AGF80300702."
+tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 255.55
+  value: 206.65
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.390Z"
+  updated_at: "2026-11-06T13:36:58.271Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.390Z"
+    verified_at: "2026-11-06T13:36:58.271Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.390Z"
+    verified_at: "2026-11-06T13:36:58.271Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o AGF80300702. Clique para ver fotos, avaliações e especificações técnicas do filtro de água para geladeiras LG LT700P (6 meses, NSF).
+Get more information on the LG AGF80300702. Click for pictures, reviews, and tech specs for the LG Filtro de água LT700P Refrigerador LG AGF80300702.

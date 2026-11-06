@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/air-conditioners/remote-controller/akb74075602/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AKB74075602. Clique para ver imagens, avaliações e especificações técnicas do controle remoto para ar-condicionado cassete LG (suporte incluso)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AKB74075602. Click for pictures, reviews, and tech specs for the LG Controle remoto para ar-condicionado cassete (suporte incluso) AKB74075602."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.421Z"
+  updated_at: "2026-11-06T13:36:58.297Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.421Z"
+    verified_at: "2026-11-06T13:36:58.297Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.421Z"
+    verified_at: "2026-11-06T13:36:58.297Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o AKB74075602. Clique para ver imagens, avaliações e especificações técnicas do controle remoto para ar-condicionado cassete LG (suporte incluso).
+Get more information on the LG AKB74075602. Click for pictures, reviews, and tech specs for the LG Controle remoto para ar-condicionado cassete (suporte incluso) AKB74075602.

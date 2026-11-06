@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/tbz38056401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG TBZ38056401. Clique para ver imagens, análises e especificações técnicas da LG Compressor GAT156MAD Ar Condicionado LG S4UQ18KL3WB, ATUW18GTLP0, S4UQ24K231D - TBZ38056401"
+summary: "Get more information on the LG TBZ38056401. Click for pictures, reviews, and tech specs for the LG Compressor GAT156MAD Ar Condicionado LG S4UQ18KL3WB, ATUW18GTLP0, S4UQ24K231D - TBZ38056401."
 tags: ["lg", "4k", "8k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1072.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.701Z"
+  updated_at: "2026-11-06T13:36:58.562Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.701Z"
+    verified_at: "2026-11-06T13:36:58.562Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.701Z"
+    verified_at: "2026-11-06T13:36:58.562Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG TBZ38056401. Clique para ver imagens, análises e especificações técnicas da LG Compressor GAT156MAD Ar Condicionado LG S4UQ18KL3WB, ATUW18GTLP0, S4UQ24K231D - TBZ38056401
+Get more information on the LG TBZ38056401. Click for pictures, reviews, and tech specs for the LG Compressor GAT156MAD Ar Condicionado LG S4UQ18KL3WB, ATUW18GTLP0, S4UQ24K231D - TBZ38056401.

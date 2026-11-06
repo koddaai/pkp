@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/air-conditioners/remote-controller/akb75215401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AKB75215401. Clique para ver imagens, avaliações e especificações técnicas do controle remoto para aparelhos de ar-condicionado de parede LG (suporte incluso)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AKB75215401. Click for pictures, reviews, and tech specs for the LG Controle remoto para ar-condicionado de parede (suporte incluso) AKB75215401."
+tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 141.55
+  value: 129.67
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.425Z"
+  updated_at: "2026-11-06T13:36:58.300Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.425Z"
+    verified_at: "2026-11-06T13:36:58.300Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.425Z"
+    verified_at: "2026-11-06T13:36:58.300Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o AKB75215401. Clique para ver imagens, avaliações e especificações técnicas do controle remoto para aparelhos de ar-condicionado de parede LG (suporte incluso).
+Get more information on the LG AKB75215401. Click for pictures, reviews, and tech specs for the LG Controle remoto para ar-condicionado de parede (suporte incluso) AKB75215401.

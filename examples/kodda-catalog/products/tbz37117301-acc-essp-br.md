@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/tbz37117301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG TBZ37117301. Clique para ver imagens, análises e especificações técnicas da LG Motocompressor hermético para sistema de Ar Condicionado LG ARUM100LTE5, ARWM200LAS5, CRUM100LTE5 - TBZ37117301"
+summary: "Get more information on the LG TBZ37117301. Click for pictures, reviews, and tech specs for the LG Motocompressor hermético para sistema de Ar Condicionado LG ARUM100LTE5, ARWM200LAS5, CRUM100LTE5 - TBZ37117301."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 19806.55
+  value: 15845.24
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.699Z"
+  updated_at: "2026-11-06T13:36:58.561Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.699Z"
+    verified_at: "2026-11-06T13:36:58.561Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.699Z"
+    verified_at: "2026-11-06T13:36:58.561Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG TBZ37117301. Clique para ver imagens, análises e especificações técnicas da LG Motocompressor hermético para sistema de Ar Condicionado LG ARUM100LTE5, ARWM200LAS5, CRUM100LTE5 - TBZ37117301
+Get more information on the LG TBZ37117301. Click for pictures, reviews, and tech specs for the LG Motocompressor hermético para sistema de Ar Condicionado LG ARUM100LTE5, ARWM200LAS5, CRUM100LTE5 - TBZ37117301.

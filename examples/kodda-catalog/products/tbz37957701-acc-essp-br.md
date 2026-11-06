@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/tbz37957701/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG TBZ37957701. Clique para ver imagens, análises e especificações técnicas da LG Compressor DAT156MAD Ar Condicionado LG ATUW18GPLP0 - TBZ37957701"
+summary: "Get more information on the LG TBZ37957701. Click for pictures, reviews, and tech specs for the LG Compressor DAT156MAD Ar Condicionado LG ATUW18GPLP0 - TBZ37957701."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1072.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.700Z"
+  updated_at: "2026-11-06T13:36:58.561Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.700Z"
+    verified_at: "2026-11-06T13:36:58.561Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.700Z"
+    verified_at: "2026-11-06T13:36:58.561Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG TBZ37957701. Clique para ver imagens, análises e especificações técnicas da LG Compressor DAT156MAD Ar Condicionado LG ATUW18GPLP0 - TBZ37957701
+Get more information on the LG TBZ37957701. Click for pictures, reviews, and tech specs for the LG Compressor DAT156MAD Ar Condicionado LG ATUW18GPLP0 - TBZ37957701.

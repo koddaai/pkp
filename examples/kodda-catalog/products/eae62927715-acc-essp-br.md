@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/eae62927715/"
 
 # === DESCOBERTA (L0) ===
-summary: "Capacitor elétrico fixo, eletrolítico de alumínio, 0.8µF ±3%, 2100V, modelo EAE62927715. Ideal para fornos micro-ondas LG, garantindo eficiência e desempenho no funcionamento do aparelho. EAN 7893299959578."
+summary: "Get more information on the LG EAE62927715. Click for pictures, reviews, and tech specs for the LG Capacitor 0.8µF 2100V Forno Micro-Ondas LG EAE62927715."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.474Z"
+  updated_at: "2026-11-06T13:36:58.349Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.474Z"
+    verified_at: "2026-11-06T13:36:58.349Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.474Z"
+    verified_at: "2026-11-06T13:36:58.349Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Capacitor elétrico fixo, eletrolítico de alumínio, 0.8µF ±3%, 2100V, modelo EAE62927715. Ideal para fornos micro-ondas LG, garantindo eficiência e desempenho no funcionamento do aparelho. EAN 7893299959578.
+Get more information on the LG EAE62927715. Click for pictures, reviews, and tech specs for the LG Capacitor 0.8µF 2100V Forno Micro-Ondas LG EAE62927715.

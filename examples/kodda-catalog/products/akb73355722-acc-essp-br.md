@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/air-conditioners/remote-controller/akb73355722/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AKB73355722. Clique para ver imagens, avaliações e especificações técnicas do controle remoto para aparelhos de ar-condicionado cassete LG."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AKB73355722. Click for pictures, reviews, and tech specs for the LG Controle remoto de parede Ar-Condicionado LG AKB73355722."
+tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 854.05
+  value: 818.61
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.419Z"
+  updated_at: "2026-11-06T13:36:58.295Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.419Z"
+    verified_at: "2026-11-06T13:36:58.295Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.419Z"
+    verified_at: "2026-11-06T13:36:58.295Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o AKB73355722. Clique para ver imagens, avaliações e especificações técnicas do controle remoto para aparelhos de ar-condicionado cassete LG.
+Get more information on the LG AKB73355722. Click for pictures, reviews, and tech specs for the LG Controle remoto de parede Ar-Condicionado LG AKB73355722.

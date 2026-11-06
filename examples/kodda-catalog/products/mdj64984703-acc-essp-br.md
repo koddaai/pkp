@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/air-conditioners/filter/mdj64984703/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o MDJ64984703. Clique para ver imagens, avaliações e especificações técnicas do Pre-Filter para aparelhos de ar-condicionado de parede LG."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG MDJ64984703. Click for pictures, reviews, and tech specs for the LG Pre-Filter para ar-condicionado de parede."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.660Z"
+  updated_at: "2026-11-06T13:36:58.524Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.660Z"
+    verified_at: "2026-11-06T13:36:58.524Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.660Z"
+    verified_at: "2026-11-06T13:36:58.524Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o MDJ64984703. Clique para ver imagens, avaliações e especificações técnicas do Pre-Filter para aparelhos de ar-condicionado de parede LG.
+Get more information on the LG MDJ64984703. Click for pictures, reviews, and tech specs for the LG Pre-Filter para ar-condicionado de parede.

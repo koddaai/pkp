@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-informatica/aan30033603/"
 
 # === DESCOBERTA (L0) ===
-summary: "Suporte Articulado e base para fixação em mesas Monitor LG 28MQ780-B - AAN30033603"
+summary: "Get more information on the LG AAN30033603. Click for pictures, reviews, and tech specs for the LG Suporte Articulado e base para fixação em mesas Monitor LG 28MQ780-B - AAN30033603."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1077.62
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.325Z"
+  updated_at: "2026-11-06T13:36:58.201Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.325Z"
+    verified_at: "2026-11-06T13:36:58.201Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.325Z"
+    verified_at: "2026-11-06T13:36:58.201Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Suporte Articulado e base para fixação em mesas Monitor LG 28MQ780-B - AAN30033603
+Get more information on the LG AAN30033603. Click for pictures, reviews, and tech specs for the LG Suporte Articulado e base para fixação em mesas Monitor LG 28MQ780-B - AAN30033603.

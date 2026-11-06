@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/dryers/filter/adq56656403/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o ADQ56656403. Clique para ver imagens, avaliações e especificações técnicas do filtro retentor de fiapos para secadoras LG."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG ADQ56656403. Click for pictures, reviews, and tech specs for the LG Filtro retentor de fiapos para secadoras ."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.362Z"
+  updated_at: "2026-11-06T13:36:58.243Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.362Z"
+    verified_at: "2026-11-06T13:36:58.243Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.362Z"
+    verified_at: "2026-11-06T13:36:58.243Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o ADQ56656403. Clique para ver imagens, avaliações e especificações técnicas do filtro retentor de fiapos para secadoras LG.
+Get more information on the LG ADQ56656403. Click for pictures, reviews, and tech specs for the LG Filtro retentor de fiapos para secadoras .

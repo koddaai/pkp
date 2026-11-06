@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/6324zaae22b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 6324ZAAE22B. Clique para ver imagens, análises e especificações técnicas da LG Magnetron Forno Micro-ondas LG MS2347G, MS2347GA - 6324ZAAE22B"
+summary: "Get more information on the LG 6324ZAAE22B. Click for pictures, reviews, and tech specs for the LG Magnetron Forno Micro-ondas LG MS2347G, MS2347GA - 6324ZAAE22B."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.309Z"
+  updated_at: "2026-11-06T13:36:58.187Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.309Z"
+    verified_at: "2026-11-06T13:36:58.187Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.309Z"
+    verified_at: "2026-11-06T13:36:58.187Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 6324ZAAE22B. Clique para ver imagens, análises e especificações técnicas da LG Magnetron Forno Micro-ondas LG MS2347G, MS2347GA - 6324ZAAE22B
+Get more information on the LG 6324ZAAE22B. Click for pictures, reviews, and tech specs for the LG Magnetron Forno Micro-ondas LG MS2347G, MS2347GA - 6324ZAAE22B.

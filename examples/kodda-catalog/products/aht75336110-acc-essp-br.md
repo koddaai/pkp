@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/acessorio/aht75336110/"
 
 # === DESCOBERTA (L0) ===
-summary: "Prateleira de Vidro Refrigerador LG GNB452PFFQ AHT75336110"
+summary: "Get more information on the LG AHT75336110. Click for pictures, reviews, and tech specs for the LG Prateleira de Vidro Refrigerador LG GNB452PFFQ AHT75336110."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 588.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.407Z"
+  updated_at: "2026-11-06T13:36:58.286Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.407Z"
+    verified_at: "2026-11-06T13:36:58.286Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.407Z"
+    verified_at: "2026-11-06T13:36:58.286Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Prateleira de Vidro Refrigerador LG GNB452PFFQ AHT75336110
+Get more information on the LG AHT75336110. Click for pictures, reviews, and tech specs for the LG Prateleira de Vidro Refrigerador LG GNB452PFFQ AHT75336110.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/agf76797613/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGF76797613. Clique para ver imagens, análises e especificações técnicas da LG Resistência de aquecimento Micro-ondas LG MH7047G - AGF76797613"
+summary: "Get more information on the LG AGF76797613. Click for pictures, reviews, and tech specs for the LG Resistência de aquecimento Micro-ondas LG MH7047G - AGF76797613."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 265.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.382Z"
+  updated_at: "2026-11-06T13:36:58.263Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.382Z"
+    verified_at: "2026-11-06T13:36:58.263Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.382Z"
+    verified_at: "2026-11-06T13:36:58.263Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AGF76797613. Clique para ver imagens, análises e especificações técnicas da LG Resistência de aquecimento Micro-ondas LG MH7047G - AGF76797613
+Get more information on the LG AGF76797613. Click for pictures, reviews, and tech specs for the LG Resistência de aquecimento Micro-ondas LG MH7047G - AGF76797613.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acg69396025/"
 
 # === DESCOBERTA (L0) ===
-summary: "Para unidade condensadora Trocador de calor da unidade condensadora (condensador), para ar condicionado"
+summary: "Get more information on the LG ACG69396025. Click for pictures, reviews, and tech specs for the LG Serpentiva condensadora Ar Condicionado LG ACG69396025."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1557.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.341Z"
+  updated_at: "2026-11-06T13:36:58.224Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.341Z"
+    verified_at: "2026-11-06T13:36:58.224Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.341Z"
+    verified_at: "2026-11-06T13:36:58.224Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Para unidade condensadora Trocador de calor da unidade condensadora (condensador), para ar condicionado
+Get more information on the LG ACG69396025. Click for pictures, reviews, and tech specs for the LG Serpentiva condensadora Ar Condicionado LG ACG69396025.

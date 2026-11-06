@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/refrigerators/water-filter-filter/adq32617703/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o ADQ32617703. Clique para ver fotos, avaliações e especificações técnicas do filtro de água para geladeira LG (6 meses)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG ADQ32617703. Click for pictures, reviews, and tech specs for the LG Filtro de água Refrigerador LG ADQ32617703."
+tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 255.55
+  value: 224.44
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.361Z"
+  updated_at: "2026-11-06T13:36:58.243Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.361Z"
+    verified_at: "2026-11-06T13:36:58.243Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.361Z"
+    verified_at: "2026-11-06T13:36:58.243Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o ADQ32617703. Clique para ver fotos, avaliações e especificações técnicas do filtro de água para geladeira LG (6 meses).
+Get more information on the LG ADQ32617703. Click for pictures, reviews, and tech specs for the LG Filtro de água Refrigerador LG ADQ32617703.

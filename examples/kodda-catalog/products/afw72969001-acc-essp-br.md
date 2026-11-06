@@ -5,7 +5,7 @@ sku: "afw72969001-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Mouse USB com fio (Branco) - AFW72969001"
-category: "outros"
+category: "notebooks"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.374Z"
+  updated_at: "2026-11-06T13:36:58.255Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.374Z"
+    verified_at: "2026-11-06T13:36:58.255Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.374Z"
+    verified_at: "2026-11-06T13:36:58.255Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

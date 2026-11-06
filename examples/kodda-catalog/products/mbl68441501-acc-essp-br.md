@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/acessorio/mbl68441501/"
 
 # === DESCOBERTA (L0) ===
-summary: "Suporte adicional da porta para ventilação em Lavadoras LG MBL68441501"
+summary: "Get more information on the LG MBL68441501. Click for pictures, reviews, and tech specs for the LG Suporte adicional da porta para ventilação em Lavadoras LG MBL68441501."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 113.06
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.655Z"
+  updated_at: "2026-11-06T13:36:58.520Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.655Z"
+    verified_at: "2026-11-06T13:36:58.520Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.655Z"
+    verified_at: "2026-11-06T13:36:58.520Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Suporte adicional da porta para ventilação em Lavadoras LG MBL68441501
+Get more information on the LG MBL68441501. Click for pictures, reviews, and tech specs for the LG Suporte adicional da porta para ventilação em Lavadoras LG MBL68441501.

@@ -5,7 +5,7 @@ sku: "aew73649803-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Teclado com fio All In One LG 24V360-L, 22V240-L, 22V270-L - AEW73649803 - AEW73649803 | LG BR"
-category: "outros"
+category: "notebooks"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-informatica/aew73649803/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AEW73649803. Clique para ver imagens, análises e especificações técnicas da LG Teclado com fio All In One LG 24V360-L, 22V240-L, 22V270-L - AEW73649803"
+summary: "Get more information on the LG AEW73649803. Click for pictures, reviews, and tech specs for the LG Teclado com fio All In One LG 24V360-L, 22V240-L, 22V270-L - AEW73649803."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 217.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.372Z"
+  updated_at: "2026-11-06T13:36:58.253Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.372Z"
+    verified_at: "2026-11-06T13:36:58.253Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.372Z"
+    verified_at: "2026-11-06T13:36:58.253Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AEW73649803. Clique para ver imagens, análises e especificações técnicas da LG Teclado com fio All In One LG 24V360-L, 22V240-L, 22V270-L - AEW73649803
+Get more information on the LG AEW73649803. Click for pictures, reviews, and tech specs for the LG Teclado com fio All In One LG 24V360-L, 22V240-L, 22V270-L - AEW73649803.

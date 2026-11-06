@@ -5,7 +5,7 @@ sku: "aew73649853-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Teclado com fio conexão USB All In One LG 22V280-L, 24V360-L, 24V570 - AEW73649853 - AEW73649853"
-category: "outros"
+category: "notebooks"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 134.1
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.372Z"
+  updated_at: "2026-11-06T13:36:58.253Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.372Z"
+    verified_at: "2026-11-06T13:36:58.253Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.372Z"
+    verified_at: "2026-11-06T13:36:58.253Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

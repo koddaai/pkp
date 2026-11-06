@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/5901a20017f/"
 
 # === DESCOBERTA (L0) ===
-summary: "Hélice do Ventilador Ar Condicionado LG M122HD 5901A20017F"
+summary: "Get more information on the LG 5901A20017F. Click for pictures, reviews, and tech specs for the LG Hélice do Ventilador Ar Condicionado LG M122HD 5901A20017F."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 398.05
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.305Z"
+  updated_at: "2026-11-06T13:36:58.184Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.305Z"
+    verified_at: "2026-11-06T13:36:58.184Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.305Z"
+    verified_at: "2026-11-06T13:36:58.184Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Hélice do Ventilador Ar Condicionado LG M122HD 5901A20017F
+Get more information on the LG 5901A20017F. Click for pictures, reviews, and tech specs for the LG Hélice do Ventilador Ar Condicionado LG M122HD 5901A20017F.
