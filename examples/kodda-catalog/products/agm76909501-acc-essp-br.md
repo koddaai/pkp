@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agm76909501/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGM76909501. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 65UM7470PSA - AGM76909501"
+summary: "Get more information on the LG AGM76909501. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 65UM7470PSA - AGM76909501."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 550.05
   source: "retailer"
-  updated_at: "2026-11-06T23:58:24.933Z"
+  updated_at: "2026-11-07T12:17:31.707Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.933Z"
+    verified_at: "2026-11-07T12:17:31.707Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.933Z"
+    verified_at: "2026-11-07T12:17:31.707Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43478675551
 ---
 
 ## Descricao
 
-Descubra a LG AGM76909501. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 65UM7470PSA - AGM76909501
+Get more information on the LG AGM76909501. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 65UM7470PSA - AGM76909501.

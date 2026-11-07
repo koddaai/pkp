@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/eas61382913/"
 
 # === DESCOBERTA (L0) ===
-summary: "Modelo 2M286, 1050W, 2.446GHz, 4.6KV, 380mA"
+summary: "Get more information on the LG EAS61382913. Click for pictures, reviews, and tech specs for the LG Magnetron 2M286 Micro-Ondas LG EAS61382913."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-06T23:58:25.041Z"
+  updated_at: "2026-11-07T12:17:31.843Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.041Z"
+    verified_at: "2026-11-07T12:17:31.843Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.041Z"
+    verified_at: "2026-11-07T12:17:31.843Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43478676149
 ---
 
 ## Descricao
 
-Modelo 2M286, 1050W, 2.446GHz, 4.6KV, 380mA
+Get more information on the LG EAS61382913. Click for pictures, reviews, and tech specs for the LG Magnetron 2M286 Micro-Ondas LG EAS61382913.

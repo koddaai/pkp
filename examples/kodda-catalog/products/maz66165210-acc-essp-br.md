@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/maz66165210/"
 
 # === DESCOBERTA (L0) ===
-summary: "Acabamentos das conexões de entradas e saídas De plástico Para aparelho televisor"
+summary: "Get more information on the LG MAZ66165210. Click for pictures, reviews, and tech specs for the LG Acabamento das Conexões TV LG 32LK615BPSB MAZ66165210."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-11-06T23:58:25.206Z"
+  updated_at: "2026-11-07T12:17:32.041Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.206Z"
+    verified_at: "2026-11-07T12:17:32.041Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.206Z"
+    verified_at: "2026-11-07T12:17:32.041Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43478676956
 ---
 
 ## Descricao
 
-Acabamentos das conexões de entradas e saídas  De plástico Para aparelho televisor
+Get more information on the LG MAZ66165210. Click for pictures, reviews, and tech specs for the LG Acabamento das Conexões TV LG 32LK615BPSB MAZ66165210.

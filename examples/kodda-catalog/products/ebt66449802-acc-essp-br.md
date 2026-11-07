@@ -5,8 +5,8 @@ sku: "ebt66449802-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa Principal Soundbar LG SN4 EBT66449802 - EBT66449802"
-category: "tvs"
-
+category: "audio"
+subcategory: "soundbar"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebt66449802/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Principal Soundbar LG SN4 EBT66449802"
+summary: "Get more information on the LG EBT66449802. Click for pictures, reviews, and tech specs for the LG Placa Principal Soundbar LG SN4 EBT66449802."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 564.56
   source: "retailer"
-  updated_at: "2026-11-06T23:58:25.158Z"
+  updated_at: "2026-11-07T12:17:31.968Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.158Z"
+    verified_at: "2026-11-07T12:17:31.968Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.158Z"
+    verified_at: "2026-11-07T12:17:31.968Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 44236945817
 ---
 
 ## Descricao
 
-Placa Principal Soundbar LG SN4 EBT66449802
+Get more information on the LG EBT66449802. Click for pictures, reviews, and tech specs for the LG Placa Principal Soundbar LG SN4 EBT66449802.

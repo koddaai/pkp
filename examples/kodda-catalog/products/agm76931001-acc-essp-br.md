@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agm76931001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGM76931001. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 65UM7520PSB, 65UM761C0SB, 65UM7650PSB - AGM76931001"
+summary: "Get more information on the LG AGM76931001. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 65UM7520PSB, 65UM761C0SB, 65UM7650PSB - AGM76931001."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 377.1
   source: "retailer"
-  updated_at: "2026-11-06T23:58:24.934Z"
+  updated_at: "2026-11-07T12:17:31.708Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.934Z"
+    verified_at: "2026-11-07T12:17:31.708Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.934Z"
+    verified_at: "2026-11-07T12:17:31.708Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43478675556
 ---
 
 ## Descricao
 
-Descubra a LG AGM76931001. Clique para ver imagens, análises e especificações técnicas da LG Kit régua de LED TV LG 65UM7520PSB, 65UM761C0SB, 65UM7650PSB - AGM76931001
+Get more information on the LG AGM76931001. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 65UM7520PSB, 65UM761C0SB, 65UM7650PSB - AGM76931001.

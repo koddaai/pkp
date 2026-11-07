@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "85nu855-s40t-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG NANO UHD AI 4K NU850 85 polegadas 2026+Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS - 85NU855.S40T"
+name: "Smart TV LG NANO UHD AI 4K NU855 85 polegadas 2026 + Soundbar LG S40T Dolby Atmos com configuração de canais 3.1.1 e 400W RMS - 85NU855.S40T"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8013.91
   source: "retailer"
-  updated_at: "2026-11-06T23:58:24.849Z"
+  updated_at: "2026-11-07T12:17:31.617Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.849Z"
+    verified_at: "2026-11-07T12:17:31.617Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.849Z"
+    verified_at: "2026-11-07T12:17:31.617Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 46196598738
 ---
 

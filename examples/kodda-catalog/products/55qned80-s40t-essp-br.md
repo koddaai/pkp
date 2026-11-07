@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/promocoes/combos/55qned80-s40t/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 55QNED80.S40T. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED AI QNED80 55” 4K 2024 + Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro."
+summary: "Smart TV LG QNED AI QNED80 55” 4K 2024 + Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro"
 tags: ["lg", "bluetooth", "smart", "ai", "4k", "dolby", "pro", "sem-fio"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4540.05
   source: "retailer"
-  updated_at: "2026-11-06T23:58:24.829Z"
+  updated_at: "2026-11-07T12:17:31.592Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.829Z"
+    verified_at: "2026-11-07T12:17:31.592Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.829Z"
+    verified_at: "2026-11-07T12:17:31.592Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 45864879889
 ---
 
 ## Descricao
 
-Get more information on the LG 55QNED80.S40T. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED AI QNED80 55” 4K 2024 + Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro.
+Smart TV LG QNED AI QNED80 55” 4K 2024 + Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro

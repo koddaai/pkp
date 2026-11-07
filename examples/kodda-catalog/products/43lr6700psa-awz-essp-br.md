@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/smart-tvs/43lr6700psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 43LR6700PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG Full HD AI de 43 polegadas 43LR67."
-tags: ["lg", "smart", "ai"]
+summary: "Discover the LG FHD LR67, powered by alpha 5 AI Processor Gen 6, with webOS 23 and simple WOW Interface soundbar control."
+tags: ["lg", "smart", "ai", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1709.1
   source: "retailer"
-  updated_at: "2026-11-06T23:58:24.802Z"
+  updated_at: "2026-11-07T12:17:31.550Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.802Z"
+    verified_at: "2026-11-07T12:17:31.550Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.802Z"
+    verified_at: "2026-11-07T12:17:31.550Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 43
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43498431265
 ---
 
 ## Descricao
 
-Get more information on the LG 43LR6700PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG Full HD AI de 43 polegadas 43LR67.
+Discover the LG FHD LR67, powered by alpha 5 AI Processor Gen 6, with webOS 23 and simple WOW Interface soundbar control.

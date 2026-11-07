@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agu76907901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGU76907901. Clique para ver imagens, análises e especificações técnicas da LG Difusor óptico do módulo LCD TV LG 65NANO80SPA - AGU76907901"
+summary: "Get more information on the LG AGU76907901. Click for pictures, reviews, and tech specs for the LG Difusor óptico do módulo LCD TV LG 65NANO80SPA - AGU76907901."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1456.67
   source: "retailer"
-  updated_at: "2026-11-06T23:58:24.936Z"
+  updated_at: "2026-11-07T12:17:31.711Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.936Z"
+    verified_at: "2026-11-07T12:17:31.711Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.936Z"
+    verified_at: "2026-11-07T12:17:31.711Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43478675566
 ---
 
 ## Descricao
 
-Descubra a LG AGU76907901. Clique para ver imagens, análises e especificações técnicas da LG Difusor óptico do módulo LCD TV LG 65NANO80SPA - AGU76907901
+Get more information on the LG AGU76907901. Click for pictures, reviews, and tech specs for the LG Difusor óptico do módulo LCD TV LG 65NANO80SPA - AGU76907901.

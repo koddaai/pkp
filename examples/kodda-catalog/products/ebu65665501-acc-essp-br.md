@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu65665501/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU65665501. Clique para ver imagens, análises e especificações técnicas da LG Placa Principal TV LG 55SM8100PSA - EBU65665501"
+summary: "Get more information on the LG EBU65665501. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 55SM8100PSA - EBU65665501."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 897.88
   source: "retailer"
-  updated_at: "2026-11-06T23:58:25.167Z"
+  updated_at: "2026-11-07T12:17:31.978Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.167Z"
+    verified_at: "2026-11-07T12:17:31.978Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.167Z"
+    verified_at: "2026-11-07T12:17:31.978Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43616744164
 ---
 
 ## Descricao
 
-Descubra a LG EBU65665501. Clique para ver imagens, análises e especificações técnicas da LG Placa Principal TV LG 55SM8100PSA - EBU65665501
+Get more information on the LG EBU65665501. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 55SM8100PSA - EBU65665501.

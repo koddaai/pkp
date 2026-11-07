@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "29wq600b-w-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraWide™ 29WQ600B-W Tela IPS de 29\", 21:9, USB-C, 7Wx2 MaxxAudio®, 1ms (MBR), 100Hz, AMD FreeSync™, sRGB 99%, HDR10  - 29WQ600B-W"
+name: "Monitor LG UltraWide™ 29WQ600B-W Tela IPS de 29\", 21:9, USB-C, 7Wx2 MaxxAudio®, 1ms (MBR), 100Hz, sRGB 99%, HDR10 - 29WQ600B-W"
 category: "monitors"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/29wq600b-w-awzm-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/monitores/monitores-full-hd-qhd/29wq600b-w/"
+  url: "https://www.lg.com/br/monitores/monitores-ultrawide/29wq600b-w/"
 
 # === DESCOBERTA (L0) ===
 summary: "Expanda sua produtividade com o Monitor UltraWide Full HD de 29\". Cores vibrantes com IPS, HDR10 e 75Hz de taxa de atualização. Saiba mais!"
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "hdr", "pro", "ultra", "max"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1399
+  value: 1354.82
   source: "retailer"
-  updated_at: "2026-11-06T23:58:24.784Z"
+  updated_at: "2026-11-07T12:17:31.530Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.784Z"
+    verified_at: "2026-11-07T12:17:31.530Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.784Z"
+    verified_at: "2026-11-07T12:17:31.530Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43951547633
 ---
 

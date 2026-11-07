@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu66104102/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU66104102. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG 65NANO86SNA - EBU66104102"
+summary: "Get more information on the LG EBU66104102. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 65NANO86SNA - EBU66104102."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1015.55
   source: "retailer"
-  updated_at: "2026-11-06T23:58:25.170Z"
+  updated_at: "2026-11-07T12:17:31.982Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.170Z"
+    verified_at: "2026-11-07T12:17:31.982Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.170Z"
+    verified_at: "2026-11-07T12:17:31.982Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43616744174
 ---
 
 ## Descricao
 
-Descubra a LG EBU66104102. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG 65NANO86SNA - EBU66104102
+Get more information on the LG EBU66104102. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 65NANO86SNA - EBU66104102.

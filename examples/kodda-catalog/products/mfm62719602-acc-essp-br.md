@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/mfm62719602/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MFM62719602. Clique para ver imagens, análises e especificações técnicas da LG Membrana display Micro-ondas LG MS3091BC, MS3091BCA - MFM62719602"
+summary: "Get more information on the LG MFM62719602. Click for pictures, reviews, and tech specs for the LG Membrana display Micro-ondas LG MS3091BC, MS3091BCA - MFM62719602."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-06T23:58:25.221Z"
+  updated_at: "2026-11-07T12:17:32.061Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.221Z"
+    verified_at: "2026-11-07T12:17:32.061Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.221Z"
+    verified_at: "2026-11-07T12:17:32.061Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43478677049
 ---
 
 ## Descricao
 
-Descubra a LG MFM62719602. Clique para ver imagens, análises e especificações técnicas da LG Membrana display Micro-ondas LG MS3091BC, MS3091BCA - MFM62719602
+Get more information on the LG MFM62719602. Click for pictures, reviews, and tech specs for the LG Membrana display Micro-ondas LG MS3091BC, MS3091BCA - MFM62719602.

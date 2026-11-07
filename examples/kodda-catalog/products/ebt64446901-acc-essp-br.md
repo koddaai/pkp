@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebt64446901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBT64446901. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG 32LJ600B - EBT64446901"
+summary: "Get more information on the LG EBT64446901. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 32LJ600B - EBT64446901."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 436.05
   source: "retailer"
-  updated_at: "2026-11-06T23:58:25.158Z"
+  updated_at: "2026-11-07T12:17:31.967Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.158Z"
+    verified_at: "2026-11-07T12:17:31.967Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.158Z"
+    verified_at: "2026-11-07T12:17:31.967Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 44980025785
 ---
 
 ## Descricao
 
-Descubra a LG EBT64446901. Clique para ver imagens, análises e especificações técnicas da LG  Placa principal TV LG 32LJ600B - EBT64446901
+Get more information on the LG EBT64446901. Click for pictures, reviews, and tech specs for the LG  Placa principal TV LG 32LJ600B - EBT64446901.

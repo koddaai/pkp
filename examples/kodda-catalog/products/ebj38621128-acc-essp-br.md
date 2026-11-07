@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/ebj38621128/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBJ38621128. Clique para ver imagens, análises e especificações técnicas da LG Transformador Micro-ondas LG MS3052RA, MH7097ARA, MS3044LA - EBJ38621128"
+summary: "Get more information on the LG EBJ38621128. Click for pictures, reviews, and tech specs for the LG Transformador Micro-ondas LG MS3052RA, MH7097ARA, MS3044LA - EBJ38621128."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 569.05
   source: "retailer"
-  updated_at: "2026-11-06T23:58:25.082Z"
+  updated_at: "2026-11-07T12:17:31.891Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.082Z"
+    verified_at: "2026-11-07T12:17:31.891Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.082Z"
+    verified_at: "2026-11-07T12:17:31.891Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43478676391
 ---
 
 ## Descricao
 
-Descubra a LG EBJ38621128. Clique para ver imagens, análises e especificações técnicas da LG Transformador Micro-ondas LG MS3052RA, MH7097ARA, MS3044LA - EBJ38621128
+Get more information on the LG EBJ38621128. Click for pictures, reviews, and tech specs for the LG Transformador Micro-ondas LG MS3052RA, MH7097ARA, MS3044LA - EBJ38621128.

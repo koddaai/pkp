@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/ebu66069216/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Principal TV LG 75UN8000PSB EBU66069216"
+summary: "Get more information on the LG EBU66069216. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 75UN8000PSB EBU66069216."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 597.55
   source: "retailer"
-  updated_at: "2026-11-06T23:58:25.169Z"
+  updated_at: "2026-11-07T12:17:31.980Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.169Z"
+    verified_at: "2026-11-07T12:17:31.980Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.169Z"
+    verified_at: "2026-11-07T12:17:31.980Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 44255830277
 ---
 
 ## Descricao
 
-Placa Principal TV LG 75UN8000PSB EBU66069216
+Get more information on the LG EBU66069216. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 75UN8000PSB EBU66069216.

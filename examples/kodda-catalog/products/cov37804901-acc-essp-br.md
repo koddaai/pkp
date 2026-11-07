@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/cov37804901/"
 
 # === DESCOBERTA (L0) ===
-summary: "PROCEDIMENTO OBRIGATÓRIO APÓS TROCA DE PLACA PRINCIPAL É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas. Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros."
-tags: ["lg", "ai", "pro"]
+summary: "Get more information on the LG COV37804901. Click for pictures, reviews, and tech specs for the LG Placa Principal para TV LG 32LR600BPSA COV37804901."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2383.55
   source: "retailer"
-  updated_at: "2026-11-06T23:58:24.968Z"
+  updated_at: "2026-11-07T12:17:31.750Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.968Z"
+    verified_at: "2026-11-07T12:17:31.750Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.968Z"
+    verified_at: "2026-11-07T12:17:31.750Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43478675762
 ---
 
 ## Descricao
 
-PROCEDIMENTO OBRIGATÓRIO APÓS TROCA DE PLACA PRINCIPAL É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas. Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros.
+Get more information on the LG COV37804901. Click for pictures, reviews, and tech specs for the LG Placa Principal para TV LG 32LR600BPSA COV37804901.

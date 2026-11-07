@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu64025705/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU64025705. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG 49UJ6565 - EBU64025705"
+summary: "Get more information on the LG EBU64025705. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 49UJ6565 - EBU64025705."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1015.55
   source: "retailer"
-  updated_at: "2026-11-06T23:58:25.162Z"
+  updated_at: "2026-11-07T12:17:31.972Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.162Z"
+    verified_at: "2026-11-07T12:17:31.972Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.162Z"
+    verified_at: "2026-11-07T12:17:31.972Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43616744149
 ---
 
 ## Descricao
 
-Descubra a LG EBU64025705. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG 49UJ6565 - EBU64025705
+Get more information on the LG EBU64025705. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 49UJ6565 - EBU64025705.

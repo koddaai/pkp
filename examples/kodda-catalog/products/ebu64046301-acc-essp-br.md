@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu64046301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU64046301. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG 55SJ8000 - EBU64046301"
+summary: "Get more information on the LG EBU64046301. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 55SJ8000 - EBU64046301."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 863.55
   source: "retailer"
-  updated_at: "2026-11-06T23:58:25.163Z"
+  updated_at: "2026-11-07T12:17:31.973Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.163Z"
+    verified_at: "2026-11-07T12:17:31.973Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.163Z"
+    verified_at: "2026-11-07T12:17:31.973Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43616744151
 ---
 
 ## Descricao
 
-Descubra a LG EBU64046301. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG 55SJ8000 - EBU64046301
+Get more information on the LG EBU64046301. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 55SJ8000 - EBU64046301.

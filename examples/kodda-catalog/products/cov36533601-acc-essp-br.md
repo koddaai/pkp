@@ -5,7 +5,7 @@ sku: "cov36533601-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Circuito Integrado ICND2055CP Painel de LED LG LSBC026-DD, LSBC026-GD, LSBC039-GD - COV36533601 - COV36533601"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/cov36533601/"
 
 # === DESCOBERTA (L0) ===
-summary: "Driver para LED, 100SBC02403R48, ICND2055CP (SSOP24)"
+summary: "Get more information on the LG COV36533601. Click for pictures, reviews, and tech specs for the LG Circuito Integrado ICND2055CP Painel de LED LG LSBC026-DD, LSBC026-GD, LSBC039-GD - COV36533601."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3.79
   source: "retailer"
-  updated_at: "2026-11-06T23:58:24.967Z"
+  updated_at: "2026-11-07T12:17:31.748Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.967Z"
+    verified_at: "2026-11-07T12:17:31.748Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:24.967Z"
+    verified_at: "2026-11-07T12:17:31.748Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-07
 # aw_product_id: 43478675759
 ---
 
 ## Descricao
 
-Driver para LED, 100SBC02403R48, ICND2055CP (SSOP24)
+Get more information on the LG COV36533601. Click for pictures, reviews, and tech specs for the LG Circuito Integrado ICND2055CP Painel de LED LG LSBC026-DD, LSBC026-GD, LSBC039-GD - COV36533601.
