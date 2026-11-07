@@ -29,13 +29,13 @@ price:
   currency: "BRL"
   value: 349.99
   source: "retailer"
-  updated_at: "2026-07-17T20:53:29.787Z"
+  updated_at: "2026-11-07T17:18:45.778Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "Adidas BR"
-    url: "https://www.awin1.com/pclick.php?p=44786013688&a=2753646&m=79926"
+    url: "https://www.awin1.com/pclick.php?p=46654030451&a=2753646&m=79926"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-17T20:53:29.787Z"
+    verified_at: "2026-11-07T17:18:45.778Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-07-17T20:53:29.787Z"
+    verified_at: "2026-11-07T17:18:45.778Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,8 +55,8 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin Adidas BR (feed_id: 95015)
-# Data de importacao: 2026-07-17
-# aw_product_id: 44786013688
+# Data de importacao: 2026-11-07
+# aw_product_id: 46654030451
 ---
 
 ## Descricao
