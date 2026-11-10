@@ -1,14 +1,14 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-09T21:52:04.727Z",
+  "generated_at": "2026-11-10T02:34:18.192Z",
   "stats": {
-    "total_products": 242371,
+    "total_products": 242423,
     "categories": {
       "eletrodomesticos": 3369,
       "games": 1,
       "moda": 2,
       "notebooks": 833,
-      "outros": 226124,
+      "outros": 226176,
       "acessorios": 3555,
       "informatica": 507,
       "monitors": 1566,
@@ -24,8 +24,8 @@
       "2296": 78,
       "Electrolux": 2,
       "Sony": 117,
-      "Adidas": 101804,
-      "Nike": 34927,
+      "Adidas": 101824,
+      "Nike": 34929,
       "Dell": 37,
       "Apple": 460,
       "LG": 3249,
@@ -116,7 +116,7 @@
       "Epson": 41,
       "THUNDERX3": 35,
       "Equilíbrio": 14,
-      "Mizuno": 19275,
+      "Mizuno": 19279,
       "ASRock": 85,
       "Lacie": 3,
       "Fabrica Pet": 386,
@@ -848,7 +848,7 @@
       "Oakley": 263,
       "Lupo": 19,
       "Ringo": 4,
-      "Umbro": 1975,
+      "Umbro": 1981,
       "Lacri": 1,
       "Etilux": 3,
       "Western Pet": 7,
@@ -873,7 +873,7 @@
       "Flamavet": 3,
       "Powercolor": 10,
       "Kappa": 294,
-      "Puma": 6152,
+      "Puma": 6169,
       "Polipex": 1,
       "Delta": 6,
       "Ranivet": 1,
@@ -1046,7 +1046,7 @@
       "Giro": 1,
       "Cobra Coral": 1,
       "Mlb": 78,
-      "Farm": 547,
+      "Farm": 550,
       "Manto Fc": 1,
       "Reebok": 95,
       "Monster": 4,
@@ -493904,6 +493904,17 @@
       "path": "examples/kodda-catalog/products/957362058029.md"
     },
     {
+      "sku": "957362058036",
+      "name": "Chinelo Nike Victori - Slide - Masculino",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 249.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/957362058036.md"
+    },
+    {
       "sku": "957362120443",
       "name": "Chinelo Nike Victori - Slide - Masculino",
       "brand": "Nike",
@@ -645408,6 +645419,72 @@
       "path": "examples/kodda-catalog/products/9847332y0363.md"
     },
     {
+      "sku": "984733350291",
+      "name": "Chuteira Futsal Infantil Umbro Pro 5",
+      "brand": "Umbro",
+      "category": "outros",
+      "price": {
+        "value": 299.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/984733350291.md"
+    },
+    {
+      "sku": "984733350321",
+      "name": "Chuteira Futsal Infantil Umbro Pro 5",
+      "brand": "Umbro",
+      "category": "outros",
+      "price": {
+        "value": 299.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/984733350321.md"
+    },
+    {
+      "sku": "984733350338",
+      "name": "Chuteira Futsal Infantil Umbro Pro 5",
+      "brand": "Umbro",
+      "category": "outros",
+      "price": {
+        "value": 299.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/984733350338.md"
+    },
+    {
+      "sku": "984733350345",
+      "name": "Chuteira Futsal Infantil Umbro Pro 5",
+      "brand": "Umbro",
+      "category": "outros",
+      "price": {
+        "value": 299.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/984733350345.md"
+    },
+    {
+      "sku": "984733350352",
+      "name": "Chuteira Futsal Infantil Umbro Pro 5",
+      "brand": "Umbro",
+      "category": "outros",
+      "price": {
+        "value": 299.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/984733350352.md"
+    },
+    {
+      "sku": "984733350369",
+      "name": "Chuteira Futsal Infantil Umbro Pro 5",
+      "brand": "Umbro",
+      "category": "outros",
+      "price": {
+        "value": 299.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/984733350369.md"
+    },
+    {
       "sku": "9847333i0328",
       "name": "Chuteira Futsal Infantil Umbro Pro 5",
       "brand": "Umbro",
@@ -696409,7 +696486,7 @@
     },
     {
       "sku": "9865522v2038",
-      "name": "Bermuda Masculina adidas Basica 3 Listras",
+      "name": "Bermuda adidas 3 Stripes Masculina",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -888490,7 +888567,7 @@
     },
     {
       "sku": "992621pb0405",
-      "name": "Tênis ASICS Raiden 4 Masculino",
+      "name": "Tênis Masculino ASICS Raiden 4",
       "brand": "ASICS",
       "category": "outros",
       "price": {
@@ -924975,7 +925052,7 @@
       "brand": "Olympikus",
       "category": "outros",
       "price": {
-        "value": 189.99,
+        "value": 199.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/993177h30373.md"
@@ -1020731,7 +1020808,7 @@
     },
     {
       "sku": "995364512026",
-      "name": "Camisa do Corinthians I 25 Nike Masculina Torcedor",
+      "name": "Camisa do Corinthians I 25/26 Nike Masculina Torcedor",
       "brand": "Nike",
       "category": "outros",
       "price": {
@@ -1020742,7 +1020819,7 @@
     },
     {
       "sku": "995364512033",
-      "name": "Camisa do Corinthians I 25 Nike Masculina Torcedor",
+      "name": "Camisa do Corinthians I 25/26 Nike Masculina Torcedor",
       "brand": "Nike",
       "category": "outros",
       "price": {
@@ -1020764,7 +1020841,7 @@
     },
     {
       "sku": "995364512057",
-      "name": "Camisa do Corinthians I 25 Nike Masculina Torcedor",
+      "name": "Camisa do Corinthians I 25/26 Nike Masculina Torcedor",
       "brand": "Nike",
       "category": "outros",
       "price": {
@@ -1103591,6 +1103668,17 @@
       "path": "examples/kodda-catalog/products/997029.md"
     },
     {
+      "sku": "9970290e0356",
+      "name": "Tênis Feminino Nike Vomero Plus",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 1299.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9970290e0356.md"
+    },
+    {
       "sku": "9970290e0363",
       "name": "Tênis Feminino Nike Vomero Plus",
       "brand": "Nike",
@@ -1130001,7 +1130089,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 999.99,
+        "value": 1199.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9971a2340403.md"
@@ -1248053,6 +1248141,50 @@
       "path": "examples/kodda-catalog/products/99739e510454.md"
     },
     {
+      "sku": "99739e9k0392",
+      "name": "Tênis Masculino adidas Adizero EVO SL",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 1099.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99739e9k0392.md"
+    },
+    {
+      "sku": "99739e9k0408",
+      "name": "Tênis Masculino adidas Adizero EVO SL",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 1099.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99739e9k0408.md"
+    },
+    {
+      "sku": "99739e9k0415",
+      "name": "Tênis Masculino adidas Adizero EVO SL",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 1099.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99739e9k0415.md"
+    },
+    {
+      "sku": "99739e9k0422",
+      "name": "Tênis Masculino adidas Adizero EVO SL",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 1099.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/99739e9k0422.md"
+    },
+    {
       "sku": "99739e9k0439",
       "name": "Tênis Masculino adidas Adizero EVO SL",
       "brand": "Adidas",
@@ -1330338,7 +1330470,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hg312025.md"
@@ -1330349,7 +1330481,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hg312032.md"
@@ -1330360,7 +1330492,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hg312049.md"
@@ -1330371,7 +1330503,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hg312056.md"
@@ -1330382,7 +1330514,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hg312063.md"
@@ -1330393,7 +1330525,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hh022010.md"
@@ -1330404,7 +1330536,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hh022027.md"
@@ -1330415,7 +1330547,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hh022034.md"
@@ -1330426,7 +1330558,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hh022041.md"
@@ -1330437,7 +1330569,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hh022058.md"
@@ -1330459,7 +1330591,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 349.99,
+        "value": 229.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hi312028.md"
@@ -1330470,7 +1330602,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 349.99,
+        "value": 229.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hi312035.md"
@@ -1330481,7 +1330613,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 349.99,
+        "value": 229.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hi312042.md"
@@ -1330492,7 +1330624,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 349.99,
+        "value": 229.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974hi312059.md"
@@ -1354153,7 +1354285,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 349.99,
+        "value": 229.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974xw012025.md"
@@ -1354164,7 +1354296,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 349.99,
+        "value": 229.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974xw012032.md"
@@ -1354175,7 +1354307,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 349.99,
+        "value": 229.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974xw012049.md"
@@ -1354186,7 +1354318,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 349.99,
+        "value": 229.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974xw012056.md"
@@ -1354241,7 +1354373,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 749.99,
+        "value": 499.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974xx312025.md"
@@ -1354252,7 +1354384,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 749.99,
+        "value": 499.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974xx312032.md"
@@ -1354263,7 +1354395,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 749.99,
+        "value": 499.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974xx312049.md"
@@ -1354274,7 +1354406,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 749.99,
+        "value": 499.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974xx312056.md"
@@ -1354582,7 +1354714,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974y4512020.md"
@@ -1354593,7 +1354725,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974y4512037.md"
@@ -1354604,7 +1354736,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974y4512044.md"
@@ -1354615,7 +1354747,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974y4512051.md"
@@ -1354868,7 +1355000,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 549.99,
+        "value": 449.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9974y62v0375.md"
@@ -1359673,6 +1359805,39 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/997517yl2047.md"
+    },
+    {
+      "sku": "997519mz2023",
+      "name": "Shorts Farm Biker Leopardo Pop Feminino",
+      "brand": "Farm",
+      "category": "outros",
+      "price": {
+        "value": 229.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/997519mz2023.md"
+    },
+    {
+      "sku": "997519mz2030",
+      "name": "Shorts Farm Biker Leopardo Pop Feminino",
+      "brand": "Farm",
+      "category": "outros",
+      "price": {
+        "value": 229.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/997519mz2030.md"
+    },
+    {
+      "sku": "997519mz2047",
+      "name": "Shorts Farm Biker Leopardo Pop Feminino",
+      "brand": "Farm",
+      "category": "outros",
+      "price": {
+        "value": 229.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/997519mz2047.md"
     },
     {
       "sku": "99751a622028",
@@ -1377115,7 +1377280,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/99759u512028.md"
@@ -1377126,7 +1377291,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/99759u512035.md"
@@ -1377137,7 +1377302,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/99759u512042.md"
@@ -1377148,7 +1377313,7 @@
       "brand": "Nike",
       "category": "outros",
       "price": {
-        "value": 399.99,
+        "value": 279.99,
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/99759u512059.md"
@@ -1430934,7 +1431099,7 @@
     },
     {
       "sku": "9976db510209",
-      "name": "TENIS ADIDAS BREAKNET 3 0 CF I",
+      "name": "Tênis Infantil adidas Breaknet 3.0 CF",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -1430945,7 +1431110,7 @@
     },
     {
       "sku": "9976db510216",
-      "name": "TENIS ADIDAS BREAKNET 3 0 CF I",
+      "name": "Tênis Infantil adidas Breaknet 3.0 CF",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -1430956,7 +1431121,7 @@
     },
     {
       "sku": "9976db510223",
-      "name": "TENIS ADIDAS BREAKNET 3 0 CF I",
+      "name": "Tênis Infantil adidas Breaknet 3.0 CF",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -1430967,7 +1431132,7 @@
     },
     {
       "sku": "9976db510230",
-      "name": "TENIS ADIDAS BREAKNET 3 0 CF I",
+      "name": "Tênis Infantil adidas Breaknet 3.0 CF",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -1430978,7 +1431143,7 @@
     },
     {
       "sku": "9976db510247",
-      "name": "TENIS ADIDAS BREAKNET 3 0 CF I",
+      "name": "Tênis Infantil adidas Breaknet 3.0 CF",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -1430989,7 +1431154,7 @@
     },
     {
       "sku": "9976db510254",
-      "name": "TENIS ADIDAS BREAKNET 3 0 CF I",
+      "name": "Tênis Infantil adidas Breaknet 3.0 CF",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -1431549,6 +1431714,72 @@
       "path": "examples/kodda-catalog/products/9976ded10443.md"
     },
     {
+      "sku": "9976df2r0203",
+      "name": "Tênis Infantil adidas Move VL",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 199.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976df2r0203.md"
+    },
+    {
+      "sku": "9976df2r0210",
+      "name": "Tênis Infantil adidas Move VL",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 199.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976df2r0210.md"
+    },
+    {
+      "sku": "9976df2r0227",
+      "name": "Tênis Infantil adidas Move VL",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 199.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976df2r0227.md"
+    },
+    {
+      "sku": "9976df2r0234",
+      "name": "Tênis Infantil adidas Move VL",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 199.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976df2r0234.md"
+    },
+    {
+      "sku": "9976df2r0241",
+      "name": "Tênis Infantil adidas Move VL",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 199.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976df2r0241.md"
+    },
+    {
+      "sku": "9976df2r0258",
+      "name": "Tênis Infantil adidas Move VL",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 199.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976df2r0258.md"
+    },
+    {
       "sku": "9976di2i0353",
       "name": "Tênis Feminino adidas Supernova Rise 3",
       "brand": "Adidas",
@@ -1432042,6 +1432273,72 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9976dkez0322.md"
+    },
+    {
+      "sku": "9976dlez0277",
+      "name": "Tênis Infantil adidas Tensaur Sport 3.0",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 349.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976dlez0277.md"
+    },
+    {
+      "sku": "9976dlez0284",
+      "name": "Tênis Infantil adidas Tensaur Sport 3.0",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 349.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976dlez0284.md"
+    },
+    {
+      "sku": "9976dlez0291",
+      "name": "Tênis Infantil adidas Tensaur Sport 3.0",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 349.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976dlez0291.md"
+    },
+    {
+      "sku": "9976dlez0307",
+      "name": "Tênis Infantil adidas Tensaur Sport 3.0",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 349.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976dlez0307.md"
+    },
+    {
+      "sku": "9976dlez0314",
+      "name": "Tênis Infantil adidas Tensaur Sport 3.0",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 349.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976dlez0314.md"
+    },
+    {
+      "sku": "9976dlez0321",
+      "name": "Tênis Infantil adidas Tensaur Sport 3.0",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 349.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976dlez0321.md"
     },
     {
       "sku": "9976dm150398",
@@ -1439822,7 +1440119,7 @@
     },
     {
       "sku": "9976j9062028",
-      "name": "CAMISA FLAMENGO 26 EQT MASC",
+      "name": "Camisa Flamengo 26/27 Eqt Masculina",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -1439833,7 +1440130,7 @@
     },
     {
       "sku": "9976j9062035",
-      "name": "CAMISA FLAMENGO 26 EQT MASC",
+      "name": "Camisa Flamengo 26/27 Eqt Masculina",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -1439844,7 +1440141,7 @@
     },
     {
       "sku": "9976j9062042",
-      "name": "CAMISA FLAMENGO 26 EQT MASC",
+      "name": "Camisa Flamengo 26/27 Eqt Masculina",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -1439855,7 +1440152,7 @@
     },
     {
       "sku": "9976j9062059",
-      "name": "CAMISA FLAMENGO 26 EQT MASC",
+      "name": "Camisa Flamengo 26/27 Eqt Masculina",
       "brand": "Adidas",
       "category": "outros",
       "price": {
@@ -1451448,6 +1451745,50 @@
       "path": "examples/kodda-catalog/products/9976qk026733.md"
     },
     {
+      "sku": "9976ql022024",
+      "name": "Camiseta Regata adidas Club Tennis Climacool Feminina",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 149.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976ql022024.md"
+    },
+    {
+      "sku": "9976ql022031",
+      "name": "Camiseta Regata adidas Club Tennis Climacool Feminina",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 149.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976ql022031.md"
+    },
+    {
+      "sku": "9976ql022048",
+      "name": "Camiseta Regata adidas Club Tennis Climacool Feminina",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 149.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976ql022048.md"
+    },
+    {
+      "sku": "9976ql022055",
+      "name": "Camiseta Regata adidas Club Tennis Climacool Feminina",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 149.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976ql022055.md"
+    },
+    {
       "sku": "9976qn022022",
       "name": "Bermuda adidas Essentials Shorts 8 Inches Masculina",
       "brand": "Adidas",
@@ -1459927,6 +1460268,50 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9976wv1b0391.md"
+    },
+    {
+      "sku": "9976wwoi0351",
+      "name": "Tênis Feminino Mizuno Wave Sky Prime",
+      "brand": "Mizuno",
+      "category": "outros",
+      "price": {
+        "value": 1599.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976wwoi0351.md"
+    },
+    {
+      "sku": "9976wwoi0368",
+      "name": "Tênis Feminino Mizuno Wave Sky Prime",
+      "brand": "Mizuno",
+      "category": "outros",
+      "price": {
+        "value": 1599.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976wwoi0368.md"
+    },
+    {
+      "sku": "9976wwoi0375",
+      "name": "Tênis Feminino Mizuno Wave Sky Prime",
+      "brand": "Mizuno",
+      "category": "outros",
+      "price": {
+        "value": 1599.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976wwoi0375.md"
+    },
+    {
+      "sku": "9976wwoi0382",
+      "name": "Tênis Feminino Mizuno Wave Sky Prime",
+      "brand": "Mizuno",
+      "category": "outros",
+      "price": {
+        "value": 1599.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976wwoi0382.md"
     },
     {
       "sku": "9976wx580357",
@@ -1479995,6 +1480380,61 @@
       "path": "examples/kodda-catalog/products/9977cq072056.md"
     },
     {
+      "sku": "9977cs800268",
+      "name": "Chuteira de Futsal Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977cs800268.md"
+    },
+    {
+      "sku": "9977cs800275",
+      "name": "Chuteira de Futsal Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977cs800275.md"
+    },
+    {
+      "sku": "9977cs800282",
+      "name": "Chuteira de Futsal Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977cs800282.md"
+    },
+    {
+      "sku": "9977cs800299",
+      "name": "Chuteira de Futsal Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977cs800299.md"
+    },
+    {
+      "sku": "9977cs800305",
+      "name": "Chuteira de Futsal Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977cs800305.md"
+    },
+    {
       "sku": "9977ct410268",
       "name": "Chuteira Futsal Infantil Puma Future 9 Play Playmaker",
       "brand": "Puma",
@@ -1480248,6 +1480688,72 @@
       "path": "examples/kodda-catalog/products/9977cx5t0367.md"
     },
     {
+      "sku": "9977cx800317",
+      "name": "Chuteira Futsal Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977cx800317.md"
+    },
+    {
+      "sku": "9977cx800324",
+      "name": "Chuteira Futsal Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977cx800324.md"
+    },
+    {
+      "sku": "9977cx800331",
+      "name": "Chuteira Futsal Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977cx800331.md"
+    },
+    {
+      "sku": "9977cx800348",
+      "name": "Chuteira Futsal Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977cx800348.md"
+    },
+    {
+      "sku": "9977cx800355",
+      "name": "Chuteira Futsal Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977cx800355.md"
+    },
+    {
+      "sku": "9977cx800362",
+      "name": "Chuteira Futsal Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977cx800362.md"
+    },
+    {
       "sku": "9977cy490319",
       "name": "Chuteira Futsal Infantil Puma Ultra 7 Play",
       "brand": "Puma",
@@ -1480444,6 +1480950,72 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9977d05t0362.md"
+    },
+    {
+      "sku": "9977d0800312",
+      "name": "Chuteira Society Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977d0800312.md"
+    },
+    {
+      "sku": "9977d0800329",
+      "name": "Chuteira Society Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977d0800329.md"
+    },
+    {
+      "sku": "9977d0800336",
+      "name": "Chuteira Society Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977d0800336.md"
+    },
+    {
+      "sku": "9977d0800343",
+      "name": "Chuteira Society Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977d0800343.md"
+    },
+    {
+      "sku": "9977d0800350",
+      "name": "Chuteira Society Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977d0800350.md"
+    },
+    {
+      "sku": "9977d0800367",
+      "name": "Chuteira Society Infantil Puma Future 9 Play",
+      "brand": "Puma",
+      "category": "outros",
+      "price": {
+        "value": 399.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9977d0800367.md"
     },
     {
       "sku": "9977d1490260",
