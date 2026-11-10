@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/tca35173603/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG TCA35173603. Clique para ver imagens, análises e especificações técnicas da LG Compressor FC140NEM Refrigerador LG GC-L217BSKV - TCA35173603"
+summary: "Get more information on the LG TCA35173603. Click for pictures, reviews, and tech specs for the LG Compressor FC140NEM Refrigerador LG GC-L217BSKV - TCA35173603."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1595.05
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.142Z"
+  updated_at: "2026-11-10T14:08:58.383Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.142Z"
+    verified_at: "2026-11-10T14:08:58.383Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.142Z"
+    verified_at: "2026-11-10T14:08:58.383Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG TCA35173603. Clique para ver imagens, análises e especificações técnicas da LG Compressor FC140NEM Refrigerador LG GC-L217BSKV - TCA35173603
+Get more information on the LG TCA35173603. Click for pictures, reviews, and tech specs for the LG Compressor FC140NEM Refrigerador LG GC-L217BSKV - TCA35173603.

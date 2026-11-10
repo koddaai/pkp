@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu66385001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU66385001. Clique para ver imagens, análises e especificações técnicas da LG Placa Principal TV LG 43UP7500PSF, 43UP751C0SF, 55UP751C0SF - EBU66385001"
+summary: "Get more information on the LG EBU66385001. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 43UP7500PSF, 43UP751C0SF, 55UP751C0SF - EBU66385001."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 464.55
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.064Z"
+  updated_at: "2026-11-10T14:08:58.299Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.064Z"
+    verified_at: "2026-11-10T14:08:58.299Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.064Z"
+    verified_at: "2026-11-10T14:08:58.299Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBU66385001. Clique para ver imagens, análises e especificações técnicas da LG Placa Principal TV LG 43UP7500PSF, 43UP751C0SF, 55UP751C0SF - EBU66385001
+Get more information on the LG EBU66385001. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 43UP7500PSF, 43UP751C0SF, 55UP751C0SF - EBU66385001.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/mds64854101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MDS64854101. Clique para ver imagens, análises e especificações técnicas da LG Vedação em borracha da porta (Guarnição) Máquina de Lavar Roupas LG MDS64854101"
+summary: "Get more information on the LG MDS64854101. Click for pictures, reviews, and tech specs for the LG Vedação em borracha da porta (Guarnição) Máquina de Lavar Roupas LG MDS64854101."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.54
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.101Z"
+  updated_at: "2026-11-10T14:08:58.338Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.101Z"
+    verified_at: "2026-11-10T14:08:58.338Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.101Z"
+    verified_at: "2026-11-10T14:08:58.338Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MDS64854101. Clique para ver imagens, análises e especificações técnicas da LG Vedação em borracha da porta (Guarnição) Máquina de Lavar Roupas LG MDS64854101
+Get more information on the LG MDS64854101. Click for pictures, reviews, and tech specs for the LG Vedação em borracha da porta (Guarnição) Máquina de Lavar Roupas LG MDS64854101.

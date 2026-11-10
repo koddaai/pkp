@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-uhd-4k/32ur500-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conheça o Monitor LG UHD de 32\" e desfrute de uma experiência imersiva com imagens realistas em 4K. Tela perfeita para jogar, assistir ou trabalhar. Confira!"
+summary: "Get more information on the LG 32UR500-B. Click for pictures, reviews, and tech specs for the LG Monitor LG Ultra UHD 32'' 4K, HDMI, HDR10, AMD Free Sync, MaxxAudio, Dynamic Action Sync, Black Stabilizer - 32UR500-B."
 tags: ["lg", "4k", "hdr", "ultra", "max"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 1544.63
+  value: 1595
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.683Z"
+  updated_at: "2026-11-10T14:08:57.899Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.683Z"
+    verified_at: "2026-11-10T14:08:57.899Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.683Z"
+    verified_at: "2026-11-10T14:08:57.899Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 32
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Conheça o Monitor LG UHD de 32" e desfrute de uma experiência imersiva com imagens realistas em 4K. Tela perfeita para jogar, assistir ou trabalhar. Confira!
+Get more information on the LG 32UR500-B. Click for pictures, reviews, and tech specs for the LG Monitor LG Ultra UHD 32'' 4K, HDMI, HDR10, AMD Free Sync, MaxxAudio, Dynamic Action Sync, Black Stabilizer - 32UR500-B.

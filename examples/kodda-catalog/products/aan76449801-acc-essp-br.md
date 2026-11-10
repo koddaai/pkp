@@ -5,7 +5,7 @@ sku: "aan76449801-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Base Pedestal Televisão LG 32LK610BPSA AAN76449801 - AAN76449801"
-category: "outros"
+category: "tvs"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/aan76449801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Lado \"A\" e \"B\" (base inferior lado esquerdo e direito) Não acompanha os parafusos para fixação da base"
+summary: "Get more information on the LG AAN76449801. Click for pictures, reviews, and tech specs for the LG Base Pedestal Televisão LG 32LK610BPSA AAN76449801."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.761Z"
+  updated_at: "2026-11-10T14:08:57.980Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.761Z"
+    verified_at: "2026-11-10T14:08:57.980Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.761Z"
+    verified_at: "2026-11-10T14:08:57.980Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Lado "A" e "B" (base inferior lado esquerdo e direito)  Não acompanha os parafusos para fixação da base
+Get more information on the LG AAN76449801. Click for pictures, reviews, and tech specs for the LG Base Pedestal Televisão LG 32LK610BPSA AAN76449801.

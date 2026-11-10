@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-w12jaqal-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG AI Dual Inverter Compact 12.000 BTU - S3-W12JAQAL"
+name: "Ar-Condicionado LG AI Dual Inverter Compact 12.000 BTU Quente/Frio 220V - S3-W12JAQAL"
 category: "outros"
 
 
@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-w12jaqal/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG S3-W12JAQAL. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Compact 12.000 BTU Quente/Frio 220V."
+summary: "Encontre todas as informações sobre a nova linha de ar-condicionado LG Dual Inverter com inteligência artificial S3-W12JAQAL, controle de energia 4 em 1 e alta durabilidade"
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 2429.1
+  value: 2483.08
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.132Z"
+  updated_at: "2026-11-10T14:08:58.373Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.132Z"
+    verified_at: "2026-11-10T14:08:58.373Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.132Z"
+    verified_at: "2026-11-10T14:08:58.373Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  voltage: "220V"
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG S3-W12JAQAL. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG AI Dual Inverter Compact 12.000 BTU Quente/Frio 220V.
+Encontre todas as informações sobre a nova linha de ar-condicionado LG Dual Inverter com inteligência artificial S3-W12JAQAL, controle de energia 4 em 1 e alta durabilidade

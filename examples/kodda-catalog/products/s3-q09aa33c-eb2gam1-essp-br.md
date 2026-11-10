@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-q09aa33c/"
 
 # === DESCOBERTA (L0) ===
-summary: "Ar-condicionado split LG Dual Inverter de 9.000 BTUs, com tecnologia inverter para mais economia de energia no dia a dia. Compre na loja oficial LG."
+summary: "Ar-condicionado split LG Dual Inverter de 9.000 BTUs S3-Q09AA33C, com tecnologia inverter para mais economia de energia no dia a dia. Compre na loja oficial LG."
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 1983.81
+  value: 2006.1
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.125Z"
+  updated_at: "2026-11-10T14:08:58.364Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.125Z"
+    verified_at: "2026-11-10T14:08:58.364Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.125Z"
+    verified_at: "2026-11-10T14:08:58.364Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Ar-condicionado split LG Dual Inverter de 9.000 BTUs, com tecnologia inverter para mais economia de energia no dia a dia. Compre na loja oficial LG.
+Ar-condicionado split LG Dual Inverter de 9.000 BTUs S3-Q09AA33C, com tecnologia inverter para mais economia de energia no dia a dia. Compre na loja oficial LG.

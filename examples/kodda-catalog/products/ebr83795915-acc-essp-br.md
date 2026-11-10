@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr83795915/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso inverter Montada com componentes eletroeletrônicos Para unidade condensadora"
+summary: "Get more information on the LG EBR83795915. Click for pictures, reviews, and tech specs for the LG Placa Inverter Ar Condicionado LG ASUW182CRG2 EBR83795915."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 806.55
+  value: 774.29
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.024Z"
+  updated_at: "2026-11-10T14:08:58.258Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.024Z"
+    verified_at: "2026-11-10T14:08:58.258Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.024Z"
+    verified_at: "2026-11-10T14:08:58.258Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso inverter Montada com componentes eletroeletrônicos Para unidade condensadora
+Get more information on the LG EBR83795915. Click for pictures, reviews, and tech specs for the LG Placa Inverter Ar Condicionado LG ASUW182CRG2 EBR83795915.

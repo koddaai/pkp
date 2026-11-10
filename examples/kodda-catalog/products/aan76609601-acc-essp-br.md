@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/aan76609601/"
 
 # === DESCOBERTA (L0) ===
-summary: "Base Pedestal TV LG 32LD650 AAN76609601"
+summary: "Get more information on the LG AAN76609601. Click for pictures, reviews, and tech specs for the LG Base Pedestal TV LG 32LD650 AAN76609601."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 607.24
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.763Z"
+  updated_at: "2026-11-10T14:08:57.981Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.763Z"
+    verified_at: "2026-11-10T14:08:57.981Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.763Z"
+    verified_at: "2026-11-10T14:08:57.981Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Base Pedestal TV LG 32LD650 AAN76609601
+Get more information on the LG AAN76609601. Click for pictures, reviews, and tech specs for the LG Base Pedestal TV LG 32LD650 AAN76609601.

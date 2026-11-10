@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr84124301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR84124301. Clique para ver imagens, análises e especificações técnicas da LG Placa inverter Ar Condicionado LG ATUW24GPLP0 - EBR84124301"
+summary: "Get more information on the LG EBR84124301. Click for pictures, reviews, and tech specs for the LG Placa inverter Ar Condicionado LG ATUW24GPLP0 - EBR84124301."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2725.55
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.025Z"
+  updated_at: "2026-11-10T14:08:58.259Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.025Z"
+    verified_at: "2026-11-10T14:08:58.259Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.025Z"
+    verified_at: "2026-11-10T14:08:58.259Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR84124301. Clique para ver imagens, análises e especificações técnicas da LG Placa inverter Ar Condicionado LG ATUW24GPLP0 - EBR84124301
+Get more information on the LG EBR84124301. Click for pictures, reviews, and tech specs for the LG Placa inverter Ar Condicionado LG ATUW24GPLP0 - EBR84124301.

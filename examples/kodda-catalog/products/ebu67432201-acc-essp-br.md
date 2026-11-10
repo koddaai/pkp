@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu67432201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Principal TV LG - EBU67432201"
+summary: "Get more information on the LG EBU67432201. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG - EBU67432201."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1129.55
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.071Z"
+  updated_at: "2026-11-10T14:08:58.306Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.071Z"
+    verified_at: "2026-11-10T14:08:58.306Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.071Z"
+    verified_at: "2026-11-10T14:08:58.306Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa Principal TV LG - EBU67432201
+Get more information on the LG EBU67432201. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG - EBU67432201.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr63876901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR63876901. Clique para ver imagens, análises e especificações técnicas da LG Placa receptora Ar Condicionado LG ASNW092HDW0,ASNW122HDW0 - EBR63876901"
+summary: "Get more information on the LG EBR63876901. Click for pictures, reviews, and tech specs for the LG Placa receptora Ar Condicionado LG ASNW092HDW0 EBR63876901."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.999Z"
+  updated_at: "2026-11-10T14:08:58.233Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.999Z"
+    verified_at: "2026-11-10T14:08:58.233Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.999Z"
+    verified_at: "2026-11-10T14:08:58.233Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR63876901. Clique para ver imagens, análises e especificações técnicas da LG Placa receptora Ar Condicionado LG ASNW092HDW0,ASNW122HDW0 - EBR63876901
+Get more information on the LG EBR63876901. Click for pictures, reviews, and tech specs for the LG Placa receptora Ar Condicionado LG ASNW092HDW0 EBR63876901.

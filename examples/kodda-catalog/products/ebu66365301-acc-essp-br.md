@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu66365301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU66365301. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG OLED77C1PSA - EBU66365301"
+summary: "Get more information on the LG EBU66365301. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG OLED77C1PSA - EBU66365301."
 tags: ["lg", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 901.55
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.062Z"
+  updated_at: "2026-11-10T14:08:58.298Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.062Z"
+    verified_at: "2026-11-10T14:08:58.298Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.062Z"
+    verified_at: "2026-11-10T14:08:58.298Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBU66365301. Clique para ver imagens, análises e especificações técnicas da LG Placa principal TV LG OLED77C1PSA - EBU66365301
+Get more information on the LG EBU66365301. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG OLED77C1PSA - EBU66365301.

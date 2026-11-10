@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr82216001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR82216001. Clique para ver imagens, análises e especificações técnicas da LG Placa Principal Condensadora Ar Condicionado LG ATUW18GPLP0 - EBR82216001"
+summary: "Get more information on the LG EBR82216001. Click for pictures, reviews, and tech specs for the LG Placa Principal Condensadora Ar Condicionado LG ATUW18GPLP0 - EBR82216001."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2203.05
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.017Z"
+  updated_at: "2026-11-10T14:08:58.252Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.017Z"
+    verified_at: "2026-11-10T14:08:58.252Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.017Z"
+    verified_at: "2026-11-10T14:08:58.252Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR82216001. Clique para ver imagens, análises e especificações técnicas da LG Placa Principal Condensadora Ar Condicionado LG ATUW18GPLP0 - EBR82216001
+Get more information on the LG EBR82216001. Click for pictures, reviews, and tech specs for the LG Placa Principal Condensadora Ar Condicionado LG ATUW18GPLP0 - EBR82216001.

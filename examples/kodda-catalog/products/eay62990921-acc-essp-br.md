@@ -5,8 +5,8 @@ sku: "eay62990921-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Fonte de alimentação externa para projetores (19 V, 3,42 A, 65 W, cabo de alimentação não incluído, branco) - EAY62990921"
-category: "tvs"
-
+category: "monitors"
+subcategory: "projetor"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 212.04
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.955Z"
+  updated_at: "2026-11-10T14:08:58.190Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.955Z"
+    verified_at: "2026-11-10T14:08:58.190Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.955Z"
+    verified_at: "2026-11-10T14:08:58.190Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

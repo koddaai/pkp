@@ -5,8 +5,8 @@ sku: "mds56540504-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Vedação Máquina de Lavar Roupas LG WD14EGS62 MDS56540504 - MDS56540504"
-category: "eletrodomesticos"
-subcategory: "lavadora"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/mds56540504/"
 
 # === DESCOBERTA (L0) ===
-summary: "Vedação (junta) de borracha vulcanizada não endurecida"
+summary: "Get more information on the LG MDS56540504. Click for pictures, reviews, and tech specs for the LG Vedação Máquina de Lavar Roupas LG WD14EGS62 MDS56540504."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 493.05
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.100Z"
+  updated_at: "2026-11-10T14:08:58.337Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.100Z"
+    verified_at: "2026-11-10T14:08:58.337Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.100Z"
+    verified_at: "2026-11-10T14:08:58.337Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Vedação (junta) de borracha vulcanizada não endurecida
+Get more information on the LG MDS56540504. Click for pictures, reviews, and tech specs for the LG Vedação Máquina de Lavar Roupas LG WD14EGS62 MDS56540504.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/csp30256008/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Principal Ar Condicionado LG S4NQ09WA51B = CSP30256008"
+summary: "Get more information on the LG CSP30256008. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4NQ09WA51B = CSP30256008."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 373.01
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.869Z"
+  updated_at: "2026-11-10T14:08:58.099Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.869Z"
+    verified_at: "2026-11-10T14:08:58.099Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.869Z"
+    verified_at: "2026-11-10T14:08:58.099Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa Principal Ar Condicionado LG S4NQ09WA51B = CSP30256008
+Get more information on the LG CSP30256008. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4NQ09WA51B = CSP30256008.

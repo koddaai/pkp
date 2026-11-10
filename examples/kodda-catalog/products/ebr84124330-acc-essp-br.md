@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr84124330/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Inverter Ar Condicionado LG A2UW18GFAC EBR84124330"
+summary: "Get more information on the LG EBR84124330. Click for pictures, reviews, and tech specs for the LG Placa Inverter Ar Condicionado LG A2UW18GFAC EBR84124330."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1832.21
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.025Z"
+  updated_at: "2026-11-10T14:08:58.259Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.025Z"
+    verified_at: "2026-11-10T14:08:58.259Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.025Z"
+    verified_at: "2026-11-10T14:08:58.259Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa Inverter Ar Condicionado LG A2UW18GFAC EBR84124330
+Get more information on the LG EBR84124330. Click for pictures, reviews, and tech specs for the LG Placa Inverter Ar Condicionado LG A2UW18GFAC EBR84124330.

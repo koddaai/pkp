@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu67003201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU67003201. Clique para ver imagens, análises e especificações técnicas da LG Placa Principal TV LG 70UQ8050PSB - EBU67003201"
+summary: "Get more information on the LG EBU67003201. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 70UQ8050PSB - EBU67003201."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 968.05
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.067Z"
+  updated_at: "2026-11-10T14:08:58.303Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.067Z"
+    verified_at: "2026-11-10T14:08:58.303Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.067Z"
+    verified_at: "2026-11-10T14:08:58.303Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBU67003201. Clique para ver imagens, análises e especificações técnicas da LG Placa Principal TV LG 70UQ8050PSB - EBU67003201
+Get more information on the LG EBU67003201. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 70UQ8050PSB - EBU67003201.

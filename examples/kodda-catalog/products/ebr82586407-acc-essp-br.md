@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr82586407/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR82586407. Clique para ver imagens, análises e especificações técnicas da LG Placa principal condensadora Ar Condicionado LG A2UW16GFA2, A2UW18GFA2 - EBR82586407"
+summary: "Get more information on the LG EBR82586407. Click for pictures, reviews, and tech specs for the LG Placa principal condensadora Ar Condicionado LG A2UW16GFA2, A2UW18GFA2 - EBR82586407."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1794.55
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.019Z"
+  updated_at: "2026-11-10T14:08:58.253Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.019Z"
+    verified_at: "2026-11-10T14:08:58.253Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.019Z"
+    verified_at: "2026-11-10T14:08:58.253Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR82586407. Clique para ver imagens, análises e especificações técnicas da LG Placa principal condensadora Ar Condicionado LG A2UW16GFA2, A2UW18GFA2 - EBR82586407
+Get more information on the LG EBR82586407. Click for pictures, reviews, and tech specs for the LG Placa principal condensadora Ar Condicionado LG A2UW16GFA2, A2UW18GFA2 - EBR82586407.

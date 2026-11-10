@@ -5,8 +5,8 @@ sku: "5214en3042x-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Mangueira Máquina de Lavar Roupa LG CV9011EC4 5214EN3042X - 5214EN3042X"
-category: "eletrodomesticos"
-subcategory: "lavadora"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/5214en3042x/"
 
 # === DESCOBERTA (L0) ===
-summary: "Mangueira Máquina de Lavar Roupa LG CV9011EC4 5214EN3042X"
+summary: "Get more information on the LG 5214EN3042X. Click for pictures, reviews, and tech specs for the LG Mangueira Máquina de Lavar Roupa LG CV9011EC4 5214EN3042X."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.49
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.718Z"
+  updated_at: "2026-11-10T14:08:57.936Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.718Z"
+    verified_at: "2026-11-10T14:08:57.936Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.718Z"
+    verified_at: "2026-11-10T14:08:57.936Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Mangueira Máquina de Lavar Roupa LG CV9011EC4 5214EN3042X
+Get more information on the LG 5214EN3042X. Click for pictures, reviews, and tech specs for the LG Mangueira Máquina de Lavar Roupa LG CV9011EC4 5214EN3042X.

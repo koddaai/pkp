@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/abq76860713/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulos eletrônicos para controle da unidade condensadora do condicionador de ar tipo \"split-system\" (sistema com elementos separados) Com tecnologia \"inverter\" Compostos de placa de circuito impresso Montada com componentes elétricos e eletrônicos Cabos elétricos com conectores Dissipador de calor Gabinete plastico de proteção"
-tags: ["lg", "inverter", "8k", "pro"]
+summary: "Get more information on the LG ABQ76860713. Click for pictures, reviews, and tech specs for the LG Módulo Inverter Ar Condicionado LG S4UQ18KL31A ABQ76860713."
+tags: ["lg", "inverter", "8k"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 838.13
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.769Z"
+  updated_at: "2026-11-10T14:08:57.988Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.769Z"
+    verified_at: "2026-11-10T14:08:57.988Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.769Z"
+    verified_at: "2026-11-10T14:08:57.988Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulos eletrônicos para controle da unidade condensadora do condicionador de ar tipo "split-system" (sistema com elementos separados) Com tecnologia "inverter"  Compostos de placa de circuito impresso Montada com componentes elétricos e eletrônicos Cabos elétricos com conectores Dissipador de calor Gabinete plastico de proteção
+Get more information on the LG ABQ76860713. Click for pictures, reviews, and tech specs for the LG Módulo Inverter Ar Condicionado LG S4UQ18KL31A ABQ76860713.

@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-q18klr1c/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG S3-Q18KLR1B! Clique para ver imagens, análises e especificações técnicas da LG Ar-Condicionado LG DUAL Inverter Voice +AI Artcool 18.000 BTU"
+summary: "Descubra a LG S3-Q18KLR1C! Clique para ver imagens, análises e especificações técnicas da LG Ar-Condicionado LG DUAL Inverter Voice +AI Artcool 18.000 BTU"
 tags: ["lg", "ai", "inverter", "8k"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 3985.52
+  value: 4076.1
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.128Z"
+  updated_at: "2026-11-10T14:08:58.369Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.128Z"
+    verified_at: "2026-11-10T14:08:58.369Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.128Z"
+    verified_at: "2026-11-10T14:08:58.369Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG S3-Q18KLR1B! Clique para ver imagens, análises e especificações técnicas da LG Ar-Condicionado LG DUAL Inverter Voice +AI Artcool 18.000 BTU
+Descubra a LG S3-Q18KLR1C! Clique para ver imagens, análises e especificações técnicas da LG Ar-Condicionado LG DUAL Inverter Voice +AI Artcool 18.000 BTU

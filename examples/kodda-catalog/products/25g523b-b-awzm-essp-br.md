@@ -27,9 +27,9 @@ tags: ["lg", "5g", "hdr", "premium", "ultra", "gaming"]
 price:
   type: "street"
   currency: "BRL"
-  value: 822.19
+  value: 849
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.671Z"
+  updated_at: "2026-11-10T14:08:57.887Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.671Z"
+    verified_at: "2026-11-10T14:08:57.887Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.671Z"
+    verified_at: "2026-11-10T14:08:57.887Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

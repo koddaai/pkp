@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-w12ja33g/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG S3-W12JA33G. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG Dual Inverter AI VOICE 12.000 BTU Quente/Frio 220V."
+summary: "Saiba mais sobre o Ar-Condicionado LG Dual Inverter AI Voice 12.000 BTU Quente/Frio 220V S3-W12JA33G."
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 2574.39
+  value: 2630.97
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.132Z"
+  updated_at: "2026-11-10T14:08:58.373Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.132Z"
+    verified_at: "2026-11-10T14:08:58.373Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.132Z"
+    verified_at: "2026-11-10T14:08:58.373Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG S3-W12JA33G. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG Dual Inverter AI VOICE 12.000 BTU Quente/Frio 220V.
+Saiba mais sobre o Ar-Condicionado LG Dual Inverter AI Voice 12.000 BTU Quente/Frio 220V S3-W12JA33G.

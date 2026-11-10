@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr33142804/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR33142804. Clique para ver imagens, análises e especificações técnicas da LG Placa do display Ar Condicionado LG S4NW09JARXA, S4NW12JARXA - EBR33142804"
+summary: "Get more information on the LG EBR33142804. Click for pictures, reviews, and tech specs for the LG Placa do display Ar Condicionado LG S4NW09JARXA, S4NW12JARXA - EBR33142804."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 265.05
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.989Z"
+  updated_at: "2026-11-10T14:08:58.223Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.989Z"
+    verified_at: "2026-11-10T14:08:58.223Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.989Z"
+    verified_at: "2026-11-10T14:08:58.223Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR33142804. Clique para ver imagens, análises e especificações técnicas da LG Placa do display Ar Condicionado LG S4NW09JARXA, S4NW12JARXA - EBR33142804
+Get more information on the LG EBR33142804. Click for pictures, reviews, and tech specs for the LG Placa do display Ar Condicionado LG S4NW09JARXA, S4NW12JARXA - EBR33142804.

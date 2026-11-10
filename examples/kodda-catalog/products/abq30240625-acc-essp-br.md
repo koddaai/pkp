@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/abq30240625/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo eletrônico para controle da unidade condensadora do condicionador de ar tipo \"split-system\" (sistema com elementos separados), com tecnologia \"inverter\" e compostos de placa de circuito impresso montada com componentes elétricos e eletrônicos, cabos eletricos com conectores, dissipador de calor e gabinete plástico de proteção."
-tags: ["lg", "inverter", "pro"]
+summary: "Get more information on the LG ABQ30240625. Click for pictures, reviews, and tech specs for the LG Módulo Eletrônico Condensador Ar Condicionado LG ABQ30240625."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1184.69
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.767Z"
+  updated_at: "2026-11-10T14:08:57.986Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.767Z"
+    verified_at: "2026-11-10T14:08:57.986Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.767Z"
+    verified_at: "2026-11-10T14:08:57.986Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulo eletrônico para controle da unidade condensadora do condicionador de ar tipo "split-system" (sistema com elementos separados), com tecnologia "inverter" e compostos de placa de circuito impresso montada com componentes elétricos e eletrônicos, cabos eletricos com conectores, dissipador de calor e gabinete plástico de proteção.
+Get more information on the LG ABQ30240625. Click for pictures, reviews, and tech specs for the LG Módulo Eletrônico Condensador Ar Condicionado LG ABQ30240625.

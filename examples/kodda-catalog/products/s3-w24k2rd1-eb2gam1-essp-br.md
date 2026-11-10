@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-w24k2rd1/"
 
 # === DESCOBERTA (L0) ===
-summary: "Ar-Condicionado LG AI Dual Inverter Voice Artcool 24.000 BTU Quente/Frio 220V"
+summary: "Saiba mais sobre o Ar-Condicionado LG AI Dual Inverter Voice Artcool 24.000 BTU Quente/Frio 220V S3-W24K2RD1"
 tags: ["lg", "ai", "inverter", "4k"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 5589.14
+  value: 5914.09
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.134Z"
+  updated_at: "2026-11-10T14:08:58.376Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.134Z"
+    verified_at: "2026-11-10T14:08:58.376Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.134Z"
+    verified_at: "2026-11-10T14:08:58.376Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Ar-Condicionado LG AI Dual Inverter Voice Artcool 24.000 BTU Quente/Frio 220V
+Saiba mais sobre o Ar-Condicionado LG AI Dual Inverter Voice Artcool 24.000 BTU Quente/Frio 220V S3-W24K2RD1

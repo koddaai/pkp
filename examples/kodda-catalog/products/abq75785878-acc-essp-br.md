@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/abq75785878/"
 
 # === DESCOBERTA (L0) ===
-summary: "Para unidade condensadora do condicionador de ar tipo \"split-system\" (sistema com elementos separados) com tecnologia \"inverter\" Cabos elétricos com conectores dissipador de calor e gabinete plástico de proteção."
-tags: ["lg", "inverter", "pro"]
+summary: "Get more information on the LG ABQ75785878. Click for pictures, reviews, and tech specs for the LG Placa principal condensadora Ar Condicionado LG ABQ75785878."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1649.81
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.768Z"
+  updated_at: "2026-11-10T14:08:57.987Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.768Z"
+    verified_at: "2026-11-10T14:08:57.987Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.768Z"
+    verified_at: "2026-11-10T14:08:57.987Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Para unidade condensadora do condicionador de ar tipo "split-system" (sistema com elementos separados)  com tecnologia "inverter" Cabos elétricos com conectores  dissipador de calor e gabinete plástico de proteção.
+Get more information on the LG ABQ75785878. Click for pictures, reviews, and tech specs for the LG Placa principal condensadora Ar Condicionado LG ABQ75785878.

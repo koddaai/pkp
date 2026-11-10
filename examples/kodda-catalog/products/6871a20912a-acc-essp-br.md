@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/6871a20912a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 6871A20912A. Clique para ver imagens, análises e especificações técnicas da LG Placa Principal Ar Condicionado LG ARNU28GBGA2, ARNU36GBGA2, ARNU42GBGA2 - 6871A20912A"
+summary: "Get more information on the LG 6871A20912A. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG ARNU28GBGA2, ARNU36GBGA2, ARNU42GBGA2 - 6871A20912A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 493.05
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.745Z"
+  updated_at: "2026-11-10T14:08:57.963Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.745Z"
+    verified_at: "2026-11-10T14:08:57.963Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.745Z"
+    verified_at: "2026-11-10T14:08:57.963Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 6871A20912A. Clique para ver imagens, análises e especificações técnicas da LG Placa Principal Ar Condicionado LG ARNU28GBGA2, ARNU36GBGA2, ARNU42GBGA2 - 6871A20912A
+Get more information on the LG 6871A20912A. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG ARNU28GBGA2, ARNU36GBGA2, ARNU42GBGA2 - 6871A20912A.

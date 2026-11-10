@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/afc72755402/"
 
 # === DESCOBERTA (L0) ===
-summary: "ATENÇÃO: Contém 01 unidade Parafuso de aço de baixo carbono galvanizado com acabamento de zinco Montado com porca e capa de borracha para ajuste de altura Com função de patas de nivelamento para máquinas de lavar roupas LG Permitindo que o aparelho opere de forma silenciosa e eficiente."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AFC72755402. Click for pictures, reviews, and tech specs for the LG Parafuso de Aço para Lavadora Roupas LG LWP273R AFC72755402."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 19.73
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.802Z"
+  updated_at: "2026-11-10T14:08:58.026Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.802Z"
+    verified_at: "2026-11-10T14:08:58.026Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.802Z"
+    verified_at: "2026-11-10T14:08:58.026Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-ATENÇÃO: Contém 01 unidade Parafuso de aço de baixo carbono galvanizado com acabamento de zinco Montado com porca e capa de borracha para ajuste de altura Com função de patas de nivelamento para máquinas de lavar roupas LG Permitindo que o aparelho opere de forma silenciosa e eficiente.
+Get more information on the LG AFC72755402. Click for pictures, reviews, and tech specs for the LG Parafuso de Aço para Lavadora Roupas LG LWP273R AFC72755402.

@@ -5,7 +5,7 @@ sku: "akb73655771-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Controle remoto Home Theatre - AKB73655771"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 60.79
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.849Z"
+  updated_at: "2026-11-10T14:08:58.077Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.849Z"
+    verified_at: "2026-11-10T14:08:58.077Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.849Z"
+    verified_at: "2026-11-10T14:08:58.077Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

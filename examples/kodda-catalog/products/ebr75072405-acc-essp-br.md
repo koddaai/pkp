@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr75072405/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR75072405. Clique para ver imagens, análises e especificações técnicas da LG Placa do display da unidade evaporadora Ar Condicionado LG S4NW31V43B1 - EBR75072405"
+summary: "Get more information on the LG EBR75072405. Click for pictures, reviews, and tech specs for the LG Placa do display da unidade evaporadora Ar Condicionado LG S4NW31V43B1 - EBR75072405."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.55
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.003Z"
+  updated_at: "2026-11-10T14:08:58.237Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.003Z"
+    verified_at: "2026-11-10T14:08:58.237Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.003Z"
+    verified_at: "2026-11-10T14:08:58.237Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR75072405. Clique para ver imagens, análises e especificações técnicas da LG Placa do display da unidade evaporadora Ar Condicionado LG S4NW31V43B1 - EBR75072405
+Get more information on the LG EBR75072405. Click for pictures, reviews, and tech specs for the LG Placa do display da unidade evaporadora Ar Condicionado LG S4NW31V43B1 - EBR75072405.

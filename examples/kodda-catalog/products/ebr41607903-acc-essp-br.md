@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr41607903/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR41607903. Clique para ver imagens, análises e especificações técnicas da LG Placa do display Ar Condicionado LG PT-MCHW0, ATNW18GPLP1, ATNW24GPLP - EBR41607903"
+summary: "Get more information on the LG EBR41607903. Click for pictures, reviews, and tech specs for the LG Placa do display Ar Condicionado LG PT-MCHW0, ATNW18GPLP1, ATNW24GPLP - EBR41607903."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.995Z"
+  updated_at: "2026-11-10T14:08:58.229Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.995Z"
+    verified_at: "2026-11-10T14:08:58.229Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.995Z"
+    verified_at: "2026-11-10T14:08:58.229Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR41607903. Clique para ver imagens, análises e especificações técnicas da LG Placa do display Ar Condicionado LG PT-MCHW0,  ATNW18GPLP1, ATNW24GPLP - EBR41607903
+Get more information on the LG EBR41607903. Click for pictures, reviews, and tech specs for the LG Placa do display Ar Condicionado LG PT-MCHW0,  ATNW18GPLP1, ATNW24GPLP - EBR41607903.

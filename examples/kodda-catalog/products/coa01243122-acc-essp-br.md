@@ -5,8 +5,8 @@ sku: "coa01243122-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Capa de silicone utilizado para proteção dos ouvidos Fone LG HBS-FN4 - COA01243122 - COA01243122 | LG BR"
-category: "tvs"
-
+category: "audio"
+subcategory: "headphones"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/coa01243122/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG COA01243122. Clique para ver imagens, análises e especificações técnicas da LG Capa de silicone utilizado para proteção dos ouvidos Fone LG HBS-FN4 - COA01243122"
+summary: "Get more information on the LG COA01243122. Click for pictures, reviews, and tech specs for the LG Capa de silicone utilizado para proteção dos ouvidos Fone LG HBS-FN4 - COA01243122."
 tags: ["lg", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.865Z"
+  updated_at: "2026-11-10T14:08:58.095Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.865Z"
+    verified_at: "2026-11-10T14:08:58.095Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.865Z"
+    verified_at: "2026-11-10T14:08:58.095Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG COA01243122. Clique para ver imagens, análises e especificações técnicas da LG Capa de silicone utilizado para proteção dos ouvidos Fone LG HBS-FN4 - COA01243122
+Get more information on the LG COA01243122. Click for pictures, reviews, and tech specs for the LG Capa de silicone utilizado para proteção dos ouvidos Fone LG HBS-FN4 - COA01243122.

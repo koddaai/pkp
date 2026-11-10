@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/acessorio/aaa76553289/"
 
 # === DESCOBERTA (L0) ===
-summary: "Puxador auxiliar Lavadora Roupa LG DF13WVC2S6A AAA76553289"
+summary: "Get more information on the LG AAA76553289. Click for pictures, reviews, and tech specs for the LG Puxador auxiliar Lavadora Roupa LG DF13WVC2S6A AAA76553289."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 170.05
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.752Z"
+  updated_at: "2026-11-10T14:08:57.970Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.752Z"
+    verified_at: "2026-11-10T14:08:57.970Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.752Z"
+    verified_at: "2026-11-10T14:08:57.970Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Puxador auxiliar Lavadora Roupa LG DF13WVC2S6A AAA76553289
+Get more information on the LG AAA76553289. Click for pictures, reviews, and tech specs for the LG Puxador auxiliar Lavadora Roupa LG DF13WVC2S6A AAA76553289.

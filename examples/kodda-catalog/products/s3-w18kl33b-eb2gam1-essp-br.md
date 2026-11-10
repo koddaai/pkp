@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-w18kl33b-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-condicionado LG AI Dual Inverter Voice 18.000 BTUs com Wi-Fi Integrado - S3-W18KL33B"
+name: "Ar-Condicionado LG AI Dual Inverter Voice 18.000 BTU Quente/Frio 220V - S3-W18KL33B"
 category: "outros"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-w18kl33b/"
 
 # === DESCOBERTA (L0) ===
-summary: "O Ar-condicionado LG S3-W18KL33B conta com AI que aprende seus hábitos e ajuda a economizar até 70% de energia, possui controle por voz via Google e Alexa."
+summary: "O Ar-condicionado S3-W18KL33B 18.000 BTUs conta com AI que aprende seus hábitos e ajuda a economizar até 70% de energia, possui controle por voz via Google e Alexa."
 tags: ["lg", "ai", "inverter", "8k", "alexa", "google"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3799.05
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.133Z"
+  updated_at: "2026-11-10T14:08:58.374Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.133Z"
+    verified_at: "2026-11-10T14:08:58.374Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.133Z"
+    verified_at: "2026-11-10T14:08:58.374Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-O Ar-condicionado LG S3-W18KL33B conta com AI que aprende seus hábitos e ajuda a economizar até 70% de energia, possui controle por voz via Google e Alexa.
+O Ar-condicionado S3-W18KL33B 18.000 BTUs conta com AI que aprende seus hábitos e ajuda a economizar até 70% de energia, possui controle por voz via Google e Alexa.

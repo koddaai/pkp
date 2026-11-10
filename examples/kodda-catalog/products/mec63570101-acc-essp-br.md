@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-e-audio/mec63570101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG MEC63570101. Click for pictures, reviews, and tech specs for the LG Suporte de Parede fixo TV LG - MEC63570101."
+summary: "Get more information on the LG MEC63570101. Click for pictures, reviews, and tech specs for the LG Suporte de Parede fixo TV LG MEC63570101."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 134.1
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.103Z"
+  updated_at: "2026-11-10T14:08:58.340Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.103Z"
+    verified_at: "2026-11-10T14:08:58.340Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.103Z"
+    verified_at: "2026-11-10T14:08:58.340Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG MEC63570101. Click for pictures, reviews, and tech specs for the LG Suporte de Parede fixo TV LG - MEC63570101.
+Get more information on the LG MEC63570101. Click for pictures, reviews, and tech specs for the LG Suporte de Parede fixo TV LG MEC63570101.

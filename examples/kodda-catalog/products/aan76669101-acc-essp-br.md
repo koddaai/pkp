@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/care-accessories/tvs/stand-wall-mount/aan76669101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AAN76669101. Clique para ver imagens, análises e especificações técnicas do pedestal para LG TV."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AAN76669101. Click for pictures, reviews, and tech specs for the LG Pedestal para TV."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 386.84
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.763Z"
+  updated_at: "2026-11-10T14:08:57.982Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.763Z"
+    verified_at: "2026-11-10T14:08:57.982Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.763Z"
+    verified_at: "2026-11-10T14:08:57.982Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o AAN76669101. Clique para ver imagens, análises e especificações técnicas do pedestal para LG TV.
+Get more information on the LG AAN76669101. Click for pictures, reviews, and tech specs for the LG Pedestal para TV.

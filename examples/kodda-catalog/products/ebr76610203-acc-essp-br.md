@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr76610203/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR76610203. Clique para ver imagens, análises e especificações técnicas da LG Placa inverter Ar Condicionado LG ARWN140BAS4, ARWN160BAS4, BRWN080BAS4 - EBR76610203"
+summary: "Get more information on the LG EBR76610203. Click for pictures, reviews, and tech specs for the LG Placa inverter Ar Condicionado LG ARWN140BAS4, ARWN160BAS4, BRWN080BAS4 - EBR76610203."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2640.05
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.006Z"
+  updated_at: "2026-11-10T14:08:58.239Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.006Z"
+    verified_at: "2026-11-10T14:08:58.239Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.006Z"
+    verified_at: "2026-11-10T14:08:58.239Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR76610203. Clique para ver imagens, análises e especificações técnicas da LG Placa inverter Ar Condicionado LG ARWN140BAS4, ARWN160BAS4, BRWN080BAS4 - EBR76610203
+Get more information on the LG EBR76610203. Click for pictures, reviews, and tech specs for the LG Placa inverter Ar Condicionado LG ARWN140BAS4, ARWN160BAS4, BRWN080BAS4 - EBR76610203.

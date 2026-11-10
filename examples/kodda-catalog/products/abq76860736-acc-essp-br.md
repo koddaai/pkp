@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/abq76860736/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo Eletrônico Condensador Ar Condicionado LG ABQ76860736"
+summary: "Get more information on the LG ABQ76860736. Click for pictures, reviews, and tech specs for the LG Módulo Eletrônico Condensador Ar Condicionado LG ABQ76860736."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 783.41
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.770Z"
+  updated_at: "2026-11-10T14:08:57.988Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.770Z"
+    verified_at: "2026-11-10T14:08:57.988Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.770Z"
+    verified_at: "2026-11-10T14:08:57.988Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulo Eletrônico Condensador Ar Condicionado LG ABQ76860736
+Get more information on the LG ABQ76860736. Click for pictures, reviews, and tech specs for the LG Módulo Eletrônico Condensador Ar Condicionado LG ABQ76860736.

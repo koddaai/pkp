@@ -6,7 +6,7 @@ sku: "mds63834704-acc-essp-br"
 brand: "LG"
 name: "Vedação da Porta Lava e Seca LG WD17SV2S6BA MDS63834704 - MDS63834704"
 category: "eletrodomesticos"
-subcategory: "lavadora"
+subcategory: "lava-e-seca"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/mds63834704/"
 
 # === DESCOBERTA (L0) ===
-summary: "Vedação (junta) de borracha vulcanizada não endurecida Para uso em porta de máquina de lavar roupa"
+summary: "Get more information on the LG MDS63834704. Click for pictures, reviews, and tech specs for the LG Vedação da Porta Lava e Seca LG WD17SV2S6BA MDS63834704."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 616.55
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.101Z"
+  updated_at: "2026-11-10T14:08:58.338Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.101Z"
+    verified_at: "2026-11-10T14:08:58.338Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.101Z"
+    verified_at: "2026-11-10T14:08:58.338Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Vedação (junta) de borracha vulcanizada não endurecida Para uso em porta de máquina de lavar roupa
+Get more information on the LG MDS63834704. Click for pictures, reviews, and tech specs for the LG Vedação da Porta Lava e Seca LG WD17SV2S6BA MDS63834704.

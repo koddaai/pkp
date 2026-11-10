@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/aem73612905/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AEM73612905. Clique para ver imagens, análises e especificações técnicas da LG Mangueira de entrada d'água Lavadora LG AEM73612905"
+summary: "Get more information on the LG AEM73612905. Click for pictures, reviews, and tech specs for the LG Mangueira de entrada d'água Lavadora LG AEM73612905."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.800Z"
+  updated_at: "2026-11-10T14:08:58.024Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.800Z"
+    verified_at: "2026-11-10T14:08:58.024Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.800Z"
+    verified_at: "2026-11-10T14:08:58.024Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AEM73612905. Clique para ver imagens, análises e especificações técnicas da LG Mangueira de entrada d'água Lavadora LG AEM73612905
+Get more information on the LG AEM73612905. Click for pictures, reviews, and tech specs for the LG Mangueira de entrada d'água Lavadora LG AEM73612905.

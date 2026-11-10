@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr88279001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR88279001. Clique para ver imagens, análises e especificações técnicas da LG Placa inverter Ar Condicionado LG ARUN120LTE5, ARUN160LLS5, ARUN200LTE5 - EBR88279001"
+summary: "Get more information on the LG EBR88279001. Click for pictures, reviews, and tech specs for the LG Placa inverter Ar Condicionado LG ARUN120LTE5, ARUN160LLS5, ARUN200LTE5 - EBR88279001."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 11969.05
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.040Z"
+  updated_at: "2026-11-10T14:08:58.274Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.040Z"
+    verified_at: "2026-11-10T14:08:58.274Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.040Z"
+    verified_at: "2026-11-10T14:08:58.274Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR88279001. Clique para ver imagens, análises e especificações técnicas da LG Placa inverter Ar Condicionado LG ARUN120LTE5, ARUN160LLS5, ARUN200LTE5 - EBR88279001
+Get more information on the LG EBR88279001. Click for pictures, reviews, and tech specs for the LG Placa inverter Ar Condicionado LG ARUN120LTE5, ARUN160LLS5, ARUN200LTE5 - EBR88279001.

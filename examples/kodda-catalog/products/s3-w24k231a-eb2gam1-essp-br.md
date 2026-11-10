@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter", "4k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 4516.03
+  value: 4820.48
   source: "retailer"
-  updated_at: "2026-11-10T02:33:50.134Z"
+  updated_at: "2026-11-10T14:08:58.375Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.134Z"
+    verified_at: "2026-11-10T14:08:58.375Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:50.134Z"
+    verified_at: "2026-11-10T14:08:58.375Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

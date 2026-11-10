@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan76548858/"
 
 # === DESCOBERTA (L0) ===
-summary: "Base (pedestal) TV LG"
+summary: "Get more information on the LG AAN76548858. Click for pictures, reviews, and tech specs for the LG Base (pedestal) TV LG 43LM6300PSB, 43LM631C0SB, 43LM6370PSB - AAN76548858."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.56
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.763Z"
+  updated_at: "2026-11-10T14:08:57.981Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.763Z"
+    verified_at: "2026-11-10T14:08:57.981Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.763Z"
+    verified_at: "2026-11-10T14:08:57.981Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Base (pedestal)  TV LG
+Get more information on the LG AAN76548858. Click for pictures, reviews, and tech specs for the LG Base (pedestal)  TV LG 43LM6300PSB, 43LM631C0SB, 43LM6370PSB - AAN76548858.

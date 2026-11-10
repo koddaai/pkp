@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr31109718/"
 
 # === DESCOBERTA (L0) ===
-summary: "Para unidade condensadora"
+summary: "Get more information on the LG EBR31109718. Click for pictures, reviews, and tech specs for the LG Placa Inverter Ar Condicionado LG EBR31109718."
 tags: ["lg", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5604.05
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.985Z"
+  updated_at: "2026-11-10T14:08:58.219Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.985Z"
+    verified_at: "2026-11-10T14:08:58.219Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.985Z"
+    verified_at: "2026-11-10T14:08:58.219Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "110V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Para unidade condensadora
+Get more information on the LG EBR31109718. Click for pictures, reviews, and tech specs for the LG Placa Inverter Ar Condicionado LG EBR31109718.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/abq76860742/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ABQ76860742. Clique para ver imagens, análises e especificações técnicas da LG Placa de controle (inverter) Ar Condicionado LG S4UQ24K231E - ABQ76860742"
+summary: "Get more information on the LG ABQ76860742. Click for pictures, reviews, and tech specs for the LG Placa de controle (inverter) Ar Condicionado LG S4UQ24K231E - ABQ76860742."
 tags: ["lg", "inverter", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1367.09
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.770Z"
+  updated_at: "2026-11-10T14:08:57.989Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.770Z"
+    verified_at: "2026-11-10T14:08:57.989Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.770Z"
+    verified_at: "2026-11-10T14:08:57.989Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ABQ76860742. Clique para ver imagens, análises e especificações técnicas da LG Placa de controle (inverter) Ar Condicionado LG S4UQ24K231E - ABQ76860742
+Get more information on the LG ABQ76860742. Click for pictures, reviews, and tech specs for the LG Placa de controle (inverter) Ar Condicionado LG S4UQ24K231E - ABQ76860742.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan76411768/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AAN76411768. Clique para ver imagens, análises e especificações técnicas da LG Base (Pedestal) TV LG 50UN8000PSD - AAN76411768"
+summary: "Get more information on the LG AAN76411768. Click for pictures, reviews, and tech specs for the LG Base (Pedestal) TV LG 50UN8000PSD - AAN76411768."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.761Z"
+  updated_at: "2026-11-10T14:08:57.979Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.761Z"
+    verified_at: "2026-11-10T14:08:57.979Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.761Z"
+    verified_at: "2026-11-10T14:08:57.979Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AAN76411768. Clique para ver imagens, análises e especificações técnicas da LG Base (Pedestal) TV LG 50UN8000PSD - AAN76411768
+Get more information on the LG AAN76411768. Click for pictures, reviews, and tech specs for the LG Base (Pedestal) TV LG 50UN8000PSD - AAN76411768.

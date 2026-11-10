@@ -27,9 +27,9 @@ tags: ["lg", "bluetooth", "smart", "ai", "4k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1984.29
+  value: 2049
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.676Z"
+  updated_at: "2026-11-10T14:08:57.892Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.676Z"
+    verified_at: "2026-11-10T14:08:57.892Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.676Z"
+    verified_at: "2026-11-10T14:08:57.892Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

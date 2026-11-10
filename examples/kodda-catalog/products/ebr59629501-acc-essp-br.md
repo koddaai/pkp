@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr59629501/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso do display Montada com componentes eletroeletrônicos e suporte plástico Para unidade evaporadora"
+summary: "Get more information on the LG EBR59629501. Click for pictures, reviews, and tech specs for the LG Placa do Display Ar Condicionado LG LMN096HVT EBR59629501."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.998Z"
+  updated_at: "2026-11-10T14:08:58.232Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.998Z"
+    verified_at: "2026-11-10T14:08:58.232Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.998Z"
+    verified_at: "2026-11-10T14:08:58.232Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso do display Montada com componentes eletroeletrônicos e suporte plástico Para unidade evaporadora
+Get more information on the LG EBR59629501. Click for pictures, reviews, and tech specs for the LG Placa do Display Ar Condicionado LG LMN096HVT EBR59629501.
