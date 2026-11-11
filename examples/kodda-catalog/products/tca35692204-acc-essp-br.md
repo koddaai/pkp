@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/tca35692204/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG TCA35692204. Clique para ver imagens, análises e especificações técnicas da LG Compressor FLA150NBM Refrigerador LG GC-L247SLU1, GC-L247SLUV, GS65SDN - TCA35692204"
+summary: "Get more information on the LG TCA35692204. Click for pictures, reviews, and tech specs for the LG Compressor FLA150NBM Refrigerador LG GC-L247SLU1, GC-L247SLUV, GS65SDN - TCA35692204."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1388.13
   source: "retailer"
-  updated_at: "2026-11-11T00:26:20.185Z"
+  updated_at: "2026-11-11T13:25:39.101Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.185Z"
+    verified_at: "2026-11-11T13:25:39.101Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.185Z"
+    verified_at: "2026-11-11T13:25:39.101Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG TCA35692204. Clique para ver imagens, análises e especificações técnicas da LG Compressor FLA150NBM Refrigerador LG GC-L247SLU1, GC-L247SLUV, GS65SDN - TCA35692204
+Get more information on the LG TCA35692204. Click for pictures, reviews, and tech specs for the LG Compressor FLA150NBM Refrigerador LG GC-L247SLU1, GC-L247SLUV, GS65SDN - TCA35692204.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr39566203/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR39566203. Clique para ver imagens, análises e especificações técnicas da LG Placa principal evaporadora Ar Condicionado LG ARNU12GVEA2, ARNU18GVJA2, ARNU24GVJA2 - EBR39566203"
+summary: "Get more information on the LG EBR39566203. Click for pictures, reviews, and tech specs for the LG Placa principal evaporadora Ar Condicionado LG ARNU12GVEA2, ARNU18GVJA2, ARNU24GVJA2 - EBR39566203."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 721.05
   source: "retailer"
-  updated_at: "2026-11-11T00:26:20.017Z"
+  updated_at: "2026-11-11T13:25:38.799Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.017Z"
+    verified_at: "2026-11-11T13:25:38.799Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.017Z"
+    verified_at: "2026-11-11T13:25:38.799Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR39566203. Clique para ver imagens, análises e especificações técnicas da LG Placa principal evaporadora Ar Condicionado LG ARNU12GVEA2, ARNU18GVJA2, ARNU24GVJA2 - EBR39566203
+Get more information on the LG EBR39566203. Click for pictures, reviews, and tech specs for the LG Placa principal evaporadora Ar Condicionado LG ARNU12GVEA2, ARNU18GVJA2, ARNU24GVJA2 - EBR39566203.

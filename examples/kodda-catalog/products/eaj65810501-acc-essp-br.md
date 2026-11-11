@@ -27,9 +27,9 @@ tags: ["lg", "oled"]
 price:
   type: "street"
   currency: "BRL"
-  value: 5965.9
+  value: 4764.36
   source: "retailer"
-  updated_at: "2026-11-11T00:26:19.959Z"
+  updated_at: "2026-11-11T13:25:38.655Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.959Z"
+    verified_at: "2026-11-11T13:25:38.655Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.959Z"
+    verified_at: "2026-11-11T13:25:38.655Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/csp30256033/"
 
 # === DESCOBERTA (L0) ===
-summary: "Hélice do ventilador, de plástico (da unidade condensadora), para ar condicionado"
+summary: "Get more information on the LG CSP30256033. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG CSP30256033."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 373.01
   source: "retailer"
-  updated_at: "2026-11-11T00:26:19.904Z"
+  updated_at: "2026-11-11T13:25:38.548Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.904Z"
+    verified_at: "2026-11-11T13:25:38.548Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.904Z"
+    verified_at: "2026-11-11T13:25:38.548Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Hélice do ventilador, de plástico (da unidade condensadora), para ar condicionado
+Get more information on the LG CSP30256033. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG CSP30256033.

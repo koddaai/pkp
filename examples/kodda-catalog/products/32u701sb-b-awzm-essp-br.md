@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/smart-monitors/32u701sb-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 32U701SB-B. Click for pictures, reviews, and tech specs for the LG Monitor LG Smart - Tela VA de 32\" 4K UHD, HDR10, WebOS 26, ThinQ, Wifi, Air Play, Screen Share, Bluetooth, USB, HDMI – 32U701SB-B."
+summary: "Get more information on the 32U701SB-B. Click for pictures, reviews & tech specs for the LG Monitor LG Smart - Tela IPS de 32\" 4K UHD, HDR10, WebOS 26, ThinQ, Wifi, Air Play, Screen Share, Bluetooth, USB, HDMI."
 tags: ["lg", "wifi", "bluetooth", "smart", "ai", "4k", "hdr"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2292.35
   source: "retailer"
-  updated_at: "2026-11-11T00:26:19.635Z"
+  updated_at: "2026-11-11T13:25:38.190Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.635Z"
+    verified_at: "2026-11-11T13:25:38.190Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.635Z"
+    verified_at: "2026-11-11T13:25:38.190Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 32U701SB-B. Click for pictures, reviews, and tech specs for the LG Monitor LG Smart - Tela VA de 32" 4K UHD, HDR10, WebOS 26, ThinQ, Wifi, Air Play, Screen Share, Bluetooth, USB, HDMI – 32U701SB-B.
+Get more information on the 32U701SB-B. Click for pictures, reviews & tech specs for the LG Monitor LG Smart - Tela IPS de 32" 4K UHD, HDR10, WebOS 26, ThinQ, Wifi, Air Play, Screen Share, Bluetooth, USB, HDMI.

@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr81641225/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para unidade condensadora"
+summary: "Get more information on the LG EBR81641225. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4UQ18KL31A EBR81641225."
 tags: ["lg", "8k"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 1186.55
+  value: 1139.09
   source: "retailer"
-  updated_at: "2026-11-11T00:26:20.056Z"
+  updated_at: "2026-11-11T13:25:38.842Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.056Z"
+    verified_at: "2026-11-11T13:25:38.842Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.056Z"
+    verified_at: "2026-11-11T13:25:38.842Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso principal Montada com componentes eletroeletrônicos  Para unidade condensadora
+Get more information on the LG EBR81641225. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4UQ18KL31A EBR81641225.

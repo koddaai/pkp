@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/promocoes/combos/50nu850-s40t/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 50NU850.S40T. Click for pictures, reviews, and tech specs for the LG Smart TV LG NANO UHD AI 4K NU850 65 polegadas 2026+Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro."
+summary: "Get more information on the LG 50NU850.S40T. Click for pictures, reviews, and tech specs for the LG Smart TV LG NANO UHD AI 4K NU850 50 polegadas 2026+Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro."
 tags: ["lg", "bluetooth", "smart", "ai", "4k", "dolby", "pro", "sem-fio"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3418.29
   source: "retailer"
-  updated_at: "2026-11-11T00:26:19.659Z"
+  updated_at: "2026-11-11T13:25:38.238Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.659Z"
+    verified_at: "2026-11-11T13:25:38.238Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.659Z"
+    verified_at: "2026-11-11T13:25:38.238Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 65
+  screen_size: 50
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 50NU850.S40T. Click for pictures, reviews, and tech specs for the LG Smart TV LG NANO UHD AI 4K NU850 65 polegadas 2026+Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro.
+Get more information on the LG 50NU850.S40T. Click for pictures, reviews, and tech specs for the LG Smart TV LG NANO UHD AI 4K NU850 50 polegadas 2026+Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro.

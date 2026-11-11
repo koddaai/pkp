@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr85607360/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Principal de circuito impresso LG EBR85607360, montada com componentes eletroeletrônicos, projetada para Ar Condicionado. Essencial para o controle e funcionamento eficiente do sistema, garantindo performance e durabilidade ao equipamento."
-tags: ["lg", "pro"]
+summary: "Get more information on the LG EBR85607360. Click for pictures, reviews, and tech specs for the LG Placa Principal Evaporadora Ar Condicionado LG EBR85607360."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 436.05
   source: "retailer"
-  updated_at: "2026-11-11T00:26:20.069Z"
+  updated_at: "2026-11-11T13:25:38.868Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.069Z"
+    verified_at: "2026-11-11T13:25:38.868Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.069Z"
+    verified_at: "2026-11-11T13:25:38.868Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa Principal de circuito impresso LG EBR85607360, montada com componentes eletroeletrônicos, projetada para Ar Condicionado. Essencial para o controle e funcionamento eficiente do sistema, garantindo performance e durabilidade ao equipamento.
+Get more information on the LG EBR85607360. Click for pictures, reviews, and tech specs for the LG Placa Principal Evaporadora Ar Condicionado LG EBR85607360.

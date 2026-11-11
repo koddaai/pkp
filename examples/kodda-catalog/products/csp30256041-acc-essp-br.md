@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/csp30256041/"
 
 # === DESCOBERTA (L0) ===
-summary: "Para unidade evaporadora"
+summary: "Get more information on the LG CSP30256041. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG CSP30256041."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-11-11T00:26:19.905Z"
+  updated_at: "2026-11-11T13:25:38.549Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.905Z"
+    verified_at: "2026-11-11T13:25:38.549Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.905Z"
+    verified_at: "2026-11-11T13:25:38.549Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Para unidade evaporadora
+Get more information on the LG CSP30256041. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG CSP30256041.

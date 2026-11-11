@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr32251205/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR32251205. Clique para ver imagens, análises e especificações técnicas da LG Placa principal da evaporadora Ar Condicionado LG LTNC362NLE0, LTNC242PLE0, LTNC302PLE0 - EBR32251205"
+summary: "Get more information on the LG EBR32251205. Click for pictures, reviews, and tech specs for the LG Placa principal da evaporadora Ar Condicionado LG LTNC362NLE0, LTNC242PLE0, LTNC302PLE0 - EBR32251205."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 847.25
   source: "retailer"
-  updated_at: "2026-11-11T00:26:20.011Z"
+  updated_at: "2026-11-11T13:25:38.786Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.011Z"
+    verified_at: "2026-11-11T13:25:38.786Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.011Z"
+    verified_at: "2026-11-11T13:25:38.786Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR32251205. Clique para ver imagens, análises e especificações técnicas da LG Placa principal da evaporadora Ar Condicionado LG LTNC362NLE0, LTNC242PLE0, LTNC302PLE0 - EBR32251205
+Get more information on the LG EBR32251205. Click for pictures, reviews, and tech specs for the LG Placa principal da evaporadora Ar Condicionado LG LTNC362NLE0, LTNC242PLE0, LTNC302PLE0 - EBR32251205.

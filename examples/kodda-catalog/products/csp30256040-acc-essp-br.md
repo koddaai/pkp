@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/csp30256040/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Principal Ar Condicionado LG - CSP30256040"
+summary: "Get more information on the LG CSP30256040. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG - CSP30256040."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 388.55
+  value: 373.01
   source: "retailer"
-  updated_at: "2026-11-11T00:26:19.905Z"
+  updated_at: "2026-11-11T13:25:38.549Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.905Z"
+    verified_at: "2026-11-11T13:25:38.549Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.905Z"
+    verified_at: "2026-11-11T13:25:38.549Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa Principal Ar Condicionado LG - CSP30256040
+Get more information on the LG CSP30256040. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG - CSP30256040.

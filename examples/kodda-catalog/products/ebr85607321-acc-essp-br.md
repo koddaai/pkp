@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr85607321/"
 
 # === DESCOBERTA (L0) ===
-summary: "Para unidade evaporadora"
+summary: "Get more information on the LG EBR85607321. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG EBR85607321."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-11-11T00:26:20.068Z"
+  updated_at: "2026-11-11T13:25:38.866Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.068Z"
+    verified_at: "2026-11-11T13:25:38.866Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.068Z"
+    verified_at: "2026-11-11T13:25:38.866Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Para unidade evaporadora
+Get more information on the LG EBR85607321. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG EBR85607321.

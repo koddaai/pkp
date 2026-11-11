@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 5199
+  value: 5299
   source: "retailer"
-  updated_at: "2026-11-11T00:26:20.189Z"
+  updated_at: "2026-11-11T13:25:39.109Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.189Z"
+    verified_at: "2026-11-11T13:25:39.109Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.189Z"
+    verified_at: "2026-11-11T13:25:39.109Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

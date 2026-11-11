@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/tca35493206/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG TCA35493206. Clique para ver imagens, análises e especificações técnicas da LG Compressor FLC150NAM* Refrigerador LG R-U913LBRS - TCA35493206"
+summary: "Get more information on the LG TCA35493206. Click for pictures, reviews, and tech specs for the LG Compressor FLC150NAM* Refrigerador LG R-U913LBRS - TCA35493206."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1317.51
   source: "retailer"
-  updated_at: "2026-11-11T00:26:20.184Z"
+  updated_at: "2026-11-11T13:25:39.101Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.184Z"
+    verified_at: "2026-11-11T13:25:39.101Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.184Z"
+    verified_at: "2026-11-11T13:25:39.101Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG TCA35493206. Clique para ver imagens, análises e especificações técnicas da LG Compressor FLC150NAM* Refrigerador LG R-U913LBRS - TCA35493206
+Get more information on the LG TCA35493206. Click for pictures, reviews, and tech specs for the LG Compressor FLC150NAM* Refrigerador LG R-U913LBRS - TCA35493206.

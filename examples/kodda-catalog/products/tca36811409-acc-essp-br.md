@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/tca36811409/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG TCA36811409. Clique para ver imagens, análises e especificações técnicas da LG Compressor FLD165NBMA Refrigerador LG GM86SDDB1 - TCA36811409"
+summary: "Get more information on the LG TCA36811409. Click for pictures, reviews, and tech specs for the LG Compressor FLD165NBMA Refrigerador LG GM86SDDB1 - TCA36811409."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1595.05
   source: "retailer"
-  updated_at: "2026-11-11T00:26:20.185Z"
+  updated_at: "2026-11-11T13:25:39.102Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.185Z"
+    verified_at: "2026-11-11T13:25:39.102Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:20.185Z"
+    verified_at: "2026-11-11T13:25:39.102Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG TCA36811409. Clique para ver imagens, análises e especificações técnicas da LG Compressor FLD165NBMA Refrigerador LG GM86SDDB1 - TCA36811409
+Get more information on the LG TCA36811409. Click for pictures, reviews, and tech specs for the LG Compressor FLD165NBMA Refrigerador LG GM86SDDB1 - TCA36811409.

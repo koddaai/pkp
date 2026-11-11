@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/promocoes/combos/65nu850-s40t/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 65NU850.S40T. Click for pictures, reviews, and tech specs for the LG Smart TV LG NANO UHD AI 4K NU850 65 polegadas 2026+Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS."
+summary: "Get more information on the LG 65NU850.S40T. Click for pictures, reviews, and tech specs for the LG Smart TV LG NANO UHD AI 4K NU850 65 polegadas 2026+Soundbar LG S40T Dolby Atmos com configuração de canais 3.1.1 e 400W RMS."
 tags: ["lg", "smart", "ai", "4k", "dolby"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4764.91
   source: "retailer"
-  updated_at: "2026-11-11T00:26:19.685Z"
+  updated_at: "2026-11-11T13:25:38.276Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.685Z"
+    verified_at: "2026-11-11T13:25:38.276Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.685Z"
+    verified_at: "2026-11-11T13:25:38.276Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 65NU850.S40T. Click for pictures, reviews, and tech specs for the LG Smart TV LG NANO UHD AI 4K NU850 65 polegadas 2026+Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS.
+Get more information on the LG 65NU850.S40T. Click for pictures, reviews, and tech specs for the LG Smart TV LG NANO UHD AI 4K NU850 65 polegadas 2026+Soundbar LG S40T Dolby Atmos com configuração de canais 3.1.1 e 400W RMS.

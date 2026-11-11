@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/csp30276142/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para unidade Evaporadora"
+summary: "Get more information on the LG CSP30276142. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3NQ09AA31A CSP30276142."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.55
   source: "retailer"
-  updated_at: "2026-11-11T00:26:19.906Z"
+  updated_at: "2026-11-11T13:25:38.551Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.906Z"
+    verified_at: "2026-11-11T13:25:38.551Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-11T00:26:19.906Z"
+    verified_at: "2026-11-11T13:25:38.551Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para unidade Evaporadora
+Get more information on the LG CSP30276142. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3NQ09AA31A CSP30276142.
