@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/5220fr2009v/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5220FR2009V. Clique para ver imagens, análises e especificações técnicas da LG Válvula 3 vias Lavadora LG NAS106F1WBZ, FH4A8RDB, F4A8JMB3W - 5220FR2009V"
+summary: "Get more information on the LG 5220FR2009V. Click for pictures, reviews, and tech specs for the LG Válvula 3 vias Lavadora LG NAS106F1WBZ, FH4A8RDB, F4A8JMB3W - 5220FR2009V."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.581Z"
+  updated_at: "2026-11-12T14:30:24.224Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.581Z"
+    verified_at: "2026-11-12T14:30:24.224Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.581Z"
+    verified_at: "2026-11-12T14:30:24.224Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5220FR2009V. Clique para ver imagens, análises e especificações técnicas da LG Válvula 3 vias Lavadora LG NAS106F1WBZ, FH4A8RDB, F4A8JMB3W - 5220FR2009V
+Get more information on the LG 5220FR2009V. Click for pictures, reviews, and tech specs for the LG Válvula 3 vias Lavadora LG NAS106F1WBZ, FH4A8RDB, F4A8JMB3W - 5220FR2009V.

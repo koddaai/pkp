@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan75831304/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AAN75831304. Clique para ver imagens, análises e especificações técnicas da LG Base (pedestal) TV LG 43UJ6565 - AAN75831304"
+summary: "Get more information on the LG AAN75831304. Click for pictures, reviews, and tech specs for the LG Base (pedestal) TV LG 43UJ6565 - AAN75831304."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 101.19
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.620Z"
+  updated_at: "2026-11-12T14:30:24.491Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.620Z"
+    verified_at: "2026-11-12T14:30:24.491Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.620Z"
+    verified_at: "2026-11-12T14:30:24.491Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AAN75831304. Clique para ver imagens, análises e especificações técnicas da LG Base (pedestal)  TV LG 43UJ6565 - AAN75831304
+Get more information on the LG AAN75831304. Click for pictures, reviews, and tech specs for the LG Base (pedestal)  TV LG 43UJ6565 - AAN75831304.

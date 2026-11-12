@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/peca-de-reposicao/eaj65933201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Módulo de visualização de tela (Ecrã), plana, modelo: CT290WFEF-C01, de 29 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido Display completo Não acompanha demais peças que constituem o Monitor (gabinete, cabos, placas principais)"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAJ65880001. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) LG 50UL3J-M EAJ65880001."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1870.55
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.839Z"
+  updated_at: "2026-11-12T14:30:25.282Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.839Z"
+    verified_at: "2026-11-12T14:30:25.282Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.839Z"
+    verified_at: "2026-11-12T14:30:25.282Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 29
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Módulo de visualização de tela (Ecrã), plana, modelo: CT290WFEF-C01, de 29 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido Display completo Não acompanha demais peças que constituem o Monitor (gabinete, cabos, placas principais)
+Get more information on the LG EAJ65880001. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) LG 50UL3J-M EAJ65880001.

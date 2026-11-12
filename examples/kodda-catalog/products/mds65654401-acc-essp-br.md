@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/mds65654401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MDS65654401. Clique para ver imagens, análises e especificações técnicas da LG Vedação em borracha da porta (Guarnição) Máquina de Lavar Roupas LG WD9WE6, WD9WE6A - MDS65654401"
+summary: "Get more information on the LG MDS65654401. Click for pictures, reviews, and tech specs for the LG Vedação em borracha da porta (Guarnição) Máquina de Lavar Roupas LG WD9WE6, WD9WE6A - MDS65654401."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 217.55
   source: "retailer"
-  updated_at: "2026-11-12T01:49:07.027Z"
+  updated_at: "2026-11-12T14:30:26.657Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:07.027Z"
+    verified_at: "2026-11-12T14:30:26.657Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:07.027Z"
+    verified_at: "2026-11-12T14:30:26.657Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MDS65654401. Clique para ver imagens, análises e especificações técnicas da LG Vedação em borracha da porta (Guarnição) Máquina de Lavar Roupas LG WD9WE6, WD9WE6A - MDS65654401
+Get more information on the LG MDS65654401. Click for pictures, reviews, and tech specs for the LG Vedação em borracha da porta (Guarnição) Máquina de Lavar Roupas LG WD9WE6, WD9WE6A - MDS65654401.

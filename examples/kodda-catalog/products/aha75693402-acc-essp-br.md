@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/aha75693402/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AHA75693402. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Lavadora LG CV7011WS4, CV5010TS4, FV5011WG4A - AHA75693402"
+summary: "Get more information on the LG AHA75693402. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Lavadora LG CV7011WS4, CV5010TS4, FV5011WG4A - AHA75693402."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 432.3
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.709Z"
+  updated_at: "2026-11-12T14:30:24.969Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.709Z"
+    verified_at: "2026-11-12T14:30:24.969Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.709Z"
+    verified_at: "2026-11-12T14:30:24.969Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AHA75693402. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Lavadora LG CV7011WS4, CV5010TS4, FV5011WG4A - AHA75693402
+Get more information on the LG AHA75693402. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Lavadora LG CV7011WS4, CV5010TS4, FV5011WG4A - AHA75693402.

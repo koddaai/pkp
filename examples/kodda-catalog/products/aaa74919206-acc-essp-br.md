@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/aaa74919206/"
 
 # === DESCOBERTA (L0) ===
-summary: "Aplicativo: LG ThinQ (Android 4.1+ | iOS 9.0+) Controle remoto pelo app (liga/desliga, temperatura, modos e velocidade, ajuste de aletas, programação)) Dispositivo de transmissão e recepção com tecnologia do tipo wi-fi e conexão usb Frequência inferior a 15ghz Operações na faixa de frequências de 2400 a 2483 mhz Taxa de transmissão 432 mbits Single band wireless ieee 802.11b/g/n Modelo: TWFD-E501D Para linha comercial Light CAC"
-tags: ["lg", "ai", "5g", "pro", "wireless"]
+summary: "Get more information on the LG AAA74919206. Click for pictures, reviews, and tech specs for the LG Módulo Wi-Fi Ar Condicionado Comercial LG PWFMDD200 AAA74919206."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 576.84
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.613Z"
+  updated_at: "2026-11-12T14:30:24.356Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.613Z"
+    verified_at: "2026-11-12T14:30:24.356Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.613Z"
+    verified_at: "2026-11-12T14:30:24.356Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Aplicativo: LG ThinQ (Android 4.1+ | iOS 9.0+) Controle remoto pelo app (liga/desliga, temperatura, modos e velocidade, ajuste de aletas, programação)) Dispositivo de transmissão e recepção com tecnologia do tipo wi-fi e conexão usb Frequência inferior a 15ghz Operações na faixa de frequências de 2400 a 2483 mhz Taxa de transmissão 432 mbits Single band wireless ieee 802.11b/g/n  Modelo: TWFD-E501D  Para linha comercial Light CAC
+Get more information on the LG AAA74919206. Click for pictures, reviews, and tech specs for the LG Módulo Wi-Fi Ar Condicionado Comercial LG PWFMDD200 AAA74919206.

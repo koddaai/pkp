@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/5220fr2009e/"
 
 # === DESCOBERTA (L0) ===
-summary: "Válvula de 3 vias 220-240V 50/60hz Próprio para uso em máquina de lavar roupa LG"
+summary: "Get more information on the LG 5220FR2009E. Click for pictures, reviews, and tech specs for the LG Válvula para Lavadora de Roupa LG FH069FD7F 5220FR2009E."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.581Z"
+  updated_at: "2026-11-12T14:30:24.223Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.581Z"
+    verified_at: "2026-11-12T14:30:24.223Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.581Z"
+    verified_at: "2026-11-12T14:30:24.223Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Válvula de 3 vias 220-240V 50/60hz Próprio para uso em máquina de lavar roupa LG
+Get more information on the LG 5220FR2009E. Click for pictures, reviews, and tech specs for the LG Válvula para Lavadora de Roupa LG FH069FD7F 5220FR2009E.

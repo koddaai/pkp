@@ -5,8 +5,8 @@ sku: "4026er4002b-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Contrapino Máquina de Lavar Roupas LG WD1409RD5 4026ER4002B - 4026ER4002B"
-category: "eletrodomesticos"
-subcategory: "lavadora"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.551Z"
+  updated_at: "2026-11-12T14:30:24.014Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.551Z"
+    verified_at: "2026-11-12T14:30:24.014Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.551Z"
+    verified_at: "2026-11-12T14:30:24.014Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

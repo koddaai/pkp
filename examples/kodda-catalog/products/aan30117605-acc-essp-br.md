@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan30117605/"
 
 # === DESCOBERTA (L0) ===
-summary: "Base (Pedestal) TV LG 32LR650BPSA AAN30117605"
+summary: "Get more information on the LG AAN30117605. Click for pictures, reviews, and tech specs for the LG Base (Pedestal) TV LG 32LR650BPSA AAN30117605."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 82.84
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.617Z"
+  updated_at: "2026-11-12T14:30:24.360Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.617Z"
+    verified_at: "2026-11-12T14:30:24.360Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.617Z"
+    verified_at: "2026-11-12T14:30:24.360Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Base (Pedestal) TV LG 32LR650BPSA AAN30117605
+Get more information on the LG AAN30117605. Click for pictures, reviews, and tech specs for the LG Base (Pedestal) TV LG 32LR650BPSA AAN30117605.

@@ -5,8 +5,8 @@ sku: "aju71030102-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Válvula 3 Vias Máquina Lavar Roupas LG WD12320RD AJU71030102 - AJU71030102"
-category: "eletrodomesticos"
-subcategory: "lavadora"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/aju71030102/"
 
 # === DESCOBERTA (L0) ===
-summary: "Válvula de 3 vias"
+summary: "Get more information on the LG AJU71030102. Click for pictures, reviews, and tech specs for the LG Válvula 3 Vias Máquina Lavar Roupas LG WD12320RD AJU71030102."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.721Z"
+  updated_at: "2026-11-12T14:30:25.072Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.721Z"
+    verified_at: "2026-11-12T14:30:25.072Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.721Z"
+    verified_at: "2026-11-12T14:30:25.072Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Válvula de 3 vias
+Get more information on the LG AJU71030102. Click for pictures, reviews, and tech specs for the LG Válvula 3 Vias Máquina Lavar Roupas LG WD12320RD AJU71030102.

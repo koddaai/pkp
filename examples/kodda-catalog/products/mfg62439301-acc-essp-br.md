@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/mfg62439301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Contrapino não roscado de aço de médio carbono galvanizado"
+summary: "Get more information on the LG MFG62439301. Click for pictures, reviews, and tech specs for the LG Contrapino Lavadora LG MFG62439301."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 69.69
   source: "retailer"
-  updated_at: "2026-11-12T01:49:07.034Z"
+  updated_at: "2026-11-12T14:30:26.664Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:07.034Z"
+    verified_at: "2026-11-12T14:30:26.664Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:07.034Z"
+    verified_at: "2026-11-12T14:30:26.664Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Contrapino não roscado de aço de médio carbono galvanizado
+Get more information on the LG MFG62439301. Click for pictures, reviews, and tech specs for the LG Contrapino Lavadora LG MFG62439301.

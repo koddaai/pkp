@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/agf30442301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Kit régua de LED TV LG 55QNED75SRA AGF30442301"
+summary: "Get more information on the LG AGF30442301. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55QNED75SRA AGF30442301."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 436.05
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.681Z"
+  updated_at: "2026-11-12T14:30:24.835Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.681Z"
+    verified_at: "2026-11-12T14:30:24.835Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.681Z"
+    verified_at: "2026-11-12T14:30:24.835Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Kit régua de LED TV LG 55QNED75SRA AGF30442301
+Get more information on the LG AGF30442301. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55QNED75SRA AGF30442301.

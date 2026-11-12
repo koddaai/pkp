@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/eau37932715/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAU37932715. Clique para ver imagens, análises e especificações técnicas da LG Motor elétrico de corrente contínua Lavadora LG CV9013WC4, CV5013WC4A, CV9013EC4 - EAU37932715"
+summary: "Get more information on the LG EAU37932715. Click for pictures, reviews, and tech specs for the LG Motor elétrico de corrente contínua Lavadora LG CV9013WC4, CV5013WC4A, CV9013EC4 - EAU37932715."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 347.23
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.847Z"
+  updated_at: "2026-11-12T14:30:25.372Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.847Z"
+    verified_at: "2026-11-12T14:30:25.372Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.847Z"
+    verified_at: "2026-11-12T14:30:25.372Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAU37932715. Clique para ver imagens, análises e especificações técnicas da LG Motor elétrico de corrente contínua Lavadora LG CV9013WC4, CV5013WC4A, CV9013EC4 - EAU37932715
+Get more information on the LG EAU37932715. Click for pictures, reviews, and tech specs for the LG Motor elétrico de corrente contínua Lavadora LG CV9013WC4, CV5013WC4A, CV9013EC4 - EAU37932715.

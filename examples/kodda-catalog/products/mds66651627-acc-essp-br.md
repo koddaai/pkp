@@ -5,8 +5,8 @@ sku: "mds66651627-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Vedação Máquina de Lavar Roupa LG CV9011EC4A MDS66651627 - MDS66651627"
-category: "eletrodomesticos"
-subcategory: "lavadora"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/mds66651627/"
 
 # === DESCOBERTA (L0) ===
-summary: "Vedação (junta) de borracha vulcanizada não endurecida"
+summary: "Get more information on the LG MDS66651627. Click for pictures, reviews, and tech specs for the LG Vedação Máquina de Lavar Roupa LG CV9011EC4A MDS66651627."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 360.05
   source: "retailer"
-  updated_at: "2026-11-12T01:49:07.028Z"
+  updated_at: "2026-11-12T14:30:26.658Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:07.028Z"
+    verified_at: "2026-11-12T14:30:26.658Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:07.028Z"
+    verified_at: "2026-11-12T14:30:26.658Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Vedação (junta) de borracha vulcanizada não endurecida
+Get more information on the LG MDS66651627. Click for pictures, reviews, and tech specs for the LG Vedação Máquina de Lavar Roupa LG CV9011EC4A MDS66651627.

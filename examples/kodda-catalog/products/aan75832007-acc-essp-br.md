@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/aan75832007/"
 
 # === DESCOBERTA (L0) ===
-summary: "Base Pedestal TV LG 49UJ6565 AAN75832007"
+summary: "Get more information on the LG AAN75832007. Click for pictures, reviews, and tech specs for the LG Base Pedestal TV LG 49UJ6565 AAN75832007."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 82.76
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.621Z"
+  updated_at: "2026-11-12T14:30:24.491Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.621Z"
+    verified_at: "2026-11-12T14:30:24.491Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.621Z"
+    verified_at: "2026-11-12T14:30:24.491Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Base Pedestal TV LG 49UJ6565 AAN75832007
+Get more information on the LG AAN75832007. Click for pictures, reviews, and tech specs for the LG Base Pedestal TV LG 49UJ6565 AAN75832007.

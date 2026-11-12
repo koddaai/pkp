@@ -6,7 +6,7 @@ sku: "adj75613702-acc-essp-br"
 brand: "LG"
 name: "Duto de Secagem Lava e Seca LG CV9013WC4 ADJ75613702 - ADJ75613702"
 category: "eletrodomesticos"
-subcategory: "lavadora"
+subcategory: "lava-e-seca"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/adj75613702/"
 
 # === DESCOBERTA (L0) ===
-summary: "Dispositivos de secagem desenvolvidos para máquinas de lavar roupa tipo lava e seca com capacidade superior a 10kg (13kg) Montados com duto metálico resistente a corrosão Secção retangular Selado com gaxetas de borracha de silicone Resistência elétrica de aquecimento de potência 1.500W Ventilador com motor DC e velocidade de rotação de 2300 RPM Termostato e terminais de conexão elétrica"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG ADJ75613702. Click for pictures, reviews, and tech specs for the LG Duto de Secagem Lava e Seca LG CV9013WC4 ADJ75613702."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 740.05
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.649Z"
+  updated_at: "2026-11-12T14:30:24.625Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.649Z"
+    verified_at: "2026-11-12T14:30:24.625Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.649Z"
+    verified_at: "2026-11-12T14:30:24.625Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  capacity: {"value":10,"unit":"kg"}
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Dispositivos de secagem desenvolvidos para máquinas de lavar roupa tipo lava e seca com capacidade superior a 10kg (13kg) Montados com duto metálico resistente a corrosão Secção retangular Selado com gaxetas de borracha de silicone Resistência elétrica de aquecimento de potência 1.500W Ventilador com motor DC e velocidade de rotação de 2300 RPM Termostato e terminais de conexão elétrica
+Get more information on the LG ADJ75613702. Click for pictures, reviews, and tech specs for the LG Duto de Secagem Lava e Seca LG CV9013WC4 ADJ75613702.

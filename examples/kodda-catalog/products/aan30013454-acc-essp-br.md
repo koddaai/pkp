@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/aan30013454/"
 
 # === DESCOBERTA (L0) ===
-summary: "Base Pedestal TV LG 50QNED80SRA AAN30013454"
+summary: "Get more information on the LG AAN30013454. Click for pictures, reviews, and tech specs for the LG Base Pedestal TV LG 50QNED80SRA AAN30013454."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 481.21
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.615Z"
+  updated_at: "2026-11-12T14:30:24.358Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.615Z"
+    verified_at: "2026-11-12T14:30:24.358Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.615Z"
+    verified_at: "2026-11-12T14:30:24.358Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Base Pedestal TV LG 50QNED80SRA AAN30013454
+Get more information on the LG AAN30013454. Click for pictures, reviews, and tech specs for the LG Base Pedestal TV LG 50QNED80SRA AAN30013454.

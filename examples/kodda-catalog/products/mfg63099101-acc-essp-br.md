@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/mfg63099101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MFG63099101. Clique para ver imagens, análises e especificações técnicas da LG Contrapino da porta Máquina de Lavar Roupas LG WM1317RD7, FV5013WC4A, WD11SB6D - MFG63099101"
+summary: "Get more information on the LG MFG63099101. Click for pictures, reviews, and tech specs for the LG Contrapino da porta Máquina de Lavar Roupas LG WM1317RD7, FV5013WC4A, WD11SB6D - MFG63099101."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-12T01:49:07.035Z"
+  updated_at: "2026-11-12T14:30:26.665Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:07.035Z"
+    verified_at: "2026-11-12T14:30:26.665Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:07.035Z"
+    verified_at: "2026-11-12T14:30:26.665Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MFG63099101. Clique para ver imagens, análises e especificações técnicas da LG Contrapino da porta Máquina de Lavar Roupas LG WM1317RD7, FV5013WC4A, WD11SB6D - MFG63099101
+Get more information on the LG MFG63099101. Click for pictures, reviews, and tech specs for the LG Contrapino da porta Máquina de Lavar Roupas LG WM1317RD7, FV5013WC4A, WD11SB6D - MFG63099101.

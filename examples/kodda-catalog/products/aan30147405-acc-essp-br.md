@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan30147405/"
 
 # === DESCOBERTA (L0) ===
-summary: "Base do pedestal para TV LG AAN30147405, fabricada em plástico de alta qualidade, projetada para fornecer suporte estável ao modelo 43UT8000PSA.AWZ. Ideal para garantir segurança e estabilidade ao aparelho receptor de televisão."
-tags: ["lg", "pro"]
+summary: "Get more information on the LG AAN30147405. Click for pictures, reviews, and tech specs for the LG Base (Pedestal) TV LG 43UT8000PSA AAN30147405."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.56
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.619Z"
+  updated_at: "2026-11-12T14:30:24.362Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.619Z"
+    verified_at: "2026-11-12T14:30:24.362Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.619Z"
+    verified_at: "2026-11-12T14:30:24.362Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Base do pedestal para TV LG AAN30147405, fabricada em plástico de alta qualidade, projetada para fornecer suporte estável ao modelo 43UT8000PSA.AWZ. Ideal para garantir segurança e estabilidade ao aparelho receptor de televisão.
+Get more information on the LG AAN30147405. Click for pictures, reviews, and tech specs for the LG Base (Pedestal) TV LG 43UT8000PSA AAN30147405.

@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/5859er1002s/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5859ER1002S. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Lavadora LG WD-W1485ADA, WD11EP6A, WD1412RTA7B - 5859ER1002S"
+summary: "Get more information on the LG 5859ER1002S. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Lavadora LG WD-W1485ADA, WD11EP6A, WD1412RTA7B - 5859ER1002S."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 379.05
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.589Z"
+  updated_at: "2026-11-12T14:30:24.232Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.589Z"
+    verified_at: "2026-11-12T14:30:24.232Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.589Z"
+    verified_at: "2026-11-12T14:30:24.232Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5859ER1002S. Clique para ver imagens, análises e especificações técnicas da LG Bomba centrífuga Lavadora LG WD-W1485ADA, WD11EP6A, WD1412RTA7B - 5859ER1002S
+Get more information on the LG 5859ER1002S. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Lavadora LG WD-W1485ADA, WD11EP6A, WD1412RTA7B - 5859ER1002S.

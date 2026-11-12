@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/mef62821909/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MEF62821909. Clique para ver imagens, análises e especificações técnicas da LG Dobradiça metálica Lavadora LG CV5010WG4A, CV9011WC4A, CV9013EC4 - MEF62821909"
+summary: "Get more information on the LG MEF62821909. Click for pictures, reviews, and tech specs for the LG Dobradiça metálica Lavadora LG CV5010WG4A, CV9011WC4A, CV9013EC4 - MEF62821909."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 76.09
   source: "retailer"
-  updated_at: "2026-11-12T01:49:07.031Z"
+  updated_at: "2026-11-12T14:30:26.661Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:07.031Z"
+    verified_at: "2026-11-12T14:30:26.661Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:07.031Z"
+    verified_at: "2026-11-12T14:30:26.661Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MEF62821909. Clique para ver imagens, análises e especificações técnicas da LG Dobradiça metálica Lavadora LG CV5010WG4A,  CV9011WC4A, CV9013EC4 - MEF62821909
+Get more information on the LG MEF62821909. Click for pictures, reviews, and tech specs for the LG Dobradiça metálica Lavadora LG CV5010WG4A,  CV9011WC4A, CV9013EC4 - MEF62821909.

@@ -6,7 +6,7 @@ sku: "5209el1006a-acc-essp-br"
 brand: "LG"
 name: "Conjunto Duto de Secagem Secadora LG DLGX4071V 5209EL1006A - 5209EL1006A"
 category: "eletrodomesticos"
-subcategory: "lavadora"
+subcategory: "secadora"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/5209el1006a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Conjunto duto de secagem Próprio para uso em máquina de secar roupa LG"
+summary: "Get more information on the LG 5209EL1006A. Click for pictures, reviews, and tech specs for the LG Conjunto Duto de Secagem Secadora LG DLGX4071V 5209EL1006A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 31.67
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.576Z"
+  updated_at: "2026-11-12T14:30:24.139Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.576Z"
+    verified_at: "2026-11-12T14:30:24.139Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.576Z"
+    verified_at: "2026-11-12T14:30:24.139Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Conjunto duto de secagem Próprio para uso em máquina de secar roupa LG
+Get more information on the LG 5209EL1006A. Click for pictures, reviews, and tech specs for the LG Conjunto Duto de Secagem Secadora LG DLGX4071V 5209EL1006A.

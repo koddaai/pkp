@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan30005507/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AAN30005507. Clique para ver imagens, análises e especificações técnicas da LG Pedestal completo TV LG OLED65GXPSA - AAN30005507"
+summary: "Get more information on the LG AAN30005507. Click for pictures, reviews, and tech specs for the LG Pedestal completo TV LG OLED65GXPSA - AAN30005507."
 tags: ["lg", "5g", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 455.05
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.614Z"
+  updated_at: "2026-11-12T14:30:24.357Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.614Z"
+    verified_at: "2026-11-12T14:30:24.357Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.614Z"
+    verified_at: "2026-11-12T14:30:24.357Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AAN30005507. Clique para ver imagens, análises e especificações técnicas da LG Pedestal completo TV LG OLED65GXPSA - AAN30005507
+Get more information on the LG AAN30005507. Click for pictures, reviews, and tech specs for the LG Pedestal completo TV LG OLED65GXPSA - AAN30005507.

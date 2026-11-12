@@ -5,8 +5,8 @@ sku: "5208en1003c-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Tampa Máquina De Lavar Roupa LG CV3012MC5A 5208EN1003C - 5208EN1003C"
-category: "eletrodomesticos"
-subcategory: "lavadora"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/acessorio/5208en1003c/"
 
 # === DESCOBERTA (L0) ===
-summary: "Tampa Máquina De Lavar Roupa LG CV3012MC5A 5208EN1003C"
+summary: "Get more information on the LG 5208EN1003C. Click for pictures, reviews, and tech specs for the LG Tampa Máquina De Lavar Roupa LG CV3012MC5A 5208EN1003C."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 248.2
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.575Z"
+  updated_at: "2026-11-12T14:30:24.138Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.575Z"
+    verified_at: "2026-11-12T14:30:24.138Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.575Z"
+    verified_at: "2026-11-12T14:30:24.138Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Tampa Máquina De Lavar Roupa LG CV3012MC5A 5208EN1003C
+Get more information on the LG 5208EN1003C. Click for pictures, reviews, and tech specs for the LG Tampa Máquina De Lavar Roupa LG CV3012MC5A 5208EN1003C.

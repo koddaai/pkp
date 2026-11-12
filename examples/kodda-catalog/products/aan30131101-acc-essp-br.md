@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/aan30131101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Lado \"A\" e \"B\" (base inferior lado esquerdo e direito) Acompanha os parafusos para fixação da base"
+summary: "Get more information on the LG AAN30131101. Click for pictures, reviews, and tech specs for the LG Base pedestal TV LG 43UM7300 AAN30131101."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.617Z"
+  updated_at: "2026-11-12T14:30:24.360Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.617Z"
+    verified_at: "2026-11-12T14:30:24.360Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.617Z"
+    verified_at: "2026-11-12T14:30:24.360Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "110V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Lado "A" e "B" (base inferior lado esquerdo e direito)  Acompanha os parafusos para fixação da base
+Get more information on the LG AAN30131101. Click for pictures, reviews, and tech specs for the LG Base pedestal TV LG 43UM7300 AAN30131101.

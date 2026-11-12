@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/eau61723704/"
 
 # === DESCOBERTA (L0) ===
-summary: "Motor de corrente contínua Carcaça fechada Potência 13W 2800rpm Montado com hélice de plástico"
+summary: "Get more information on the LG EAU61723704. Click for pictures, reviews, and tech specs for the LG Motor do Duto de Secagem Lavadora LG WD17VTS6 EAU61723704."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 521.55
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.852Z"
+  updated_at: "2026-11-12T14:30:25.377Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.852Z"
+    verified_at: "2026-11-12T14:30:25.377Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.852Z"
+    verified_at: "2026-11-12T14:30:25.377Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Motor de corrente contínua Carcaça fechada Potência 13W 2800rpm Montado com hélice de plástico
+Get more information on the LG EAU61723704. Click for pictures, reviews, and tech specs for the LG Motor do Duto de Secagem Lavadora LG WD17VTS6 EAU61723704.

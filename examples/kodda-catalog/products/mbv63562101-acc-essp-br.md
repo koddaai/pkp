@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/mbv63562101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Abraçadeira de aço Para bombas de calor do tipo GHP (gas heat pump) modelo LG: GPUW200C2R"
+summary: "Get more information on the LG MBV63562101. Click for pictures, reviews, and tech specs for the LG Abraçadeira Ar Condicionado LG GPUW160C2RM MBV63562101."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-12T01:49:07.019Z"
+  updated_at: "2026-11-12T14:30:26.606Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:07.019Z"
+    verified_at: "2026-11-12T14:30:26.606Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:07.019Z"
+    verified_at: "2026-11-12T14:30:26.606Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Abraçadeira de aço Para bombas de calor do tipo GHP (gas heat pump) modelo LG: GPUW200C2R
+Get more information on the LG MBV63562101. Click for pictures, reviews, and tech specs for the LG Abraçadeira Ar Condicionado LG GPUW160C2RM MBV63562101.

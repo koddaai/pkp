@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/5220fr2008v/"
 
 # === DESCOBERTA (L0) ===
-summary: "Válvula de 4 vias 12V Para uso em máquina de lavar roupa LG"
+summary: "Get more information on the LG 5220FR2008V. Click for pictures, reviews, and tech specs for the LG Válvula para Lavadora de Roupas LG WD17SV2S6BA 5220FR2008V."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 344.48
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.581Z"
+  updated_at: "2026-11-12T14:30:24.144Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.581Z"
+    verified_at: "2026-11-12T14:30:24.144Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.581Z"
+    verified_at: "2026-11-12T14:30:24.144Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Válvula de 4 vias 12V Para uso em máquina de lavar roupa LG
+Get more information on the LG 5220FR2008V. Click for pictures, reviews, and tech specs for the LG Válvula para Lavadora de Roupas LG WD17SV2S6BA 5220FR2008V.

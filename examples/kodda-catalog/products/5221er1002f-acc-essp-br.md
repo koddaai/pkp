@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/5221er1002f/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5221ER1002F. Clique para ver imagens, análises e especificações técnicas da LG Válvula de 4 vias Lavadora LG F14U1JBS2, WD1014RDA7, WD1014RW - 5221ER1002F"
+summary: "Get more information on the LG 5221ER1002F. Click for pictures, reviews, and tech specs for the LG Válvula de 4 vias Lavadora LG F14U1JBS2, WD1014RDA7, WD1014RW - 5221ER1002F."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 317.2
   source: "retailer"
-  updated_at: "2026-11-12T01:49:06.582Z"
+  updated_at: "2026-11-12T14:30:24.225Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.582Z"
+    verified_at: "2026-11-12T14:30:24.225Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-12T01:49:06.582Z"
+    verified_at: "2026-11-12T14:30:24.225Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5221ER1002F. Clique para ver imagens, análises e especificações técnicas da LG Válvula de 4 vias Lavadora LG F14U1JBS2, WD1014RDA7, WD1014RW - 5221ER1002F
+Get more information on the LG 5221ER1002F. Click for pictures, reviews, and tech specs for the LG Válvula de 4 vias Lavadora LG F14U1JBS2, WD1014RDA7, WD1014RW - 5221ER1002F.
