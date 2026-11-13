@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65890002-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte Externa ADS-45SQ Monitor LG EAY65890002 - EAY65890002"
+name: "Fonte Externa ADS-45SQ Monitor LG EAY65890002 - EAY65890002 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 156.91
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.082Z"
+  updated_at: "2026-11-13T13:48:21.031Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.082Z"
+    verified_at: "2026-11-13T13:48:21.031Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.082Z"
+    verified_at: "2026-11-13T13:48:21.031Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

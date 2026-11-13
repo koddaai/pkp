@@ -4,9 +4,9 @@ schema: pkp/1.0
 sku: "4974el1003b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tampa do Filtro Secadora de Roupa LG RV1329C4P 4974EL1003B - 4974EL1003B"
+name: "Tampa do Filtro Secadora de Roupa LG RV1329C4P 4974EL1003B - 4974EL1003B | LG BR"
 category: "eletrodomesticos"
-subcategory: "lavadora"
+subcategory: "secadora"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 24.48
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.808Z"
+  updated_at: "2026-11-13T13:48:20.759Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.808Z"
+    verified_at: "2026-11-13T13:48:20.759Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.808Z"
+    verified_at: "2026-11-13T13:48:20.759Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj63890101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (Módulo) Monitor LG 28LF710B-P, 28LJ720B-PS, 28MT49S-PS - EAJ63890101 - EAJ63890101"
+name: "Tela de cristal líquido (Módulo) Monitor LG 28LF710B-P, 28LJ720B-PS, 28MT49S-PS - EAJ63890101 - EAJ63890101 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 293.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.024Z"
+  updated_at: "2026-11-13T13:48:20.977Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.024Z"
+    verified_at: "2026-11-13T13:48:20.977Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.024Z"
+    verified_at: "2026-11-13T13:48:20.977Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

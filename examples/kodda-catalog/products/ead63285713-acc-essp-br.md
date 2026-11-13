@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead63285713-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flat TV LG OLED77C9PSB - EAD63285713 - EAD63285713"
+name: "Cabo Flat TV LG OLED77C9PSB - EAD63285713 - EAD63285713 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 174.76
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.006Z"
+  updated_at: "2026-11-13T13:48:20.958Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.006Z"
+    verified_at: "2026-11-13T13:48:20.958Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.006Z"
+    verified_at: "2026-11-13T13:48:20.958Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

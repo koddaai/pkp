@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "as301gr10-amz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Purificador de Ar LG PuriCare AeroMini 360º Laranja Bivolt - AS301GR10"
+name: "Purificador de Ar LG PuriCare AeroMini 360º Laranja Bivolt - AS301GR10 | LG BR"
 category: "eletrodomesticos"
 subcategory: "purificador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1052.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.963Z"
+  updated_at: "2026-11-13T13:48:20.928Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.963Z"
+    verified_at: "2026-11-13T13:48:20.928Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.963Z"
+    verified_at: "2026-11-13T13:48:20.928Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

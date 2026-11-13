@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mdj63608203-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de entrada de ar Ar Condicionado LG MDJ63608203 - MDJ63608203"
+name: "Filtro de entrada de ar Ar Condicionado LG MDJ63608203 - MDJ63608203 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.221Z"
+  updated_at: "2026-11-13T13:48:21.166Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.221Z"
+    verified_at: "2026-11-13T13:48:21.166Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.221Z"
+    verified_at: "2026-11-13T13:48:21.166Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

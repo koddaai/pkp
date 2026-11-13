@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "55qned80bsg-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG QNED evo Mini LED AI 4K QNED80 55 polegadas 2026 - 55QNED80BSG"
+name: "Smart TV LG QNED evo Mini LED AI 4K QNED80 55 polegadas 2026 - 55QNED80BSG | LG BR"
 category: "tvs"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/55qned80bsg/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 55QNED80BSG. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED evo Mini LED AI 4K QNED80 55 polegadas 2026."
+summary: "Smart TV LG QNED evo Mini LED de 55 polegadas (2026) com 4K e IA. Mini LED para mais brilho e contraste, com webOS. Compre na loja oficial LG."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2944.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.829Z"
+  updated_at: "2026-11-13T13:48:20.773Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.829Z"
+    verified_at: "2026-11-13T13:48:20.773Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.829Z"
+    verified_at: "2026-11-13T13:48:20.773Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 55QNED80BSG. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED evo Mini LED AI 4K QNED80 55 polegadas 2026.
+Smart TV LG QNED evo Mini LED de 55 polegadas (2026) com 4K e IA. Mini LED para mais brilho e contraste, com webOS. Compre na loja oficial LG.

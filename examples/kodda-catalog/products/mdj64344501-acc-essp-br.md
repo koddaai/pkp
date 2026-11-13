@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mdj64344501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Pre-Filter para ar-condicionado cassete - MDJ64344501"
+name: "Pre-Filter para ar-condicionado cassete - MDJ64344501 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.24
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.221Z"
+  updated_at: "2026-11-13T13:48:21.166Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.221Z"
+    verified_at: "2026-11-13T13:48:21.166Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.221Z"
+    verified_at: "2026-11-13T13:48:21.166Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

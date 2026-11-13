@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "65nu850bpsa-bwz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG NANO UHD AI 4K NU850 65 polegadas 2026 - 65NU850BPSA"
+name: "Smart TV LG NANO UHD AI 4K NU850 65 polegadas 2026 - 65NU850BPSA | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3509.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.841Z"
+  updated_at: "2026-11-13T13:48:20.802Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.841Z"
+    verified_at: "2026-11-13T13:48:20.802Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.841Z"
+    verified_at: "2026-11-13T13:48:20.802Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

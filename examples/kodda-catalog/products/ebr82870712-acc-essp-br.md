@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr82870712-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal da condensadora Ar Condicionado LG S4UQ12JA3AD, S4UQ12JA3A5, S4UQ12JA3A6 - EBR82870712 - EBR82870712"
+name: "Placa principal da condensadora Ar Condicionado LG S4UQ12JA3AD, S4UQ12JA3A5, S4UQ12JA3A6 - EBR82870712 - EBR82870712 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 540.55
+  value: 518.93
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.133Z"
+  updated_at: "2026-11-13T13:48:21.087Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.133Z"
+    verified_at: "2026-11-13T13:48:21.087Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.133Z"
+    verified_at: "2026-11-13T13:48:21.087Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

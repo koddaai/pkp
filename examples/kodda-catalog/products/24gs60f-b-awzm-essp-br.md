@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "24gs60f-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor Gamer LG UltraGear 24” IPS, 180Hz, 1ms (GtG) NVIDIA® G-SYNC® , AMD FreeSync™, HDR10, sRGB 99% - 24GS60F-B - 24GS60F-B"
+name: "Monitor Gamer LG UltraGear 24” IPS, 180Hz, 1ms (GtG) NVIDIA® G-SYNC® , AMD FreeSync™, HDR10, sRGB 99% - 24GS60F-B - 24GS60F-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 799
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.773Z"
+  updated_at: "2026-11-13T13:48:20.719Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.773Z"
+    verified_at: "2026-11-13T13:48:20.719Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.773Z"
+    verified_at: "2026-11-13T13:48:20.719Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

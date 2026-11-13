@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "stage301-abralbk-essp-br"
 # gtin: null
 brand: "LG"
-name: "LG xboom Stage 301 by will.i.am - Caixa de Som Portátil Som exclusivo xboom para Festas - STAGE301"
+name: "LG xboom Stage 301 by will.i.am - Caixa de Som Portátil Som exclusivo xboom para Festas - STAGE301 | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1169.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.270Z"
+  updated_at: "2026-11-13T13:48:21.207Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.270Z"
+    verified_at: "2026-11-13T13:48:21.207Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.270Z"
+    verified_at: "2026-11-13T13:48:21.207Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr86905209-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Ar Condicionado LG ATNW36GMLP0, ATNW18GPLP0, ATNW24GPLP0 - EBR86905209 - EBR86905209"
+name: "Placa principal Ar Condicionado LG ATNW36GMLP0, ATNW18GPLP0, ATNW24GPLP0 - EBR86905209 - EBR86905209 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1376.21
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.148Z"
+  updated_at: "2026-11-13T13:48:21.103Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.148Z"
+    verified_at: "2026-11-13T13:48:21.103Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.148Z"
+    verified_at: "2026-11-13T13:48:21.103Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

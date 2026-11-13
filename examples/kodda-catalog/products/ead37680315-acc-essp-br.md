@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead37680315-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo condutor isolado Ar Condicionado LG ARUV80BT2, ARUB100BT2, ARUB120BT2 - EAD37680315 - EAD37680315"
+name: "Cabo condutor isolado Ar Condicionado LG ARUV80BT2, ARUB100BT2, ARUB120BT2 - EAD37680315 - EAD37680315 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1228.12
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.000Z"
+  updated_at: "2026-11-13T13:48:20.952Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.000Z"
+    verified_at: "2026-11-13T13:48:20.952Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.000Z"
+    verified_at: "2026-11-13T13:48:20.952Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

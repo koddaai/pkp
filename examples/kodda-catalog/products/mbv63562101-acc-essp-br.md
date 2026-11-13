@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mbv63562101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Abraçadeira Ar Condicionado LG GPUW160C2RM MBV63562101 - MBV63562101"
+name: "Abraçadeira Ar Condicionado LG GPUW160C2RM MBV63562101 - MBV63562101 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.217Z"
+  updated_at: "2026-11-13T13:48:21.163Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.217Z"
+    verified_at: "2026-11-13T13:48:21.163Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.217Z"
+    verified_at: "2026-11-13T13:48:21.163Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

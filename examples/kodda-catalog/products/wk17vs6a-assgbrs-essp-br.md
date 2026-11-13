@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "wk17vs6a-assgbrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "WashTower™ AI DD™ Máquina que Lava e Seca 17kg, 220V - Aço Escovado - WK17VS6A"
+name: "WashTower™ AI DD™ Máquina que Lava e Seca 17kg, 220V - Aço Escovado - WK17VS6A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 17574.05
+  value: 18049.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.281Z"
+  updated_at: "2026-11-13T13:48:21.219Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.281Z"
+    verified_at: "2026-11-13T13:48:21.219Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.281Z"
+    verified_at: "2026-11-13T13:48:21.219Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aax76974702-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Alto Falante Múltiplo Torre de Som LG XBOOM RNC9 AAX76974702 - AAX76974702"
+name: "Alto Falante Múltiplo Torre de Som LG XBOOM RNC9 AAX76974702 - AAX76974702 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1991.85
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.869Z"
+  updated_at: "2026-11-13T13:48:20.827Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.869Z"
+    verified_at: "2026-11-13T13:48:20.827Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.869Z"
+    verified_at: "2026-11-13T13:48:20.827Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

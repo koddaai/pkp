@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ean62395902-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Circuito integrado Home Theater LG DH4220S, BB5530A, LHD625 - EAN62395902 - EAN62395902"
+name: "Circuito integrado Home Theater LG DH4220S, BB5530A, LHD625 - EAN62395902 - EAN62395902 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 33.84
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.055Z"
+  updated_at: "2026-11-13T13:48:21.000Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.055Z"
+    verified_at: "2026-11-13T13:48:21.000Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.055Z"
+    verified_at: "2026-11-13T13:48:21.000Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

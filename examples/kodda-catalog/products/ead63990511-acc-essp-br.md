@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead63990511-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo LVDS-51P1ER-FF17J Monitor Signage LG 65TC3D-B - EAD63990511 - EAD63990511"
+name: "Cabo LVDS-51P1ER-FF17J Monitor Signage LG 65TC3D-B - EAD63990511 - EAD63990511 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 190.72
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.010Z"
+  updated_at: "2026-11-13T13:48:20.962Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.010Z"
+    verified_at: "2026-11-13T13:48:20.962Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.010Z"
+    verified_at: "2026-11-13T13:48:20.962Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

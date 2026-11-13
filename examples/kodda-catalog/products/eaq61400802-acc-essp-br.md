@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaq61400802-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lâmpada LED com connector Lavadora LG WD1316ADA7, WD-1403RD, WD-1403RD5 - EAQ61400802 - EAQ61400802"
+name: "Lâmpada LED com connector Lavadora LG WD1316ADA7, WD-1403RD, WD-1403RD5 - EAQ61400802 - EAQ61400802 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.056Z"
+  updated_at: "2026-11-13T13:48:21.001Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.056Z"
+    verified_at: "2026-11-13T13:48:21.001Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.056Z"
+    verified_at: "2026-11-13T13:48:21.001Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

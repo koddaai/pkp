@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mck38263706-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo plástico frontal Lavadora LG WD10WP6 - MCK38263706 - MCK38263706"
+name: "Tubo plástico frontal Lavadora LG WD10WP6 - MCK38263706 - MCK38263706 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 179.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.218Z"
+  updated_at: "2026-11-13T13:48:21.164Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.218Z"
+    verified_at: "2026-11-13T13:48:21.164Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.218Z"
+    verified_at: "2026-11-13T13:48:21.164Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

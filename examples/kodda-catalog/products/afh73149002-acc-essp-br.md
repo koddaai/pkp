@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "afh73149002-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte do tambor Lavadora LG WD14EGS62, FV5013WC4A, WD14EGS62 - AFH73149002 - AFH73149002"
+name: "Suporte do tambor Lavadora LG WD14EGS62, FV5013WC4A, WD14EGS62 - AFH73149002 - AFH73149002 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 71.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.907Z"
+  updated_at: "2026-11-13T13:48:20.865Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.907Z"
+    verified_at: "2026-11-13T13:48:20.865Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.907Z"
+    verified_at: "2026-11-13T13:48:20.865Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

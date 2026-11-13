@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tcg36628329-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Par de Alto Falante com Caixa Acústica Mini System LG CJ44.ABRALLK - TCG36628329 - TCG36628329"
+name: "Par de Alto Falante com Caixa Acústica Mini System LG CJ44.ABRALLK - TCG36628329 - TCG36628329 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 512.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.276Z"
+  updated_at: "2026-11-13T13:48:21.214Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.276Z"
+    verified_at: "2026-11-13T13:48:21.214Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.276Z"
+    verified_at: "2026-11-13T13:48:21.214Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

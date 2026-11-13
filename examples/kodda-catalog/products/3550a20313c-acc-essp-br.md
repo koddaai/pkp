@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3550a20313c-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cobertura do motor do ventilador Ar Condicionado LG TSNH072W4A0, USNQ092WSG3, USNQ092WSZ2 - 3550A20313C - 3550A20313C"
+name: "Cobertura do motor do ventilador Ar Condicionado LG TSNH072W4A0, USNQ092WSG3, USNQ092WSZ2 - 3550A20313C - 3550A20313C | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.787Z"
+  updated_at: "2026-11-13T13:48:20.735Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.787Z"
+    verified_at: "2026-11-13T13:48:20.735Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.787Z"
+    verified_at: "2026-11-13T13:48:20.735Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

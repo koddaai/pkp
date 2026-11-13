@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aeg33121504-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Resistência de aquecimento de água com termistor Lavadora LG WD-1403RD5, 1410RD5, WD-1485AD - AEG33121504 - AEG33121504"
+name: "Resistência de aquecimento de água com termistor Lavadora LG WD-1403RD5, 1410RD5, WD-1485AD - AEG33121504 - AEG33121504 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 107.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.902Z"
+  updated_at: "2026-11-13T13:48:20.860Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.902Z"
+    verified_at: "2026-11-13T13:48:20.860Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.902Z"
+    verified_at: "2026-11-13T13:48:20.860Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

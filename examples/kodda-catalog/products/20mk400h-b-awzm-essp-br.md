@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "20mk400h-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG LED HD 19,5'' HDMI OnScreen Control - 20MK400H-B - 20MK400H-B"
+name: "Monitor LG LED HD 19,5'' HDMI OnScreen Control - 20MK400H-B - 20MK400H-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 408.99
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.771Z"
+  updated_at: "2026-11-13T13:48:20.717Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.771Z"
+    verified_at: "2026-11-13T13:48:20.717Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.771Z"
+    verified_at: "2026-11-13T13:48:20.717Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

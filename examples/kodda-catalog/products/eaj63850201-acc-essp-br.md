@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj63850201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Painel de cristal líquido (módulo) Monitor Desktop LG 29UB55-B, 29UM68-PF, 29UM69G-BF - EAJ63850201 - EAJ63850201"
+name: "Painel de cristal líquido (módulo) Monitor Desktop LG 29UB55-B, 29UM68-PF, 29UM69G-BF - EAJ63850201 - EAJ63850201 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 559.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.024Z"
+  updated_at: "2026-11-13T13:48:20.977Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.024Z"
+    verified_at: "2026-11-13T13:48:20.977Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.024Z"
+    verified_at: "2026-11-13T13:48:20.977Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

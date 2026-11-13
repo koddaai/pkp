@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eas61382913-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Magnetron 2M286 Micro-Ondas LG EAS61382913 - EAS61382913"
+name: "Magnetron 2M286 Micro-Ondas LG EAS61382913 - EAS61382913 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.056Z"
+  updated_at: "2026-11-13T13:48:21.001Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.056Z"
+    verified_at: "2026-11-13T13:48:21.001Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.056Z"
+    verified_at: "2026-11-13T13:48:21.001Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

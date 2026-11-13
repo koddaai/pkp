@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr62788301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do display Ar Condicionado LG ASNW242C2U0, AMNW12GDBR0, AMNW18GDCR0 - EBR62788301 - EBR62788301"
+name: "Placa do display Ar Condicionado LG ASNW242C2U0, AMNW12GDBR0, AMNW18GDCR0 - EBR62788301 - EBR62788301 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.113Z"
+  updated_at: "2026-11-13T13:48:21.065Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.113Z"
+    verified_at: "2026-11-13T13:48:21.065Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.113Z"
+    verified_at: "2026-11-13T13:48:21.065Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

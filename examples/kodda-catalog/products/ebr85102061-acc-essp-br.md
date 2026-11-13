@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr85102061-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Ar Condicionado LG S4NW30L43FA EBR85102061 - EBR85102061"
+name: "Placa Principal Ar Condicionado LG S4NW30L43FA EBR85102061 - EBR85102061 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 379.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.139Z"
+  updated_at: "2026-11-13T13:48:21.094Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.139Z"
+    verified_at: "2026-11-13T13:48:21.094Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.139Z"
+    verified_at: "2026-11-13T13:48:21.094Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

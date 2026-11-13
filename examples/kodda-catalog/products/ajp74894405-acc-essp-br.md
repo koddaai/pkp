@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajp74894405-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Gaveta de vegetais para refrigerador LG AJP74894405 - AJP74894405"
+name: "Gaveta de vegetais para refrigerador LG AJP74894405 - AJP74894405 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 224.37
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.941Z"
+  updated_at: "2026-11-13T13:48:20.902Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.941Z"
+    verified_at: "2026-11-13T13:48:20.902Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.941Z"
+    verified_at: "2026-11-13T13:48:20.902Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5231ja2006f-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de água LT600P Refrigerador LG 5231JA2006F - 5231JA2006F"
+name: "Filtro de água LT600P Refrigerador LG 5231JA2006F - 5231JA2006F | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 233.42
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.826Z"
+  updated_at: "2026-11-13T13:48:20.770Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.826Z"
+    verified_at: "2026-11-13T13:48:20.770Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.826Z"
+    verified_at: "2026-11-13T13:48:20.770Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27u511sb-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG Smart AI 27U511SB, Tela IPS 27” FHD, WebOS 26, AirPlay 2, ThinQ, Bluetooth, Wi-Fi, 120Hz, 5ms (GtG), sRGB 99%, HDR10, USB, HDMI - 27U511SB-B"
+name: "Monitor LG Smart AI 27U511SB, Tela IPS 27” FHD, WebOS 26, AirPlay 2, ThinQ, Bluetooth, Wi-Fi, 120Hz, 5ms (GtG), sRGB 99%, HDR10, USB, HDMI - 27U511SB-B | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "bluetooth", "smart", "ai", "hdr"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1098.96
+  value: 1198.99
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.778Z"
+  updated_at: "2026-11-13T13:48:20.725Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.778Z"
+    verified_at: "2026-11-13T13:48:20.725Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.778Z"
+    verified_at: "2026-11-13T13:48:20.725Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead62671217-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Condutor elétrico com conectores Ar Condicionado LG S4UQ09WA5AA, S4UQ12JA314, S4UQ12JA315 - EAD62671217 - EAD62671217"
+name: "Condutor elétrico com conectores Ar Condicionado LG S4UQ09WA5AA, S4UQ12JA314, S4UQ12JA315 - EAD62671217 - EAD62671217 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.005Z"
+  updated_at: "2026-11-13T13:48:20.958Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.005Z"
+    verified_at: "2026-11-13T13:48:20.958Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.005Z"
+    verified_at: "2026-11-13T13:48:20.958Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

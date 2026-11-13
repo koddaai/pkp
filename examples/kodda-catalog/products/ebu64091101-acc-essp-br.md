@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu64091101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Monitor LG 24MT49S-PS - EBU64091101 - EBU64091101"
+name: "Placa Principal Monitor LG 24MT49S-PS - EBU64091101 - EBU64091101 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 664.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.166Z"
+  updated_at: "2026-11-13T13:48:21.120Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.166Z"
+    verified_at: "2026-11-13T13:48:21.120Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.166Z"
+    verified_at: "2026-11-13T13:48:21.120Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

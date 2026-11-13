@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4434er1008a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Eixo Lava e Seca LG WD-1403RD5, WD-1409FD, WD-1410RD5 - 4434ER1008A - 4434ER1008A"
+name: "Eixo Lava e Seca LG WD-1403RD5, WD-1409FD, WD-1410RD5 - 4434ER1008A - 4434ER1008A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 548.78
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.797Z"
+  updated_at: "2026-11-13T13:48:20.747Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.797Z"
+    verified_at: "2026-11-13T13:48:20.747Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.797Z"
+    verified_at: "2026-11-13T13:48:20.747Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

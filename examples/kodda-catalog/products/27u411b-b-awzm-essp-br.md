@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27u411b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor PC Gamer LG com Tela IPS 27”, 144Hz, 1ms (MBR), AMD FreeSync™, HDR 10, sRGB 99%, Reader Mode, Flicker Safe, HDMI, VGA, saída de fone de ouvido - 27U411B - 27U411B-B"
+name: "Monitor PC Gamer LG com Tela IPS 27”, 144Hz, 1ms (MBR), AMD FreeSync™, HDR 10, sRGB 99%, Reader Mode, Flicker Safe, HDMI, VGA, saída de fone de ouvido - 27U411B - 27U411B-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 779
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.778Z"
+  updated_at: "2026-11-13T13:48:20.725Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.778Z"
+    verified_at: "2026-11-13T13:48:20.725Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.778Z"
+    verified_at: "2026-11-13T13:48:20.725Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

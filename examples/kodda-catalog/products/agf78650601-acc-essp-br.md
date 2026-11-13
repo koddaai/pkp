@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf78650601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 32LJ520B, 32LJ600B, 32LJ601C - AGF78650601 - AGF78650601"
+name: "Kit régua de LED TV LG 32LJ520B, 32LJ600B, 32LJ601C - AGF78650601 - AGF78650601 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 110.29
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.919Z"
+  updated_at: "2026-11-13T13:48:20.878Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.919Z"
+    verified_at: "2026-11-13T13:48:20.878Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.919Z"
+    verified_at: "2026-11-13T13:48:20.878Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

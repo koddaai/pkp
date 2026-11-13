@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr39319516-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Ar Condicionado LG URNU76GB8A2 EBR39319516 - EBR39319516"
+name: "Placa Principal Ar Condicionado LG URNU76GB8A2 EBR39319516 - EBR39319516 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 512.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.108Z"
+  updated_at: "2026-11-13T13:48:21.060Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.108Z"
+    verified_at: "2026-11-13T13:48:21.060Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.108Z"
+    verified_at: "2026-11-13T13:48:21.060Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

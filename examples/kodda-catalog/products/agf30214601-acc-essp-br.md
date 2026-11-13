@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30214601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 55UK6360PSF, 55UK6350PSC, 55UK6200PSA - AGF30214601 - AGF30214601"
+name: "Kit régua de LED TV LG 55UK6360PSF, 55UK6350PSC, 55UK6200PSA - AGF30214601 - AGF30214601 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 233.75
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.912Z"
+  updated_at: "2026-11-13T13:48:20.871Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.912Z"
+    verified_at: "2026-11-13T13:48:20.871Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.912Z"
+    verified_at: "2026-11-13T13:48:20.871Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

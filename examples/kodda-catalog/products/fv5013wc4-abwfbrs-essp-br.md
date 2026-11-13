@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "fv5013wc4-abwfbrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Máquina de Lavar Smart LG VC4 13kg Branco com Inteligência Artificial AIDD™ - FV5013WC4 - 127v - FV5013WC4"
+name: "Máquina de Lavar Smart LG VC4 13kg Branco com Inteligência Artificial AIDD™ - FV5013WC4 - 127v - FV5013WC4 | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3199
+  value: 3299
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.192Z"
+  updated_at: "2026-11-13T13:48:21.146Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.192Z"
+    verified_at: "2026-11-13T13:48:21.146Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.192Z"
+    verified_at: "2026-11-13T13:48:21.146Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

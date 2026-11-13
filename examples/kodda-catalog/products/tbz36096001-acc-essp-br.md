@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tbz36096001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Compressor JQA048M Ar Condicionado LG ARUN200LLS4, ARUN080BSS0, ARUN100LLS4 - TBZ36096001 - TBZ36096001"
+name: "Compressor JQA048M Ar Condicionado LG ARUN200LLS4, ARUN080BSS0, ARUN100LLS4 - TBZ36096001 - TBZ36096001 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 18049.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.271Z"
+  updated_at: "2026-11-13T13:48:21.208Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.271Z"
+    verified_at: "2026-11-13T13:48:21.208Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.271Z"
+    verified_at: "2026-11-13T13:48:21.208Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

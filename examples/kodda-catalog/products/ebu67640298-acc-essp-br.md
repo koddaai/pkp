@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu67640298-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 65QNED80TSA EBU67640298 - EBU67640298"
+name: "Placa Principal TV LG 65QNED80TSA EBU67640298 - EBU67640298 | LG BR"
 category: "tvs"
 
 
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/ebu67640298/"
 
 # === DESCOBERTA (L0) ===
-summary: "PROCEDIMENTO OBRIGATÓRIO APÓS TROCA DE PLACA PRINCIPAL É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas. Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros."
-tags: ["lg", "ai", "pro"]
+summary: "Get more information on the LG EBU67640298. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 65QNED80TSA EBU67640298."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1265.53
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.185Z"
+  updated_at: "2026-11-13T13:48:21.140Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.185Z"
+    verified_at: "2026-11-13T13:48:21.140Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.185Z"
+    verified_at: "2026-11-13T13:48:21.140Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-PROCEDIMENTO OBRIGATÓRIO APÓS TROCA DE PLACA PRINCIPAL  É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas.  Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros.
+Get more information on the LG EBU67640298. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 65QNED80TSA EBU67640298.

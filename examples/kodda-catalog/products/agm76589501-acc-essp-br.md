@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm76589501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 49UK6310PSE - AGM76589501 - AGM76589501"
+name: "Kit régua de LED TV LG 49UK6310PSE - AGM76589501 - AGM76589501 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 152.61
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.930Z"
+  updated_at: "2026-11-13T13:48:20.890Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.930Z"
+    verified_at: "2026-11-13T13:48:20.890Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.930Z"
+    verified_at: "2026-11-13T13:48:20.890Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

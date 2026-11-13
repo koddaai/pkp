@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr82870733-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Ar Condicionado LG S4UW12JA3XA, S4UW12JA3XB, S4UW12JARXA - EBR82870733 - EBR82870733"
+name: "Placa Principal Ar Condicionado LG S4UW12JA3XA, S4UW12JA3XB, S4UW12JARXA - EBR82870733 - EBR82870733 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 730.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.133Z"
+  updated_at: "2026-11-13T13:48:21.087Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.133Z"
+    verified_at: "2026-11-13T13:48:21.087Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.133Z"
+    verified_at: "2026-11-13T13:48:21.087Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

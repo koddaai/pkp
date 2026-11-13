@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebx30147109-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto Magic MR25GA TV LG Série 2025 EBX30147109 - EBX30147109"
+name: "Controle Remoto Magic MR25GA TV LG Série 2025 EBX30147109 - EBX30147109 | LG BR"
 category: "tvs"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "5g"]
 price:
   type: "street"
   currency: "BRL"
-  value: 246.05
+  value: 154.84
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.189Z"
+  updated_at: "2026-11-13T13:48:21.143Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.189Z"
+    verified_at: "2026-11-13T13:48:21.143Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.189Z"
+    verified_at: "2026-11-13T13:48:21.143Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

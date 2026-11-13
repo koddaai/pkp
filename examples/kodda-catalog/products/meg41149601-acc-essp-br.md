@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "meg41149601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mancal Ar Condicionado LG LTNC400SU, AMNH09GTUC0, AMNH12GTUC0 - MEG41149601 - MEG41149601"
+name: "Mancal Ar Condicionado LG LTNC400SU, AMNH09GTUC0, AMNH12GTUC0 - MEG41149601 - MEG41149601 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.228Z"
+  updated_at: "2026-11-13T13:48:21.173Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.228Z"
+    verified_at: "2026-11-13T13:48:21.173Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.228Z"
+    verified_at: "2026-11-13T13:48:21.173Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

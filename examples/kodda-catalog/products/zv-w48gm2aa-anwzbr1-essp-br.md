@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "zv-w48gm2aa-anwzbr1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar Condicionado LG Teto Inverter 48.000 BTU/h 220V ZV-Q48GM2AA, Quente e Frio - ZV-W48GM2AA"
+name: "Ar Condicionado LG Teto Inverter 48.000 BTU/h 220V ZV-Q48GM2AA, Quente e Frio - ZV-W48GM2AA | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 11971.9
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.286Z"
+  updated_at: "2026-11-13T13:48:21.224Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.286Z"
+    verified_at: "2026-11-13T13:48:21.224Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.286Z"
+    verified_at: "2026-11-13T13:48:21.224Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

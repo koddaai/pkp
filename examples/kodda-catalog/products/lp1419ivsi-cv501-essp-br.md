@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "lp1419ivsi-cv501-essp-br"
 # gtin: null
 brand: "LG"
-name: "Combo LG Ar-Condicionado Portátil 14.000 BTUs LP1419IVSI + CV501 - LP1419IVSI.CV501"
+name: "Combo LG Ar-Condicionado Portátil 14.000 BTUs LP1419IVSI + CV501 - LP1419IVSI.CV501 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 10771.29
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.200Z"
+  updated_at: "2026-11-13T13:48:21.158Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.200Z"
+    verified_at: "2026-11-13T13:48:21.158Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.200Z"
+    verified_at: "2026-11-13T13:48:21.158Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

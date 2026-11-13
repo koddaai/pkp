@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "2w20017c-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Abraçadeira de aço Lavadora LG WD-14312RD, WD-14311RD, WD-14311RDA - 2W20017C - 2W20017C"
+name: "Abraçadeira de aço Lavadora LG WD-14312RD, WD-14311RD, WD-14311RDA - 2W20017C - 2W20017C | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.780Z"
+  updated_at: "2026-11-13T13:48:20.727Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.780Z"
+    verified_at: "2026-11-13T13:48:20.727Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.780Z"
+    verified_at: "2026-11-13T13:48:20.727Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

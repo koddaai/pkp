@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mee62605616-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Resistência do Degelo Refrigerador LG GCX257CSH1 MEE62605616 - MEE62605616"
+name: "Resistência do Degelo Refrigerador LG GCX257CSH1 MEE62605616 - MEE62605616 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 369.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.227Z"
+  updated_at: "2026-11-13T13:48:21.172Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.227Z"
+    verified_at: "2026-11-13T13:48:21.172Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.227Z"
+    verified_at: "2026-11-13T13:48:21.172Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

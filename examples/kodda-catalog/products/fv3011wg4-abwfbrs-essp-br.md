@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "fv3011wg4-abwfbrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lavadora Smart LG VC5 11kg Branca com Inteligência Artificial AIDD™ - 127v - FV3011WG4"
+name: "Lavadora Smart LG VC5 11kg Branca com Inteligência Artificial AIDD™ - 127v - FV3011WG4 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3609.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.191Z"
+  updated_at: "2026-11-13T13:48:21.145Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.191Z"
+    verified_at: "2026-11-13T13:48:21.145Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.191Z"
+    verified_at: "2026-11-13T13:48:21.145Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu67362502-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG OLED55G3PSA EBU67362502 - EBU67362502"
+name: "Placa Principal TV LG OLED55G3PSA EBU67362502 - EBU67362502 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 854.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.181Z"
+  updated_at: "2026-11-13T13:48:21.136Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.181Z"
+    verified_at: "2026-11-13T13:48:21.136Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.181Z"
+    verified_at: "2026-11-13T13:48:21.136Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

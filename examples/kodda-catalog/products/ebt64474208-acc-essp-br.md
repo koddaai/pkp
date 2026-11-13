@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebt64474208-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal TV LG 60UJ6585, 60UJ6510-AS, 60UJ6545-SE - EBT64474208 - EBT64474208"
+name: "Placa principal TV LG 60UJ6585, 60UJ6510-AS, 60UJ6545-SE - EBT64474208 - EBT64474208 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 996.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.159Z"
+  updated_at: "2026-11-13T13:48:21.114Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.159Z"
+    verified_at: "2026-11-13T13:48:21.114Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.159Z"
+    verified_at: "2026-11-13T13:48:21.114Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

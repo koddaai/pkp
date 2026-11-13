@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr26363015-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do Display Lavadora LG CV9013WC4 EBR26363015 - EBR26363015"
+name: "Placa do Display Lavadora LG CV9013WC4 EBR26363015 - EBR26363015 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 477.18
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.098Z"
+  updated_at: "2026-11-13T13:48:21.048Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.098Z"
+    verified_at: "2026-11-13T13:48:21.048Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.098Z"
+    verified_at: "2026-11-13T13:48:21.048Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

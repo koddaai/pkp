@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4860a20008a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Braçadeira do Ar Condicionado LG ARNU24GBHA2 4860A20008A - 4860A20008A"
+name: "Braçadeira do Ar Condicionado LG ARNU24GBHA2 4860A20008A - 4860A20008A | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 60.88
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.806Z"
+  updated_at: "2026-11-13T13:48:20.757Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.806Z"
+    verified_at: "2026-11-13T13:48:20.757Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.806Z"
+    verified_at: "2026-11-13T13:48:20.757Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

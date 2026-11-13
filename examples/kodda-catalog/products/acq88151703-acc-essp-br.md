@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acq88151703-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tampa plástica Ar Condicionado LG AVNQ60GM2A0, ARNU18GV1A4, ARNU36GV2A4 - ACQ88151703 - ACQ88151703"
+name: "Tampa plástica Ar Condicionado LG AVNQ60GM2A0, ARNU18GV1A4, ARNU36GV2A4 - ACQ88151703 - ACQ88151703 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 382.13
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.880Z"
+  updated_at: "2026-11-13T13:48:20.839Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.880Z"
+    verified_at: "2026-11-13T13:48:20.839Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.880Z"
+    verified_at: "2026-11-13T13:48:20.839Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

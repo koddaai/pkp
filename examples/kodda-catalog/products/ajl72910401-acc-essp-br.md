@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajl72910401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Reservatório D'água Refrigerador LG GC-P213BVK AJL72910401 - AJL72910401"
+name: "Reservatório D'água Refrigerador LG GC-P213BVK AJL72910401 - AJL72910401  | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 153.04
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.941Z"
+  updated_at: "2026-11-13T13:48:20.901Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.941Z"
+    verified_at: "2026-11-13T13:48:20.901Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.941Z"
+    verified_at: "2026-11-13T13:48:20.901Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu66984409-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 43UQ7500PSF - EBU66984409 - EBU66984409"
+name: "Placa Principal TV LG 43UQ7500PSF - EBU66984409 - EBU66984409 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 550.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.179Z"
+  updated_at: "2026-11-13T13:48:21.134Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.179Z"
+    verified_at: "2026-11-13T13:48:21.134Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.179Z"
+    verified_at: "2026-11-13T13:48:21.134Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

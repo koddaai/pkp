@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5221ja2006b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Válvula de água Refrigerador LG GC-P213BVK, GC-L207BSKV, GR-P207TVK - 5221JA2006B - 5221JA2006B"
+name: "Válvula de água Refrigerador LG GC-P213BVK, GC-L207BSKV, GR-P207TVK - 5221JA2006B - 5221JA2006B | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 521.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.825Z"
+  updated_at: "2026-11-13T13:48:20.769Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.825Z"
+    verified_at: "2026-11-13T13:48:20.769Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.825Z"
+    verified_at: "2026-11-13T13:48:20.769Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

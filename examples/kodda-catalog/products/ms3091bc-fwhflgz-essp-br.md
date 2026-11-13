@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ms3091bc-fwhflgz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Forno de Micro-ondas Solo 30L com revestimento EasyClean™, tecnologia I Wave e acabamento em branco - 127v - MS3091BC"
+name: "Forno de Micro-ondas Solo 30L com revestimento EasyClean™, tecnologia I Wave e acabamento em branco - 127v - MS3091BC | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 645.05
+  value: 721.11
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.243Z"
+  updated_at: "2026-11-13T13:48:21.187Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.243Z"
+    verified_at: "2026-11-13T13:48:21.187Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.243Z"
+    verified_at: "2026-11-13T13:48:21.187Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

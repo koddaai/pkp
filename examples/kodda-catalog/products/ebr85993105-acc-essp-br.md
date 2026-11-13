@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr85993105-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal da unidade evaporadora Ar Condicionado LG S4NQ09WA5WB - EBR85993105 - EBR85993105"
+name: "Placa Principal da unidade evaporadora Ar Condicionado LG S4NQ09WA5WB - EBR85993105 - EBR85993105 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.144Z"
+  updated_at: "2026-11-13T13:48:21.099Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.144Z"
+    verified_at: "2026-11-13T13:48:21.099Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.144Z"
+    verified_at: "2026-11-13T13:48:21.099Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mdg37708601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hélice do ventilador Ar Condicionado LG MDG37708601 - MDG37708601"
+name: "Hélice do ventilador Ar Condicionado LG MDG37708601 - MDG37708601 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.21
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.219Z"
+  updated_at: "2026-11-13T13:48:21.165Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.219Z"
+    verified_at: "2026-11-13T13:48:21.165Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.219Z"
+    verified_at: "2026-11-13T13:48:21.165Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

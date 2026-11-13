@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ms3033ds-fbkflgz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Micro-ondas LG NeoChef 30 litros Preto Limpa Fácil MS3033DS - 127v - MS3033DS"
+name: "Micro-ondas LG NeoChef 30 litros Preto Limpa Fácil MS3033DS - 127v - MS3033DS | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 768.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.243Z"
+  updated_at: "2026-11-13T13:48:21.187Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.243Z"
+    verified_at: "2026-11-13T13:48:21.187Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.243Z"
+    verified_at: "2026-11-13T13:48:21.187Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

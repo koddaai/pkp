@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj63708501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (BA) TV LG 43LJ5500, 43LM6300PSB, 43LK5910PLC - EAJ63708501 - EAJ63708501"
+name: "Tela de cristal líquido (BA) TV LG 43LJ5500, 43LM6300PSB, 43LK5910PLC - EAJ63708501 - EAJ63708501 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1921.96
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.023Z"
+  updated_at: "2026-11-13T13:48:20.976Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.023Z"
+    verified_at: "2026-11-13T13:48:20.976Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.023Z"
+    verified_at: "2026-11-13T13:48:20.976Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

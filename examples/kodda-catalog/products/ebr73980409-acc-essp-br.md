@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr73980409-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Ar Condicionado LG ASNQ182CSA1, ASNQ092BRG2, ASNQ122BRG2 - EBR73980409 - EBR73980409"
+name: "Placa principal Ar Condicionado LG ASNQ182CSA1, ASNQ092BRG2, ASNQ122BRG2 - EBR73980409 - EBR73980409 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 373.01
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.115Z"
+  updated_at: "2026-11-13T13:48:21.068Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.115Z"
+    verified_at: "2026-11-13T13:48:21.068Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.115Z"
+    verified_at: "2026-11-13T13:48:21.068Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

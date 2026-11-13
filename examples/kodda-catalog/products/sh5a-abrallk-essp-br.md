@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "sh5a-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "LG Soundbar para TV SH5A com Dolby Digital e DTS Surround 4.1 canais   - SH5A"
+name: "LG Soundbar para TV SH5A com Dolby Digital e DTS Surround 4.1 canais   - SH5A | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1439.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.270Z"
+  updated_at: "2026-11-13T13:48:21.207Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.270Z"
+    verified_at: "2026-11-13T13:48:21.207Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.270Z"
+    verified_at: "2026-11-13T13:48:21.207Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

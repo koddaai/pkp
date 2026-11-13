@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5859en1006e-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bomba centrifugação Lavadora LG WD-1485ADA, WD-1485TDA, WD11SB6DA - 5859EN1006E - 5859EN1006E"
+name: "Bomba centrifugação Lavadora LG WD-1485ADA, WD-1485TDA, WD11SB6DA - 5859EN1006E - 5859EN1006E | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 375.87
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.831Z"
+  updated_at: "2026-11-13T13:48:20.776Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.831Z"
+    verified_at: "2026-11-13T13:48:20.776Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.831Z"
+    verified_at: "2026-11-13T13:48:20.776Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

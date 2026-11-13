@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead63969916-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo (condutor elétrico plano FFC 60V) TV LG 55UK7500PSA, 55UU761H-ZA, 55UU761H-ZA - EAD63969916 - EAD63969916"
+name: "Cabo (condutor elétrico plano FFC 60V) TV LG 55UK7500PSA, 55UU761H-ZA, 55UU761H-ZA - EAD63969916 - EAD63969916 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.009Z"
+  updated_at: "2026-11-13T13:48:20.962Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.009Z"
+    verified_at: "2026-11-13T13:48:20.962Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.009Z"
+    verified_at: "2026-11-13T13:48:20.962Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

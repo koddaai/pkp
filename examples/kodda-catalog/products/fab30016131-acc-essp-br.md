@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "fab30016131-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Parafuso de Aço TV LG 55EC9300 FAB30016131 - FAB30016131"
+name: "Parafuso de Aço TV LG 55EC9300 FAB30016131 - FAB30016131 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.190Z"
+  updated_at: "2026-11-13T13:48:21.145Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.190Z"
+    verified_at: "2026-11-13T13:48:21.145Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.190Z"
+    verified_at: "2026-11-13T13:48:21.145Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

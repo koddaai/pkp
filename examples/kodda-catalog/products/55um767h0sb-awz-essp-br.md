@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "55um767h0sb-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hotel TV Pro:Centric - 55UM767H0SB"
+name: "Hotel TV Pro:Centric - 55UM767H0SB | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3799.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.829Z"
+  updated_at: "2026-11-13T13:48:20.774Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.829Z"
+    verified_at: "2026-11-13T13:48:20.774Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.829Z"
+    verified_at: "2026-11-13T13:48:20.774Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

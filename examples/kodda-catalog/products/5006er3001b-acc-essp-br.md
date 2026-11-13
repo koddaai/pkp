@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5006er3001b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tampa do filtro da bomba Lavadora LG 5006ER3001B - 5006ER3001B"
+name: "Tampa do filtro da bomba Lavadora LG 5006ER3001B - 5006ER3001B | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.810Z"
+  updated_at: "2026-11-13T13:48:20.761Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.810Z"
+    verified_at: "2026-11-13T13:48:20.761Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.810Z"
+    verified_at: "2026-11-13T13:48:20.761Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

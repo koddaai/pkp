@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr78770629-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa display Lava e Seca LG NAS106F1WBR, NAS106F1WBR - EBR78770629 - EBR78770629"
+name: "Placa display Lava e Seca LG NAS106F1WBR, NAS106F1WBR - EBR78770629 - EBR78770629 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 863.54
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.123Z"
+  updated_at: "2026-11-13T13:48:21.077Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.123Z"
+    verified_at: "2026-11-13T13:48:21.077Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.123Z"
+    verified_at: "2026-11-13T13:48:21.077Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

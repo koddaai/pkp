@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6322fr2046q-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sensor de temperatura (NTC) Lava e Seca LG WD-1409RD5, NAS106F1WBR, WD-1409RD - 6322FR2046Q - 6322FR2046Q"
+name: "Sensor de temperatura (NTC) Lava e Seca LG WD-1409RD5, NAS106F1WBR, WD-1409RD - 6322FR2046Q - 6322FR2046Q | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.837Z"
+  updated_at: "2026-11-13T13:48:20.797Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.837Z"
+    verified_at: "2026-11-13T13:48:20.797Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.837Z"
+    verified_at: "2026-11-13T13:48:20.797Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

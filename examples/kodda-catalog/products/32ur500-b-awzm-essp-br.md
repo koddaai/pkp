@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "32ur500-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG Ultra UHD 32'' 4K, HDMI, HDR10, AMD Free Sync, MaxxAudio, Dynamic Action Sync, Black Stabilizer - 32UR500-B - 32UR500-B"
+name: "Monitor LG Ultra UHD 32'' 4K, HDMI, HDR10, AMD Free Sync, MaxxAudio, Dynamic Action Sync, Black Stabilizer - 32UR500-B - 32UR500-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1595
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.784Z"
+  updated_at: "2026-11-13T13:48:20.732Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.784Z"
+    verified_at: "2026-11-13T13:48:20.732Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.784Z"
+    verified_at: "2026-11-13T13:48:20.732Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

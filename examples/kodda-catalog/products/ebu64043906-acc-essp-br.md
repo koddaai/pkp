@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu64043906-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal TV LG 43UJ6565, 43UJ6525, 43UJ6560 - EBU64043906 - EBU64043906"
+name: "Placa principal TV LG 43UJ6565, 43UJ6525, 43UJ6560 - EBU64043906 - EBU64043906 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 759.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.165Z"
+  updated_at: "2026-11-13T13:48:21.119Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.165Z"
+    verified_at: "2026-11-13T13:48:21.119Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.165Z"
+    verified_at: "2026-11-13T13:48:21.119Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

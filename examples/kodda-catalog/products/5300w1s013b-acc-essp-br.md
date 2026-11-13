@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5300w1s013b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Resistencia de Aquecimento 230V 700W Forno Micro-Ondas MP-9482SR 5300W1S013B - 5300W1S013B"
+name: "Resistencia de Aquecimento 230V 700W Forno Micro-Ondas MP-9482SR 5300W1S013B - 5300W1S013B | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.827Z"
+  updated_at: "2026-11-13T13:48:20.771Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.827Z"
+    verified_at: "2026-11-13T13:48:20.771Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.827Z"
+    verified_at: "2026-11-13T13:48:20.771Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

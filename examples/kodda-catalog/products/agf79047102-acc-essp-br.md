@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf79047102-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 43LH6000 - AGF79047102 - AGF79047102"
+name: "Kit régua de LED TV LG 43LH6000 - AGF79047102 - AGF79047102 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 170.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.922Z"
+  updated_at: "2026-11-13T13:48:20.881Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.922Z"
+    verified_at: "2026-11-13T13:48:20.881Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.922Z"
+    verified_at: "2026-11-13T13:48:20.881Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

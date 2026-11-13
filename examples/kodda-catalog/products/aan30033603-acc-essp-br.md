@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan30033603-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte Articulado e base para fixação em mesas Monitor LG 28MQ780-B - AAN30033603 - AAN30033603"
+name: "Suporte Articulado e base para fixação em mesas Monitor LG 28MQ780-B - AAN30033603 - AAN30033603 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1077.62
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.856Z"
+  updated_at: "2026-11-13T13:48:20.816Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.856Z"
+    verified_at: "2026-11-13T13:48:20.816Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.856Z"
+    verified_at: "2026-11-13T13:48:20.816Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

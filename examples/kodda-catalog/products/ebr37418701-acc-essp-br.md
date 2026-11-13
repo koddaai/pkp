@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr37418701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Caixa de Som Portátil LG XG7QBK EBR37418701 - EBR37418701"
+name: "Placa Principal Caixa de Som Portátil LG XG7QBK EBR37418701 - EBR37418701 | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 382.85
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.106Z"
+  updated_at: "2026-11-13T13:48:21.057Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.106Z"
+    verified_at: "2026-11-13T13:48:21.057Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.106Z"
+    verified_at: "2026-11-13T13:48:21.057Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan30013454-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base Pedestal TV LG 50QNED80SRA AAN30013454 - AAN30013454"
+name: "Base Pedestal TV LG 50QNED80SRA AAN30013454 - AAN30013454 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 481.21
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.856Z"
+  updated_at: "2026-11-13T13:48:20.815Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.856Z"
+    verified_at: "2026-11-13T13:48:20.815Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.856Z"
+    verified_at: "2026-11-13T13:48:20.815Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

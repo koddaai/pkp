@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eab65831202-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Alto Falante Full Range TV LG 55QNED80SRA EAB65831202 - EAB65831202"
+name: "Alto Falante Full Range TV LG 55QNED80SRA EAB65831202 - EAB65831202 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 602.19
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.998Z"
+  updated_at: "2026-11-13T13:48:20.950Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.998Z"
+    verified_at: "2026-11-13T13:48:20.950Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.998Z"
+    verified_at: "2026-11-13T13:48:20.950Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

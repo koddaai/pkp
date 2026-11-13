@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27u711b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraFine™ U711 -  Tela IPS UHD 4K 27\", HDR10, DCI-P3 90%, Dual Controller, HDMI, DisplaPort, Preto – 27U711B - 27U711B-B"
+name: "Monitor LG UltraFine™ U711 -  Tela IPS UHD 4K 27\", HDR10, DCI-P3 90%, Dual Controller, HDMI, DisplaPort, Preto – 27U711B - 27U711B-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1345.63
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.778Z"
+  updated_at: "2026-11-13T13:48:20.725Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.778Z"
+    verified_at: "2026-11-13T13:48:20.725Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.778Z"
+    verified_at: "2026-11-13T13:48:20.725Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

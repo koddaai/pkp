@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27ms500-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor PC Gamer LG 27” IPS, Full HD, 100Hz, HDMI - 27MS500-B - 27MS500-B"
+name: "Monitor PC Gamer LG 27” IPS, Full HD, 100Hz, HDMI - 27MS500-B - 27MS500-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 749
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.777Z"
+  updated_at: "2026-11-13T13:48:20.724Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.777Z"
+    verified_at: "2026-11-13T13:48:20.724Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.777Z"
+    verified_at: "2026-11-13T13:48:20.724Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

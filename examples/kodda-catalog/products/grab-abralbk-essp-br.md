@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "grab-abralbk-essp-br"
 # gtin: null
 brand: "LG"
-name: "LG xboom Grab by will.i.am | Caixa de Som Bluetooth Portátil | Som AI | 30W RMS | 20 Horas de Bateria | IP67 e Durabilidade Militar - GRAB"
+name: "LG xboom Grab by will.i.am | Caixa de Som Bluetooth Portátil | Som AI | 30W RMS | 20 Horas de Bateria | IP67 e Durabilidade Militar - GRAB | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 629.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.197Z"
+  updated_at: "2026-11-13T13:48:21.155Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.197Z"
+    verified_at: "2026-11-13T13:48:21.155Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.197Z"
+    verified_at: "2026-11-13T13:48:21.155Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

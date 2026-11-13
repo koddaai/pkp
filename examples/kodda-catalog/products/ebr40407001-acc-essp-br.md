@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr40407001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do Reprodutor de Áudio Portátil LG RNC9 EBR40407001 - EBR40407001"
+name: "Placa do Reprodutor de Áudio Portátil LG RNC9 EBR40407001 - EBR40407001 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 312.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.109Z"
+  updated_at: "2026-11-13T13:48:21.060Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.109Z"
+    verified_at: "2026-11-13T13:48:21.060Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.109Z"
+    verified_at: "2026-11-13T13:48:21.060Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

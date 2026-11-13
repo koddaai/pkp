@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu67639898-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 55QNED85TSA EBU67639898 - EBU67639898"
+name: "Placa Principal TV LG 55QNED85TSA EBU67639898 - EBU67639898 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1273.7
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.185Z"
+  updated_at: "2026-11-13T13:48:21.140Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.185Z"
+    verified_at: "2026-11-13T13:48:21.140Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.185Z"
+    verified_at: "2026-11-13T13:48:21.140Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

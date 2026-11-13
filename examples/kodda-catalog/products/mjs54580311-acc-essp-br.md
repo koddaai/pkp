@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mjs54580311-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bandeja de Ovos Refrigerador LG GNB452PFFQ MJS54580311 - MJS54580311"
+name: "Bandeja de Ovos Refrigerador LG GNB452PFFQ MJS54580311 - MJS54580311 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 35.97
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.240Z"
+  updated_at: "2026-11-13T13:48:21.184Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.240Z"
+    verified_at: "2026-11-13T13:48:21.184Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.240Z"
+    verified_at: "2026-11-13T13:48:21.184Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

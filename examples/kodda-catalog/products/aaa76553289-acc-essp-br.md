@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aaa76553289-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Puxador auxiliar Lavadora Roupa LG DF13WVC2S6A AAA76553289 - AAA76553289"
+name: "Puxador auxiliar Lavadora Roupa LG DF13WVC2S6A AAA76553289 - AAA76553289 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 170.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.855Z"
+  updated_at: "2026-11-13T13:48:20.814Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.855Z"
+    verified_at: "2026-11-13T13:48:20.814Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.855Z"
+    verified_at: "2026-11-13T13:48:20.814Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

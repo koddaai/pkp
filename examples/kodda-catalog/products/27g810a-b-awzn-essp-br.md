@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27g810a-b-awzn-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraGear™ 27G810A-B, Tela IPS 4K UHD 27\", 1ms (GtG), Dual-Mode (180Hz ↔ 360Hz), NVIDIA G-SYNC, AMD FreeSync, DisplayHDR™ 400, DCI-P3 95% - 27G810A-B"
+name: "Monitor LG UltraGear™ 27G810A-B, Tela IPS 4K UHD 27\", 1ms (GtG), Dual-Mode (180Hz ↔ 360Hz), NVIDIA G-SYNC, AMD FreeSync, DisplayHDR™ 400, DCI-P3 95% - 27G810A-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3499
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.775Z"
+  updated_at: "2026-11-13T13:48:20.722Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.775Z"
+    verified_at: "2026-11-13T13:48:20.722Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.775Z"
+    verified_at: "2026-11-13T13:48:20.722Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

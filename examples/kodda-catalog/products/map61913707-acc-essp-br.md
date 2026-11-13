@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "map61913707-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Rolamento Lavadora LG F12U1TCN4, F12U1TCNW4, F14U1FCNK8 - MAP61913707 - MAP61913707"
+name: "Rolamento Lavadora LG F12U1TCN4, F12U1TCNW4, F14U1FCNK8 - MAP61913707 - MAP61913707 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.214Z"
+  updated_at: "2026-11-13T13:48:21.160Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.214Z"
+    verified_at: "2026-11-13T13:48:21.160Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.214Z"
+    verified_at: "2026-11-13T13:48:21.160Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mbp62261101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Corpo da bomba Lava e Seca LG CV7011WS4, CV3011BC4, CV5010TS4 - MBP62261101 - MBP62261101"
+name: "Corpo da bomba Lava e Seca LG CV7011WS4, CV3011BC4, CV5010TS4 - MBP62261101 - MBP62261101 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.217Z"
+  updated_at: "2026-11-13T13:48:21.162Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.217Z"
+    verified_at: "2026-11-13T13:48:21.162Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.217Z"
+    verified_at: "2026-11-13T13:48:21.162Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

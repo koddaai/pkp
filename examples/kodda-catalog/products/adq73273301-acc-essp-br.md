@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adq73273301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro evaporadora Ar condicionado LG PT-UMC, PT-MAHW0, PT-MCGW0 - ADQ73273301 - ADQ73273301"
+name: "Filtro evaporadora Ar condicionado LG PT-UMC, PT-MAHW0, PT-MCGW0 - ADQ73273301 - ADQ73273301 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 128.44
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.895Z"
+  updated_at: "2026-11-13T13:48:20.854Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.895Z"
+    verified_at: "2026-11-13T13:48:20.854Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.895Z"
+    verified_at: "2026-11-13T13:48:20.854Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaa56671904-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Antena de fio isolado fm Mini System LG CM4440, CM4650, CM5660 - EAA56671904 - EAA56671904"
+name: "Antena de fio isolado fm Mini System LG CM4440, CM4650, CM5660 - EAA56671904 - EAA56671904 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 52.44
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.993Z"
+  updated_at: "2026-11-13T13:48:20.945Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.993Z"
+    verified_at: "2026-11-13T13:48:20.945Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.993Z"
+    verified_at: "2026-11-13T13:48:20.945Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

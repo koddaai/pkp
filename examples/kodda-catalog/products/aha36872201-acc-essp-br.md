@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aha36872201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bomba do dreno Ar Condicionado LG LTNH182QLE0 - AHA36872201 - AHA36872201"
+name: "Bomba do dreno Ar Condicionado LG LTNH182QLE0 - AHA36872201 - AHA36872201 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 512.05
+  value: 422.95
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.935Z"
+  updated_at: "2026-11-13T13:48:20.896Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.935Z"
+    verified_at: "2026-11-13T13:48:20.896Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.935Z"
+    verified_at: "2026-11-13T13:48:20.896Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

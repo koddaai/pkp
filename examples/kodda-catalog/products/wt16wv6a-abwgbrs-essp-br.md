@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "wt16wv6a-abwgbrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Máquina de Lavar LG 16kg Branca com Inteligência Artificial AIDD™ e porta com fechamento suave  - WT16WV6A"
+name: "Máquina de Lavar LG 16kg Branca com Inteligência Artificial AIDD™ e porta com fechamento suave  - WT16WV6A | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3039.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.281Z"
+  updated_at: "2026-11-13T13:48:21.220Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.281Z"
+    verified_at: "2026-11-13T13:48:21.220Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.281Z"
+    verified_at: "2026-11-13T13:48:21.220Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

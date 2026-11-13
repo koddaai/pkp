@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adj73472412-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Dispositivos de Secagem Lavadora LG WD17BV2S6BA ADJ73472412 - ADJ73472412"
+name: "Dispositivos de Secagem Lavadora LG WD17BV2S6BA ADJ73472412 - ADJ73472412 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1381.81
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.887Z"
+  updated_at: "2026-11-13T13:48:20.844Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.887Z"
+    verified_at: "2026-11-13T13:48:20.844Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.887Z"
+    verified_at: "2026-11-13T13:48:20.844Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay63128702-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte de alimentação ADS-40MSG-19 Notebook LG 15U340-L, 14U380-L, 14U390-L - EAY63128702 - EAY63128702"
+name: "Fonte de alimentação ADS-40MSG-19 Notebook LG 15U340-L, 14U380-L, 14U390-L - EAY63128702 - EAY63128702 | LG BR"
 category: "notebooks"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 179.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.075Z"
+  updated_at: "2026-11-13T13:48:21.020Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.075Z"
+    verified_at: "2026-11-13T13:48:21.020Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.075Z"
+    verified_at: "2026-11-13T13:48:21.020Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

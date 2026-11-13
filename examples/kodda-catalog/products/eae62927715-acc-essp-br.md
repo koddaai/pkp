@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eae62927715-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Capacitor 0.8µF 2100V Forno Micro-Ondas LG EAE62927715 - EAE62927715"
+name: "Capacitor 0.8µF 2100V Forno Micro-Ondas LG EAE62927715 - EAE62927715 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.019Z"
+  updated_at: "2026-11-13T13:48:20.972Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.019Z"
+    verified_at: "2026-11-13T13:48:20.972Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.019Z"
+    verified_at: "2026-11-13T13:48:20.972Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

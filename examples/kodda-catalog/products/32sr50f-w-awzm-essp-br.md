@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "32sr50f-w-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG MyView Smart - Tela IPS de 32'‘, FHD, WebOs, Screen Share, HDR10, ThinQ, Air Play 2, Bluetooth, USB, HDMI - 32SR50F-W - 32SR50F-W"
+name: "Monitor LG MyView Smart - Tela IPS de 32'‘, FHD, WebOs, Screen Share, HDR10, ThinQ, Air Play 2, Bluetooth, USB, HDMI - 32SR50F-W - 32SR50F-W | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1499
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.782Z"
+  updated_at: "2026-11-13T13:48:20.730Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.782Z"
+    verified_at: "2026-11-13T13:48:20.730Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.782Z"
+    verified_at: "2026-11-13T13:48:20.730Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

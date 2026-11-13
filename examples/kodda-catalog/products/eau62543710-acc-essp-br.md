@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau62543710-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor Ar Condicionado LG ATUW36GMLP0 EAU62543710 - EAU62543710"
+name: "Motor Ar Condicionado LG ATUW36GMLP0 EAU62543710 - EAU62543710 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 460.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.067Z"
+  updated_at: "2026-11-13T13:48:21.012Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.067Z"
+    verified_at: "2026-11-13T13:48:21.012Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.067Z"
+    verified_at: "2026-11-13T13:48:21.012Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

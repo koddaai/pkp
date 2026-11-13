@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mee63545707-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Resistência do Degelo Refrigerador LG GRX228NMSM MEE63545707 - MEE63545707"
+name: "Resistência do Degelo Refrigerador LG GRX228NMSM MEE63545707 - MEE63545707 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 227.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.228Z"
+  updated_at: "2026-11-13T13:48:21.172Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.228Z"
+    verified_at: "2026-11-13T13:48:21.172Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.228Z"
+    verified_at: "2026-11-13T13:48:21.172Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

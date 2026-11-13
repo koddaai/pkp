@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu64384001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 43LV300C - EBU64384001 - EBU64384001"
+name: "Placa Principal TV LG 43LV300C - EBU64384001 - EBU64384001 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.166Z"
+  updated_at: "2026-11-13T13:48:21.121Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.166Z"
+    verified_at: "2026-11-13T13:48:21.121Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.166Z"
+    verified_at: "2026-11-13T13:48:21.121Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

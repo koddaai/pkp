@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adx73450607-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Junta da porta superior (Freezer) Refrigerador LG GR-S507GSM - ADX73450607 - ADX73450607"
+name: "Junta da porta superior (Freezer) Refrigerador LG GR-S507GSM - ADX73450607 - ADX73450607 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.898Z"
+  updated_at: "2026-11-13T13:48:20.857Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.898Z"
+    verified_at: "2026-11-13T13:48:20.857Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.898Z"
+    verified_at: "2026-11-13T13:48:20.857Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

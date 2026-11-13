@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aju73472403-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Válvula de retenção Ar Condicionado LG RPUW180X9S, RPUW200X9S, RPUW321X9P - AJU73472403 - AJU73472403"
+name: "Válvula de retenção Ar Condicionado LG RPUW180X9S, RPUW200X9S, RPUW321X9P - AJU73472403 - AJU73472403 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1813.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.947Z"
+  updated_at: "2026-11-13T13:48:20.910Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.947Z"
+    verified_at: "2026-11-13T13:48:20.910Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.947Z"
+    verified_at: "2026-11-13T13:48:20.910Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

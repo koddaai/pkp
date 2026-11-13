@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf78401601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 55LF5600, 55LB5600, 55LB6200 - AGF78401601 - AGF78401601"
+name: "Kit régua de LED TV LG 55LF5600, 55LB5600, 55LB6200 - AGF78401601 - AGF78401601 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 379.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.918Z"
+  updated_at: "2026-11-13T13:48:20.877Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.918Z"
+    verified_at: "2026-11-13T13:48:20.877Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.918Z"
+    verified_at: "2026-11-13T13:48:20.877Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

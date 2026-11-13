@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mfg62439301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Contrapino Lavadora LG MFG62439301 - MFG62439301"
+name: "Contrapino Lavadora LG MFG62439301 - MFG62439301 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 69.69
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.232Z"
+  updated_at: "2026-11-13T13:48:21.176Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.232Z"
+    verified_at: "2026-11-13T13:48:21.176Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.232Z"
+    verified_at: "2026-11-13T13:48:21.176Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

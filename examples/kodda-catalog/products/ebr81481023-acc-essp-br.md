@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr81481023-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da Fonte Forno Micro Ondas LG MS3094NR EBR81481023 - EBR81481023"
+name: "Placa da Fonte Forno Micro Ondas LG MS3094NR EBR81481023 - EBR81481023 | LG BR"
 category: "eletrodomesticos"
 subcategory: "forno"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 117.49
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.128Z"
+  updated_at: "2026-11-13T13:48:21.083Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.128Z"
+    verified_at: "2026-11-13T13:48:21.083Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.128Z"
+    verified_at: "2026-11-13T13:48:21.083Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

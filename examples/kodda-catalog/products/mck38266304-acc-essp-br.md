@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mck38266304-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Gabinete frontal Lava e Seca LG WD-1403RD, WD-1409FD, WD1412RT - MCK38266304 - MCK38266304"
+name: "Gabinete frontal Lava e Seca LG WD-1403RD, WD-1409FD, WD1412RT - MCK38266304 - MCK38266304 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 474.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.218Z"
+  updated_at: "2026-11-13T13:48:21.164Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.218Z"
+    verified_at: "2026-11-13T13:48:21.164Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.218Z"
+    verified_at: "2026-11-13T13:48:21.164Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

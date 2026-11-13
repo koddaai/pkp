@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb76038001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto Soundbar LG AKB76038001 - AKB76038001"
+name: "Controle Remoto Soundbar LG AKB76038001 - AKB76038001 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 68.39
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.959Z"
+  updated_at: "2026-11-13T13:48:20.923Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.959Z"
+    verified_at: "2026-11-13T13:48:20.923Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.959Z"
+    verified_at: "2026-11-13T13:48:20.923Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

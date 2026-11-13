@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65756901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (BA) TV LG 55UP7750PSB, 55NANO75SQA, 55UQ801C0SB - EAJ65756901 - EAJ65756901"
+name: "Tela de cristal líquido (BA) TV LG 55UP7750PSB, 55NANO75SQA, 55UQ801C0SB - EAJ65756901 - EAJ65756901 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1556.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.037Z"
+  updated_at: "2026-11-13T13:48:20.991Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.037Z"
+    verified_at: "2026-11-13T13:48:20.991Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.037Z"
+    verified_at: "2026-11-13T13:48:20.991Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

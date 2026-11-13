@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65888902-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte externa ADS-25FSF-19 19V/1.3A Monitor LCD LG 22MK600M, 24MK430H, 24ML600M - EAY65888902 - EAY65888902"
+name: "Fonte externa ADS-25FSF-19 19V/1.3A Monitor LCD LG 22MK600M, 24MK430H, 24ML600M - EAY65888902 - EAY65888902 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 113.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.082Z"
+  updated_at: "2026-11-13T13:48:21.030Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.082Z"
+    verified_at: "2026-11-13T13:48:21.030Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.082Z"
+    verified_at: "2026-11-13T13:48:21.030Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

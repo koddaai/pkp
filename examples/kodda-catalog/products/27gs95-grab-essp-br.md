@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27gs95-grab-essp-br"
 # gtin: null
 brand: "LG"
-name: "Gear OLED – Tela OLED 27” + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA  y will.i.am - East LA - 27GS95.GRAB"
+name: "Gear OLED – Tela OLED 27” + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA  y will.i.am - East LA - 27GS95.GRAB | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4915.53
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.776Z"
+  updated_at: "2026-11-13T13:48:20.723Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.776Z"
+    verified_at: "2026-11-13T13:48:20.723Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.776Z"
+    verified_at: "2026-11-13T13:48:20.723Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu67899204-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 86UT8050PSA EBU67899204 - EBU67899204"
+name: "Placa Principal TV LG 86UT8050PSA EBU67899204 - EBU67899204 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2205.08
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.187Z"
+  updated_at: "2026-11-13T13:48:21.142Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.187Z"
+    verified_at: "2026-11-13T13:48:21.142Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.187Z"
+    verified_at: "2026-11-13T13:48:21.142Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "xg8t-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "LG XBOOM XG8T Caixa de som Bluetooth portátil - Classificação militar e 15 horas de bateria - XG8T"
+name: "LG XBOOM XG8T Caixa de som Bluetooth portátil - Classificação militar e 15 horas de bateria - XG8T | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 949.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.282Z"
+  updated_at: "2026-11-13T13:48:21.220Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.282Z"
+    verified_at: "2026-11-13T13:48:21.220Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.282Z"
+    verified_at: "2026-11-13T13:48:21.220Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

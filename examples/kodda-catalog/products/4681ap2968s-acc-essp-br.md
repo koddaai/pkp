@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681ap2968s-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor de corrente contínua Ar Condicionado LG ASNW242C4A0, ASNW242CRW0, ASNW242CRZ1 - 4681AP2968S - 4681AP2968S"
+name: "Motor de corrente contínua Ar Condicionado LG ASNW242C4A0, ASNW242CRW0, ASNW242CRZ1 - 4681AP2968S - 4681AP2968S | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.803Z"
+  updated_at: "2026-11-13T13:48:20.753Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.803Z"
+    verified_at: "2026-11-13T13:48:20.753Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.803Z"
+    verified_at: "2026-11-13T13:48:20.753Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

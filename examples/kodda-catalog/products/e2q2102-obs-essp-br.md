@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "e2q2102-obs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar condicionado Multi Split Inverter 2 ambientes ( 1via 1X 9.000BTUS, 1X 18.000BTUs) Quente/Frio WiFi integrado - E2Q2102.OBS"
+name: "Ar condicionado Multi Split Inverter 2 ambientes ( 1via 1X 9.000BTUS, 1X 18.000BTUs) Quente/Frio WiFi integrado - E2Q2102.OBS | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 14277.8
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.991Z"
+  updated_at: "2026-11-13T13:48:20.944Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.991Z"
+    verified_at: "2026-11-13T13:48:20.944Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.991Z"
+    verified_at: "2026-11-13T13:48:20.944Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

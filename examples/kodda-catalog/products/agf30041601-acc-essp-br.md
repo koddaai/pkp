@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30041601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de crista líquido (módulo) Monitor LG - AGF30041601"
+name: "Tela de crista líquido (módulo) Monitor LG - AGF30041601 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1044.16
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.909Z"
+  updated_at: "2026-11-13T13:48:20.868Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.909Z"
+    verified_at: "2026-11-13T13:48:20.868Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.909Z"
+    verified_at: "2026-11-13T13:48:20.868Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

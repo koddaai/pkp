@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "e5q4806-obs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar condicionado Multi Split Inverter 5 ambientes ( 1via 3X 9.000BTUS, 2X 18.000BTUs) Quente/Frio WiFi integrado - E5Q4806.OBS"
+name: "Ar condicionado Multi Split Inverter 5 ambientes ( 1via 3X 9.000BTUS, 2X 18.000BTUs) Quente/Frio WiFi integrado - E5Q4806.OBS | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 34836.98
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.993Z"
+  updated_at: "2026-11-13T13:48:20.945Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.993Z"
+    verified_at: "2026-11-13T13:48:20.945Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.993Z"
+    verified_at: "2026-11-13T13:48:20.945Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

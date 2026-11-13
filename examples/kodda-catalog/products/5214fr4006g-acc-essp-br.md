@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5214fr4006g-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo de borracha Lavadora LG 5214FR4006G - 5214FR4006G"
+name: "Tubo de borracha Lavadora LG 5214FR4006G - 5214FR4006G | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.814Z"
+  updated_at: "2026-11-13T13:48:20.765Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.814Z"
+    verified_at: "2026-11-13T13:48:20.765Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.814Z"
+    verified_at: "2026-11-13T13:48:20.765Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

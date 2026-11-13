@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aha36872202-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bomba Centrífuga Ar Condicionado LG AHA36872202 - AHA36872202"
+name: "Bomba Centrífuga Ar Condicionado LG AHA36872202 - AHA36872202 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 170.05
+  value: 140.46
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.936Z"
+  updated_at: "2026-11-13T13:48:20.896Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.936Z"
+    verified_at: "2026-11-13T13:48:20.896Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.936Z"
+    verified_at: "2026-11-13T13:48:20.896Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr78770654-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do display Lavadora LG WM11WPS6 - EBR78770654 - EBR78770654"
+name: "Placa do display Lavadora LG WM11WPS6 - EBR78770654 - EBR78770654 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1101.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.124Z"
+  updated_at: "2026-11-13T13:48:21.078Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.124Z"
+    verified_at: "2026-11-13T13:48:21.078Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.124Z"
+    verified_at: "2026-11-13T13:48:21.078Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

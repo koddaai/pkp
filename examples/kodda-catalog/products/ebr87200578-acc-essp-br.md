@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr87200578-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Lavadora de Roupas LG FV3011WG4A EBR87200578 - EBR87200578"
+name: "Placa Principal Lavadora de Roupas LG FV3011WG4A EBR87200578 - EBR87200578 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 900.88
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.149Z"
+  updated_at: "2026-11-13T13:48:21.105Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.149Z"
+    verified_at: "2026-11-13T13:48:21.105Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.149Z"
+    verified_at: "2026-11-13T13:48:21.105Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

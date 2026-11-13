@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "75qned80-s40t-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG QNED evo Mini LED AI 4K QNED80 75 polegadas 2026+Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - 75QNED80.S40T"
+name: "Smart TV LG QNED evo Mini LED AI 4K QNED80 75 polegadas 2026+Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - 75QNED80.S40T | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5983.29
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.851Z"
+  updated_at: "2026-11-13T13:48:20.811Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.851Z"
+    verified_at: "2026-11-13T13:48:20.811Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.851Z"
+    verified_at: "2026-11-13T13:48:20.811Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

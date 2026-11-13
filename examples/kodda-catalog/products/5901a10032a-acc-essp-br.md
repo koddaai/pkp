@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5901a10032a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hélice do ventilador Ar Condicionado LG LSUC2423MM1, LTUH602MLE0, LVUC182JLA0 - 5901A10032A - 5901A10032A"
+name: "Hélice do ventilador Ar Condicionado LG LSUC2423MM1, LTUH602MLE0, LVUC182JLA0 - 5901A10032A - 5901A10032A | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 170.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.833Z"
+  updated_at: "2026-11-13T13:48:20.793Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.833Z"
+    verified_at: "2026-11-13T13:48:20.793Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.833Z"
+    verified_at: "2026-11-13T13:48:20.793Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

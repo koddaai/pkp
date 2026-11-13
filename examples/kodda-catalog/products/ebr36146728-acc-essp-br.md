@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr36146728-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Refrigerador LG GCB569NLLM EBR36146728 - EBR36146728"
+name: "Placa Principal Refrigerador LG GCB569NLLM EBR36146728 - EBR36146728 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1483.86
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.106Z"
+  updated_at: "2026-11-13T13:48:21.056Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.106Z"
+    verified_at: "2026-11-13T13:48:21.056Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.106Z"
+    verified_at: "2026-11-13T13:48:21.056Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

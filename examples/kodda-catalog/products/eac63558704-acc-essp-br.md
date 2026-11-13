@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eac63558704-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bateria recarregável de lítio Caixa Bluetooth LG PL7 - EAC63558704 - EAC63558704"
+name: "Bateria recarregável de lítio Caixa Bluetooth LG PL7 - EAC63558704 - EAC63558704 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 445.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.999Z"
+  updated_at: "2026-11-13T13:48:20.951Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.999Z"
+    verified_at: "2026-11-13T13:48:20.951Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.999Z"
+    verified_at: "2026-11-13T13:48:20.951Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

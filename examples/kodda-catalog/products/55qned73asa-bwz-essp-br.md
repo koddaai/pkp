@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "55qned73asa-bwz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV 4K 55\" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Alerta de Esportes - 55QNED73ASA"
+name: "Smart TV 4K 55\" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Alerta de Esportes - 55QNED73ASA | LG BR"
 category: "tvs"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/55qned73asa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 55QNED73ASA. Click for pictures, reviews, and tech specs for the LG Smart TV 4K 55\" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Alerta de Esportes."
+summary: "Descubra a próxima geração de Smart AI TVs da LG, 55QNED73ASA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG QNED AI 4K QNED73 de 55 polegadas 2025."
 tags: ["lg", "smart", "ai", "4k", "google", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2839.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.828Z"
+  updated_at: "2026-11-13T13:48:20.772Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.828Z"
+    verified_at: "2026-11-13T13:48:20.772Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.828Z"
+    verified_at: "2026-11-13T13:48:20.772Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 55QNED73ASA. Click for pictures, reviews, and tech specs for the LG Smart TV 4K 55" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Alerta de Esportes.
+Descubra a próxima geração de Smart AI TVs da LG, 55QNED73ASA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG QNED AI 4K QNED73 de 55 polegadas 2025.

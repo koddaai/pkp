@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr34881002-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal da condensadora Ar Condicionado LG ARUN80BT2, ARUB80BT2, ARUN100BT2 - EBR34881002 - EBR34881002"
+name: "Placa principal da condensadora Ar Condicionado LG ARUN80BT2, ARUB80BT2, ARUN100BT2 - EBR34881002 - EBR34881002 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 12183.41
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.105Z"
+  updated_at: "2026-11-13T13:48:21.055Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.105Z"
+    verified_at: "2026-11-13T13:48:21.055Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.105Z"
+    verified_at: "2026-11-13T13:48:21.055Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

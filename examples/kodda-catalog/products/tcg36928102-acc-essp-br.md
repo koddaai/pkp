@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tcg36928102-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Alto Falante com Caixa Acústica, Mini System LG CK43.ABRALLK - TCG36928102 - TCG36928102"
+name: "Alto Falante com Caixa Acústica, Mini System LG CK43.ABRALLK - TCG36928102 - TCG36928102 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 312.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.276Z"
+  updated_at: "2026-11-13T13:48:21.214Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.276Z"
+    verified_at: "2026-11-13T13:48:21.214Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.276Z"
+    verified_at: "2026-11-13T13:48:21.214Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

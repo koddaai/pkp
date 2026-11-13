@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr85993116-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Display Evaporadora Ar Condicionado LG S4NW12JA31A, S4NW09AA31A, S4NW18KL31A - EBR85993116 - EBR85993116"
+name: "Placa Display Evaporadora Ar Condicionado LG S4NW12JA31A, S4NW09AA31A, S4NW18KL31A - EBR85993116 - EBR85993116 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.144Z"
+  updated_at: "2026-11-13T13:48:21.100Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.144Z"
+    verified_at: "2026-11-13T13:48:21.100Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.144Z"
+    verified_at: "2026-11-13T13:48:21.100Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

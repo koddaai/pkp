@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajr69527904-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo Conector Ar Condicionado LG S3UQ12JA31K AJR69527904 - AJR69527904"
+name: "Tubo Conector Ar Condicionado LG S3UQ12JA31K AJR69527904 - AJR69527904 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 52.53
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.942Z"
+  updated_at: "2026-11-13T13:48:20.906Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.942Z"
+    verified_at: "2026-11-13T13:48:20.906Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.942Z"
+    verified_at: "2026-11-13T13:48:20.906Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

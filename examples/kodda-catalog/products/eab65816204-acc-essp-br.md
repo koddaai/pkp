@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eab65816204-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Alto Falante Full Range TV LG 75UR770H9UD EAB65816204 - EAB65816204"
+name: "Alto Falante Full Range TV LG 75UR770H9UD EAB65816204 - EAB65816204 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 112.75
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.997Z"
+  updated_at: "2026-11-13T13:48:20.949Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.997Z"
+    verified_at: "2026-11-13T13:48:20.949Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.997Z"
+    verified_at: "2026-11-13T13:48:20.949Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "32lr600bpsa-awzq-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG HD de 32 polegadas LR60 2024 - 32LR600BPSA"
+name: "Smart TV LG HD de 32 polegadas LR60 2024 - 32LR600BPSA | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 996.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.782Z"
+  updated_at: "2026-11-13T13:48:20.730Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.782Z"
+    verified_at: "2026-11-13T13:48:20.730Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.782Z"
+    verified_at: "2026-11-13T13:48:20.730Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

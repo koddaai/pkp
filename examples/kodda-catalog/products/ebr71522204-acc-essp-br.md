@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr71522204-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do display receptora Ar Condicionado LG USNW092WSZ2, TSNC072W4W0, TSNC092W4W0 - EBR71522204 - EBR71522204"
+name: "Placa do display receptora Ar Condicionado LG USNW092WSZ2, TSNC072W4W0, TSNC092W4W0 - EBR71522204 - EBR71522204 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.114Z"
+  updated_at: "2026-11-13T13:48:21.066Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.114Z"
+    verified_at: "2026-11-13T13:48:21.066Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.114Z"
+    verified_at: "2026-11-13T13:48:21.066Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

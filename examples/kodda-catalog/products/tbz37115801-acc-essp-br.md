@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tbz37115801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Compressor GA092MC Ar Condicionado LG USUQ092WSG3, USUQ122J3W0, US-W096J3A1 - TBZ37115801 - TBZ37115801"
+name: "Compressor GA092MC Ar Condicionado LG USUQ092WSG3, USUQ122J3W0, US-W096J3A1 - TBZ37115801 - TBZ37115801 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1074.25
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.271Z"
+  updated_at: "2026-11-13T13:48:21.208Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.271Z"
+    verified_at: "2026-11-13T13:48:21.208Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.271Z"
+    verified_at: "2026-11-13T13:48:21.208Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

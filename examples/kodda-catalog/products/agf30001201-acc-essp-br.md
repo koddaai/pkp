@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30001201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 49UJ6565, 49UJ6525  - AGF30001201 - AGF30001201"
+name: "Kit régua de LED TV LG 49UJ6565, 49UJ6525  - AGF30001201 - AGF30001201 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.909Z"
+  updated_at: "2026-11-13T13:48:20.867Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.909Z"
+    verified_at: "2026-11-13T13:48:20.867Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.909Z"
+    verified_at: "2026-11-13T13:48:20.867Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

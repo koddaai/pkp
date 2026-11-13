@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65692301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "EAJ65692301 - EAJ65692301"
+name: "EAJ65692301 - EAJ65692301 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1300.56
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.030Z"
+  updated_at: "2026-11-13T13:48:20.984Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.030Z"
+    verified_at: "2026-11-13T13:48:20.984Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.030Z"
+    verified_at: "2026-11-13T13:48:20.984Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

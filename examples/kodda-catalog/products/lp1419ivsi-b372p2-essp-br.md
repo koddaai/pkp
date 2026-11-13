@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "lp1419ivsi-b372p2-essp-br"
 # gtin: null
 brand: "LG"
-name: "Combo LG Ar Portátil 127V + Geladeira Frost Free Inverter 375L Branca 220V - LP1419IVSI.B372P2"
+name: "Combo LG Ar Portátil 127V + Geladeira Frost Free Inverter 375L Branca 220V - LP1419IVSI.B372P2 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7351.29
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.199Z"
+  updated_at: "2026-11-13T13:48:21.157Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.199Z"
+    verified_at: "2026-11-13T13:48:21.157Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.199Z"
+    verified_at: "2026-11-13T13:48:21.157Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

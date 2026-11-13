@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aha75113321-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bomba Centrífuga para Ar Condicionado LG AHA75113321 - AHA75113321"
+name: "Bomba Centrífuga para Ar Condicionado LG AHA75113321 - AHA75113321 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 336.63
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.937Z"
+  updated_at: "2026-11-13T13:48:20.897Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.937Z"
+    verified_at: "2026-11-13T13:48:20.897Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.937Z"
+    verified_at: "2026-11-13T13:48:20.897Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

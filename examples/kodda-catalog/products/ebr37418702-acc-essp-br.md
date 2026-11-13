@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr37418702-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Caixa Som Portátil LG - EBR37418702 - EBR37418702"
+name: "Placa Principal Caixa Som Portátil LG - EBR37418702 - EBR37418702 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 920.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.106Z"
+  updated_at: "2026-11-13T13:48:21.057Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.106Z"
+    verified_at: "2026-11-13T13:48:21.057Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.106Z"
+    verified_at: "2026-11-13T13:48:21.057Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

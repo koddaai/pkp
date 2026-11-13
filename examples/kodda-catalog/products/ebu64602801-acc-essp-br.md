@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu64602801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Monitor LG 24MK430H-B, 23MP65HQ, 25UM58G-P - EBU64602801 - EBU64602801"
+name: "Placa Principal Monitor LG 24MK430H-B, 23MP65HQ, 25UM58G-P - EBU64602801 - EBU64602801 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.167Z"
+  updated_at: "2026-11-13T13:48:21.121Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.167Z"
+    verified_at: "2026-11-13T13:48:21.121Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.167Z"
+    verified_at: "2026-11-13T13:48:21.121Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

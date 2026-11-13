@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr79733507-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa controles Monitor LG 24MT49S-OS - EBR79733507 - EBR79733507"
+name: "Placa controles Monitor LG 24MT49S-OS - EBR79733507 - EBR79733507 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 48.41
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.126Z"
+  updated_at: "2026-11-13T13:48:21.079Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.126Z"
+    verified_at: "2026-11-13T13:48:21.079Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.126Z"
+    verified_at: "2026-11-13T13:48:21.079Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

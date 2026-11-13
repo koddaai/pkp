@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5220fr2075b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Válvula entrada d'água 3 vias Lava e Seca LG WD-1409RDA5, NAS106F1WBR, WD-12270RDA - 5220FR2075B - 5220FR2075B"
+name: "Válvula entrada d'água 3 vias Lava e Seca LG WD-1409RDA5, NAS106F1WBR, WD-12270RDA - 5220FR2075B - 5220FR2075B | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.825Z"
+  updated_at: "2026-11-13T13:48:20.768Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.825Z"
+    verified_at: "2026-11-13T13:48:20.768Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.825Z"
+    verified_at: "2026-11-13T13:48:20.768Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

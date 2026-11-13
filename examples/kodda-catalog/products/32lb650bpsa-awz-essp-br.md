@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "32lb650bpsa-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG LB650 AI HD 32 polegadas 2026 - 32LB650BPSA"
+name: "Smart TV LG LB650 AI HD 32 polegadas 2026 - 32LB650BPSA | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1234.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.782Z"
+  updated_at: "2026-11-13T13:48:20.730Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.782Z"
+    verified_at: "2026-11-13T13:48:20.730Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.782Z"
+    verified_at: "2026-11-13T13:48:20.730Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

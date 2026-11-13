@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6324zaae22g-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Magnetron 2M213  Micro-ondas LG MS2357R, MS2355R, MS2355RA - 6324ZAAE22G - 6324ZAAE22G"
+name: "Magnetron 2M213  Micro-ondas LG MS2357R, MS2355R, MS2355RA - 6324ZAAE22G - 6324ZAAE22G | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 136.79
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.838Z"
+  updated_at: "2026-11-13T13:48:20.800Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.838Z"
+    verified_at: "2026-11-13T13:48:20.800Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.838Z"
+    verified_at: "2026-11-13T13:48:20.800Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

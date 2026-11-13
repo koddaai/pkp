@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-x267gl5p-abskbrl-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Smart LG Frost Free Inverter 628L Side by Side InstaView Bivolt Inox Look - GC-X267GL5P"
+name: "Geladeira Smart LG Frost Free Inverter 628L Side by Side InstaView Bivolt Inox Look - GC-X267GL5P | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 15199.06
+  value: 16149.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.195Z"
+  updated_at: "2026-11-13T13:48:21.150Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.195Z"
+    verified_at: "2026-11-13T13:48:21.150Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.195Z"
+    verified_at: "2026-11-13T13:48:21.150Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

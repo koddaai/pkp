@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebz64763701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flexível TV LG 65UA7500PSA EBZ64763701 - EBZ64763701"
+name: "Cabo Flexível TV LG 65UA7500PSA EBZ64763701 - EBZ64763701 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.190Z"
+  updated_at: "2026-11-13T13:48:21.144Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.190Z"
+    verified_at: "2026-11-13T13:48:21.144Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.190Z"
+    verified_at: "2026-11-13T13:48:21.144Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

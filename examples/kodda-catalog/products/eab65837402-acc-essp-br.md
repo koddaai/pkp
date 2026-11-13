@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eab65837402-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Alto-Falante Esq e Dir TV LG 55UA8550PSA EAB65837402 - EAB65837402"
+name: "Alto-Falante Esq e Dir TV LG 55UA8550PSA EAB65837402 - EAB65837402 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 217.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.998Z"
+  updated_at: "2026-11-13T13:48:20.951Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.998Z"
+    verified_at: "2026-11-13T13:48:20.951Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.998Z"
+    verified_at: "2026-11-13T13:48:20.951Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

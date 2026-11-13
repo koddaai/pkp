@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm76689202-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 55UM7470PSA, 55UP751C0SF, 55UP7550PSF - AGM76689202 - AGM76689202"
+name: "Kit régua de LED TV LG 55UM7470PSA, 55UP751C0SF, 55UP7550PSF - AGM76689202 - AGM76689202 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.931Z"
+  updated_at: "2026-11-13T13:48:20.891Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.931Z"
+    verified_at: "2026-11-13T13:48:20.891Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.931Z"
+    verified_at: "2026-11-13T13:48:20.891Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eat65194502-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Módulo de Recepção e Transmissão SoundBar LG SN4 EAT65194502 - EAT65194502"
+name: "Módulo de Recepção e Transmissão SoundBar LG SN4 EAT65194502 - EAT65194502 | LG BR"
 category: "audio"
 subcategory: "soundbar"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.060Z"
+  updated_at: "2026-11-13T13:48:21.005Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.060Z"
+    verified_at: "2026-11-13T13:48:21.005Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.060Z"
+    verified_at: "2026-11-13T13:48:21.005Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

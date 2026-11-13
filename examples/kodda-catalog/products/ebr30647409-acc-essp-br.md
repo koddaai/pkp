@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr30647409-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da Fonte Torre de Som LG XBOOM LG RNC9 EBR30647409 - EBR30647409"
+name: "Placa da Fonte Torre de Som LG XBOOM LG RNC9 EBR30647409 - EBR30647409 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 369.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.099Z"
+  updated_at: "2026-11-13T13:48:21.049Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.099Z"
+    verified_at: "2026-11-13T13:48:21.049Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.099Z"
+    verified_at: "2026-11-13T13:48:21.049Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

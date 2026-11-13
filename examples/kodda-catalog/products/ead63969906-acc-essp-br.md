@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead63969906-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flat TV LG 49UJ7500, 49UV761H, 55SJ8000 - EAD63969906 - EAD63969906"
+name: "Cabo Flat TV LG 49UJ7500, 49UV761H, 55SJ8000 - EAD63969906 - EAD63969906 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.008Z"
+  updated_at: "2026-11-13T13:48:20.961Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.008Z"
+    verified_at: "2026-11-13T13:48:20.961Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.008Z"
+    verified_at: "2026-11-13T13:48:20.961Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

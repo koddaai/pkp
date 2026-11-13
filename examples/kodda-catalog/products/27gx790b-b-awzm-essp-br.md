@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27gx790b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG OLED 4th gen UltraGearTM Dual Mode 27GX790B-B 27\", 720Hz HD, 540Hz QHD 2K, 0.02ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa ClearMR21000, Tandem Technology - 27GX790B-B"
+name: "Monitor LG OLED 4th gen UltraGearTM Dual Mode 27GX790B-B 27\", 720Hz HD, 540Hz QHD 2K, 0.02ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa ClearMR21000, Tandem Technology - 27GX790B-B | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "oled", "premium", "pro", "ultra", "gaming"]
 price:
   type: "street"
   currency: "BRL"
-  value: 5798.99
+  value: 5998.96
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.777Z"
+  updated_at: "2026-11-13T13:48:20.724Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.777Z"
+    verified_at: "2026-11-13T13:48:20.724Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.777Z"
+    verified_at: "2026-11-13T13:48:20.724Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead63787936-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Condutor Flexível Televisor LG OLED55C3PSA EAD63787936 - EAD63787936"
+name: "Condutor Flexível Televisor LG OLED55C3PSA EAD63787936 - EAD63787936 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.96
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.007Z"
+  updated_at: "2026-11-13T13:48:20.960Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.007Z"
+    verified_at: "2026-11-13T13:48:20.960Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.007Z"
+    verified_at: "2026-11-13T13:48:20.960Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

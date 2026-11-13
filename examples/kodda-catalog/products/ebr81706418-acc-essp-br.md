@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr81706418-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa liga desliga Ar Condicionado LG EBR81706418 - EBR81706418"
+name: "Placa liga desliga Ar Condicionado LG EBR81706418 - EBR81706418 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 71.02
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.129Z"
+  updated_at: "2026-11-13T13:48:21.083Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.129Z"
+    verified_at: "2026-11-13T13:48:21.083Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.129Z"
+    verified_at: "2026-11-13T13:48:21.083Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

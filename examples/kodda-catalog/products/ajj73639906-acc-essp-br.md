@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajj73639906-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo com placa sub Ar Condicionado LG CRWM180LAS5, CRWM200LAS5, RPUW321X9P - AJJ73639906 - AJJ73639906"
+name: "Cabo com placa sub Ar Condicionado LG CRWM180LAS5, CRWM200LAS5, RPUW321X9P - AJJ73639906 - AJJ73639906 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 426.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.940Z"
+  updated_at: "2026-11-13T13:48:20.901Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.940Z"
+    verified_at: "2026-11-13T13:48:20.901Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.940Z"
+    verified_at: "2026-11-13T13:48:20.901Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

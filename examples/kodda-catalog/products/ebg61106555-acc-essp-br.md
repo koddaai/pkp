@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg61106555-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sensor Termistor Ar Condicionado LG LTNC720DT EBG61106555 - EBG61106555"
+name: "Sensor Termistor Ar Condicionado LG LTNC720DT EBG61106555 - EBG61106555 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 29.85
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.089Z"
+  updated_at: "2026-11-13T13:48:21.039Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.089Z"
+    verified_at: "2026-11-13T13:48:21.039Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.089Z"
+    verified_at: "2026-11-13T13:48:21.039Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

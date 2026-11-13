@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr89012901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal para Aparelho de som Bluetooth LG - EBR89012901 - EBR89012901"
+name: "Placa Principal para Aparelho de som Bluetooth LG - EBR89012901 - EBR89012901 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.56
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.156Z"
+  updated_at: "2026-11-13T13:48:21.111Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.156Z"
+    verified_at: "2026-11-13T13:48:21.111Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.156Z"
+    verified_at: "2026-11-13T13:48:21.111Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

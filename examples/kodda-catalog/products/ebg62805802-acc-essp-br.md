@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg62805802-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sensor de temperatura Ar Condicionado LG EBG62805802 - EBG62805802"
+name: "Sensor de temperatura Ar Condicionado LG EBG62805802 - EBG62805802 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.096Z"
+  updated_at: "2026-11-13T13:48:21.046Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.096Z"
+    verified_at: "2026-11-13T13:48:21.046Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.096Z"
+    verified_at: "2026-11-13T13:48:21.046Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

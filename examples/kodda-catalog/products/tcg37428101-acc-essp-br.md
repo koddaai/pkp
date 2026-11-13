@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tcg37428101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Par de Alto Falante com Caixa Acústica Mini System LG CL65.ABRALLK - TCG37428101 - TCG37428101"
+name: "Par de Alto Falante com Caixa Acústica Mini System LG CL65.ABRALLK - TCG37428101 - TCG37428101 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 864.39
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.278Z"
+  updated_at: "2026-11-13T13:48:21.215Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.278Z"
+    verified_at: "2026-11-13T13:48:21.215Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.278Z"
+    verified_at: "2026-11-13T13:48:21.215Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

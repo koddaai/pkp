@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "man64890001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Porta da gaveta  Refrigerador LG MAN64890001 - MAN64890001"
+name: "Porta da gaveta  Refrigerador LG MAN64890001 - MAN64890001 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.214Z"
+  updated_at: "2026-11-13T13:48:21.160Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.214Z"
+    verified_at: "2026-11-13T13:48:21.160Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.214Z"
+    verified_at: "2026-11-13T13:48:21.160Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

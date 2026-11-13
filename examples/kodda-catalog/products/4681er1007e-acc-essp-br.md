@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681er1007e-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor da turbina de secagem Lavadora LG CV5010TS4, CV5011WG4A, CV5013BC4 - 4681ER1007E - 4681ER1007E"
+name: "Motor da turbina de secagem Lavadora LG CV5010TS4, CV5011WG4A, CV5013BC4 - 4681ER1007E - 4681ER1007E | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 303.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.804Z"
+  updated_at: "2026-11-13T13:48:20.754Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.804Z"
+    verified_at: "2026-11-13T13:48:20.754Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.804Z"
+    verified_at: "2026-11-13T13:48:20.754Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

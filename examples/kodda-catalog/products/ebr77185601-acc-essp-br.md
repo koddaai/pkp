@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr77185601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Ysus TV LG 60PB6500 - EBR77185601 - EBR77185601"
+name: "Placa Ysus TV LG 60PB6500 - EBR77185601 - EBR77185601 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 692.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.120Z"
+  updated_at: "2026-11-13T13:48:21.073Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.120Z"
+    verified_at: "2026-11-13T13:48:21.073Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.120Z"
+    verified_at: "2026-11-13T13:48:21.073Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

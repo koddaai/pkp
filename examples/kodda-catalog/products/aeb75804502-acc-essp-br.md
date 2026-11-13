@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aeb75804502-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Grade de Insuflamento de ar Ar Condicionado LG AEB75804502 - AEB75804502"
+name: "Grade de Insuflamento de ar Ar Condicionado LG AEB75804502 - AEB75804502 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.900Z"
+  updated_at: "2026-11-13T13:48:20.859Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.900Z"
+    verified_at: "2026-11-13T13:48:20.859Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.900Z"
+    verified_at: "2026-11-13T13:48:20.859Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

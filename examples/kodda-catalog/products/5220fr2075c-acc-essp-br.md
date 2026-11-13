@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5220fr2075c-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Válvula entrada d'água 3 vias Lavadora LG WD-12320RD - 5220FR2075C - 5220FR2075C"
+name: "Válvula entrada d'água 3 vias Lavadora LG WD-12320RD - 5220FR2075C - 5220FR2075C | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.825Z"
+  updated_at: "2026-11-13T13:48:20.769Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.825Z"
+    verified_at: "2026-11-13T13:48:20.769Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.825Z"
+    verified_at: "2026-11-13T13:48:20.769Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

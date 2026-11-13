@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adq74834320-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro Purificador de Ar LG AS101DSH0 - ADQ74834320 - ADQ74834320"
+name: "Filtro Purificador de Ar LG AS101DSH0 - ADQ74834320 - ADQ74834320 | LG BR"
 category: "eletrodomesticos"
 subcategory: "purificador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 597.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.897Z"
+  updated_at: "2026-11-13T13:48:20.855Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.897Z"
+    verified_at: "2026-11-13T13:48:20.855Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.897Z"
+    verified_at: "2026-11-13T13:48:20.855Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

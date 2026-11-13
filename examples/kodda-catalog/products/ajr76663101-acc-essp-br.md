@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajr76663101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo montado com capilar Dobrado Ar Condicionado LG AJR76663101 - AJR76663101"
+name: "Tubo montado com capilar Dobrado Ar Condicionado LG AJR76663101 - AJR76663101 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 54.04
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.945Z"
+  updated_at: "2026-11-13T13:48:20.908Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.945Z"
+    verified_at: "2026-11-13T13:48:20.908Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.945Z"
+    verified_at: "2026-11-13T13:48:20.908Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

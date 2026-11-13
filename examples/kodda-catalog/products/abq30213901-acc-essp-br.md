@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "abq30213901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Receptor Ar Condicionado LG S3NQ09AAQAL ABQ30213901 - ABQ30213901"
+name: "Placa Receptor Ar Condicionado LG S3NQ09AAQAL ABQ30213901 - ABQ30213901 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.870Z"
+  updated_at: "2026-11-13T13:48:20.829Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.870Z"
+    verified_at: "2026-11-13T13:48:20.829Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.870Z"
+    verified_at: "2026-11-13T13:48:20.829Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

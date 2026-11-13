@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "cv9014-grab2-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lava e Seca LG Smart VC2 14kg Black Inox 220v + Caixa de Som Bluetooth LG xboom Grab by will.i.am - CV9014.GRAB2"
+name: "Lava e Seca LG Smart VC2 14kg Black Inox 220v + Caixa de Som Bluetooth LG xboom Grab by will.i.am - CV9014.GRAB2 | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5088.31
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.989Z"
+  updated_at: "2026-11-13T13:48:20.941Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.989Z"
+    verified_at: "2026-11-13T13:48:20.941Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.989Z"
+    verified_at: "2026-11-13T13:48:20.941Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

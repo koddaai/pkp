@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr88873905-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Lavadora LG FV5011WG4 - EBR88873905 - EBR88873905"
+name: "Placa principal Lavadora LG FV5011WG4 - EBR88873905 - EBR88873905 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1064.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.154Z"
+  updated_at: "2026-11-13T13:48:21.109Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.154Z"
+    verified_at: "2026-11-13T13:48:21.109Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.154Z"
+    verified_at: "2026-11-13T13:48:21.109Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

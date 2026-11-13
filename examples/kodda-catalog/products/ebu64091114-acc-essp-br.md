@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu64091114-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Monitor TV LG 24TL520S, 24ML600M, 24MP400 - EBU64091114 - EBU64091114"
+name: "Placa principal Monitor TV LG 24TL520S, 24ML600M, 24MP400 - EBU64091114 - EBU64091114 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 464.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.166Z"
+  updated_at: "2026-11-13T13:48:21.120Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.166Z"
+    verified_at: "2026-11-13T13:48:21.120Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.166Z"
+    verified_at: "2026-11-13T13:48:21.120Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

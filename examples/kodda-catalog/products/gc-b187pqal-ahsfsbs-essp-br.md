@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-b187pqal-ahsfsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Side by Side LG 519L com Compressor Inverter - GC-B187PQAL"
+name: "Geladeira Side by Side LG 519L com Compressor Inverter - GC-B187PQAL | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4939.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.193Z"
+  updated_at: "2026-11-13T13:48:21.148Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.193Z"
+    verified_at: "2026-11-13T13:48:21.148Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.193Z"
+    verified_at: "2026-11-13T13:48:21.148Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

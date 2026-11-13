@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aaa33357608-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo controle remoto com fio LG - AAA33357608 - AAA33357608"
+name: "Cabo controle remoto com fio LG - AAA33357608 - AAA33357608 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 170.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.854Z"
+  updated_at: "2026-11-13T13:48:20.814Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.854Z"
+    verified_at: "2026-11-13T13:48:20.814Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.854Z"
+    verified_at: "2026-11-13T13:48:20.814Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

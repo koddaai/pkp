@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30112010-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 50UR8750PSA - AGF30112010 - AGF30112010"
+name: "Kit régua de LED TV LG 50UR8750PSA - AGF30112010 - AGF30112010 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 205.91
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.911Z"
+  updated_at: "2026-11-13T13:48:20.870Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.911Z"
+    verified_at: "2026-11-13T13:48:20.870Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.911Z"
+    verified_at: "2026-11-13T13:48:20.870Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

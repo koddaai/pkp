@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eat61813802-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Wi Fi TV LG 43LH6000, 32LH560B, 49LH5700 - EAT61813802 - EAT61813802"
+name: "Placa Wi Fi TV LG 43LH6000, 32LH560B, 49LH5700 - EAT61813802 - EAT61813802 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.56
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.056Z"
+  updated_at: "2026-11-13T13:48:21.001Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.056Z"
+    verified_at: "2026-11-13T13:48:21.001Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.056Z"
+    verified_at: "2026-11-13T13:48:21.001Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr88277912-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Secundária Ar Condicionado LG A3UW24GFA3 EBR88277912 - EBR88277912"
+name: "Placa Secundária Ar Condicionado LG A3UW24GFA3 EBR88277912 - EBR88277912 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 445.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.152Z"
+  updated_at: "2026-11-13T13:48:21.107Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.152Z"
+    verified_at: "2026-11-13T13:48:21.107Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.152Z"
+    verified_at: "2026-11-13T13:48:21.107Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

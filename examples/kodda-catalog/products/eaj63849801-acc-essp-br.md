@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj63849801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Painel de cristal líquido (módulo) Monitor Desktop LG 23MB35PH-B, 23MB35VQ-H, 23MB35PY-B - EAJ63849801 - EAJ63849801"
+name: "Painel de cristal líquido (módulo) Monitor Desktop LG 23MB35PH-B, 23MB35VQ-H, 23MB35PY-B - EAJ63849801 - EAJ63849801 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 835.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.023Z"
+  updated_at: "2026-11-13T13:48:20.977Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.023Z"
+    verified_at: "2026-11-13T13:48:20.977Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.023Z"
+    verified_at: "2026-11-13T13:48:20.977Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

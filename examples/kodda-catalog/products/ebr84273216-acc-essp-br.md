@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr84273216-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Ar Condicionado LG S4NQ12JA3WF - EBR84273216 - EBR84273216"
+name: "Placa principal Ar Condicionado LG S4NQ12JA3WF - EBR84273216 - EBR84273216 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.138Z"
+  updated_at: "2026-11-13T13:48:21.093Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.138Z"
+    verified_at: "2026-11-13T13:48:21.093Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.138Z"
+    verified_at: "2026-11-13T13:48:21.093Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

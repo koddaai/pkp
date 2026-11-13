@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "383eer3001g-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Amortecedor Lava e Seca LG WD-12596RDA, F4V3RGP0WB, F4V3RGPMW - 383EER3001G - 383EER3001G"
+name: "Amortecedor Lava e Seca LG WD-12596RDA, F4V3RGP0WB, F4V3RGPMW - 383EER3001G - 383EER3001G | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.788Z"
+  updated_at: "2026-11-13T13:48:20.736Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.788Z"
+    verified_at: "2026-11-13T13:48:20.736Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.788Z"
+    verified_at: "2026-11-13T13:48:20.736Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

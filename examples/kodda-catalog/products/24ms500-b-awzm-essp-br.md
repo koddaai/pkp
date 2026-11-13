@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "24ms500-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação - 24MS500-B - 24MS500-B"
+name: "Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação - 24MS500-B - 24MS500-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 598.99
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.773Z"
+  updated_at: "2026-11-13T13:48:20.720Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.773Z"
+    verified_at: "2026-11-13T13:48:20.720Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.773Z"
+    verified_at: "2026-11-13T13:48:20.720Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

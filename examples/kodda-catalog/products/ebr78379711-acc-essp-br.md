@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr78379711-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Eeprom Ar Condicionado LG EBR78379711 - EBR78379711"
+name: "Placa Eeprom Ar Condicionado LG EBR78379711 - EBR78379711 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 27.93
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.122Z"
+  updated_at: "2026-11-13T13:48:21.076Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.122Z"
+    verified_at: "2026-11-13T13:48:21.076Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.122Z"
+    verified_at: "2026-11-13T13:48:21.076Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

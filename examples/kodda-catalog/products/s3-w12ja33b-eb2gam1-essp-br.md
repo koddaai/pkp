@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-w12ja33b-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG Dual Inverter Voice +AI 12.000 BTU Quente/Frio 220V - S3-W12JA33B"
+name: "Ar-Condicionado LG Dual Inverter Voice +AI 12.000 BTU Quente/Frio 220V - S3-W12JA33B | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2665.7
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.257Z"
+  updated_at: "2026-11-13T13:48:21.202Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.257Z"
+    verified_at: "2026-11-13T13:48:21.202Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.257Z"
+    verified_at: "2026-11-13T13:48:21.202Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

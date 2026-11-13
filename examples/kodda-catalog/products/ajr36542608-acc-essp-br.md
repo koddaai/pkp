@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajr36542608-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo Coletor Ar Condicionado LG CRNU24GTPC4 AJR36542608 - AJR36542608"
+name: "Tubo Coletor Ar Condicionado LG CRNU24GTPC4 AJR36542608 - AJR36542608 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1025.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.942Z"
+  updated_at: "2026-11-13T13:48:20.905Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.942Z"
+    verified_at: "2026-11-13T13:48:20.905Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.942Z"
+    verified_at: "2026-11-13T13:48:20.905Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

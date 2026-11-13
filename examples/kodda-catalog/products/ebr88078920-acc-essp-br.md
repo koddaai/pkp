@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr88078920-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Ar Condicionado LG S4NQ09WA5AA - EBR88078920 - EBR88078920"
+name: "Placa principal Ar Condicionado LG S4NQ09WA5AA - EBR88078920 - EBR88078920 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 787.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.150Z"
+  updated_at: "2026-11-13T13:48:21.106Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.150Z"
+    verified_at: "2026-11-13T13:48:21.106Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.150Z"
+    verified_at: "2026-11-13T13:48:21.106Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

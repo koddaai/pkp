@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr42697607-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Inverter Ar Condicionado LG Z3UW24GFB1 EBR42697607 - EBR42697607"
+name: "Placa Inverter Ar Condicionado LG Z3UW24GFB1 EBR42697607 - EBR42697607 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4454.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.111Z"
+  updated_at: "2026-11-13T13:48:21.063Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.111Z"
+    verified_at: "2026-11-13T13:48:21.063Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.111Z"
+    verified_at: "2026-11-13T13:48:21.063Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

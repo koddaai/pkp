@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "34u620b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraWide™ Curvo 34U620B – Tela 34” VA QHD 2K, Curvatura 1800R, 144Hz nativo, PBP & PIP, HDR 10, sRGB99%, AMD FreeSync™ Premium, HDMI2.0 2x, DisplayPort1.4, Saída para fone de ouvido - 34U620B-B"
+name: "Monitor LG UltraWide™ Curvo 34U620B – Tela 34” VA QHD 2K, Curvatura 1800R, 144Hz nativo, PBP & PIP, HDR 10, sRGB99%, AMD FreeSync™ Premium, HDMI2.0 2x, DisplayPort1.4, Saída para fone de ouvido - 34U620B-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1799
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.786Z"
+  updated_at: "2026-11-13T13:48:20.734Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.786Z"
+    verified_at: "2026-11-13T13:48:20.734Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.786Z"
+    verified_at: "2026-11-13T13:48:20.734Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

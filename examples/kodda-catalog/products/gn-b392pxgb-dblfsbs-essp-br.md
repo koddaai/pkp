@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gn-b392pxgb-dblfsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira LG Frost Free Inverter 395L Duplex Cor Black Inox - 127V - GN-B392PXGB"
+name: "Geladeira LG Frost Free Inverter 395L Duplex Cor Black Inox - 127V - GN-B392PXGB | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2749
+  value: 2844
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.197Z"
+  updated_at: "2026-11-13T13:48:21.155Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.197Z"
+    verified_at: "2026-11-13T13:48:21.155Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.197Z"
+    verified_at: "2026-11-13T13:48:21.155Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

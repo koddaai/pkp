@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu65652901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 65UM7650PSB EBU65652901 - EBU65652901"
+name: "Placa Principal TV LG 65UM7650PSB EBU65652901 - EBU65652901 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 979.58
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.169Z"
+  updated_at: "2026-11-13T13:48:21.123Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.169Z"
+    verified_at: "2026-11-13T13:48:21.123Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.169Z"
+    verified_at: "2026-11-13T13:48:21.123Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

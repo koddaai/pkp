@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "34g600a-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor Gamer LG UltraGear™ Curvo 34G600A-B 34\" QuadHD 2K, UltraWide 1800R, 160Hz, 1ms (MBR), AMD FreeSync™ Premium, HDR10, MaxxAudio - 34G600A-B"
+name: "Monitor Gamer LG UltraGear™ Curvo 34G600A-B 34\" QuadHD 2K, UltraWide 1800R, 160Hz, 1ms (MBR), AMD FreeSync™ Premium, HDR10, MaxxAudio - 34G600A-B | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "hdr", "premium", "ultra", "max", "gamer"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1799.01
+  value: 1949.02
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.785Z"
+  updated_at: "2026-11-13T13:48:20.733Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.785Z"
+    verified_at: "2026-11-13T13:48:20.733Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.785Z"
+    verified_at: "2026-11-13T13:48:20.733Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4932er4007c-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conector de mangueira Lavadora LG WD-1403RD5, WD-1403FDA, WD-1403RD - 4932ER4007C - 4932ER4007C"
+name: "Conector de mangueira Lavadora LG WD-1403RD5, WD-1403FDA, WD-1403RD - 4932ER4007C - 4932ER4007C | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.808Z"
+  updated_at: "2026-11-13T13:48:20.758Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.808Z"
+    verified_at: "2026-11-13T13:48:20.758Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.808Z"
+    verified_at: "2026-11-13T13:48:20.758Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

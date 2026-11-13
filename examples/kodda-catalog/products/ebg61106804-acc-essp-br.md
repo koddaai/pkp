@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg61106804-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sensor de temperatura e cabo elétrico Ar Condicionado LG LMCN125HV, ABNQ36GM2A2, ABNQ54GM3A2 - EBG61106804 - EBG61106804"
+name: "Sensor de temperatura e cabo elétrico Ar Condicionado LG LMCN125HV, ABNQ36GM2A2, ABNQ54GM3A2 - EBG61106804 - EBG61106804 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.090Z"
+  updated_at: "2026-11-13T13:48:21.039Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.090Z"
+    verified_at: "2026-11-13T13:48:21.039Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.090Z"
+    verified_at: "2026-11-13T13:48:21.039Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

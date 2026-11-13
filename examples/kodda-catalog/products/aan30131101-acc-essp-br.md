@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan30131101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 55QNED80SRA EBU67426201 - AAN30131101"
+name: "Placa Principal TV LG 55QNED80SRA EBU67426201 - AAN30131101 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.858Z"
+  updated_at: "2026-11-13T13:48:20.817Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.858Z"
+    verified_at: "2026-11-13T13:48:20.817Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.858Z"
+    verified_at: "2026-11-13T13:48:20.817Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

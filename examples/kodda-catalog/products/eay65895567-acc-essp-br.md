@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65895567-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da Fonte TV LG 43UR7800PSA - EAY65895567 - EAY65895567"
+name: "Placa da Fonte TV LG 43UR7800PSA - EAY65895567 - EAY65895567 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 290.96
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.084Z"
+  updated_at: "2026-11-13T13:48:21.032Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.084Z"
+    verified_at: "2026-11-13T13:48:21.032Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.084Z"
+    verified_at: "2026-11-13T13:48:21.032Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

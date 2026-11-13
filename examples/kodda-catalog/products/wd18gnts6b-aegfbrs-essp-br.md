@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "wd18gnts6b-aegfbrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lava e Seca Smart LG 18kg Black Inox com AIDD™ 2.0 - WD18GNTS6B"
+name: "Lava e Seca Smart LG 18kg Black Inox com AIDD™ 2.0 - WD18GNTS6B | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai", "8k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 6299
+  value: 6499
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.280Z"
+  updated_at: "2026-11-13T13:48:21.218Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.280Z"
+    verified_at: "2026-11-13T13:48:21.218Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.280Z"
+    verified_at: "2026-11-13T13:48:21.218Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

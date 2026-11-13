@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr39187709-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Ar Condicionado LG LTNC182QLE0, LTNC182QLE0, LTNC182QLE0 - EBR39187709 - EBR39187709"
+name: "Placa principal Ar Condicionado LG LTNC182QLE0, LTNC182QLE0, LTNC182QLE0 - EBR39187709 - EBR39187709 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 521.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.107Z"
+  updated_at: "2026-11-13T13:48:21.058Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.107Z"
+    verified_at: "2026-11-13T13:48:21.058Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.107Z"
+    verified_at: "2026-11-13T13:48:21.058Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

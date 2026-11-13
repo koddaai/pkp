@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "86tr3dk-b-yuwq-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lousa Digital LG CreateBoard UHD 4K - 86TR3DK-BY"
+name: "Lousa Digital LG CreateBoard UHD 4K - 86TR3DK-BY | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 21849.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.853Z"
+  updated_at: "2026-11-13T13:48:20.813Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.853Z"
+    verified_at: "2026-11-13T13:48:20.813Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.853Z"
+    verified_at: "2026-11-13T13:48:20.813Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

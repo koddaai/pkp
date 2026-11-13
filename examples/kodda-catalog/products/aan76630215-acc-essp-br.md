@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan76630215-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Pedestal para TV/monitor - AAN76630215"
+name: "Pedestal para TV/monitor - AAN76630215 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 58.99
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.867Z"
+  updated_at: "2026-11-13T13:48:20.825Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.867Z"
+    verified_at: "2026-11-13T13:48:20.825Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.867Z"
+    verified_at: "2026-11-13T13:48:20.825Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

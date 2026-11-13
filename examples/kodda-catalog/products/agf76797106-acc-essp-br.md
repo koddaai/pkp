@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf76797106-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Mica Micro-ondas LG MH7047G - AGF76797106 - AGF76797106"
+name: "Placa Mica Micro-ondas LG MH7047G - AGF76797106 - AGF76797106 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.915Z"
+  updated_at: "2026-11-13T13:48:20.874Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.915Z"
+    verified_at: "2026-11-13T13:48:20.874Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.915Z"
+    verified_at: "2026-11-13T13:48:20.874Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

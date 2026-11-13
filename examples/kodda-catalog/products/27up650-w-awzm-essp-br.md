@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27up650-w-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UHD 27” IPS, 4K, 3840 x 2160, 60Hz, 5ms (GtG em Faster), VESA Display, HDR™ 400, HDMI, AMD FreeSync - 27UP650-W - 27UP650-W"
+name: "Monitor LG UHD 27” IPS, 4K, 3840 x 2160, 60Hz, 5ms (GtG em Faster), VESA Display, HDR™ 400, HDMI, AMD FreeSync - 27UP650-W - 27UP650-W | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1299
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.778Z"
+  updated_at: "2026-11-13T13:48:20.726Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.778Z"
+    verified_at: "2026-11-13T13:48:20.726Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.778Z"
+    verified_at: "2026-11-13T13:48:20.726Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

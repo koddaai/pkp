@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5220fr1251h-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Válvula de 2 vias Lavadora LG FV5011WG4, FV3011WG4, FV3011WG4A - 5220FR1251H - 5220FR1251H"
+name: "Válvula de 2 vias Lavadora LG FV5011WG4, FV3011WG4, FV3011WG4A - 5220FR1251H - 5220FR1251H | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 265.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.815Z"
+  updated_at: "2026-11-13T13:48:20.767Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.815Z"
+    verified_at: "2026-11-13T13:48:20.767Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.815Z"
+    verified_at: "2026-11-13T13:48:20.767Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

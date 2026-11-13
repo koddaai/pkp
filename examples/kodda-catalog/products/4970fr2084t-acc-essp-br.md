@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4970fr2084t-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mola de sustentação do tanque Lavadora LG WD-1409RD5, WD11WP6A, WD1411RW - 4970FR2084T - 4970FR2084T"
+name: "Mola de sustentação do tanque Lavadora LG WD-1409RD5, WD11WP6A, WD1411RW - 4970FR2084T - 4970FR2084T | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 64.95
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.808Z"
+  updated_at: "2026-11-13T13:48:20.759Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.808Z"
+    verified_at: "2026-11-13T13:48:20.759Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.808Z"
+    verified_at: "2026-11-13T13:48:20.759Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

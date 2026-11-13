@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mff60185701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conexão vertical aleta Ar Condicionado LG MFF60185701 - MFF60185701"
+name: "Conexão vertical aleta Ar Condicionado LG MFF60185701 - MFF60185701 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.231Z"
+  updated_at: "2026-11-13T13:48:21.175Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.231Z"
+    verified_at: "2026-11-13T13:48:21.175Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.231Z"
+    verified_at: "2026-11-13T13:48:21.175Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

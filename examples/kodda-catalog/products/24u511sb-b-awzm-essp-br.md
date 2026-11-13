@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "24u511sb-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG Smart AI 24U511SB, Tela IPS 24” FHD, WebOS 26, AirPlay 2, ThinQ, Bluetooth, Wi-Fi, 120Hz, 5ms (GtG), sRGB 99%, HDR10, USB, HDMI - 24U511SB-B"
+name: "Monitor LG Smart AI 24U511SB, Tela IPS 24” FHD, WebOS 26, AirPlay 2, ThinQ, Bluetooth, Wi-Fi, 120Hz, 5ms (GtG), sRGB 99%, HDR10, USB, HDMI - 24U511SB-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1168.99
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.773Z"
+  updated_at: "2026-11-13T13:48:20.720Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.773Z"
+    verified_at: "2026-11-13T13:48:20.720Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.773Z"
+    verified_at: "2026-11-13T13:48:20.720Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

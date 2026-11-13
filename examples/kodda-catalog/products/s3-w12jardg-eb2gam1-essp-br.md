@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-w12jardg-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-W12JARDG - S3-W12JARDG"
+name: "Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-W12JARDG - S3-W12JARDG | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3495.08
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.257Z"
+  updated_at: "2026-11-13T13:48:21.202Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.257Z"
+    verified_at: "2026-11-13T13:48:21.202Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.257Z"
+    verified_at: "2026-11-13T13:48:21.202Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

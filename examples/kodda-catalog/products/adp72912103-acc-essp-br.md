@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adp72912103-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hélice plástica do ventilador Ar Condicionado LG TSNH072W4A0, TSNH072W4A0, USNC072W4W0 - ADP72912103 - ADP72912103"
+name: "Hélice plástica do ventilador Ar Condicionado LG TSNH072W4A0, TSNH072W4A0, USNC072W4W0 - ADP72912103 - ADP72912103 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 331.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.893Z"
+  updated_at: "2026-11-13T13:48:20.851Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.893Z"
+    verified_at: "2026-11-13T13:48:20.851Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.893Z"
+    verified_at: "2026-11-13T13:48:20.851Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

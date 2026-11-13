@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27gx704-grab-essp-br"
 # gtin: null
 brand: "LG"
-name: "Combo Monitor LG OLED UltraGear™ 27GX704A-B 27\" + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA - 27GX704.GRAB"
+name: "Combo Monitor LG OLED UltraGear™ 27GX704A-B 27\" + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA - 27GX704.GRAB | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4099.7
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.776Z"
+  updated_at: "2026-11-13T13:48:20.723Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.776Z"
+    verified_at: "2026-11-13T13:48:20.723Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.776Z"
+    verified_at: "2026-11-13T13:48:20.723Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

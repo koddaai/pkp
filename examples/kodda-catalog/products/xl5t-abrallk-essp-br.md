@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "xl5t-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "Caixa de som Bluetooth PartyBox LG XBOOM 200W RMS, Resistente à água (IPX4), 12 horas de bateria e Iluminação de Festa - XL5T - XL5T"
+name: "Caixa de som Bluetooth PartyBox LG XBOOM 200W RMS, Resistente à água (IPX4), 12 horas de bateria e Iluminação de Festa - XL5T - XL5T | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1574.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.282Z"
+  updated_at: "2026-11-13T13:48:21.221Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.282Z"
+    verified_at: "2026-11-13T13:48:21.221Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.282Z"
+    verified_at: "2026-11-13T13:48:21.221Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

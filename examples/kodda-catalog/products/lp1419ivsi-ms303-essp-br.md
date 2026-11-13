@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "lp1419ivsi-ms303-essp-br"
 # gtin: null
 brand: "LG"
-name: "Combo LG Ar Portátil 127V + Micro-ondas LG NeoChef 30 litros Preto Limpa Fácil 220V - LP1419IVSI.MS303"
+name: "Combo LG Ar Portátil 127V + Micro-ondas LG NeoChef 30 litros Preto Limpa Fácil 220V - LP1419IVSI.MS303 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5478.84
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.212Z"
+  updated_at: "2026-11-13T13:48:21.159Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.212Z"
+    verified_at: "2026-11-13T13:48:21.159Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.212Z"
+    verified_at: "2026-11-13T13:48:21.159Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

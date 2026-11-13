@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s4-w30l43fa-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar Condicionado Split LG DUAL InverterVoice 30.000, Quente/Frio, 220V - S4-W30L43FA"
+name: "Ar Condicionado Split LG DUAL InverterVoice 30.000, Quente/Frio, 220V - S4-W30L43FA | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8699
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.269Z"
+  updated_at: "2026-11-13T13:48:21.205Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.269Z"
+    verified_at: "2026-11-13T13:48:21.205Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.269Z"
+    verified_at: "2026-11-13T13:48:21.205Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

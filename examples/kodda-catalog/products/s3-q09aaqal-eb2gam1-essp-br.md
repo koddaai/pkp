@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-q09aaqal-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG Dual Inverter Compact +AI 9.000 BTU Frio 220V - S3-Q09AAQAL"
+name: "Ar-Condicionado LG Dual Inverter Compact +AI 9.000 BTU Frio 220V - S3-Q09AAQAL | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2224.11
+  value: 2299.08
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.250Z"
+  updated_at: "2026-11-13T13:48:21.195Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.250Z"
+    verified_at: "2026-11-13T13:48:21.195Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.250Z"
+    verified_at: "2026-11-13T13:48:21.195Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

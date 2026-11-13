@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr82278548-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Ar Condicionado LG S4UQ18KL31B EBR82278548 - EBR82278548"
+name: "Placa Principal Ar Condicionado LG S4UQ18KL31B EBR82278548 - EBR82278548 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 949.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.131Z"
+  updated_at: "2026-11-13T13:48:21.085Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.131Z"
+    verified_at: "2026-11-13T13:48:21.085Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.131Z"
+    verified_at: "2026-11-13T13:48:21.085Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

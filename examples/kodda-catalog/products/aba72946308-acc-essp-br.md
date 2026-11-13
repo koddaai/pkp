@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aba72946308-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Botão Power Monitor LED LCD LG E2011P-BN, 23MB35PH-BK, 23MB35PY-BI - ABA72946308 - ABA72946308"
+name: "Botão Power Monitor LED LCD LG E2011P-BN, 23MB35PH-BK, 23MB35PY-BI - ABA72946308 - ABA72946308 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 49.53
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.870Z"
+  updated_at: "2026-11-13T13:48:20.828Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.870Z"
+    verified_at: "2026-11-13T13:48:20.828Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.870Z"
+    verified_at: "2026-11-13T13:48:20.828Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6914jb2006c-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Módulo do Descongelador Geladeira LG LGR43 6914JB2006C - 6914JB2006C"
+name: "Módulo do Descongelador Geladeira LG LGR43 6914JB2006C - 6914JB2006C | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 90.91
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.849Z"
+  updated_at: "2026-11-13T13:48:20.809Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.849Z"
+    verified_at: "2026-11-13T13:48:20.809Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.849Z"
+    verified_at: "2026-11-13T13:48:20.809Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

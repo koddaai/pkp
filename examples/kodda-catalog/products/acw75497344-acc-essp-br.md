@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acw75497344-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Painel Ar Condicionado LG S4NQ12JA31C ACW75497344 - ACW75497344"
+name: "Painel Ar Condicionado LG S4NQ12JA31C ACW75497344 - ACW75497344 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.883Z"
+  updated_at: "2026-11-13T13:48:20.841Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.883Z"
+    verified_at: "2026-11-13T13:48:20.841Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.883Z"
+    verified_at: "2026-11-13T13:48:20.841Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

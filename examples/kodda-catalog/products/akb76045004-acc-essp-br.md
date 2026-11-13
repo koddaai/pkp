@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb76045004-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Smart Magic  MR24GA TV LG - AKB76045004 - AKB76045004"
+name: "Controle Smart Magic  MR24GA TV LG - AKB76045004 - AKB76045004 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 148.82
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.961Z"
+  updated_at: "2026-11-13T13:48:20.926Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.961Z"
+    verified_at: "2026-11-13T13:48:20.926Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.961Z"
+    verified_at: "2026-11-13T13:48:20.926Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

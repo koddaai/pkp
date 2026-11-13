@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu65672503-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal TV LG 43LM6300PSB, 43LM631C0SB, 43LM6370PSB - EBU65672503 - EBU65672503"
+name: "Placa principal TV LG 43LM6300PSB, 43LM631C0SB, 43LM6370PSB - EBU65672503 - EBU65672503 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 538.4
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.170Z"
+  updated_at: "2026-11-13T13:48:21.125Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.170Z"
+    verified_at: "2026-11-13T13:48:21.125Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.170Z"
+    verified_at: "2026-11-13T13:48:21.125Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

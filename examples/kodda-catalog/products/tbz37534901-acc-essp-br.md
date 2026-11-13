@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tbz37534901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Compressor GKT208MA Ar Condicionado LG ATUW24GPLP0 - TBZ37534901 - TBZ37534901"
+name: "Compressor GKT208MA Ar Condicionado LG ATUW24GPLP0 - TBZ37534901 - TBZ37534901 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2727.64
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.272Z"
+  updated_at: "2026-11-13T13:48:21.209Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.272Z"
+    verified_at: "2026-11-13T13:48:21.209Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.272Z"
+    verified_at: "2026-11-13T13:48:21.209Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

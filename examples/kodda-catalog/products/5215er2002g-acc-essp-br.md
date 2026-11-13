@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5215er2002g-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mangueira de drenagem para lavadoras de carga frontal (2 m) - 5215ER2002G"
+name: "Mangueira de drenagem para lavadoras de carga frontal (2 m) - 5215ER2002G | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.814Z"
+  updated_at: "2026-11-13T13:48:20.766Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.814Z"
+    verified_at: "2026-11-13T13:48:20.766Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.814Z"
+    verified_at: "2026-11-13T13:48:20.766Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

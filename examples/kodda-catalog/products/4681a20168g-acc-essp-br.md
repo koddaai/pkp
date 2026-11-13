@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681a20168g-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor corrente contínua Ar Condicionado LG ATNQ36GPLE5, ATNQ18GPLE5, ATNQ24GPLE5 - 4681A20168G - 4681A20168G"
+name: "Motor corrente contínua Ar Condicionado LG ATNQ36GPLE5, ATNQ18GPLE5, ATNQ24GPLE5 - 4681A20168G - 4681A20168G | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 558.79
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.802Z"
+  updated_at: "2026-11-13T13:48:20.752Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.802Z"
+    verified_at: "2026-11-13T13:48:20.752Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.802Z"
+    verified_at: "2026-11-13T13:48:20.752Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

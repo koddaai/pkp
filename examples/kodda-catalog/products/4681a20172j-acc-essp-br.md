@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681a20172j-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor de corrente contínua Ar Condicionado LG LTNH482MLE0, ARNU36GTNA4, ARNU36GTNC4 - 4681A20172J - 4681A20172J"
+name: "Motor de corrente contínua Ar Condicionado LG LTNH482MLE0, ARNU36GTNA4, ARNU36GTNC4 - 4681A20172J - 4681A20172J | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 901.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.802Z"
+  updated_at: "2026-11-13T13:48:20.752Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.802Z"
+    verified_at: "2026-11-13T13:48:20.752Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.802Z"
+    verified_at: "2026-11-13T13:48:20.752Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

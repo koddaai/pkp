@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-l257slpl-apzfsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Side by Side LG 635L com ThinQ™ e UVnano™ - GC-L257SLPL"
+name: "Geladeira Side by Side LG 635L com ThinQ™ e UVnano™ - GC-L257SLPL | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7999
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.195Z"
+  updated_at: "2026-11-13T13:48:21.149Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.195Z"
+    verified_at: "2026-11-13T13:48:21.149Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.195Z"
+    verified_at: "2026-11-13T13:48:21.149Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

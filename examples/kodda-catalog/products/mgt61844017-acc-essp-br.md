@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mgt61844017-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Trilho Deslizante Refrigerador LG GRX228NMSM MGT61844017 - MGT61844017"
+name: "Trilho Deslizante Refrigerador LG GRX228NMSM MGT61844017 - MGT61844017 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.237Z"
+  updated_at: "2026-11-13T13:48:21.181Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.237Z"
+    verified_at: "2026-11-13T13:48:21.181Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.237Z"
+    verified_at: "2026-11-13T13:48:21.181Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

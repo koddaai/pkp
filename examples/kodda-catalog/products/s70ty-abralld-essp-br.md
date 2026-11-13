@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s70ty-abralld-essp-br"
 # gtin: null
 brand: "LG"
-name: "Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS - S70TY"
+name: "Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS - S70TY | LG BR"
 category: "audio"
 subcategory: "soundbar"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1899.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.270Z"
+  updated_at: "2026-11-13T13:48:21.206Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.270Z"
+    verified_at: "2026-11-13T13:48:21.206Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.270Z"
+    verified_at: "2026-11-13T13:48:21.206Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

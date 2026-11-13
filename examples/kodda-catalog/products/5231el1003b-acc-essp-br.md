@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5231el1003b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro retentor de fiapos para secadoras  - 5231EL1003B"
+name: "Filtro retentor de fiapos para secadoras  - 5231EL1003B | LG BR"
 category: "eletrodomesticos"
 subcategory: "secadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 57.64
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.826Z"
+  updated_at: "2026-11-13T13:48:20.770Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.826Z"
+    verified_at: "2026-11-13T13:48:20.770Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.826Z"
+    verified_at: "2026-11-13T13:48:20.770Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

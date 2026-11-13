@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65889906-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte Externa ADS-45FSQ-19 Monitor LG 25UM58P EAY65889906 - EAY65889906"
+name: "Fonte Externa ADS-45FSQ-19 Monitor LG 25UM58P EAY65889906 - EAY65889906 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 98.61
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.082Z"
+  updated_at: "2026-11-13T13:48:21.030Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.082Z"
+    verified_at: "2026-11-13T13:48:21.030Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.082Z"
+    verified_at: "2026-11-13T13:48:21.030Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

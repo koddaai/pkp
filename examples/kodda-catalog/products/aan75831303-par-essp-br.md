@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan75831303-par-essp-br"
 # gtin: null
 brand: "LG"
-name: "Par de Base (Pedestal)  TV LG 43Uj6565 AAN75831303 e AAN75831304 - AAN75831303.PAR"
+name: "Par de Base (Pedestal)  TV LG 43Uj6565 AAN75831303 e AAN75831304 - AAN75831303.PAR | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 131.75
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.861Z"
+  updated_at: "2026-11-13T13:48:20.820Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.861Z"
+    verified_at: "2026-11-13T13:48:20.820Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.861Z"
+    verified_at: "2026-11-13T13:48:20.820Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

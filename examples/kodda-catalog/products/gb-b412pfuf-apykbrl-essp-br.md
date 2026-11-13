@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gb-b412pfuf-apykbrl-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira LG Inverter 418L Duplex Bivolt Inox  - GB-B412PFUF"
+name: "Geladeira LG Inverter 418L Duplex Bivolt Inox  - GB-B412PFUF | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3419.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.192Z"
+  updated_at: "2026-11-13T13:48:21.147Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.192Z"
+    verified_at: "2026-11-13T13:48:21.147Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.192Z"
+    verified_at: "2026-11-13T13:48:21.147Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

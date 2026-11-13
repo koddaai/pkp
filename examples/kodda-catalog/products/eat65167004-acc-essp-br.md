@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eat65167004-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Wi-Fi LGSBWAC95 TV LG 82UP8050PSB, 65NANO85SPA, OLED55C1PSA - EAT65167004 - EAT65167004"
+name: "Placa Wi-Fi LGSBWAC95 TV LG 82UP8050PSB, 65NANO85SPA, OLED55C1PSA - EAT65167004 - EAT65167004 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.059Z"
+  updated_at: "2026-11-13T13:48:21.004Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.059Z"
+    verified_at: "2026-11-13T13:48:21.004Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.059Z"
+    verified_at: "2026-11-13T13:48:21.004Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

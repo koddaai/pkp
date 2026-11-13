@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr73874904-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da condensadora Ar Condicionado LG ARUN80BT2, ARUN100LT2.EWGBLEU, ARUN120LT2 - EBR73874904 - EBR73874904"
+name: "Placa da condensadora Ar Condicionado LG ARUN80BT2, ARUN100LT2.EWGBLEU, ARUN120LT2 - EBR73874904 - EBR73874904 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6428.69
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.114Z"
+  updated_at: "2026-11-13T13:48:21.067Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.114Z"
+    verified_at: "2026-11-13T13:48:21.067Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.114Z"
+    verified_at: "2026-11-13T13:48:21.067Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

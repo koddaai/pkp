@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu66307601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Monitor LG 27UL500-W - EBU66307601 - EBU66307601"
+name: "Placa Principal Monitor LG 27UL500-W - EBU66307601 - EBU66307601 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 787.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.174Z"
+  updated_at: "2026-11-13T13:48:21.129Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.174Z"
+    verified_at: "2026-11-13T13:48:21.129Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.174Z"
+    verified_at: "2026-11-13T13:48:21.129Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

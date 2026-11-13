@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6901w1a001g-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fusível THV060TN Forno micro-ondas LG MP9488SR, MA3884VC, MP-9485SW - 6901W1A001G - 6901W1A001G"
+name: "Fusível THV060TN Forno micro-ondas LG MP9488SR, MA3884VC, MP-9485SW - 6901W1A001G - 6901W1A001G | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.848Z"
+  updated_at: "2026-11-13T13:48:20.809Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.848Z"
+    verified_at: "2026-11-13T13:48:20.809Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.848Z"
+    verified_at: "2026-11-13T13:48:20.809Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

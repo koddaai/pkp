@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65434901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (módulo) Notebook LG 15Z980-G, 15Z90N-V - EAJ65434901 - EAJ65434901"
+name: "Tela de cristal líquido (módulo) Notebook LG 15Z980-G, 15Z90N-V - EAJ65434901 - EAJ65434901 | LG BR"
 category: "notebooks"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1043.95
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.028Z"
+  updated_at: "2026-11-13T13:48:20.981Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.028Z"
+    verified_at: "2026-11-13T13:48:20.981Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.028Z"
+    verified_at: "2026-11-13T13:48:20.981Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

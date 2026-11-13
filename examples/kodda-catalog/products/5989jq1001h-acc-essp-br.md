@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5989jq1001h-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conjunto da unidade de fabricação de gelo com bandeja Refrigerador LG LR-21SDW1A - 5989JQ1001H - 5989JQ1001H"
+name: "Conjunto da unidade de fabricação de gelo com bandeja Refrigerador LG LR-21SDW1A - 5989JQ1001H - 5989JQ1001H | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 702.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.835Z"
+  updated_at: "2026-11-13T13:48:20.796Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.835Z"
+    verified_at: "2026-11-13T13:48:20.796Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.835Z"
+    verified_at: "2026-11-13T13:48:20.796Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

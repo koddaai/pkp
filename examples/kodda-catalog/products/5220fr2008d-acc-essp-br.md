@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5220fr2008d-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Válvula Entrada Água 4 vias Lava e Seca LG WD-13436RD, WD-12270RD, WD1316AD7 - 5220FR2008D - 5220FR2008D"
+name: "Válvula Entrada Água 4 vias Lava e Seca LG WD-13436RD, WD-12270RD, WD1316AD7 - 5220FR2008D - 5220FR2008D | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.817Z"
+  updated_at: "2026-11-13T13:48:20.767Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.817Z"
+    verified_at: "2026-11-13T13:48:20.767Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.817Z"
+    verified_at: "2026-11-13T13:48:20.767Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

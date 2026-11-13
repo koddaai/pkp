@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebl61879901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sintonizador de canal (Tuner RF) TV LG 43LJ5500, 49LJ5550-SC, 32LJ601C - EBL61879901 - EBL61879901"
+name: "Sintonizador de canal (Tuner RF) TV LG 43LJ5500, 49LJ5550-SC, 32LJ601C - EBL61879901 - EBL61879901 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 105.39
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.097Z"
+  updated_at: "2026-11-13T13:48:21.047Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.097Z"
+    verified_at: "2026-11-13T13:48:21.047Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.097Z"
+    verified_at: "2026-11-13T13:48:21.047Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

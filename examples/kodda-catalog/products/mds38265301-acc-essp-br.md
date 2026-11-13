@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mds38265301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Borracha porta Lava e Seca LG WD-1409RD5, WD-1409FD, WD-1409FDA - MDS38265301 - MDS38265301"
+name: "Borracha porta Lava e Seca LG WD-1409RD5, WD-1409FD, WD-1409FDA - MDS38265301 - MDS38265301 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 217.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.222Z"
+  updated_at: "2026-11-13T13:48:21.168Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.222Z"
+    verified_at: "2026-11-13T13:48:21.168Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.222Z"
+    verified_at: "2026-11-13T13:48:21.168Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

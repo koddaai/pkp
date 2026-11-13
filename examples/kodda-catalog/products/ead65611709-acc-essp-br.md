@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead65611709-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flat Televisão LG 49UH6500 EAD65611709 - EAD65611709"
+name: "Cabo Flat Televisão LG 49UH6500 EAD65611709 - EAD65611709 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.016Z"
+  updated_at: "2026-11-13T13:48:20.969Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.016Z"
+    verified_at: "2026-11-13T13:48:20.969Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.016Z"
+    verified_at: "2026-11-13T13:48:20.969Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

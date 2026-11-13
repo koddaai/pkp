@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "32gn600-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor Gamer LG UltraGear 31,5'' QHD 2560x1440 165Hz 1ms (MBR) HDR10 HDMI AMD FreeSync 32GN600-B - 32GN600-B"
+name: "Monitor Gamer LG UltraGear 31,5'' QHD 2560x1440 165Hz 1ms (MBR) HDR10 HDMI AMD FreeSync 32GN600-B - 32GN600-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1294.85
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.781Z"
+  updated_at: "2026-11-13T13:48:20.729Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.781Z"
+    verified_at: "2026-11-13T13:48:20.729Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.781Z"
+    verified_at: "2026-11-13T13:48:20.729Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

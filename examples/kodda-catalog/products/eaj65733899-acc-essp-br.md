@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65733899-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Módulo (Display) LCD TV OLED LG - EAJ65733899 - EAJ65733899"
+name: "Módulo (Display) LCD TV OLED LG - EAJ65733899 - EAJ65733899 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6509.3
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.033Z"
+  updated_at: "2026-11-13T13:48:20.987Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.033Z"
+    verified_at: "2026-11-13T13:48:20.987Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.033Z"
+    verified_at: "2026-11-13T13:48:20.987Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

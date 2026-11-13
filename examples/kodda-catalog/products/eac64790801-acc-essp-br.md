@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eac64790801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bateria Recarregável de Íon-Litio Speaker LG - EAC64790801 - EAC64790801"
+name: "Bateria Recarregável de Íon-Litio Speaker LG - EAC64790801 - EAC64790801 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1291.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.999Z"
+  updated_at: "2026-11-13T13:48:20.952Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.999Z"
+    verified_at: "2026-11-13T13:48:20.952Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.999Z"
+    verified_at: "2026-11-13T13:48:20.952Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

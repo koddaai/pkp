@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr77852401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Ar Condicionado LG ARUN160LLS4, ARUN180LLS4, ARUN200LLS4 - EBR77852401 - EBR77852401"
+name: "Placa Ar Condicionado LG ARUN160LLS4, ARUN180LLS4, ARUN200LLS4 - EBR77852401 - EBR77852401 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 588.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.120Z"
+  updated_at: "2026-11-13T13:48:21.074Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.120Z"
+    verified_at: "2026-11-13T13:48:21.074Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.120Z"
+    verified_at: "2026-11-13T13:48:21.074Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

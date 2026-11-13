@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr74561003-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do sensor de toque TV LG 32CS460, 32LS5700.BWZ, 42CS460 - EBR74561003 - EBR74561003"
+name: "Placa do sensor de toque TV LG 32CS460, 32LS5700.BWZ, 42CS460 - EBR74561003 - EBR74561003 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.56
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.115Z"
+  updated_at: "2026-11-13T13:48:21.068Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.115Z"
+    verified_at: "2026-11-13T13:48:21.068Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.115Z"
+    verified_at: "2026-11-13T13:48:21.068Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

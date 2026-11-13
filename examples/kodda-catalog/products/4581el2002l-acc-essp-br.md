@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4581el2002l-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit 4 Rodas para Secadora de Roupa LG CDG27MUCES 4581EL2002L - 4581EL2002L"
+name: "Kit 4 Rodas para Secadora de Roupa LG CDG27MUCES 4581EL2002L - 4581EL2002L | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.69
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.798Z"
+  updated_at: "2026-11-13T13:48:20.749Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.798Z"
+    verified_at: "2026-11-13T13:48:20.749Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.798Z"
+    verified_at: "2026-11-13T13:48:20.749Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

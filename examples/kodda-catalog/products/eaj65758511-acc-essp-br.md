@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65758511-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido BA TV LG 65UQ801C0SB EAJ65758511 - EAJ65758511"
+name: "Tela de cristal líquido BA TV LG 65UQ801C0SB EAJ65758511 - EAJ65758511 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1291.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.044Z"
+  updated_at: "2026-11-13T13:48:20.992Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.044Z"
+    verified_at: "2026-11-13T13:48:20.992Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.044Z"
+    verified_at: "2026-11-13T13:48:20.992Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

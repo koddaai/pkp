@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65208301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (Módulo) TV LG 50UN7310PSC, 50UL3G-B, 50UN7310PSC - EAJ65208301 - EAJ65208301"
+name: "Tela de cristal líquido (Módulo) TV LG 50UN7310PSC, 50UL3G-B, 50UN7310PSC - EAJ65208301 - EAJ65208301 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 911.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.027Z"
+  updated_at: "2026-11-13T13:48:20.981Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.027Z"
+    verified_at: "2026-11-13T13:48:20.981Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.027Z"
+    verified_at: "2026-11-13T13:48:20.981Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

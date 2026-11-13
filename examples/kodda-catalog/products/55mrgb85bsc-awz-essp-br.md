@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "55mrgb85bsc-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG Mini RGB evo AI 4K MRGB85 55 polegadas 2026 - 55MRGB85BSC"
+name: "Smart TV LG Mini RGB evo AI 4K MRGB85 55 polegadas 2026 - 55MRGB85BSC | LG BR"
 category: "tvs"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai", "4k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3869.1
+  value: 4084.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.828Z"
+  updated_at: "2026-11-13T13:48:20.771Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.828Z"
+    verified_at: "2026-11-13T13:48:20.771Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.828Z"
+    verified_at: "2026-11-13T13:48:20.771Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

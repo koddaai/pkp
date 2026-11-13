@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65753710-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (BA) TV LG 43UQ7500PSF - EAJ65753710 - EAJ65753710"
+name: "Tela de cristal líquido (BA) TV LG 43UQ7500PSF - EAJ65753710 - EAJ65753710 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1096.2
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.035Z"
+  updated_at: "2026-11-13T13:48:20.990Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.035Z"
+    verified_at: "2026-11-13T13:48:20.990Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.035Z"
+    verified_at: "2026-11-13T13:48:20.990Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

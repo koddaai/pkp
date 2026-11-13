@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "oled77c6-s90ty-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG OLED evo AI 4K C6 77 polegadas 2026+Soundbar LG S90TY – 570W RMS, Dolby Atmos, 5.1.3 Canais, DTS:X, AI Room Calibration Pro, AI Sound Pro, Sem fios, WOW Orchestra, Conexões Múltiplas - OLED77C6.S90TY"
+name: "Smart TV LG OLED evo AI 4K C6 77 polegadas 2026+Soundbar LG S90TY – 570W RMS, Dolby Atmos, 5.1.3 Canais, DTS:X, AI Room Calibration Pro, AI Sound Pro, Sem fios, WOW Orchestra, Conexões Múltiplas - OLED77C6.S90TY | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 18808.29
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.247Z"
+  updated_at: "2026-11-13T13:48:21.191Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.247Z"
+    verified_at: "2026-11-13T13:48:21.191Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.247Z"
+    verified_at: "2026-11-13T13:48:21.191Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

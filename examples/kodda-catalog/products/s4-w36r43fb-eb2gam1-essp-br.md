@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s4-w36r43fb-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "LG DUAL Inverter VOICE 36.000 Quente/Frio 220V - S4-W36R43FB"
+name: "LG DUAL Inverter VOICE 36.000 Quente/Frio 220V - S4-W36R43FB | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 9014.81
+  value: 9217.39
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.269Z"
+  updated_at: "2026-11-13T13:48:21.206Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.269Z"
+    verified_at: "2026-11-13T13:48:21.206Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.269Z"
+    verified_at: "2026-11-13T13:48:21.206Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "abq75725202-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base do Pedestal ALL IN ONE LG 22V270-L - ABQ75725202 - ABQ75725202"
+name: "Base do Pedestal ALL IN ONE LG 22V270-L - ABQ75725202 - ABQ75725202 | LG BR"
 category: "notebooks"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 246.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.872Z"
+  updated_at: "2026-11-13T13:48:20.830Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.872Z"
+    verified_at: "2026-11-13T13:48:20.830Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.872Z"
+    verified_at: "2026-11-13T13:48:20.830Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

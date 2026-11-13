@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acq59247901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Guia da serpentina da evaporadora Ar Condicionado LG LTNC400SU, AMNH09GTUC0, AMNH12GTUC0 - ACQ59247901 - ACQ59247901"
+name: "Guia da serpentina da evaporadora Ar Condicionado LG LTNC400SU, AMNH09GTUC0, AMNH12GTUC0 - ACQ59247901 - ACQ59247901 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 107.4
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.879Z"
+  updated_at: "2026-11-13T13:48:20.837Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.879Z"
+    verified_at: "2026-11-13T13:48:20.837Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.879Z"
+    verified_at: "2026-11-13T13:48:20.837Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

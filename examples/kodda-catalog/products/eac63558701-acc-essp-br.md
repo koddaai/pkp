@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eac63558701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bateria recarregável de íon-lítio 3.7V 1.5AH  Caixa de Som Bluetooth LG PJ3, PJ9, PL2 - EAC63558701 - EAC63558701"
+name: "Bateria recarregável de íon-lítio 3.7V 1.5AH  Caixa de Som Bluetooth LG PJ3, PJ9, PL2 - EAC63558701 - EAC63558701 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 83.7
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.999Z"
+  updated_at: "2026-11-13T13:48:20.951Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.999Z"
+    verified_at: "2026-11-13T13:48:20.951Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.999Z"
+    verified_at: "2026-11-13T13:48:20.951Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau60659714-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor da aleta evaporadora Ar Condicionado LG EAU60659714 - EAU60659714"
+name: "Motor da aleta evaporadora Ar Condicionado LG EAU60659714 - EAU60659714 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 246.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.063Z"
+  updated_at: "2026-11-13T13:48:21.008Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.063Z"
+    verified_at: "2026-11-13T13:48:21.008Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.063Z"
+    verified_at: "2026-11-13T13:48:21.008Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

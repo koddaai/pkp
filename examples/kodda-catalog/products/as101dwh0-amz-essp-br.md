@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "as101dwh0-amz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Purificador de Ar LG PuriCare 360º com 2 Filtros Branco 127v  - AS101DWH0"
+name: "Purificador de Ar LG PuriCare 360º com 2 Filtros Branco 127v  - AS101DWH0 | LG BR"
 category: "eletrodomesticos"
 subcategory: "purificador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3419.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.962Z"
+  updated_at: "2026-11-13T13:48:20.927Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.962Z"
+    verified_at: "2026-11-13T13:48:20.927Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.962Z"
+    verified_at: "2026-11-13T13:48:20.927Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

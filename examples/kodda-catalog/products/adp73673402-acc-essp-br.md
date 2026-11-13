@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adp73673402-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hélice Ventilador Ar Condicionado LG S4NW31V43B1 ADP73673402 - ADP73673402"
+name: "Hélice Ventilador Ar Condicionado LG S4NW31V43B1 ADP73673402 - ADP73673402 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 540.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.893Z"
+  updated_at: "2026-11-13T13:48:20.852Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.893Z"
+    verified_at: "2026-11-13T13:48:20.852Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.893Z"
+    verified_at: "2026-11-13T13:48:20.852Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

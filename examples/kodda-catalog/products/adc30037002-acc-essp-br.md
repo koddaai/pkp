@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adc30037002-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Porta Frontal Forno Microondas LG MS3094NR ADC30037002 - ADC30037002"
+name: "Porta Frontal Forno Microondas LG MS3094NR ADC30037002 - ADC30037002 | LG BR"
 category: "eletrodomesticos"
 subcategory: "forno"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 417.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.885Z"
+  updated_at: "2026-11-13T13:48:20.842Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.885Z"
+    verified_at: "2026-11-13T13:48:20.842Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.885Z"
+    verified_at: "2026-11-13T13:48:20.842Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

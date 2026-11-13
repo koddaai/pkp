@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65170422-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da fonte TV LG OLED77C9PSB - EAY65170422 - EAY65170422"
+name: "Placa da fonte TV LG OLED77C9PSB - EAY65170422 - EAY65170422 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 740.4
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.079Z"
+  updated_at: "2026-11-13T13:48:21.024Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.079Z"
+    verified_at: "2026-11-13T13:48:21.024Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.079Z"
+    verified_at: "2026-11-13T13:48:21.024Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

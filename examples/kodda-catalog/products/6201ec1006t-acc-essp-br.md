@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6201ec1006t-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Filtro de linha Lava e Seca LG WD-14312RD, WD-11270RD, WD-11276RD - 6201EC1006T - 6201EC1006T"
+name: "Placa Filtro de linha Lava e Seca LG WD-14312RD, WD-11270RD, WD-11276RD - 6201EC1006T - 6201EC1006T | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.836Z"
+  updated_at: "2026-11-13T13:48:20.796Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.836Z"
+    verified_at: "2026-11-13T13:48:20.796Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.836Z"
+    verified_at: "2026-11-13T13:48:20.796Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

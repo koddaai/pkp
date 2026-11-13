@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead65611704-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flat TV LG 43UM7300PSA, 43UP751C0SF, 49SM8000PSA - EAD65611704 - EAD65611704"
+name: "Cabo Flat TV LG 43UM7300PSA, 43UP751C0SF, 49SM8000PSA - EAD65611704 - EAD65611704 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.016Z"
+  updated_at: "2026-11-13T13:48:20.968Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.016Z"
+    verified_at: "2026-11-13T13:48:20.968Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.016Z"
+    verified_at: "2026-11-13T13:48:20.968Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

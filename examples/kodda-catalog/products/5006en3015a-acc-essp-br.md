@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5006en3015a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tampa Máquina de Lavar Roupa LG WD1403RD5 5006EN3015A - 5006EN3015A"
+name: "Tampa Máquina de Lavar Roupa LG WD1403RD5 5006EN3015A - 5006EN3015A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.810Z"
+  updated_at: "2026-11-13T13:48:20.760Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.810Z"
+    verified_at: "2026-11-13T13:48:20.760Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.810Z"
+    verified_at: "2026-11-13T13:48:20.760Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

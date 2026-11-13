@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27g440a-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraGear™ 27G440A-B, 240Hz, Tela IPS FHD 27\", 1ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium, Ajuste ergonomia Pro Gamer, sRGB 99% (Typ.) & HDR10  - 27G440A-B"
+name: "Monitor LG UltraGear™ 27G440A-B, 240Hz, Tela IPS FHD 27\", 1ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium, Ajuste ergonomia Pro Gamer, sRGB 99% (Typ.) & HDR10  - 27G440A-B | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "hdr", "premium", "pro", "ultra", "gamer"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1198.99
+  value: 1299.03
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.774Z"
+  updated_at: "2026-11-13T13:48:20.721Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.774Z"
+    verified_at: "2026-11-13T13:48:20.721Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.774Z"
+    verified_at: "2026-11-13T13:48:20.721Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

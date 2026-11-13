@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr79961918-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Máquina de Lavar Roupas LG WD1485ATAB - EBR79961918 - EBR79961918"
+name: "Placa Principal Máquina de Lavar Roupas LG WD1485ATAB - EBR79961918 - EBR79961918 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 885.54
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.127Z"
+  updated_at: "2026-11-13T13:48:21.081Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.127Z"
+    verified_at: "2026-11-13T13:48:21.081Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.127Z"
+    verified_at: "2026-11-13T13:48:21.081Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

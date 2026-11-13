@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6601en1003d-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Trava da porta Lava e Seca LG WD-1409RD5, F1496ADP3, FH4G6TDMP2N - 6601EN1003D - 6601EN1003D"
+name: "Trava da porta Lava e Seca LG WD-1409RD5, F1496ADP3, FH4G6TDMP2N - 6601EN1003D - 6601EN1003D | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.843Z"
+  updated_at: "2026-11-13T13:48:20.804Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.843Z"
+    verified_at: "2026-11-13T13:48:20.804Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.843Z"
+    verified_at: "2026-11-13T13:48:20.804Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

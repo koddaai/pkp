@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf80300705-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de água para geladeira LG LT1000P - AGF80300705"
+name: "Filtro de água para geladeira LG LT1000P - AGF80300705 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 242.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.925Z"
+  updated_at: "2026-11-13T13:48:20.884Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.925Z"
+    verified_at: "2026-11-13T13:48:20.884Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.925Z"
+    verified_at: "2026-11-13T13:48:20.884Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr33119163-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do display Lavadora LG CV5010WG4, CV5010WG4A, CV5011TS4 - EBR33119163 - EBR33119163"
+name: "Placa do display Lavadora LG CV5010WG4, CV5010WG4A, CV5011TS4 - EBR33119163 - EBR33119163 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 816.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.103Z"
+  updated_at: "2026-11-13T13:48:21.054Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.103Z"
+    verified_at: "2026-11-13T13:48:21.054Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.103Z"
+    verified_at: "2026-11-13T13:48:21.054Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr78770650-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa display Lava e Seca LG WD11WP6, WD11EP6, WD1412RT7B - EBR78770650 - EBR78770650"
+name: "Placa display Lava e Seca LG WD11WP6, WD11EP6, WD1412RT7B - EBR78770650 - EBR78770650 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 701.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.124Z"
+  updated_at: "2026-11-13T13:48:21.078Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.124Z"
+    verified_at: "2026-11-13T13:48:21.078Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.124Z"
+    verified_at: "2026-11-13T13:48:21.078Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

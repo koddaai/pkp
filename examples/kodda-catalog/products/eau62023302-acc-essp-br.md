@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau62023302-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor ventilador da evaporadora Ar Condicionado LG CRNU30GSVA4, ARNU36GSVA4, S4-W36R43FA - EAU62023302 - EAU62023302"
+name: "Motor ventilador da evaporadora Ar Condicionado LG CRNU30GSVA4, ARNU36GSVA4, S4-W36R43FA - EAU62023302 - EAU62023302 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 901.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.066Z"
+  updated_at: "2026-11-13T13:48:21.011Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.066Z"
+    verified_at: "2026-11-13T13:48:21.011Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.066Z"
+    verified_at: "2026-11-13T13:48:21.011Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

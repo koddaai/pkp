@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agl74176043-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Painel frontal Lavadora LG WD11EP6A, WD1412RTA7B - AGL74176043 - AGL74176043"
+name: "Painel frontal Lavadora LG WD11EP6A, WD1412RTA7B - AGL74176043 - AGL74176043 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.927Z"
+  updated_at: "2026-11-13T13:48:20.887Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.927Z"
+    verified_at: "2026-11-13T13:48:20.887Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.927Z"
+    verified_at: "2026-11-13T13:48:20.887Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead62609706-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo FLAT TV LG 32LS3500 EAD62609706 - EAD62609706"
+name: "Cabo FLAT TV LG 32LS3500 EAD62609706 - EAD62609706 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 34.42
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.005Z"
+  updated_at: "2026-11-13T13:48:20.958Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.005Z"
+    verified_at: "2026-11-13T13:48:20.958Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.005Z"
+    verified_at: "2026-11-13T13:48:20.958Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

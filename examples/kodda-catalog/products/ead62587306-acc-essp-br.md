@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead62587306-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Ar Condicionado LG S4NQ24K23WD EAD62587306 - EAD62587306"
+name: "Cabo Ar Condicionado LG S4NQ24K23WD EAD62587306 - EAD62587306 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 19.46
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.005Z"
+  updated_at: "2026-11-13T13:48:20.957Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.005Z"
+    verified_at: "2026-11-13T13:48:20.957Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.005Z"
+    verified_at: "2026-11-13T13:48:20.957Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

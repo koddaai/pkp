@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "oled55b6psa-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG OLED AI 4K B6 55 polegadas 2026 - OLED55B6PSA"
+name: "Smart TV LG OLED AI 4K B6 55 polegadas 2026 - OLED55B6PSA | LG BR"
 category: "tvs"
 
 
@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/oled/oled55b6psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG OLED55B6PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED AI 4K B6 55 polegadas 2026."
+summary: "Descubra a próxima geração de Smart TVs com IA da LG, OLED55B6PSA.AWZ, para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG OLED AI B6 4K 2026 de 55 polegadas."
 tags: ["lg", "smart", "ai", "4k", "oled"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 5543.1
+  value: 5851.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.244Z"
+  updated_at: "2026-11-13T13:48:21.189Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.244Z"
+    verified_at: "2026-11-13T13:48:21.189Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.244Z"
+    verified_at: "2026-11-13T13:48:21.189Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG OLED55B6PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED AI 4K B6 55 polegadas 2026.
+Descubra a próxima geração de Smart TVs com IA da LG, OLED55B6PSA.AWZ, para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG OLED AI B6 4K 2026 de 55 polegadas.

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay63630211-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da Fonte Monitor LG 32SM5JB EAY63630211 - EAY63630211"
+name: "Placa da Fonte Monitor LG 32SM5JB EAY63630211 - EAY63630211 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 874.45
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.075Z"
+  updated_at: "2026-11-13T13:48:21.021Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.075Z"
+    verified_at: "2026-11-13T13:48:21.021Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.075Z"
+    verified_at: "2026-11-13T13:48:21.021Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

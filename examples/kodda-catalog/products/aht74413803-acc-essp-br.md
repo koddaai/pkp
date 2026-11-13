@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aht74413803-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Prateleira Refrigerador LG GS65SDN AHT74413803 - AHT74413803"
+name: "Prateleira Refrigerador LG GS65SDN AHT74413803 - AHT74413803 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 312.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.939Z"
+  updated_at: "2026-11-13T13:48:20.899Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.939Z"
+    verified_at: "2026-11-13T13:48:20.899Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.939Z"
+    verified_at: "2026-11-13T13:48:20.899Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

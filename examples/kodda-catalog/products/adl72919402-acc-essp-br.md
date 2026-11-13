@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adl72919402-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina Ar Condicionado LG USNW122HSG3 ADL72919402 - ADL72919402"
+name: "Serpentina Ar Condicionado LG USNW122HSG3 ADL72919402 - ADL72919402 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 601.01
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.888Z"
+  updated_at: "2026-11-13T13:48:20.846Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.888Z"
+    verified_at: "2026-11-13T13:48:20.846Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.888Z"
+    verified_at: "2026-11-13T13:48:20.846Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

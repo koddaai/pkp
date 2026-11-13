@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6871a20231c-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa botão liga/desliga Ar Condicionado LG TSNC1828RM0, TSNC092ERM2, TSNC122ERM1 - 6871A20231C - 6871A20231C"
+name: "Placa botão liga/desliga Ar Condicionado LG TSNC1828RM0, TSNC092ERM2, TSNC122ERM1 - 6871A20231C - 6871A20231C | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.846Z"
+  updated_at: "2026-11-13T13:48:20.807Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.846Z"
+    verified_at: "2026-11-13T13:48:20.807Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.846Z"
+    verified_at: "2026-11-13T13:48:20.807Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

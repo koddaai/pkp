@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr79909502-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Lava e Seca LG NAS106F1WBR EBR79909502 - EBR79909502"
+name: "Placa Principal Lava e Seca LG NAS106F1WBR EBR79909502 - EBR79909502 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1132.76
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.126Z"
+  updated_at: "2026-11-13T13:48:21.080Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.126Z"
+    verified_at: "2026-11-13T13:48:21.080Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.126Z"
+    verified_at: "2026-11-13T13:48:21.080Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

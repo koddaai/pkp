@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adl75241213-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina Ar Condicionado LG ADL75241213 - ADL75241213"
+name: "Serpentina Ar Condicionado LG ADL75241213 - ADL75241213 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1212.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.890Z"
+  updated_at: "2026-11-13T13:48:20.848Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.890Z"
+    verified_at: "2026-11-13T13:48:20.848Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.890Z"
+    verified_at: "2026-11-13T13:48:20.848Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

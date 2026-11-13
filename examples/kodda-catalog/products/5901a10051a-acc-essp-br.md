@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5901a10051a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Turbina evaporadora Ar Condicionado LG ARNU48GBRA2, CRNU54GBRA4, LBNH482RSA2 - 5901A10051A - 5901A10051A"
+name: "Turbina evaporadora Ar Condicionado LG ARNU48GBRA2, CRNU54GBRA4, LBNH482RSA2 - 5901A10051A - 5901A10051A | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 445.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.833Z"
+  updated_at: "2026-11-13T13:48:20.794Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.833Z"
+    verified_at: "2026-11-13T13:48:20.794Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.833Z"
+    verified_at: "2026-11-13T13:48:20.794Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

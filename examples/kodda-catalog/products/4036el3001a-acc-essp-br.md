@@ -4,9 +4,9 @@ schema: pkp/1.0
 sku: "4036el3001a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação de Borracha Secadora LG DY1119RD7 4036EL3001A - 4036EL3001A"
+name: "Vedação de Borracha Secadora LG DY1119RD7 4036EL3001A - 4036EL3001A | LG BR"
 category: "eletrodomesticos"
-subcategory: "lavadora"
+subcategory: "secadora"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.792Z"
+  updated_at: "2026-11-13T13:48:20.741Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.792Z"
+    verified_at: "2026-11-13T13:48:20.741Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.792Z"
+    verified_at: "2026-11-13T13:48:20.741Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

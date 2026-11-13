@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf78402201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 49LB6200, 49LB5500, 49LB5200 - AGF78402201 - AGF78402201"
+name: "Kit régua de LED TV LG 49LB6200, 49LB5500, 49LB5200 - AGF78402201 - AGF78402201 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 265.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.919Z"
+  updated_at: "2026-11-13T13:48:20.878Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.919Z"
+    verified_at: "2026-11-13T13:48:20.878Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.919Z"
+    verified_at: "2026-11-13T13:48:20.878Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

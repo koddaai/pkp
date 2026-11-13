@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr85844909-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Condensadora Ar Condicionado LG S4UQ09WA51B - EBR85844909 - EBR85844909"
+name: "Placa Principal Condensadora Ar Condicionado LG S4UQ09WA51B - EBR85844909 - EBR85844909 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1002.29
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.143Z"
+  updated_at: "2026-11-13T13:48:21.098Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.143Z"
+    verified_at: "2026-11-13T13:48:21.098Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.143Z"
+    verified_at: "2026-11-13T13:48:21.098Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

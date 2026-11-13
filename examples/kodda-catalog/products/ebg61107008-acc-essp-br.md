@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg61107008-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Termistor (NTC) Ar Condicionado LG LSNC182TNM0, ARNU07GSF12, ARNU09GSF12 - EBG61107008 - EBG61107008"
+name: "Termistor (NTC) Ar Condicionado LG LSNC182TNM0, ARNU07GSF12, ARNU09GSF12 - EBG61107008 - EBG61107008 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.090Z"
+  updated_at: "2026-11-13T13:48:21.040Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.090Z"
+    verified_at: "2026-11-13T13:48:21.040Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.090Z"
+    verified_at: "2026-11-13T13:48:21.040Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

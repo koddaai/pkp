@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4901er2003a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Amortecedor Lavadora LG WD-1403FDA, CV3011WG4, CV5010TS4 - 4901ER2003A - 4901ER2003A"
+name: "Amortecedor Lavadora LG WD-1403FDA, CV3011WG4, CV5010TS4 - 4901ER2003A - 4901ER2003A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 45.13
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.807Z"
+  updated_at: "2026-11-13T13:48:20.758Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.807Z"
+    verified_at: "2026-11-13T13:48:20.758Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.807Z"
+    verified_at: "2026-11-13T13:48:20.758Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "32u990a-s-awzz-essp-br"
 # gtin: null
 brand: "LG"
-name: "LG UltraFine™ Evo 6K Nano IPS Black 32\" 32U990A-W, Thunderbolt™ 5 96W PD, Adobe RGB 99.5%, DisplayHDR™600, DCI-P3 98%(Typ.), USB-C, DP 2.1, KVM integrado. - 32U990A-S"
+name: "LG UltraFine™ Evo 6K Nano IPS Black 32\" 32U990A-W, Thunderbolt™ 5 96W PD, Adobe RGB 99.5%, DisplayHDR™600, DCI-P3 98%(Typ.), USB-C, DP 2.1, KVM integrado. - 32U990A-S | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "hdr", "ultra"]
 price:
   type: "street"
   currency: "BRL"
-  value: 11728.98
+  value: 12706.56
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.783Z"
+  updated_at: "2026-11-13T13:48:20.732Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.783Z"
+    verified_at: "2026-11-13T13:48:20.732Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.783Z"
+    verified_at: "2026-11-13T13:48:20.732Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

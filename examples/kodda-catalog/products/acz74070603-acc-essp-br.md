@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acz74070603-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte com unidade de fabricação de gelo Refrigerador LG GC-X247CSAV, GC-L247SLUV, GC-X247CQB1 - ACZ74070603 - ACZ74070603"
+name: "Suporte com unidade de fabricação de gelo Refrigerador LG GC-X247CSAV, GC-L247SLUV, GC-X247CQB1 - ACZ74070603 - ACZ74070603 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1033.45
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.884Z"
+  updated_at: "2026-11-13T13:48:20.842Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.884Z"
+    verified_at: "2026-11-13T13:48:20.842Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.884Z"
+    verified_at: "2026-11-13T13:48:20.842Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

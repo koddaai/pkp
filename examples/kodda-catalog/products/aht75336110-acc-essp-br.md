@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aht75336110-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Prateleira de Vidro Refrigerador LG GNB452PFFQ AHT75336110 - AHT75336110"
+name: "Prateleira de Vidro Refrigerador LG GNB452PFFQ AHT75336110 - AHT75336110 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 588.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.939Z"
+  updated_at: "2026-11-13T13:48:20.900Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.939Z"
+    verified_at: "2026-11-13T13:48:20.900Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.939Z"
+    verified_at: "2026-11-13T13:48:20.900Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau42744404-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor da ventoinha do Micro-ondas LG MH8048AP, MS3042G, MH7042G - EAU42744404 - EAU42744404"
+name: "Motor da ventoinha do Micro-ondas LG MH8048AP, MS3042G, MH7042G - EAU42744404 - EAU42744404 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.062Z"
+  updated_at: "2026-11-13T13:48:21.007Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.062Z"
+    verified_at: "2026-11-13T13:48:21.007Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.062Z"
+    verified_at: "2026-11-13T13:48:21.007Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "add76419901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Porta Secundária Refrigerador LG GCX257CSH1 ADD76419901 - ADD76419901"
+name: "Porta Secundária Refrigerador LG GCX257CSH1 ADD76419901 - ADD76419901 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2676.62
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.886Z"
+  updated_at: "2026-11-13T13:48:20.843Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.886Z"
+    verified_at: "2026-11-13T13:48:20.843Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.886Z"
+    verified_at: "2026-11-13T13:48:20.843Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

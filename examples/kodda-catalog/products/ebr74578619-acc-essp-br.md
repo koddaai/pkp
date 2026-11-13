@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr74578619-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal da evaporadora Ar Condicionado LG ARNU18GSCL2, ARNU18GSCL2, CRNU18GSCL2 - EBR74578619 - EBR74578619"
+name: "Placa principal da evaporadora Ar Condicionado LG ARNU18GSCL2, ARNU18GSCL2, CRNU18GSCL2 - EBR74578619 - EBR74578619 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 407.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.116Z"
+  updated_at: "2026-11-13T13:48:21.069Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.116Z"
+    verified_at: "2026-11-13T13:48:21.069Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.116Z"
+    verified_at: "2026-11-13T13:48:21.069Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

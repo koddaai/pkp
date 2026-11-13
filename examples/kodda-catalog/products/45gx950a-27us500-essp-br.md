@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "45gx950a-27us500-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG OLED UltraGear™ 45GX950A 45\" + Monitor LG UltraFine™ Tela IPS 4K UHD 27\" - 45GX950A.27US500"
+name: "Monitor LG OLED UltraGear™ 45GX950A 45\" + Monitor LG UltraFine™ Tela IPS 4K UHD 27\" - 45GX950A.27US500 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 13999
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.800Z"
+  updated_at: "2026-11-13T13:48:20.750Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.800Z"
+    verified_at: "2026-11-13T13:48:20.750Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.800Z"
+    verified_at: "2026-11-13T13:48:20.750Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

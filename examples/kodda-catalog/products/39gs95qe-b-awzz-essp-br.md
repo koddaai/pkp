@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "39gs95qe-b-awzz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor Gamer LG UltraGear 39GS95QE - OLED Curvo 39”, QHD, 240Hz, 0,03ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, HDR400 Trueblack - 39GS95QE-B"
+name: "Monitor Gamer LG UltraGear 39GS95QE - OLED Curvo 39”, QHD, 240Hz, 0,03ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, HDR400 Trueblack - 39GS95QE-B | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "oled", "hdr", "premium", "pro", "ultra", "gamer"]
 price:
   type: "street"
   currency: "BRL"
-  value: 7388.52
+  value: 7799
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.788Z"
+  updated_at: "2026-11-13T13:48:20.737Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.788Z"
+    verified_at: "2026-11-13T13:48:20.737Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.788Z"
+    verified_at: "2026-11-13T13:48:20.737Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu30234417-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 65UA8550PSA EBU30234417 - EBU30234417"
+name: "Placa Principal TV LG 65UA8550PSA EBU30234417 - EBU30234417 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1671.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.160Z"
+  updated_at: "2026-11-13T13:48:21.116Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.160Z"
+    verified_at: "2026-11-13T13:48:21.116Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.160Z"
+    verified_at: "2026-11-13T13:48:21.116Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

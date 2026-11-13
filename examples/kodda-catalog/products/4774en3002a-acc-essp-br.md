@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4774en3002a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Pino plástico do amortecedor LG WD-1485AD5, WD9EP6, WM11WPS6 - 4774EN3002A - 4774EN3002A"
+name: "Pino plástico do amortecedor LG WD-1485AD5, WD9EP6, WM11WPS6 - 4774EN3002A - 4774EN3002A | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.806Z"
+  updated_at: "2026-11-13T13:48:20.756Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.806Z"
+    verified_at: "2026-11-13T13:48:20.756Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.806Z"
+    verified_at: "2026-11-13T13:48:20.756Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

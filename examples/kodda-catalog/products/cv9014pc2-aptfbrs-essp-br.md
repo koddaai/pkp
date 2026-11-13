@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "cv9014pc2-aptfbrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lava e Seca LG Smart VC2 14kg Inox Look com Inteligência Artificial AIDD™ (CV9014PC2) - 127v - CV9014PC2"
+name: "Lava e Seca LG Smart VC2 14kg Inox Look com Inteligência Artificial AIDD™ (CV9014PC2) - 127v - CV9014PC2 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai", "4k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 4844.05
+  value: 4939.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.990Z"
+  updated_at: "2026-11-13T13:48:20.942Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.990Z"
+    verified_at: "2026-11-13T13:48:20.942Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.990Z"
+    verified_at: "2026-11-13T13:48:20.942Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

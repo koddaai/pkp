@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27sr73u-w-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG MyView Smart  27SR73U-W Tela IPS 4K 27\", WebOS, ThinQ Home, Air Play, Screen Share, Bluetooth - 27SR73U-W"
+name: "Monitor LG MyView Smart  27SR73U-W Tela IPS 4K 27\", WebOS, ThinQ Home, Air Play, Screen Share, Bluetooth - 27SR73U-W | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2049
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.778Z"
+  updated_at: "2026-11-13T13:48:20.725Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.778Z"
+    verified_at: "2026-11-13T13:48:20.725Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.778Z"
+    verified_at: "2026-11-13T13:48:20.725Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

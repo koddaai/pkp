@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6901er4001a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo do duto de secagem Lavadora LG WD-12320RD, WD-13436RDA, WD-1403RD - 6901ER4001A - 6901ER4001A"
+name: "Cabo do duto de secagem Lavadora LG WD-12320RD, WD-13436RDA, WD-1403RD - 6901ER4001A - 6901ER4001A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.848Z"
+  updated_at: "2026-11-13T13:48:20.809Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.848Z"
+    verified_at: "2026-11-13T13:48:20.809Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.848Z"
+    verified_at: "2026-11-13T13:48:20.809Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

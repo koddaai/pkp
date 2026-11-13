@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf78684201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 32LJ510B - AGF78684201 - AGF78684201"
+name: "Kit régua de LED TV LG 32LJ510B - AGF78684201 - AGF78684201 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.920Z"
+  updated_at: "2026-11-13T13:48:20.879Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.920Z"
+    verified_at: "2026-11-13T13:48:20.879Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.920Z"
+    verified_at: "2026-11-13T13:48:20.879Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

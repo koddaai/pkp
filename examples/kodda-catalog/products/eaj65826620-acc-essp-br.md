@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65826620-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (BA) TV LG 75UA8550PSA EAJ65826620 - EAJ65826620"
+name: "Tela de cristal líquido (BA) TV LG 75UA8550PSA EAJ65826620 - EAJ65826620 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1965.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.048Z"
+  updated_at: "2026-11-13T13:48:20.994Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.048Z"
+    verified_at: "2026-11-13T13:48:20.994Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.048Z"
+    verified_at: "2026-11-13T13:48:20.994Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

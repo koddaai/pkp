@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr72912708-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Condutor Elétrico Home Theater LG BH7220BW EBR72912708 - EBR72912708"
+name: "Condutor Elétrico Home Theater LG BH7220BW EBR72912708 - EBR72912708 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.114Z"
+  updated_at: "2026-11-13T13:48:21.067Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.114Z"
+    verified_at: "2026-11-13T13:48:21.067Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.114Z"
+    verified_at: "2026-11-13T13:48:21.067Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

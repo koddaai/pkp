@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau64082902-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor da bomba drenagem Lava e Seca LG CV9011EC4, CV3011WG4, CV5010WG4A - EAU64082902 - EAU64082902"
+name: "Motor da bomba drenagem Lava e Seca LG CV9011EC4, CV3011WG4, CV5010WG4A - EAU64082902 - EAU64082902 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 89.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.069Z"
+  updated_at: "2026-11-13T13:48:21.014Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.069Z"
+    verified_at: "2026-11-13T13:48:21.014Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.069Z"
+    verified_at: "2026-11-13T13:48:21.014Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

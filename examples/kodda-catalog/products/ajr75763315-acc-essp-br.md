@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajr75763315-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo Capilar Ar Condicionado LG S3UQ09AA31A AJR75763315 - AJR75763315"
+name: "Tubo Capilar Ar Condicionado LG S3UQ09AA31A AJR75763315 - AJR75763315 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.943Z"
+  updated_at: "2026-11-13T13:48:20.907Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.943Z"
+    verified_at: "2026-11-13T13:48:20.907Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.943Z"
+    verified_at: "2026-11-13T13:48:20.907Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

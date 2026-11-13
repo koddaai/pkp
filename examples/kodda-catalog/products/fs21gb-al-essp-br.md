@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "fs21gb-al-essp-br"
 # gtin: null
 brand: "LG"
-name: "Gallery Stand - FS21GB"
+name: "Gallery Stand - FS21GB | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1899.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.191Z"
+  updated_at: "2026-11-13T13:48:21.145Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.191Z"
+    verified_at: "2026-11-13T13:48:21.145Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.191Z"
+    verified_at: "2026-11-13T13:48:21.145Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

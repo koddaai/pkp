@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead65387318-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "EAD65387318 - EAD65387318"
+name: "EAD65387318 - EAD65387318 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.014Z"
+  updated_at: "2026-11-13T13:48:20.967Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.014Z"
+    verified_at: "2026-11-13T13:48:20.967Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.014Z"
+    verified_at: "2026-11-13T13:48:20.967Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

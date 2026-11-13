@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb75095373-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto Projetor LG AKB75095373 - AKB75095373"
+name: "Controle Remoto Projetor LG AKB75095373 - AKB75095373 | LG BR"
 category: "monitors"
 subcategory: "projetor"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 60.79
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.954Z"
+  updated_at: "2026-11-13T13:48:20.919Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.954Z"
+    verified_at: "2026-11-13T13:48:20.919Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.954Z"
+    verified_at: "2026-11-13T13:48:20.919Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

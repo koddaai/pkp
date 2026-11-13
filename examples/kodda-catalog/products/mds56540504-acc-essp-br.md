@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mds56540504-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação Máquina de Lavar Roupas LG WD14EGS62 MDS56540504 - MDS56540504"
+name: "Vedação Máquina de Lavar Roupas LG WD14EGS62 MDS56540504 - MDS56540504 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 493.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.223Z"
+  updated_at: "2026-11-13T13:48:21.168Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.223Z"
+    verified_at: "2026-11-13T13:48:21.168Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.223Z"
+    verified_at: "2026-11-13T13:48:21.168Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

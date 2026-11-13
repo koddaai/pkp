@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acq90597909-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conjunto cobertura do cesto de lavagem Lava e Seca LG CV7011WS4, CV5011TS4, CV3011BC4 - ACQ90597909 - ACQ90597909"
+name: "Conjunto cobertura do cesto de lavagem Lava e Seca LG CV7011WS4, CV5011TS4, CV3011BC4 - ACQ90597909 - ACQ90597909 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1098.41
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.882Z"
+  updated_at: "2026-11-13T13:48:20.840Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.882Z"
+    verified_at: "2026-11-13T13:48:20.840Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.882Z"
+    verified_at: "2026-11-13T13:48:20.840Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

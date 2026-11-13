@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead64108410-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo de alimentação para TV (preto) - EAD64108410"
+name: "Cabo de alimentação para TV (preto) - EAD64108410 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.011Z"
+  updated_at: "2026-11-13T13:48:20.964Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.011Z"
+    verified_at: "2026-11-13T13:48:20.964Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.011Z"
+    verified_at: "2026-11-13T13:48:20.964Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

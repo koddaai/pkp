@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "e3q2405-obs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar condicionado Multi Split Inverter 3 ambientes ( 1via 2X 9.000BTUS, 2X 12.000BTUs) Quente/Frio WiFi integrado - E3Q2405.OBS"
+name: "Ar condicionado Multi Split Inverter 3 ambientes ( 1via 2X 9.000BTUS, 2X 12.000BTUs) Quente/Frio WiFi integrado - E3Q2405.OBS | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 20040.36
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.992Z"
+  updated_at: "2026-11-13T13:48:20.944Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.992Z"
+    verified_at: "2026-11-13T13:48:20.944Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.992Z"
+    verified_at: "2026-11-13T13:48:20.944Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

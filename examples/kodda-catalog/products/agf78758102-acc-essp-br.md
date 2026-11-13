@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf78758102-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 55UJ6300 - AGF78758102 - AGF78758102"
+name: "Kit régua de LED TV LG 55UJ6300 - AGF78758102 - AGF78758102 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 209.64
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.920Z"
+  updated_at: "2026-11-13T13:48:20.879Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.920Z"
+    verified_at: "2026-11-13T13:48:20.879Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.920Z"
+    verified_at: "2026-11-13T13:48:20.879Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

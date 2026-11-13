@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "cov37154903-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro do óleo motor Ar condicionado Chiller LG COV37154903 - COV37154903"
+name: "Filtro do óleo motor Ar condicionado Chiller LG COV37154903 - COV37154903 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5661.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.967Z"
+  updated_at: "2026-11-13T13:48:20.932Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.967Z"
+    verified_at: "2026-11-13T13:48:20.932Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.967Z"
+    verified_at: "2026-11-13T13:48:20.932Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

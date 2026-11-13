@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "pwfmdd200-encxlmv-essp-br"
 # gtin: null
 brand: "LG"
-name: "LGMV para diagnósticos Condensadora Ar Condicionado LG - PWFMDD200 - PWFMDD200"
+name: "LGMV para diagnósticos Condensadora Ar Condicionado LG - PWFMDD200 - PWFMDD200 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.43
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.247Z"
+  updated_at: "2026-11-13T13:48:21.192Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.247Z"
+    verified_at: "2026-11-13T13:48:21.192Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.247Z"
+    verified_at: "2026-11-13T13:48:21.192Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

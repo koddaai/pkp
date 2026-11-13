@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr71503225-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa de controle Ar Condicionado LG A2UW16GFA2, A2UW18GFA2 - EBR71503225 - EBR71503225"
+name: "Placa de controle Ar Condicionado LG A2UW16GFA2, A2UW18GFA2 - EBR71503225 - EBR71503225 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 455.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.113Z"
+  updated_at: "2026-11-13T13:48:21.066Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.113Z"
+    verified_at: "2026-11-13T13:48:21.066Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.113Z"
+    verified_at: "2026-11-13T13:48:21.066Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adq75801766-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de Ar Purificador LG AS101DSH0 ADQ75801766 - ADQ75801766"
+name: "Filtro de Ar Purificador LG AS101DSH0 ADQ75801766 - ADQ75801766 | LG BR"
 category: "eletrodomesticos"
 subcategory: "purificador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 357.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.897Z"
+  updated_at: "2026-11-13T13:48:20.856Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.897Z"
+    verified_at: "2026-11-13T13:48:20.856Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.897Z"
+    verified_at: "2026-11-13T13:48:20.856Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

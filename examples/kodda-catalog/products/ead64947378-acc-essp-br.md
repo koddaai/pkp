@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead64947378-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conjunto de condutores (chicote) 127V Lavadora LG CV5013WC4, CV5013EC4 - EAD64947378 - EAD64947378"
+name: "Conjunto de condutores (chicote) 127V Lavadora LG CV5013WC4, CV5013EC4 - EAD64947378 - EAD64947378 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 683.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.013Z"
+  updated_at: "2026-11-13T13:48:20.966Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.013Z"
+    verified_at: "2026-11-13T13:48:20.966Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.013Z"
+    verified_at: "2026-11-13T13:48:20.966Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

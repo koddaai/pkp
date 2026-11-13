@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan76609601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base Pedestal TV LG 32LD650 AAN76609601 - AAN76609601"
+name: "Base Pedestal TV LG 32LD650 AAN76609601 - AAN76609601 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 607.24
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.866Z"
+  updated_at: "2026-11-13T13:48:20.825Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.866Z"
+    verified_at: "2026-11-13T13:48:20.825Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.866Z"
+    verified_at: "2026-11-13T13:48:20.825Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

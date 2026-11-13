@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "fab30016105-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "FAB30016105 - FAB30016105"
+name: "FAB30016105 - FAB30016105 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 18.52
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.190Z"
+  updated_at: "2026-11-13T13:48:21.144Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.190Z"
+    verified_at: "2026-11-13T13:48:21.144Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.190Z"
+    verified_at: "2026-11-13T13:48:21.144Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

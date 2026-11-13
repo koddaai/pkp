@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4280fr4048z-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Rolamento esfera Lavadora LG WM5000HVA, WD1316ADA7, WD17VTS6 - 4280FR4048Z - 4280FR4048Z"
+name: "Rolamento esfera Lavadora LG WM5000HVA, WD1316ADA7, WD17VTS6 - 4280FR4048Z - 4280FR4048Z | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.795Z"
+  updated_at: "2026-11-13T13:48:20.743Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.795Z"
+    verified_at: "2026-11-13T13:48:20.743Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.795Z"
+    verified_at: "2026-11-13T13:48:20.743Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

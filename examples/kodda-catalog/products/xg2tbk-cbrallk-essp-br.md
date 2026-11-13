@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "xg2tbk-cbrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "LG XBOOM XG2T Caixa de som Bluetooth portátil - Resistência militar, à prova d'água (IP67), 10 horas de Bateria e Cordão Ajustável - XG2TBK"
+name: "LG XBOOM XG2T Caixa de som Bluetooth portátil - Resistência militar, à prova d'água (IP67), 10 horas de Bateria e Cordão Ajustável - XG2TBK | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 314.97
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.281Z"
+  updated_at: "2026-11-13T13:48:21.220Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.281Z"
+    verified_at: "2026-11-13T13:48:21.220Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.281Z"
+    verified_at: "2026-11-13T13:48:21.220Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

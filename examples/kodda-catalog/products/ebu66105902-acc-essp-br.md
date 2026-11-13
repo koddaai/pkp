@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu66105902-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal TV LG OLED55CXPSA, OLED65CXPSA - EBU66105902 - EBU66105902"
+name: "Placa principal TV LG OLED55CXPSA, OLED65CXPSA - EBU66105902 - EBU66105902 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1728.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.173Z"
+  updated_at: "2026-11-13T13:48:21.128Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.173Z"
+    verified_at: "2026-11-13T13:48:21.128Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.173Z"
+    verified_at: "2026-11-13T13:48:21.128Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

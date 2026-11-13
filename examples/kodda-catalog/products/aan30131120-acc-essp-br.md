@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan30131120-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base Pedestal Esq e Dir TV LG 70UQ8050PSB AAN30131120 - AAN30131120"
+name: "Base Pedestal Esq e Dir TV LG 70UQ8050PSB AAN30131120 - AAN30131120 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 166.36
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.859Z"
+  updated_at: "2026-11-13T13:48:20.818Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.859Z"
+    verified_at: "2026-11-13T13:48:20.818Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.859Z"
+    verified_at: "2026-11-13T13:48:20.818Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

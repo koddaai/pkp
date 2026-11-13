@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "abq76322726-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Módulo Inverter Ar Condicionado LG S4NQ12JA31C ABQ76322726 - ABQ76322726"
+name: "Módulo Inverter Ar Condicionado LG S4NQ12JA31C ABQ76322726 - ABQ76322726 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -27,9 +27,9 @@ tags: ["lg", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 464.55
+  value: 445.97
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.872Z"
+  updated_at: "2026-11-13T13:48:20.830Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.872Z"
+    verified_at: "2026-11-13T13:48:20.830Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.872Z"
+    verified_at: "2026-11-13T13:48:20.830Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

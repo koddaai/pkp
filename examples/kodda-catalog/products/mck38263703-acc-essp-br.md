@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mck38263703-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo Plástico Máquina Lavar Roupa LG WD1409FDA MCK38263703 - MCK38263703"
+name: "Tubo Plástico Máquina Lavar Roupa LG WD1409FDA MCK38263703 - MCK38263703 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 107.77
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.218Z"
+  updated_at: "2026-11-13T13:48:21.163Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.218Z"
+    verified_at: "2026-11-13T13:48:21.163Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.218Z"
+    verified_at: "2026-11-13T13:48:21.163Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

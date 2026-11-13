@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aeq73570401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Unidade de Fabricação de Gelo Refrigerador LG - AEQ73570401 - AEQ73570401"
+name: "Unidade de Fabricação de Gelo Refrigerador LG - AEQ73570401 - AEQ73570401 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 246.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.905Z"
+  updated_at: "2026-11-13T13:48:20.863Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.905Z"
+    verified_at: "2026-11-13T13:48:20.863Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.905Z"
+    verified_at: "2026-11-13T13:48:20.863Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

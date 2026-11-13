@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "32u889s-bounce-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG Smart Swing 31.5 polegadas, 4K UHD IPS, Touchscreen, Suporte móvel + Caixa de Som Bluetooth LG xboom Bounce by will.i.am - 32U889S.BOUNCE"
+name: "Monitor LG Smart Swing 31.5 polegadas, 4K UHD IPS, Touchscreen, Suporte móvel + Caixa de Som Bluetooth LG xboom Bounce by will.i.am - 32U889S.BOUNCE | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7203.26
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.783Z"
+  updated_at: "2026-11-13T13:48:20.731Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.783Z"
+    verified_at: "2026-11-13T13:48:20.731Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.783Z"
+    verified_at: "2026-11-13T13:48:20.731Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

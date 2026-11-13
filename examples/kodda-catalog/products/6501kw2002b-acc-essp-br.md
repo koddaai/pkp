@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6501kw2002b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sensor de velocidade do motor Lava e Seca LG WD-13436RD - 6501KW2002B"
+name: "Sensor de velocidade do motor Lava e Seca LG WD-13436RD - 6501KW2002B | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.04
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.839Z"
+  updated_at: "2026-11-13T13:48:20.801Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.839Z"
+    verified_at: "2026-11-13T13:48:20.801Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.839Z"
+    verified_at: "2026-11-13T13:48:20.801Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

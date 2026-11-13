@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mfh62063701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Aleta Horizontal Ar Condicionado LG MFH62063701 - MFH62063701"
+name: "Aleta Horizontal Ar Condicionado LG MFH62063701 - MFH62063701 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.233Z"
+  updated_at: "2026-11-13T13:48:21.177Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.233Z"
+    verified_at: "2026-11-13T13:48:21.177Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.233Z"
+    verified_at: "2026-11-13T13:48:21.177Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

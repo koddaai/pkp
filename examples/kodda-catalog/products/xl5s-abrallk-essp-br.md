@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "xl5s-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "LG XBOOM XL5S Caixa de som Bluetooth Som potente de 200 W - XL5S"
+name: "LG XBOOM XL5S Caixa de som Bluetooth Som potente de 200 W - XL5S | LG BR"
 category: "audio"
 subcategory: "headphones"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1661.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.282Z"
+  updated_at: "2026-11-13T13:48:21.221Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.282Z"
+    verified_at: "2026-11-13T13:48:21.221Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.282Z"
+    verified_at: "2026-11-13T13:48:21.221Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr78401707-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Ar Condicionado LG ARNU24GTPA2, ARNU28GTPA2, ARNU36GTNA2 - EBR78401707 - EBR78401707"
+name: "Placa principal Ar Condicionado LG ARNU24GTPA2, ARNU28GTPA2, ARNU36GTNA2 - EBR78401707 - EBR78401707 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 626.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.122Z"
+  updated_at: "2026-11-13T13:48:21.076Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.122Z"
+    verified_at: "2026-11-13T13:48:21.076Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.122Z"
+    verified_at: "2026-11-13T13:48:21.076Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

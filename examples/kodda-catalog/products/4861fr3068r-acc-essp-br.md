@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4861fr3068r-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Abraçadeira de aço Lavadora LG WD-1403RD5, WD-1409RD, CV5011TS4  - 4861FR3068R - 4861FR3068R"
+name: "Abraçadeira de aço Lavadora LG WD-1403RD5, WD-1409RD, CV5011TS4  - 4861FR3068R - 4861FR3068R | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.807Z"
+  updated_at: "2026-11-13T13:48:20.758Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.807Z"
+    verified_at: "2026-11-13T13:48:20.758Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.807Z"
+    verified_at: "2026-11-13T13:48:20.758Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

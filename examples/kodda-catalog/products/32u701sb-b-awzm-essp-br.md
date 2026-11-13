@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "32u701sb-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG Smart - Tela VA de 32\" 4K UHD, HDR10, WebOS 26, ThinQ, Wifi, Air Play, Screen Share, Bluetooth, USB, HDMI – 32U701SB-B - 32U701SB-B"
+name: "Monitor LG Smart - Tela VA de 32\" 4K UHD, HDR10, WebOS 26, ThinQ, Wifi, Air Play, Screen Share, Bluetooth, USB, HDMI – 32U701SB-B - 32U701SB-B | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "wifi", "bluetooth", "smart", "ai", "4k", "hdr"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2198.96
+  value: 2299
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.783Z"
+  updated_at: "2026-11-13T13:48:20.731Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.783Z"
+    verified_at: "2026-11-13T13:48:20.731Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.783Z"
+    verified_at: "2026-11-13T13:48:20.731Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

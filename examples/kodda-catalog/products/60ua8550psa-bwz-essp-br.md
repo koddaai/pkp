@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "60ua8550psa-bwz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG UHD AI 4K UA85 de 60 polegadas 2025 - 60UA8550PSA"
+name: "Smart TV LG UHD AI 4K UA85 de 60 polegadas 2025 - 60UA8550PSA | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2977.3
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.835Z"
+  updated_at: "2026-11-13T13:48:20.796Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.835Z"
+    verified_at: "2026-11-13T13:48:20.796Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.835Z"
+    verified_at: "2026-11-13T13:48:20.796Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

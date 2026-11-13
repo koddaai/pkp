@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s95tr-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "LG Home Theater Soundbar S95TR com alto-falantes traseiros e som surround com configuração de canais 9.1.5 - S95TR"
+name: "LG Home Theater Soundbar S95TR com alto-falantes traseiros e som surround com configuração de canais 9.1.5 - S95TR | LG BR"
 category: "audio"
 subcategory: "soundbar"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5519.08
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.270Z"
+  updated_at: "2026-11-13T13:48:21.207Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.270Z"
+    verified_at: "2026-11-13T13:48:21.207Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.270Z"
+    verified_at: "2026-11-13T13:48:21.207Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

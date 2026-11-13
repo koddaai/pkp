@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr83592702-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Sub TV LG 49LJ5500, 49LK5700PSC, 49LK5750PSA - EBR83592702 - EBR83592702"
+name: "Placa Sub TV LG 49LJ5500, 49LK5700PSC, 49LK5750PSA - EBR83592702 - EBR83592702 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 48.41
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.135Z"
+  updated_at: "2026-11-13T13:48:21.090Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.135Z"
+    verified_at: "2026-11-13T13:48:21.090Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.135Z"
+    verified_at: "2026-11-13T13:48:21.090Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

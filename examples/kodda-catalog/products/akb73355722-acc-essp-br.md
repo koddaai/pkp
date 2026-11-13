@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb73355722-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle remoto para aparelhos de ar-condicionado cassete - AKB73355722"
+name: "Controle remoto para aparelhos de ar-condicionado cassete - AKB73355722 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 818.61
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.949Z"
+  updated_at: "2026-11-13T13:48:20.913Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.949Z"
+    verified_at: "2026-11-13T13:48:20.913Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.949Z"
+    verified_at: "2026-11-13T13:48:20.913Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

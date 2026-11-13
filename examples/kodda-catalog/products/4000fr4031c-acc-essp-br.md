@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4000fr4031c-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Parafuso Máquina de Lavar Roupas LG WM5000HVA, CWT29MSCRS, WD17BV2S6B - 4000FR4031C - 4000FR4031C"
+name: "Parafuso Máquina de Lavar Roupas LG WM5000HVA, CWT29MSCRS, WD17BV2S6B - 4000FR4031C - 4000FR4031C | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 24.79
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.790Z"
+  updated_at: "2026-11-13T13:48:20.739Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.790Z"
+    verified_at: "2026-11-13T13:48:20.739Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.790Z"
+    verified_at: "2026-11-13T13:48:20.739Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

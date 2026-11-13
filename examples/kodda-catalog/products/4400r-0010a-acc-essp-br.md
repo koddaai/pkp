@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4400r-0010a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Junta de Borracha Vulcanizada DVD LG DN1F0H 4400R-0010A - 4400R-0010A"
+name: "Junta de Borracha Vulcanizada DVD LG DN1F0H 4400R-0010A - 4400R-0010A | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.796Z"
+  updated_at: "2026-11-13T13:48:20.745Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.796Z"
+    verified_at: "2026-11-13T13:48:20.745Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.796Z"
+    verified_at: "2026-11-13T13:48:20.745Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

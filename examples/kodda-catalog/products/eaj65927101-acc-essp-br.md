@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65927101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido Módulo Monitor LG 27MS500B EAJ65927101 - EAJ65927101"
+name: "Tela de cristal líquido Módulo Monitor LG 27MS500B EAJ65927101 - EAJ65927101 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1101.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.053Z"
+  updated_at: "2026-11-13T13:48:20.999Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.053Z"
+    verified_at: "2026-11-13T13:48:20.999Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.053Z"
+    verified_at: "2026-11-13T13:48:20.999Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

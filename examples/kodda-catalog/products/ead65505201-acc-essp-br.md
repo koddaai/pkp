@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead65505201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo (condutor elétrico plano FFC 60V) TV LG 43LJ5500, 43LJ551C, 43LJ5550 - LG EAD65505201 - EAD65505201"
+name: "Cabo (condutor elétrico plano FFC 60V) TV LG 43LJ5500, 43LJ551C, 43LJ5550 - LG EAD65505201 - EAD65505201 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.015Z"
+  updated_at: "2026-11-13T13:48:20.968Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.015Z"
+    verified_at: "2026-11-13T13:48:20.968Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.015Z"
+    verified_at: "2026-11-13T13:48:20.968Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

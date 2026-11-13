@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebl61740505-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tuner sintonizador de sinal TV LG 50NANO75SPA, 55NANO75SPA, 65NANO75SPA - EBL61740505 - EBL61740505"
+name: "Tuner sintonizador de sinal TV LG 50NANO75SPA, 55NANO75SPA, 65NANO75SPA - EBL61740505 - EBL61740505 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 105.39
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.097Z"
+  updated_at: "2026-11-13T13:48:21.047Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.097Z"
+    verified_at: "2026-11-13T13:48:21.047Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.097Z"
+    verified_at: "2026-11-13T13:48:21.047Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

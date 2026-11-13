@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adl76081101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina evaporadora Ar Condicionado LG S4NW36R43FA - ADL76081101 - ADL76081101"
+name: "Serpentina evaporadora Ar Condicionado LG S4NW36R43FA - ADL76081101 - ADL76081101 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1186.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.891Z"
+  updated_at: "2026-11-13T13:48:20.849Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.891Z"
+    verified_at: "2026-11-13T13:48:20.849Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.891Z"
+    verified_at: "2026-11-13T13:48:20.849Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

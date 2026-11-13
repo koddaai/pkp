@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "34wr50qk-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraWide™ Curvo 34WR50QK-B QuadHD 2K de 34”, PBP, sRGB 99%, HDR10, 100Hz - 34WR50QK-B"
+name: "Monitor LG UltraWide™ Curvo 34WR50QK-B QuadHD 2K de 34”, PBP, sRGB 99%, HDR10, 100Hz - 34WR50QK-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1898.99
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.786Z"
+  updated_at: "2026-11-13T13:48:20.735Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.786Z"
+    verified_at: "2026-11-13T13:48:20.735Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.786Z"
+    verified_at: "2026-11-13T13:48:20.735Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

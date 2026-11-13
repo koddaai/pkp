@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4781jr2005s-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sensor de degelo Refrigerador Side by Side LG GC-P217BSKV - 4781JR2005S - 4781JR2005S"
+name: "Sensor de degelo Refrigerador Side by Side LG GC-P217BSKV - 4781JR2005S - 4781JR2005S | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 167.13
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.806Z"
+  updated_at: "2026-11-13T13:48:20.756Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.806Z"
+    verified_at: "2026-11-13T13:48:20.756Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.806Z"
+    verified_at: "2026-11-13T13:48:20.756Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

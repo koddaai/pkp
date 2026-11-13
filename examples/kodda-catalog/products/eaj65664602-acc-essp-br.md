@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65664602-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (BA) TV LG 43LM6300PSB, 43LM6370PLA, 43LM6370PVA - EAJ65664602 - EAJ65664602"
+name: "Tela de cristal líquido (BA) TV LG 43LM6300PSB, 43LM6370PLA, 43LM6370PVA - EAJ65664602 - EAJ65664602 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1306.35
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.029Z"
+  updated_at: "2026-11-13T13:48:20.983Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.029Z"
+    verified_at: "2026-11-13T13:48:20.983Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.029Z"
+    verified_at: "2026-11-13T13:48:20.983Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

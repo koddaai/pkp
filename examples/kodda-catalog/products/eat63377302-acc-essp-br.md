@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eat63377302-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Módulo para transmissão e recepção de dados em redes sem fio (Wi-Fi e Bluetooth) LG 43UJ6300, 49UH7F-B, 49UJ6300 - EAT63377302 - EAT63377302"
+name: "Módulo para transmissão e recepção de dados em redes sem fio (Wi-Fi e Bluetooth) LG 43UJ6300, 49UH7F-B, 49UJ6300 - EAT63377302 - EAT63377302 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.058Z"
+  updated_at: "2026-11-13T13:48:21.003Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.058Z"
+    verified_at: "2026-11-13T13:48:21.003Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.058Z"
+    verified_at: "2026-11-13T13:48:21.003Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

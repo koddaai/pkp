@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb75675325-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto TV LG 42LM6200 AKB75675325 - AKB75675325"
+name: "Controle Remoto TV LG 42LM6200 AKB75675325 - AKB75675325 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.99
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.957Z"
+  updated_at: "2026-11-13T13:48:20.921Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.957Z"
+    verified_at: "2026-11-13T13:48:20.921Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.957Z"
+    verified_at: "2026-11-13T13:48:20.921Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

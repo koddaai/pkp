@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65826601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "TELA DE CRISTAL LIQUIDO OPENCELL(BA) - EAJ65826601 - EAJ65826601"
+name: "TELA DE CRISTAL LIQUIDO OPENCELL(BA) - EAJ65826601 - EAJ65826601 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1832.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.048Z"
+  updated_at: "2026-11-13T13:48:20.994Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.048Z"
+    verified_at: "2026-11-13T13:48:20.994Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.048Z"
+    verified_at: "2026-11-13T13:48:20.994Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

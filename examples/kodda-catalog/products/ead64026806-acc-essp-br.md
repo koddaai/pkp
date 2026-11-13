@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead64026806-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo de alimentação TV LG OLED65E7P EAD64026806 - EAD64026806"
+name: "Cabo de alimentação TV LG OLED65E7P EAD64026806 - EAD64026806 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 86.98
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.010Z"
+  updated_at: "2026-11-13T13:48:20.963Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.010Z"
+    verified_at: "2026-11-13T13:48:20.963Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.010Z"
+    verified_at: "2026-11-13T13:48:20.963Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

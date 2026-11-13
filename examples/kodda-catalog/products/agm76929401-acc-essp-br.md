@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm76929401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "AGM76929401 - AGM76929401"
+name: "AGM76929401 - AGM76929401 | LG BR"
 category: "tvs"
 
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 426.55
+  value: 363.42
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.932Z"
+  updated_at: "2026-11-13T13:48:20.893Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.932Z"
+    verified_at: "2026-11-13T13:48:20.893Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.932Z"
+    verified_at: "2026-11-13T13:48:20.893Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

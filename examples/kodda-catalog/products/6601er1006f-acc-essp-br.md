@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6601er1006f-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Chave interruptora (pressostato) Máquina de Lavar Roupa LG WD1410RT, WD1411RWA, WD1412RT - 6601ER1006F - 6601ER1006F"
+name: "Chave interruptora (pressostato) Máquina de Lavar Roupa LG WD1410RT, WD1411RWA, WD1412RT - 6601ER1006F - 6601ER1006F | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.844Z"
+  updated_at: "2026-11-13T13:48:20.804Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.844Z"
+    verified_at: "2026-11-13T13:48:20.804Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.844Z"
+    verified_at: "2026-11-13T13:48:20.804Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr76464019-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da EEPROM Ar Condicionado LG USNQ122HSG3, USNQ122HSA0 - EBR76464019 - EBR76464019"
+name: "Placa da EEPROM Ar Condicionado LG USNQ122HSG3, USNQ122HSA0 - EBR76464019 - EBR76464019 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.119Z"
+  updated_at: "2026-11-13T13:48:21.072Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.119Z"
+    verified_at: "2026-11-13T13:48:21.072Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.119Z"
+    verified_at: "2026-11-13T13:48:21.072Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

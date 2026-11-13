@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr88271349-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Lavadora LG CV9013WC4A - EBR88271349 - EBR88271349"
+name: "Placa principal Lavadora LG CV9013WC4A - EBR88271349 - EBR88271349 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 900.88
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.152Z"
+  updated_at: "2026-11-13T13:48:21.107Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.152Z"
+    verified_at: "2026-11-13T13:48:21.107Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.152Z"
+    verified_at: "2026-11-13T13:48:21.107Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

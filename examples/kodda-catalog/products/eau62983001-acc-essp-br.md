@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau62983001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor de corrente contínua Ar Condicionado LG USNW092WSZ2, ASNQ092WSA0, ASNW092B1U0 - EAU62983001 - EAU62983001"
+name: "Motor de corrente contínua Ar Condicionado LG USNW092WSZ2, ASNQ092WSA0, ASNW092B1U0 - EAU62983001 - EAU62983001 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 322.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.067Z"
+  updated_at: "2026-11-13T13:48:21.013Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.067Z"
+    verified_at: "2026-11-13T13:48:21.013Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.067Z"
+    verified_at: "2026-11-13T13:48:21.013Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

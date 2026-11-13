@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "cls32171101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vela de Ignição motor da bomba Ar Condicionado GHP LG CLS32171101 - CLS32171101"
+name: "Vela de Ignição motor da bomba Ar Condicionado GHP LG CLS32171101 - CLS32171101 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 357.83
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.965Z"
+  updated_at: "2026-11-13T13:48:20.931Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.965Z"
+    verified_at: "2026-11-13T13:48:20.931Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.965Z"
+    verified_at: "2026-11-13T13:48:20.931Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

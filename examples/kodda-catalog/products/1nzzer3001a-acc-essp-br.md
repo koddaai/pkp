@@ -4,9 +4,9 @@ schema: pkp/1.0
 sku: "1nzzer3001a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Porca Vaporizador De Ar LG S3MFBN 1NZZER3001A - 1NZZER3001A"
-category: "eletrodomesticos"
-subcategory: "lavadora"
+name: "Porca Vaporizador De Ar LG S3MFBN 1NZZER3001A - 1NZZER3001A | LG BR"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 19.73
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.771Z"
+  updated_at: "2026-11-13T13:48:20.717Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.771Z"
+    verified_at: "2026-11-13T13:48:20.717Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.771Z"
+    verified_at: "2026-11-13T13:48:20.717Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay62909702-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Adaptador CA para Sound Bar (25 V, 2 A, 50 W, cabo de alimentação não incluído, preto) - EAY62909702"
+name: "Adaptador CA para Sound Bar (25 V, 2 A, 50 W, cabo de alimentação não incluído, preto) - EAY62909702 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.072Z"
+  updated_at: "2026-11-13T13:48:21.017Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.072Z"
+    verified_at: "2026-11-13T13:48:21.017Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.072Z"
+    verified_at: "2026-11-13T13:48:21.017Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

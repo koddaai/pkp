@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mar62762001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo de Borracha Lavadora de Roupas LG FV3011WG4 MAR62762001 - MAR62762001"
+name: "Tubo de Borracha Lavadora de Roupas LG FV3011WG4 MAR62762001 - MAR62762001 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 41.89
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.215Z"
+  updated_at: "2026-11-13T13:48:21.161Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.215Z"
+    verified_at: "2026-11-13T13:48:21.161Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.215Z"
+    verified_at: "2026-11-13T13:48:21.161Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

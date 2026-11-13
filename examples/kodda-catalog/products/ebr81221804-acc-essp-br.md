@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr81221804-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Ar Condicionado LG ARNU36GTNC4, ARNU05GTRC4, ARNU07GTRA4 - EBR81221804 - EBR81221804"
+name: "Placa principal Ar Condicionado LG ARNU36GTNC4, ARNU05GTRC4, ARNU07GTRA4 - EBR81221804 - EBR81221804 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 559.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.128Z"
+  updated_at: "2026-11-13T13:48:21.082Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.128Z"
+    verified_at: "2026-11-13T13:48:21.082Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.128Z"
+    verified_at: "2026-11-13T13:48:21.082Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

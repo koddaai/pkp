@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg62146101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Termistor NTC Ar Condicionado LG ARNU12GSBR4, ARUN260LTE5, ARWM080LAS5 - EBG62146101 - EBG62146101"
+name: "Termistor NTC Ar Condicionado LG ARNU12GSBR4, ARUN260LTE5, ARWM080LAS5 - EBG62146101 - EBG62146101 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.095Z"
+  updated_at: "2026-11-13T13:48:21.046Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.095Z"
+    verified_at: "2026-11-13T13:48:21.046Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.095Z"
+    verified_at: "2026-11-13T13:48:21.046Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

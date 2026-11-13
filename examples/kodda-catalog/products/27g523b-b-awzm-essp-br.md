@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27g523b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraGear™ 27G523B - 200Hz Nativo, Tela IPS 27”, 1ms real (GtG), NVIDIA G-SYNC, AMD FreeSync Premium™, HDR10, sRGB 99%, HDMI, DisplayPort, Saída para fone de ouvido - 27G523B-B"
+name: "Monitor LG UltraGear™ 27G523B - 200Hz Nativo, Tela IPS 27”, 1ms real (GtG), NVIDIA G-SYNC, AMD FreeSync Premium™, HDR10, sRGB 99%, HDMI, DisplayPort, Saída para fone de ouvido - 27G523B-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 949
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.774Z"
+  updated_at: "2026-11-13T13:48:20.721Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.774Z"
+    verified_at: "2026-11-13T13:48:20.721Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.774Z"
+    verified_at: "2026-11-13T13:48:20.721Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

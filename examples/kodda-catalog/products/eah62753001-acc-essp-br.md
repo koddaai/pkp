@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eah62753001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Diodo Retificador Mini System LG CJ87 EAH62753001 - EAH62753001"
+name: "Diodo Retificador Mini System LG CJ87 EAH62753001 - EAH62753001 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.021Z"
+  updated_at: "2026-11-13T13:48:20.974Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.021Z"
+    verified_at: "2026-11-13T13:48:20.974Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.021Z"
+    verified_at: "2026-11-13T13:48:20.974Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "abq76860721-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Módulo eletrônico de controle (inverter) Ar Condicionado LG S4UQ09WA5AC, S4-Q09WA51C - ABQ76860721 - ABQ76860721"
+name: "Módulo eletrônico de controle (inverter) Ar Condicionado LG S4UQ09WA5AC, S4-Q09WA51C - ABQ76860721 - ABQ76860721 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 829.01
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.873Z"
+  updated_at: "2026-11-13T13:48:20.831Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.873Z"
+    verified_at: "2026-11-13T13:48:20.831Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.873Z"
+    verified_at: "2026-11-13T13:48:20.831Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

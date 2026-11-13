@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "afc72909305-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Pé para ajuste de altura Lava e Seca LG AFC72909305 - AFC72909305"
+name: "Pé para ajuste de altura Lava e Seca LG AFC72909305 - AFC72909305 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.906Z"
+  updated_at: "2026-11-13T13:48:20.865Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.906Z"
+    verified_at: "2026-11-13T13:48:20.865Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.906Z"
+    verified_at: "2026-11-13T13:48:20.865Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

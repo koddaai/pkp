@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aeh76181802-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte da Porta Refrigerador LG GCX257CSHS AEH76181802 - AEH76181802"
+name: "Suporte da Porta Refrigerador LG GCX257CSHS AEH76181802 - AEH76181802 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.902Z"
+  updated_at: "2026-11-13T13:48:20.861Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.902Z"
+    verified_at: "2026-11-13T13:48:20.861Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.902Z"
+    verified_at: "2026-11-13T13:48:20.861Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

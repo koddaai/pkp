@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr88543215-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal da evaporadora Ar Condicionado LG S4NQ12JA31C - EBR88543215 - EBR88543215"
+name: "Placa principal da evaporadora Ar Condicionado LG S4NQ12JA31C - EBR88543215 - EBR88543215 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.153Z"
+  updated_at: "2026-11-13T13:48:21.109Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.153Z"
+    verified_at: "2026-11-13T13:48:21.109Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.153Z"
+    verified_at: "2026-11-13T13:48:21.109Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

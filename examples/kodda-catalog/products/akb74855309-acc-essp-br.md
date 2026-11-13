@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb74855309-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle remoto Ar Condicionado cassete LG AKB74855309 - AKB74855309"
+name: "Controle remoto Ar Condicionado cassete LG AKB74855309 - AKB74855309 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 664.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.952Z"
+  updated_at: "2026-11-13T13:48:20.916Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.952Z"
+    verified_at: "2026-11-13T13:48:20.916Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.952Z"
+    verified_at: "2026-11-13T13:48:20.916Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

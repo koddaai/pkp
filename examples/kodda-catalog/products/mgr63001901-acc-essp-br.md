@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mgr63001901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte metálico organizador garrafas Refrigerador LG GC-L257SLPL, GC-J257CSF1, GC-J257CSFS - MGR63001901 - MGR63001901"
+name: "Suporte metálico organizador garrafas Refrigerador LG GC-L257SLPL, GC-J257CSF1, GC-J257CSFS - MGR63001901 - MGR63001901 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 113.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.237Z"
+  updated_at: "2026-11-13T13:48:21.180Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.237Z"
+    verified_at: "2026-11-13T13:48:21.180Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.237Z"
+    verified_at: "2026-11-13T13:48:21.180Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

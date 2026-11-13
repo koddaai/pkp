@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eab62873007-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Alto Falante Único Caixa de Som Portátil LG XL9T EAB62873007 - EAB62873007"
+name: "Alto Falante Único Caixa de Som Portátil LG XL9T EAB62873007 - EAB62873007 | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 76.09
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.994Z"
+  updated_at: "2026-11-13T13:48:20.946Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.994Z"
+    verified_at: "2026-11-13T13:48:20.946Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.994Z"
+    verified_at: "2026-11-13T13:48:20.946Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

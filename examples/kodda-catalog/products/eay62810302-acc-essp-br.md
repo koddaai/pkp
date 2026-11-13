@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay62810302-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Fonte TV LG 32LN5400 - EAY62810302 - EAY62810302"
+name: "Placa Fonte TV LG 32LN5400 - EAY62810302 - EAY62810302 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.071Z"
+  updated_at: "2026-11-13T13:48:21.016Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.071Z"
+    verified_at: "2026-11-13T13:48:21.016Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.071Z"
+    verified_at: "2026-11-13T13:48:21.016Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

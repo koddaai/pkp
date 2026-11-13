@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adl36804501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina Ar Condicionado LG AMNW18GTTC0 ADL36804501 - ADL36804501"
+name: "Serpentina Ar Condicionado LG AMNW18GTTC0 ADL36804501 - ADL36804501 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1208.45
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.887Z"
+  updated_at: "2026-11-13T13:48:20.845Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.887Z"
+    verified_at: "2026-11-13T13:48:20.845Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.887Z"
+    verified_at: "2026-11-13T13:48:20.845Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

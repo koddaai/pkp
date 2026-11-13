@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj63892801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (Módulo) TV LG 49LF5100 - EAJ63892801 - EAJ63892801"
+name: "Tela de cristal líquido (Módulo) TV LG 49LF5100 - EAJ63892801 - EAJ63892801 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2032.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.024Z"
+  updated_at: "2026-11-13T13:48:20.977Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.024Z"
+    verified_at: "2026-11-13T13:48:20.977Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.024Z"
+    verified_at: "2026-11-13T13:48:20.977Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

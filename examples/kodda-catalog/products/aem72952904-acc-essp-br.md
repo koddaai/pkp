@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aem72952904-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mangueira do dreno evaporadora Ar Condicionado LG TSNH092ERM1, TSNC122TNW5, TSNC182C4A0 -  AEM72952904 - AEM72952904"
+name: "Mangueira do dreno evaporadora Ar Condicionado LG TSNH092ERM1, TSNC122TNW5, TSNC182C4A0 -  AEM72952904 - AEM72952904 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.903Z"
+  updated_at: "2026-11-13T13:48:20.861Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.903Z"
+    verified_at: "2026-11-13T13:48:20.861Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.903Z"
+    verified_at: "2026-11-13T13:48:20.861Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aba72946302-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Botão power (liga-desliga) Monitor LG W1946P-BF, 23MB35PH-B, E2011P-BN - ABA72946302 - ABA72946302"
+name: "Botão power (liga-desliga) Monitor LG W1946P-BF, 23MB35PH-B, E2011P-BN - ABA72946302 - ABA72946302 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.869Z"
+  updated_at: "2026-11-13T13:48:20.828Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.869Z"
+    verified_at: "2026-11-13T13:48:20.828Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.869Z"
+    verified_at: "2026-11-13T13:48:20.828Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

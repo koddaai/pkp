@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tbz38334801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Compressor SBA052WB Ar Condicionado LG LG-NAS12 - TBZ38334801 - TBZ38334801"
+name: "Compressor SBA052WB Ar Condicionado LG LG-NAS12 - TBZ38334801 - TBZ38334801 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5250.84
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.273Z"
+  updated_at: "2026-11-13T13:48:21.210Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.273Z"
+    verified_at: "2026-11-13T13:48:21.210Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.273Z"
+    verified_at: "2026-11-13T13:48:21.210Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

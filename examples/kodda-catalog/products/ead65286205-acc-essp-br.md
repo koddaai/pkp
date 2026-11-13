@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead65286205-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo de Força Máquina de Lavar Roupas LG  CV7011WS4A, CV5011WG4A, CV7011TC4A - EAD65286205 - EAD65286205"
+name: "Cabo de Força Máquina de Lavar Roupas LG  CV7011WS4A, CV5011WG4A, CV7011TC4A - EAD65286205 - EAD65286205 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 170.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.013Z"
+  updated_at: "2026-11-13T13:48:20.966Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.013Z"
+    verified_at: "2026-11-13T13:48:20.966Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.013Z"
+    verified_at: "2026-11-13T13:48:20.966Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

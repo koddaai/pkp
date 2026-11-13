@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5208en1003c-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tampa Máquina De Lavar Roupa LG CV3012MC5A 5208EN1003C - 5208EN1003C"
+name: "Tampa Máquina De Lavar Roupa LG CV3012MC5A 5208EN1003C - 5208EN1003C | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 248.2
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.811Z"
+  updated_at: "2026-11-13T13:48:20.762Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.811Z"
+    verified_at: "2026-11-13T13:48:20.762Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.811Z"
+    verified_at: "2026-11-13T13:48:20.762Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eam63891309-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de linha contra ruído Lavadora LG WD1014RD7, CV3011WG4A, CV5010TS4A - EAM63891309 - EAM63891309"
+name: "Filtro de linha contra ruído Lavadora LG WD1014RD7, CV3011WG4A, CV5010TS4A - EAM63891309 - EAM63891309 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.055Z"
+  updated_at: "2026-11-13T13:48:21.000Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.055Z"
+    verified_at: "2026-11-13T13:48:21.000Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.055Z"
+    verified_at: "2026-11-13T13:48:21.000Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

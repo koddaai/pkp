@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr86268930-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Lavadora LG WD18BV2S6BA EBR86268930 - EBR86268930"
+name: "Placa Principal Lavadora LG WD18BV2S6BA EBR86268930 - EBR86268930 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1300.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.145Z"
+  updated_at: "2026-11-13T13:48:21.101Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.145Z"
+    verified_at: "2026-11-13T13:48:21.101Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.145Z"
+    verified_at: "2026-11-13T13:48:21.101Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

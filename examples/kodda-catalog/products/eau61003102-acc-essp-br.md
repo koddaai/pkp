@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau61003102-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor da aleta Ar Condicionado LG EAU61003102 - EAU61003102"
+name: "Motor da aleta Ar Condicionado LG EAU61003102 - EAU61003102 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 306.76
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.064Z"
+  updated_at: "2026-11-13T13:48:21.009Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.064Z"
+    verified_at: "2026-11-13T13:48:21.009Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.064Z"
+    verified_at: "2026-11-13T13:48:21.009Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

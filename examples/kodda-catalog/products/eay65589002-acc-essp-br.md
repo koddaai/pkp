@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65589002-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa fonte TV LG 60UM7270PSA, 60UN7310PSA - EAY65589002 - EAY65589002"
+name: "Placa fonte TV LG 60UM7270PSA, 60UN7310PSA - EAY65589002 - EAY65589002 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 661.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.080Z"
+  updated_at: "2026-11-13T13:48:21.028Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.080Z"
+    verified_at: "2026-11-13T13:48:21.028Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.080Z"
+    verified_at: "2026-11-13T13:48:21.028Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

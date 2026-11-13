@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "383eer3001j-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conjunto de Amortecedor Lavadora LG WD-13436RD, FH069FD6F, WD-12436RD - 383EER3001J - 383EER3001J"
+name: "Conjunto de Amortecedor Lavadora LG WD-13436RD, FH069FD6F, WD-12436RD - 383EER3001J - 383EER3001J | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 62.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.788Z"
+  updated_at: "2026-11-13T13:48:20.737Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.788Z"
+    verified_at: "2026-11-13T13:48:20.737Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.788Z"
+    verified_at: "2026-11-13T13:48:20.737Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

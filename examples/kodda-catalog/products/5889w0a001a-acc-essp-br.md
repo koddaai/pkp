@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5889w0a001a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Eixo do prato Forno Micro-ondas LG MS3047G, MH7049BAR, MH7082B - 5889W0A001A - 5889W0A001A"
+name: "Eixo do prato Forno Micro-ondas LG MS3047G, MH7049BAR, MH7082B - 5889W0A001A - 5889W0A001A | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 60.04
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.832Z"
+  updated_at: "2026-11-13T13:48:20.776Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.832Z"
+    verified_at: "2026-11-13T13:48:20.776Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.832Z"
+    verified_at: "2026-11-13T13:48:20.776Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

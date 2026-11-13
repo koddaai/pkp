@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead63787805-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flat TV LG 75UH6550, 70UH6350, 75UH6550 - EAD63787805 - EAD63787805"
+name: "Cabo Flat TV LG 75UH6550, 70UH6350, 75UH6550 - EAD63787805 - EAD63787805 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.24
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.007Z"
+  updated_at: "2026-11-13T13:48:20.959Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.007Z"
+    verified_at: "2026-11-13T13:48:20.959Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.007Z"
+    verified_at: "2026-11-13T13:48:20.959Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

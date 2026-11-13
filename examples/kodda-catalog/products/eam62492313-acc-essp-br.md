@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eam62492313-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de linha Lavadora LG WD1485AT7B, CV3011WG4, CV5010TS4 - EAM62492313 - EAM62492313"
+name: "Filtro de linha Lavadora LG WD1485AT7B, CV3011WG4, CV5010TS4 - EAM62492313 - EAM62492313 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 217.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.055Z"
+  updated_at: "2026-11-13T13:48:21.000Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.055Z"
+    verified_at: "2026-11-13T13:48:21.000Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.055Z"
+    verified_at: "2026-11-13T13:48:21.000Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

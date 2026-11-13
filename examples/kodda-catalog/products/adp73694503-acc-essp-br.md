@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adp73694503-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Turbina da evaporadora Ar condicionado LG AVNQ60GM2A0, ARNU36GV2A4, ARNU48GV2A4 - ADP73694503 - ADP73694503"
+name: "Turbina da evaporadora Ar condicionado LG AVNQ60GM2A0, ARNU36GV2A4, ARNU48GV2A4 - ADP73694503 - ADP73694503 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 391.25
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.894Z"
+  updated_at: "2026-11-13T13:48:20.852Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.894Z"
+    verified_at: "2026-11-13T13:48:20.852Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.894Z"
+    verified_at: "2026-11-13T13:48:20.852Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

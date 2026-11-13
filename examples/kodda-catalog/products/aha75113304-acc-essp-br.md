@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aha75113304-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bomba centrífuga Ar Condicionado LG AMNW24GTPA1 - AHA75113304 - AHA75113304"
+name: "Bomba centrífuga Ar Condicionado LG AMNW24GTPA1 - AHA75113304 - AHA75113304 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 540.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.936Z"
+  updated_at: "2026-11-13T13:48:20.897Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.936Z"
+    verified_at: "2026-11-13T13:48:20.897Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.936Z"
+    verified_at: "2026-11-13T13:48:20.897Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

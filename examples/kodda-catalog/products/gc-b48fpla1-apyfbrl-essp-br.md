@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-b48fpla1-apyfbrl-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira LG Frost Free Inverter 502L Multidoor Inox Look - 127V - GC-B48FPLA1"
+name: "Geladeira LG Frost Free Inverter 502L Multidoor Inox Look - 127V - GC-B48FPLA1 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6649.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.194Z"
+  updated_at: "2026-11-13T13:48:21.148Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.194Z"
+    verified_at: "2026-11-13T13:48:21.148Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.194Z"
+    verified_at: "2026-11-13T13:48:21.148Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

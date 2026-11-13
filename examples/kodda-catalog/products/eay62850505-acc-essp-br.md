@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay62850505-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte externa Projetor e Monitor LG PH300, 27UL500-W, 29WK600-W - EAY62850505 - EAY62850505"
+name: "Fonte externa Projetor e Monitor LG PH300, 27UL500-W, 29WK600-W - EAY62850505 - EAY62850505 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 219.64
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.071Z"
+  updated_at: "2026-11-13T13:48:21.016Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.071Z"
+    verified_at: "2026-11-13T13:48:21.016Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.071Z"
+    verified_at: "2026-11-13T13:48:21.016Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

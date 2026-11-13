@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "75mrgb85-s70ty-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG Mini RGB evo AI 4K MRGB85 75 polegadas 2026 + Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS - 75MRGB85.S70TY"
+name: "Smart TV LG Mini RGB evo AI 4K MRGB85 75 polegadas 2026 + Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS - 75MRGB85.S70TY | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 9736.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.850Z"
+  updated_at: "2026-11-13T13:48:20.810Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.850Z"
+    verified_at: "2026-11-13T13:48:20.810Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.850Z"
+    verified_at: "2026-11-13T13:48:20.810Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

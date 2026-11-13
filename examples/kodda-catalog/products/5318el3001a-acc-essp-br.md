@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5318el3001a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Dispositivo de ignição Secadora LG DY1119RD7, DF17VVSA, DG1319RD7 - 5318EL3001A - 5318EL3001A"
+name: "Dispositivo de ignição Secadora LG DY1119RD7, DF17VVSA, DG1319RD7 - 5318EL3001A - 5318EL3001A | LG BR"
 category: "eletrodomesticos"
 subcategory: "secadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 426.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.827Z"
+  updated_at: "2026-11-13T13:48:20.771Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.827Z"
+    verified_at: "2026-11-13T13:48:20.771Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.827Z"
+    verified_at: "2026-11-13T13:48:20.771Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

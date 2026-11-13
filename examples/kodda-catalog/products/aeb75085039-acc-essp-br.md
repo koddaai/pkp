@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aeb75085039-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Grade Frontal Ar Condicionado LG AEB75085039 - AEB75085039"
+name: "Grade Frontal Ar Condicionado LG AEB75085039 - AEB75085039 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 436.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.900Z"
+  updated_at: "2026-11-13T13:48:20.858Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.900Z"
+    verified_at: "2026-11-13T13:48:20.858Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.900Z"
+    verified_at: "2026-11-13T13:48:20.858Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

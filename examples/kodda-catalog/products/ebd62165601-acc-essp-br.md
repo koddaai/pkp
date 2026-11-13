@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebd62165601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sensor de pressão Ar Condicionado LG CRUN120LLS4, ARUB120LTE4, ARUB140BT3 - EBD62165601 - EBD62165601"
+name: "Sensor de pressão Ar Condicionado LG CRUN120LLS4, ARUB120LTE4, ARUB140BT3 - EBD62165601 - EBD62165601 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 740.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.088Z"
+  updated_at: "2026-11-13T13:48:21.037Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.088Z"
+    verified_at: "2026-11-13T13:48:21.037Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.088Z"
+    verified_at: "2026-11-13T13:48:21.037Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

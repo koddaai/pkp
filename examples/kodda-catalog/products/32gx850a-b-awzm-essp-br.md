@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "32gx850a-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG OLED UltraGear™ Glossy Dual Mode 4K 32GX850A-B 32\", 330Hz FHD, 165Hz UHD, 0.03ms (GtG), Vesa Adaptive-Sync, NVIDIA G-SYNC, AMD FreeSync Premium Pro, DisplayHDR True Black 400 & DCI-P3 98.5%, Ajustes Pro Gamer - 32GX850A-B"
+name: "Monitor LG OLED UltraGear™ Glossy Dual Mode 4K 32GX850A-B 32\", 330Hz FHD, 165Hz UHD, 0.03ms (GtG), Vesa Adaptive-Sync, NVIDIA G-SYNC, AMD FreeSync Premium Pro, DisplayHDR True Black 400 & DCI-P3 98.5%, Ajustes Pro Gamer - 32GX850A-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5999
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.782Z"
+  updated_at: "2026-11-13T13:48:20.730Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.782Z"
+    verified_at: "2026-11-13T13:48:20.730Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.782Z"
+    verified_at: "2026-11-13T13:48:20.730Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

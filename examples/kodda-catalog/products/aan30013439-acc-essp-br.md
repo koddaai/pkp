@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan30013439-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base (pedestal) TV LG 55NANO80SQA - AAN30013439 - AAN30013439"
+name: "Base (pedestal) TV LG 55NANO80SQA - AAN30013439 - AAN30013439 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.856Z"
+  updated_at: "2026-11-13T13:48:20.815Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.856Z"
+    verified_at: "2026-11-13T13:48:20.815Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.856Z"
+    verified_at: "2026-11-13T13:48:20.815Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "24ba850-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG B2B Webcam - Tela IPS Full HD 24\", USB-C, RJ45, ajustes ergonômicos e compatível com Windows Hello - 24BA850-B"
+name: "Monitor LG B2B Webcam - Tela IPS Full HD 24\", USB-C, RJ45, ajustes ergonômicos e compatível com Windows Hello - 24BA850-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1799
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.772Z"
+  updated_at: "2026-11-13T13:48:20.718Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.772Z"
+    verified_at: "2026-11-13T13:48:20.718Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.772Z"
+    verified_at: "2026-11-13T13:48:20.718Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

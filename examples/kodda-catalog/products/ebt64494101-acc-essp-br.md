@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebt64494101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal TV LG 55UJ7500 - EBT64494101 - EBT64494101"
+name: "Placa principal TV LG 55UJ7500 - EBT64494101 - EBT64494101 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 825.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.159Z"
+  updated_at: "2026-11-13T13:48:21.114Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.159Z"
+    verified_at: "2026-11-13T13:48:21.114Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.159Z"
+    verified_at: "2026-11-13T13:48:21.114Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

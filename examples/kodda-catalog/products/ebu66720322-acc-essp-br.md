@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu66720322-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 32LQ620BPSB - EBU66720322 - EBU66720322"
+name: "Placa Principal TV LG 32LQ620BPSB - EBU66720322 - EBU66720322 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 628.27
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.178Z"
+  updated_at: "2026-11-13T13:48:21.133Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.178Z"
+    verified_at: "2026-11-13T13:48:21.133Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.178Z"
+    verified_at: "2026-11-13T13:48:21.133Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

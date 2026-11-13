@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adl76759601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina Ar Condicionado LG S3NW09AA31D ADL76759601 - ADL76759601"
+name: "Serpentina Ar Condicionado LG S3NW09AA31D ADL76759601 - ADL76759601  | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 664.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.892Z"
+  updated_at: "2026-11-13T13:48:20.849Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.892Z"
+    verified_at: "2026-11-13T13:48:20.849Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.892Z"
+    verified_at: "2026-11-13T13:48:20.849Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

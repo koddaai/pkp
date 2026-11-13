@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4620er4002a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Borracha antiderrapante para máquinas de lavar - 4620ER4002A"
+name: "Borracha antiderrapante para máquinas de lavar - 4620ER4002A | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 42.48
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.800Z"
+  updated_at: "2026-11-13T13:48:20.750Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.800Z"
+    verified_at: "2026-11-13T13:48:20.750Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.800Z"
+    verified_at: "2026-11-13T13:48:20.750Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

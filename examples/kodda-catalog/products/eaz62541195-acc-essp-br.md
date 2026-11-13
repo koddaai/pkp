@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaz62541195-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mecanismo montado com leitor e cabos Mini-System LG CJ98 - EAZ62541195 - EAZ62541195"
+name: "Mecanismo montado com leitor e cabos Mini-System LG CJ98 - EAZ62541195 - EAZ62541195 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.087Z"
+  updated_at: "2026-11-13T13:48:21.036Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.087Z"
+    verified_at: "2026-11-13T13:48:21.036Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.087Z"
+    verified_at: "2026-11-13T13:48:21.036Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead62100102-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo de força Forno Micro-ondas LG MS3048GA, LSRM2085ST, MH8297CIRA - EAD62100102 - EAD62100102"
+name: "Cabo de força Forno Micro-ondas LG MS3048GA, LSRM2085ST, MH8297CIRA - EAD62100102 - EAD62100102 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.003Z"
+  updated_at: "2026-11-13T13:48:20.956Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.003Z"
+    verified_at: "2026-11-13T13:48:20.956Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.003Z"
+    verified_at: "2026-11-13T13:48:20.956Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

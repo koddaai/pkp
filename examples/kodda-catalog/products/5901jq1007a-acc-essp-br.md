@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5901jq1007a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hélice do ventilador Refrigerador LG GC-P213BVK - 5901JQ1007A - 5901JQ1007A"
+name: "Hélice do ventilador Refrigerador LG GC-P213BVK - 5901JQ1007A - 5901JQ1007A | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 19.12
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.835Z"
+  updated_at: "2026-11-13T13:48:20.795Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.835Z"
+    verified_at: "2026-11-13T13:48:20.795Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.835Z"
+    verified_at: "2026-11-13T13:48:20.795Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

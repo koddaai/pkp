@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65951801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido Módulo TV LG 43UA8550PSA EAJ65951801 - EAJ65951801"
+name: "Tela de cristal líquido Módulo TV LG 43UA8550PSA EAJ65951801 - EAJ65951801 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1101.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.054Z"
+  updated_at: "2026-11-13T13:48:20.999Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.054Z"
+    verified_at: "2026-11-13T13:48:20.999Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.054Z"
+    verified_at: "2026-11-13T13:48:20.999Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

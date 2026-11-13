@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681ar1392r-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor Ar Condicionado LG LSUC182TNM0 4681AR1392R - 4681AR1392R"
+name: "Motor Ar Condicionado LG LSUC182TNM0 4681AR1392R - 4681AR1392R | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 227.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.803Z"
+  updated_at: "2026-11-13T13:48:20.753Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.803Z"
+    verified_at: "2026-11-13T13:48:20.753Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.803Z"
+    verified_at: "2026-11-13T13:48:20.753Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

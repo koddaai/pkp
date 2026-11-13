@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg61406002-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Termistor (NTC) Ar Condicionado LG A3UW21GFA0, A2UW16GFA0, A2UW18GFA2 - EBG61406002 - EBG61406002"
+name: "Termistor (NTC) Ar Condicionado LG A3UW21GFA0, A2UW16GFA0, A2UW18GFA2 - EBG61406002 - EBG61406002 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.093Z"
+  updated_at: "2026-11-13T13:48:21.044Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.093Z"
+    verified_at: "2026-11-13T13:48:21.044Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.093Z"
+    verified_at: "2026-11-13T13:48:21.044Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

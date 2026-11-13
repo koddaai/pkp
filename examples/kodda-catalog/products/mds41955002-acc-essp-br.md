@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mds41955002-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação em borracha da porta (Guarnição) Lava e Seca LG WD-1403RD5, F4A8JMB3W, F4A8JMB2S - MDS41955002 - MDS41955002"
+name: "Vedação em borracha da porta (Guarnição) Lava e Seca LG WD-1403RD5, F4A8JMB3W, F4A8JMB2S - MDS41955002 - MDS41955002 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 265.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.223Z"
+  updated_at: "2026-11-13T13:48:21.168Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.223Z"
+    verified_at: "2026-11-13T13:48:21.168Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.223Z"
+    verified_at: "2026-11-13T13:48:21.168Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mhw62501201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte Máquina Lavar Roupa LG CV9013WC4A MHW62501201 - MHW62501201"
+name: "Suporte Máquina Lavar Roupa LG CV9013WC4A MHW62501201 - MHW62501201 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 759.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.239Z"
+  updated_at: "2026-11-13T13:48:21.183Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.239Z"
+    verified_at: "2026-11-13T13:48:21.183Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.239Z"
+    verified_at: "2026-11-13T13:48:21.183Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

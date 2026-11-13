@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6912w3b002d-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lâmpada incandescente Micro-ondas LG MS1944AA, MJ3881BCA, MP-9483SLR - 6912W3B002D - 6912W3B002D"
+name: "Lâmpada incandescente Micro-ondas LG MS1944AA, MJ3881BCA, MP-9483SLR - 6912W3B002D - 6912W3B002D | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 67.64
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.849Z"
+  updated_at: "2026-11-13T13:48:20.809Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.849Z"
+    verified_at: "2026-11-13T13:48:20.809Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.849Z"
+    verified_at: "2026-11-13T13:48:20.809Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

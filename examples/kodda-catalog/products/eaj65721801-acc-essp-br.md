@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65721801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido Módulo LG 24MN33NPC EAJ65721801 - EAJ65721801"
+name: "Tela de cristal líquido Módulo LG 24MN33NPC EAJ65721801 - EAJ65721801 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 426.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.032Z"
+  updated_at: "2026-11-13T13:48:20.986Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.032Z"
+    verified_at: "2026-11-13T13:48:20.986Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.032Z"
+    verified_at: "2026-11-13T13:48:20.986Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

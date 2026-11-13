@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5209en1002k-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Duto de entrada de ar quente Lava e Seca LG CV9011EC4, CV5011WG4, CV7011TC4 - 5209EN1002K - 5209EN1002K"
+name: "Duto de entrada de ar quente Lava e Seca LG CV9011EC4, CV5011WG4, CV7011TC4 - 5209EN1002K - 5209EN1002K | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 882.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.812Z"
+  updated_at: "2026-11-13T13:48:20.763Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.812Z"
+    verified_at: "2026-11-13T13:48:20.763Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.812Z"
+    verified_at: "2026-11-13T13:48:20.763Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

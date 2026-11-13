@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4986er0004p-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação em borracha da porta (guarnição) Lavadora LG 4986ER0004P - 4986ER0004P"
+name: "Vedação em borracha da porta (guarnição) Lavadora LG 4986ER0004P - 4986ER0004P | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 233.75
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.809Z"
+  updated_at: "2026-11-13T13:48:20.759Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.809Z"
+    verified_at: "2026-11-13T13:48:20.759Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.809Z"
+    verified_at: "2026-11-13T13:48:20.759Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

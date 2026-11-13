@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr89579701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do Display Loud Speaker LG - EBR89579701 - EBR89579701"
+name: "Placa do Display Loud Speaker LG - EBR89579701 - EBR89579701 | LG BR"
 category: "tvs"
 
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 360.05
+  value: 309.64
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.158Z"
+  updated_at: "2026-11-13T13:48:21.113Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.158Z"
+    verified_at: "2026-11-13T13:48:21.113Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.158Z"
+    verified_at: "2026-11-13T13:48:21.113Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

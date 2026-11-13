@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg62805803-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Termistor NTC Ar Condicionado LG S4UQ24K23WD, S4UQ24K231D,S4UQ24K231E - EBG62805803 - EBG62805803"
+name: "Termistor NTC Ar Condicionado LG S4UQ24K23WD, S4UQ24K231D,S4UQ24K231E - EBG62805803 - EBG62805803 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.096Z"
+  updated_at: "2026-11-13T13:48:21.046Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.096Z"
+    verified_at: "2026-11-13T13:48:21.046Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.096Z"
+    verified_at: "2026-11-13T13:48:21.046Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

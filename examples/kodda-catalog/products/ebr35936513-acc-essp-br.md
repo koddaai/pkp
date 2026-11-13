@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr35936513-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Evaporadora Ar Condicionado LG ASNW092B4A0, ASNQ122BRW0, ASNQ182C4A0 - EBR35936513 - EBR35936513"
+name: "Placa principal Evaporadora Ar Condicionado LG ASNW092B4A0, ASNQ122BRW0, ASNQ182C4A0 - EBR35936513 - EBR35936513 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.105Z"
+  updated_at: "2026-11-13T13:48:21.056Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.105Z"
+    verified_at: "2026-11-13T13:48:21.056Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.105Z"
+    verified_at: "2026-11-13T13:48:21.056Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

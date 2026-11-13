@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaf58158301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fusível Ar Condicionado LG ASUQ182CSA1, ASUQ182CSA1, ASUW1223WB0 - EAF58158301 - EAF58158301"
+name: "Fusível Ar Condicionado LG ASUQ182CSA1, ASUQ182CSA1, ASUW1223WB0 - EAF58158301 - EAF58158301 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 71.3
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.020Z"
+  updated_at: "2026-11-13T13:48:20.973Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.020Z"
+    verified_at: "2026-11-13T13:48:20.973Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.020Z"
+    verified_at: "2026-11-13T13:48:20.973Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

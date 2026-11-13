@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay64310501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da fonte TV LG 43LH5600-SG, 43LH5700-SF, 43LH5700-SF - EAY64310501 - EAY64310501"
+name: "Placa da fonte TV LG 43LH5600-SG, 43LH5700-SF, 43LH5700-SF - EAY64310501 - EAY64310501 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 369.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.076Z"
+  updated_at: "2026-11-13T13:48:21.021Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.076Z"
+    verified_at: "2026-11-13T13:48:21.021Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.076Z"
+    verified_at: "2026-11-13T13:48:21.021Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

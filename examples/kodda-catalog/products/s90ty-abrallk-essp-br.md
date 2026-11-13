@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s90ty-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "Soundbar LG S90TY – 570W RMS, Dolby Atmos, 5.1.3 Canais, DTS:X, AI Room Calibration Pro, AI Sound Pro, Sem fios, WOW Orchestra, Conexões Múltiplas - S90TY"
+name: "Soundbar LG S90TY – 570W RMS, Dolby Atmos, 5.1.3 Canais, DTS:X, AI Room Calibration Pro, AI Sound Pro, Sem fios, WOW Orchestra, Conexões Múltiplas - S90TY | LG BR"
 category: "audio"
 subcategory: "soundbar"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3329.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.270Z"
+  updated_at: "2026-11-13T13:48:21.207Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.270Z"
+    verified_at: "2026-11-13T13:48:21.207Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.270Z"
+    verified_at: "2026-11-13T13:48:21.207Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

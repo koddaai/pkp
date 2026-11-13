@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mkk63022402-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Reservatorio de gelo Refrigerador LG GC-B659BSB, GC-B659BSB1, GC-B659NSM - MKK63022402 - MKK63022402"
+name: "Reservatorio de gelo Refrigerador LG GC-B659BSB, GC-B659BSB1, GC-B659NSM - MKK63022402 - MKK63022402 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.242Z"
+  updated_at: "2026-11-13T13:48:21.186Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.242Z"
+    verified_at: "2026-11-13T13:48:21.186Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.242Z"
+    verified_at: "2026-11-13T13:48:21.186Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead63787825-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flat TV LG 50UK6520PSA - EAD63787825 - EAD63787825"
+name: "Cabo Flat TV LG 50UK6520PSA - EAD63787825 - EAD63787825 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.007Z"
+  updated_at: "2026-11-13T13:48:20.960Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.007Z"
+    verified_at: "2026-11-13T13:48:20.960Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.007Z"
+    verified_at: "2026-11-13T13:48:20.960Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

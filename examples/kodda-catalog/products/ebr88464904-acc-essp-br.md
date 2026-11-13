@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr88464904-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa de Controle TV LG 43UP7500PSF EBR88464904 - EBR88464904"
+name: "Placa de Controle TV LG 43UP7500PSF EBR88464904 - EBR88464904 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 89.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.153Z"
+  updated_at: "2026-11-13T13:48:21.108Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.153Z"
+    verified_at: "2026-11-13T13:48:21.108Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.153Z"
+    verified_at: "2026-11-13T13:48:21.108Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65802801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (Módulo) Monitor LG 24GN600-B - EAJ65802801 - EAJ65802801"
+name: "Tela de cristal líquido (Módulo) Monitor LG 24GN600-B - EAJ65802801 - EAJ65802801 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 474.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.047Z"
+  updated_at: "2026-11-13T13:48:20.993Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.047Z"
+    verified_at: "2026-11-13T13:48:20.993Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.047Z"
+    verified_at: "2026-11-13T13:48:20.993Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

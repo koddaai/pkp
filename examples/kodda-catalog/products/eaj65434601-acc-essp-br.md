@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65434601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (módulo) Monitor LG 27GN750-B - EAJ65434601 - EAJ65434601"
+name: "Tela de cristal líquido (módulo) Monitor LG 27GN750-B - EAJ65434601 - EAJ65434601 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1794.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.028Z"
+  updated_at: "2026-11-13T13:48:20.981Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.028Z"
+    verified_at: "2026-11-13T13:48:20.981Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.028Z"
+    verified_at: "2026-11-13T13:48:20.981Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

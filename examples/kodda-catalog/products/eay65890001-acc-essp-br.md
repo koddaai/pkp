@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65890001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte externa ADS-45SQ-19-3 Monitor LG 27GL650F-B, 24GN600-B, 34WP550-B - EAY65890001 - EAY65890001"
+name: "Fonte externa ADS-45SQ-19-3 Monitor LG 27GL650F-B, 24GN600-B, 34WP550-B - EAY65890001 - EAY65890001 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 115.71
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.082Z"
+  updated_at: "2026-11-13T13:48:21.031Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.082Z"
+    verified_at: "2026-11-13T13:48:21.031Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.082Z"
+    verified_at: "2026-11-13T13:48:21.031Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6411er1006k-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo de força Lava e Seca LG WD-1403RD5, WD17SV2S6BA, WM11WPS6A - 6411ER1006K - 6411ER1006K"
+name: "Cabo de força Lava e Seca LG WD-1403RD5, WD17SV2S6BA, WM11WPS6A - 6411ER1006K - 6411ER1006K | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.839Z"
+  updated_at: "2026-11-13T13:48:20.800Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.839Z"
+    verified_at: "2026-11-13T13:48:20.800Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.839Z"
+    verified_at: "2026-11-13T13:48:20.800Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

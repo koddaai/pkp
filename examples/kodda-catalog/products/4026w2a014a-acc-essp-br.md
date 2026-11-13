@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4026w2a014a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fecho da porta Micro-Ondas LG 4026W2A014A - 4026W2A014A"
+name: "Fecho da porta Micro-Ondas LG 4026W2A014A - 4026W2A014A | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.792Z"
+  updated_at: "2026-11-13T13:48:20.740Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.792Z"
+    verified_at: "2026-11-13T13:48:20.740Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.792Z"
+    verified_at: "2026-11-13T13:48:20.740Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

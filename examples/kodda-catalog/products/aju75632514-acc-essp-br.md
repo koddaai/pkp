@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aju75632514-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Válvula com Suporte Refrigerador LG GCJ257CSF1 AJU75632514 - AJU75632514"
+name: "Válvula com Suporte Refrigerador LG GCJ257CSF1 AJU75632514 - AJU75632514 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 430.8
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.947Z"
+  updated_at: "2026-11-13T13:48:20.911Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.947Z"
+    verified_at: "2026-11-13T13:48:20.911Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.947Z"
+    verified_at: "2026-11-13T13:48:20.911Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

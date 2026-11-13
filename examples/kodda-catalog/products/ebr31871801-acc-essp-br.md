@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr31871801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa receptora de controle remoto TV LG 55UP7550PSF, 50UQ801C0SB, 55UQ801C0SB - EBR31871801 - EBR31871801"
+name: "Placa receptora de controle remoto TV LG 55UP7550PSF, 50UQ801C0SB, 55UQ801C0SB - EBR31871801 - EBR31871801 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 135.94
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.101Z"
+  updated_at: "2026-11-13T13:48:21.052Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.101Z"
+    verified_at: "2026-11-13T13:48:21.052Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.101Z"
+    verified_at: "2026-11-13T13:48:21.052Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

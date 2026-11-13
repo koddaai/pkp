@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr85844923-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Ar Condicionado LG S3UQ12JA31B EBR85844923 - EBR85844923"
+name: "Placa Principal Ar Condicionado LG S3UQ12JA31B EBR85844923 - EBR85844923 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 987.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.143Z"
+  updated_at: "2026-11-13T13:48:21.098Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.143Z"
+    verified_at: "2026-11-13T13:48:21.098Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.143Z"
+    verified_at: "2026-11-13T13:48:21.098Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

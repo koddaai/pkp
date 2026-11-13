@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eat64893501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Time Control TV LG 60UN7310PSA, 60UM7270PSA - EAT64893501 - EAT64893501"
+name: "Placa Time Control TV LG 60UN7310PSA, 60UM7270PSA - EAT64893501 - EAT64893501 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 578.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.058Z"
+  updated_at: "2026-11-13T13:48:21.003Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.058Z"
+    verified_at: "2026-11-13T13:48:21.003Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.058Z"
+    verified_at: "2026-11-13T13:48:21.003Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

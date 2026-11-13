@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eat64897302-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa (Wi-Fi e Bluetooth) TV LG 49NANO81SNA, 50UN8000PSD, 55NANO79SND - EAT64897302 - EAT64897302"
+name: "Placa (Wi-Fi e Bluetooth) TV LG 49NANO81SNA, 50UN8000PSD, 55NANO79SND - EAT64897302 - EAT64897302 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.058Z"
+  updated_at: "2026-11-13T13:48:21.003Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.058Z"
+    verified_at: "2026-11-13T13:48:21.003Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.058Z"
+    verified_at: "2026-11-13T13:48:21.003Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

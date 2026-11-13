@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eat62833605-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Bluetooth Aparelho Mini System LG CK43 EAT62833605 - EAT62833605"
+name: "Placa Bluetooth Aparelho Mini System LG CK43 EAT62833605 - EAT62833605 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.057Z"
+  updated_at: "2026-11-13T13:48:21.002Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.057Z"
+    verified_at: "2026-11-13T13:48:21.002Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.057Z"
+    verified_at: "2026-11-13T13:48:21.002Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

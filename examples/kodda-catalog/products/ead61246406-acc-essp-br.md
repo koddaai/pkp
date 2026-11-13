@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead61246406-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo de força Lavadora LG WD-1485TDA, WD1496ADP, WD9WE6 - EAD61246406 - EAD61246406"
+name: "Cabo de força Lavadora LG WD-1485TDA, WD1496ADP, WD9WE6 - EAD61246406 - EAD61246406 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.24
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.002Z"
+  updated_at: "2026-11-13T13:48:20.955Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.002Z"
+    verified_at: "2026-11-13T13:48:20.955Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.002Z"
+    verified_at: "2026-11-13T13:48:20.955Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

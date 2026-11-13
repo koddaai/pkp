@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tca35692209-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motocompressor hermético Refrigerador LG TCA35692209 - TCA35692209"
+name: "Motocompressor hermético Refrigerador LG TCA35692209 - TCA35692209 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1495.01
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.275Z"
+  updated_at: "2026-11-13T13:48:21.212Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.275Z"
+    verified_at: "2026-11-13T13:48:21.212Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.275Z"
+    verified_at: "2026-11-13T13:48:21.212Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

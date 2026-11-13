@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf79103401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 43LH5100, 43LH5150, 43LH5700 - AGF79103401 - AGF79103401"
+name: "Kit régua de LED TV LG 43LH5100, 43LH5150, 43LH5700 - AGF79103401 - AGF79103401 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 179.54
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.923Z"
+  updated_at: "2026-11-13T13:48:20.882Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.923Z"
+    verified_at: "2026-11-13T13:48:20.882Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.923Z"
+    verified_at: "2026-11-13T13:48:20.882Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

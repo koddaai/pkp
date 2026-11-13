@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6912w3b002k-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lâmpada incandescente Forno Micro-ondas LG MS1944A, MC7646U, MH6346SS - 6912W3B002K - 6912W3B002K"
+name: "Lâmpada incandescente Forno Micro-ondas LG MS1944A, MC7646U, MH6346SS - 6912W3B002K - 6912W3B002K | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 44.84
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.849Z"
+  updated_at: "2026-11-13T13:48:20.809Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.849Z"
+    verified_at: "2026-11-13T13:48:20.809Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.849Z"
+    verified_at: "2026-11-13T13:48:20.809Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

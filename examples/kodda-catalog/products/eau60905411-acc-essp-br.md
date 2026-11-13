@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau60905411-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor Ar Condicionado LG ATUW24GPLP0 EAU60905411 - EAU60905411"
+name: "Motor Ar Condicionado LG ATUW24GPLP0 EAU60905411 - EAU60905411 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.064Z"
+  updated_at: "2026-11-13T13:48:21.009Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.064Z"
+    verified_at: "2026-11-13T13:48:21.009Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.064Z"
+    verified_at: "2026-11-13T13:48:21.009Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

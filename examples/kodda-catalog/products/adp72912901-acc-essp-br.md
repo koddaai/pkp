@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adp72912901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hélice da condensadora Ar condicionado LG ASUW092HDW0, ASUQ122BRZ0.AMRBLSP, ASUW092B4A0 - ADP72912901 - ADP72912901"
+name: "Hélice da condensadora Ar condicionado LG ASUW092HDW0, ASUQ122BRZ0.AMRBLSP, ASUW092B4A0 - ADP72912901 - ADP72912901 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 170.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.893Z"
+  updated_at: "2026-11-13T13:48:20.851Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.893Z"
+    verified_at: "2026-11-13T13:48:20.851Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.893Z"
+    verified_at: "2026-11-13T13:48:20.851Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

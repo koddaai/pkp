@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-q09aa31a-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "9.000 BTU Dual Inverter Ar-Condicionado Frio Branco 220V - S3-Q09AA31A"
+name: "9.000 BTU Dual Inverter Ar-Condicionado Frio Branco 220V - S3-Q09AA31A | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2554.24
+  value: 2611.01
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.249Z"
+  updated_at: "2026-11-13T13:48:21.193Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.249Z"
+    verified_at: "2026-11-13T13:48:21.193Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.249Z"
+    verified_at: "2026-11-13T13:48:21.193Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65769223-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da fonte TV LG 65UN7310PSC, 65UN8000PSB, 65UP7550PSF - EAY65769223 - EAY65769223"
+name: "Placa da fonte TV LG 65UN7310PSC, 65UN8000PSB, 65UP7550PSF - EAY65769223 - EAY65769223 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.081Z"
+  updated_at: "2026-11-13T13:48:21.029Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.081Z"
+    verified_at: "2026-11-13T13:48:21.029Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.081Z"
+    verified_at: "2026-11-13T13:48:21.029Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

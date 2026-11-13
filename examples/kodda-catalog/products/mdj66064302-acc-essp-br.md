@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mdj66064302-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de ar para Ar-Condicionado LG MDJ66064302 - MDJ66064302"
+name: "Filtro de ar para Ar-Condicionado LG MDJ66064302 - MDJ66064302 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.222Z"
+  updated_at: "2026-11-13T13:48:21.167Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.222Z"
+    verified_at: "2026-11-13T13:48:21.167Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.222Z"
+    verified_at: "2026-11-13T13:48:21.167Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

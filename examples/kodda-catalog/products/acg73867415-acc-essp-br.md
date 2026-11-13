@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acg73867415-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina condensadora Ar Condicionado LG S4UW18KL3WA - ACG73867415 - ACG73867415"
+name: "Serpentina condensadora Ar Condicionado LG S4UW18KL3WA - ACG73867415 - ACG73867415 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2222.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.876Z"
+  updated_at: "2026-11-13T13:48:20.834Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.876Z"
+    verified_at: "2026-11-13T13:48:20.834Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.876Z"
+    verified_at: "2026-11-13T13:48:20.834Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

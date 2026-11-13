@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan76009306-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base pedestal TV LG 43LJ5550, 43UJ6300, 43LJ5550 - AAN76009306 - AAN76009306"
+name: "Base pedestal TV LG 43LJ5550, 43UJ6300, 43LJ5550 - AAN76009306 - AAN76009306 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 502.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.863Z"
+  updated_at: "2026-11-13T13:48:20.822Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.863Z"
+    verified_at: "2026-11-13T13:48:20.822Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.863Z"
+    verified_at: "2026-11-13T13:48:20.822Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

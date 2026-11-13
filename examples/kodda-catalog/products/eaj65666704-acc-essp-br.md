@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65666704-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Painel de cristal líquido (módulo) TV LG 70UM7370PSA - EAJ65666704 - EAJ65666704"
+name: "Painel de cristal líquido (módulo) TV LG 70UM7370PSA - EAJ65666704 - EAJ65666704 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3704.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.030Z"
+  updated_at: "2026-11-13T13:48:20.983Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.030Z"
+    verified_at: "2026-11-13T13:48:20.983Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.030Z"
+    verified_at: "2026-11-13T13:48:20.983Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

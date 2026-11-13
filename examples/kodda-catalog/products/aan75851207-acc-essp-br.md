@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan75851207-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base (Pedestal) TV LG 49UJ6300 - AAN75851207 - AAN75851207"
+name: "Base (Pedestal) TV LG 49UJ6300 - AAN75851207 - AAN75851207 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 95.87
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.862Z"
+  updated_at: "2026-11-13T13:48:20.821Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.862Z"
+    verified_at: "2026-11-13T13:48:20.821Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.862Z"
+    verified_at: "2026-11-13T13:48:20.821Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

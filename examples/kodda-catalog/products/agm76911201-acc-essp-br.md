@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm76911201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 43LM6300PSB - AGM76911201 - AGM76911201"
+name: "Kit régua de LED TV LG 43LM6300PSB - AGM76911201 - AGM76911201 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 227.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.932Z"
+  updated_at: "2026-11-13T13:48:20.892Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.932Z"
+    verified_at: "2026-11-13T13:48:20.892Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.932Z"
+    verified_at: "2026-11-13T13:48:20.892Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

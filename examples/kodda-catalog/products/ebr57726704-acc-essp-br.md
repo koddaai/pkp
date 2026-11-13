@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr57726704-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa de controle Ar Condicionado LG ARNU15GBHA2,CRNU15GBHA2 - EBR57726704 - EBR57726704"
+name: "Placa de controle Ar Condicionado LG ARNU15GBHA2,CRNU15GBHA2 - EBR57726704 - EBR57726704 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 33.63
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.112Z"
+  updated_at: "2026-11-13T13:48:21.064Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.112Z"
+    verified_at: "2026-11-13T13:48:21.064Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.112Z"
+    verified_at: "2026-11-13T13:48:21.064Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

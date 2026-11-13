@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6871a20712a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa sub Ar Condicionado LG ARNU28GTPC2, ARNH04GK3A2, ARNH08GK3A2 - 6871A20712A - 6871A20712A"
+name: "Placa sub Ar Condicionado LG ARNU28GTPC2, ARNH04GK3A2, ARNH08GK3A2 - 6871A20712A - 6871A20712A | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 208.85
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.847Z"
+  updated_at: "2026-11-13T13:48:20.807Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.847Z"
+    verified_at: "2026-11-13T13:48:20.807Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.847Z"
+    verified_at: "2026-11-13T13:48:20.807Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

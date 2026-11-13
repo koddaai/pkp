@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eab65816103-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Alto Falante (lado esquerdo) TV LG 43UM670H0UA EAB65816103 - EAB65816103"
+name: "Alto Falante (lado esquerdo) TV LG 43UM670H0UA EAB65816103 - EAB65816103 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 138.97
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.996Z"
+  updated_at: "2026-11-13T13:48:20.948Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.996Z"
+    verified_at: "2026-11-13T13:48:20.948Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.996Z"
+    verified_at: "2026-11-13T13:48:20.948Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

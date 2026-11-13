@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf80318301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 43UJ6525, 43UJ6565, 43LV640S - AGF80318301 - AGF80318301"
+name: "Kit régua de LED TV LG 43UJ6525, 43UJ6565, 43LV640S - AGF80318301 - AGF80318301 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 110.29
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.926Z"
+  updated_at: "2026-11-13T13:48:20.885Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.926Z"
+    verified_at: "2026-11-13T13:48:20.885Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.926Z"
+    verified_at: "2026-11-13T13:48:20.885Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau61383518-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor elétrico 45W 3.600RPM Lavadora LG WD-12320RD - EAU61383518 - EAU61383518"
+name: "Motor elétrico 45W 3.600RPM Lavadora LG WD-12320RD - EAU61383518 - EAU61383518 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.065Z"
+  updated_at: "2026-11-13T13:48:21.009Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.065Z"
+    verified_at: "2026-11-13T13:48:21.009Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.065Z"
+    verified_at: "2026-11-13T13:48:21.009Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

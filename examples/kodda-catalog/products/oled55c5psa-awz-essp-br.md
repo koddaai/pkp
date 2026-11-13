@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "oled55c5psa-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG OLED evo AI C5 4K de 55 polegadas 2025 - OLED55C5PSA"
+name: "Smart TV LG OLED evo AI C5 4K de 55 polegadas 2025 - OLED55C5PSA | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5851.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.245Z"
+  updated_at: "2026-11-13T13:48:21.189Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.245Z"
+    verified_at: "2026-11-13T13:48:21.189Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.245Z"
+    verified_at: "2026-11-13T13:48:21.189Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

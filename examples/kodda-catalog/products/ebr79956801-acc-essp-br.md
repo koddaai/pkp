@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr79956801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa fonte Home Theater LG LHD625 - EBR79956801 - EBR79956801"
+name: "Placa fonte Home Theater LG LHD625 - EBR79956801 - EBR79956801 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 286.48
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.126Z"
+  updated_at: "2026-11-13T13:48:21.080Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.126Z"
+    verified_at: "2026-11-13T13:48:21.080Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.126Z"
+    verified_at: "2026-11-13T13:48:21.080Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

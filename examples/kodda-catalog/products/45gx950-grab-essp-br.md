@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "45gx950-grab-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG OLED UltraGear™ 45GX950A 45\",Dual-Mode 5K2K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA - 45GX950.GRAB"
+name: "Monitor LG OLED UltraGear™ 45GX950A 45\",Dual-Mode 5K2K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA - 45GX950.GRAB | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 16282.86
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.800Z"
+  updated_at: "2026-11-13T13:48:20.750Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.800Z"
+    verified_at: "2026-11-13T13:48:20.750Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.800Z"
+    verified_at: "2026-11-13T13:48:20.750Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

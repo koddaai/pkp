@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tbz35837701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Compressor JBA068M Ar Condicionado LG RPUW120X9S, ARWN160LAS4, ARWN180LAS4 - TBZ35837701 - TBZ35837701"
+name: "Compressor JBA068M Ar Condicionado LG RPUW120X9S, ARWN160LAS4, ARWN180LAS4 - TBZ35837701 - TBZ35837701 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 12949.64
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.271Z"
+  updated_at: "2026-11-13T13:48:21.208Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.271Z"
+    verified_at: "2026-11-13T13:48:21.208Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.271Z"
+    verified_at: "2026-11-13T13:48:21.208Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

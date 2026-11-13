@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "oled77c5psa-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG OLED evo AI C5 4K de 77 polegadas 2025 - OLED77C5PSA"
+name: "Smart TV LG OLED evo AI C5 4K de 77 polegadas 2025 - OLED77C5PSA | LG BR"
 category: "tvs"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai", "4k", "oled"]
 price:
   type: "street"
   currency: "BRL"
-  value: 15389.1
+  value: 16244.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.246Z"
+  updated_at: "2026-11-13T13:48:21.190Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.246Z"
+    verified_at: "2026-11-13T13:48:21.190Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.246Z"
+    verified_at: "2026-11-13T13:48:21.190Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

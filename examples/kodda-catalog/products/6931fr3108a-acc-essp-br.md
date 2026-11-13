@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6931fr3108a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Termostato de secagem Lava e Seca LG WD-1403RD5 - 6931FR3108A - 6931FR3108A"
+name: "Termostato de secagem Lava e Seca LG WD-1403RD5 - 6931FR3108A - 6931FR3108A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.850Z"
+  updated_at: "2026-11-13T13:48:20.810Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.850Z"
+    verified_at: "2026-11-13T13:48:20.810Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.850Z"
+    verified_at: "2026-11-13T13:48:20.810Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

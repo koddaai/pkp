@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm75471440-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo Externo Máquina Lavar Roupa LG WFS1738EKD AGM75471440 - AGM75471440"
+name: "Tubo Externo Máquina Lavar Roupa LG WFS1738EKD AGM75471440 - AGM75471440 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 694.77
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.929Z"
+  updated_at: "2026-11-13T13:48:20.889Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.929Z"
+    verified_at: "2026-11-13T13:48:20.889Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.929Z"
+    verified_at: "2026-11-13T13:48:20.889Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

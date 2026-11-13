@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5859a20002c-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bomba Ar Condicionado LG ARNU24GBHA2, ARNU07GBHA2, ARNU09GBHA2 - 5859A20002C - 5859A20002C"
+name: "Bomba Ar Condicionado LG ARNU24GBHA2, ARNU07GBHA2, ARNU09GBHA2 - 5859A20002C - 5859A20002C | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 464.55
+  value: 383.71
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.830Z"
+  updated_at: "2026-11-13T13:48:20.775Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.830Z"
+    verified_at: "2026-11-13T13:48:20.775Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.830Z"
+    verified_at: "2026-11-13T13:48:20.775Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

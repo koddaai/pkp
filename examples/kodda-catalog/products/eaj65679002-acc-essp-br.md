@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65679002-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Módulo LCD (display) Monitor Signage LG - EAJ65679002 - EAJ65679002"
+name: "Módulo LCD (display) Monitor Signage LG - EAJ65679002 - EAJ65679002 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2872.7
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.030Z"
+  updated_at: "2026-11-13T13:48:20.983Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.030Z"
+    verified_at: "2026-11-13T13:48:20.983Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.030Z"
+    verified_at: "2026-11-13T13:48:20.983Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

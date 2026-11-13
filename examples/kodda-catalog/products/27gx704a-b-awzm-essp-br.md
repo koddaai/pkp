@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27gx704a-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG OLED UltraGear™ 27GX704A-B 27\", 240Hz, QHD 2K, 0.03ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa AdaptiveSync, HDR True Black 400 - 27GX704A-B"
+name: "Monitor LG OLED UltraGear™ 27GX704A-B 27\", 240Hz, QHD 2K, 0.03ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa AdaptiveSync, HDR True Black 400 - 27GX704A-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3689.75
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.776Z"
+  updated_at: "2026-11-13T13:48:20.723Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.776Z"
+    verified_at: "2026-11-13T13:48:20.723Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.776Z"
+    verified_at: "2026-11-13T13:48:20.723Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

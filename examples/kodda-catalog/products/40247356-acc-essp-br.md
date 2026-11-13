@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "40247356-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit Cabos de Velas Ar Condicionado LG GPUW250BSSM 40247356 - 40247356"
+name: "Kit Cabos de Velas Ar Condicionado LG GPUW250BSSM 40247356 - 40247356 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 597.55
+  value: 318.19
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.791Z"
+  updated_at: "2026-11-13T13:48:20.740Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.791Z"
+    verified_at: "2026-11-13T13:48:20.740Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.791Z"
+    verified_at: "2026-11-13T13:48:20.740Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

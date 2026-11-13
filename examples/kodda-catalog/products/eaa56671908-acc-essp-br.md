@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaa56671908-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Antena de fio isolado tipo dipolo FM para Rádio RN5-F, RN7-F, RN9-F - EAA56671908 - EAA56671908"
+name: "Antena de fio isolado tipo dipolo FM para Rádio RN5-F, RN7-F, RN9-F - EAA56671908 - EAA56671908 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 52.44
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.993Z"
+  updated_at: "2026-11-13T13:48:20.946Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.993Z"
+    verified_at: "2026-11-13T13:48:20.946Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.993Z"
+    verified_at: "2026-11-13T13:48:20.946Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

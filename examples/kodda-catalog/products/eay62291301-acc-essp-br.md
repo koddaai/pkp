@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay62291301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa fonte Monitor LG M2241A-PT - EAY62291301 - EAY62291301"
+name: "Placa fonte Monitor LG M2241A-PT - EAY62291301 - EAY62291301 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 145.94
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.070Z"
+  updated_at: "2026-11-13T13:48:21.015Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.070Z"
+    verified_at: "2026-11-13T13:48:21.015Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.070Z"
+    verified_at: "2026-11-13T13:48:21.015Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

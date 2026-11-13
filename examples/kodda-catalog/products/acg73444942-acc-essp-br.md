@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acg73444942-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpendina da unidade condensadora Ar Condocionado LG USUW092WSZ2, S4UW09WA5WA, S4UQ12JA3WC - ACG73444942 - ACG73444942"
+name: "Serpendina da unidade condensadora Ar Condocionado LG USUW092WSZ2, S4UW09WA5WA, S4UQ12JA3WC - ACG73444942 - ACG73444942 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 711.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.875Z"
+  updated_at: "2026-11-13T13:48:20.833Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.875Z"
+    verified_at: "2026-11-13T13:48:20.833Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.875Z"
+    verified_at: "2026-11-13T13:48:20.833Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

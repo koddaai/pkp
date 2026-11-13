@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr78225704-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal da evaporadora Ar Condicionado LG ARNU12GSBR4, ARNU12GSBL4, CRNU12GSBL4 - EBR78225704 - EBR78225704"
+name: "Placa principal da evaporadora Ar Condicionado LG ARNU12GSBR4, ARNU12GSBL4, CRNU12GSBL4 - EBR78225704 - EBR78225704 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 398.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.121Z"
+  updated_at: "2026-11-13T13:48:21.075Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.121Z"
+    verified_at: "2026-11-13T13:48:21.075Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.121Z"
+    verified_at: "2026-11-13T13:48:21.075Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "abq76860736-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Módulo Eletrônico Condensador Ar Condicionado LG ABQ76860736 - ABQ76860736"
+name: "Módulo Eletrônico Condensador Ar Condicionado LG ABQ76860736 - ABQ76860736 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 783.41
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.873Z"
+  updated_at: "2026-11-13T13:48:20.831Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.873Z"
+    verified_at: "2026-11-13T13:48:20.831Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.873Z"
+    verified_at: "2026-11-13T13:48:20.831Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

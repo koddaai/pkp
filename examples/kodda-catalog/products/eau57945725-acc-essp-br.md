@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau57945725-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor Ar Condicionado LG S32Q16UAGA0 EAU57945725 - EAU57945725"
+name: "Motor Ar Condicionado LG S32Q16UAGA0 EAU57945725 - EAU57945725 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 303.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.063Z"
+  updated_at: "2026-11-13T13:48:21.008Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.063Z"
+    verified_at: "2026-11-13T13:48:21.008Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.063Z"
+    verified_at: "2026-11-13T13:48:21.008Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg61406005-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Termistor Ar Condicionado LG AUUQ48GH2  EBG61406005 - EBG61406005"
+name: "Termistor Ar Condicionado LG AUUQ48GH2  EBG61406005 - EBG61406005 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 112.51
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.094Z"
+  updated_at: "2026-11-13T13:48:21.044Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.094Z"
+    verified_at: "2026-11-13T13:48:21.044Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.094Z"
+    verified_at: "2026-11-13T13:48:21.044Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

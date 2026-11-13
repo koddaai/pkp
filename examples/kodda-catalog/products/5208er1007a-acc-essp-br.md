@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5208er1007a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tampa do duto de secagem Lave e Seca LG WD-13436RD, WD-12270RD, WD13436RN - 5208ER1007A - 5208ER1007A"
+name: "Tampa do duto de secagem Lave e Seca LG WD-13436RD, WD-12270RD, WD13436RN - 5208ER1007A - 5208ER1007A | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 179.55
+  value: 142.02
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.812Z"
+  updated_at: "2026-11-13T13:48:20.763Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.812Z"
+    verified_at: "2026-11-13T13:48:20.763Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.812Z"
+    verified_at: "2026-11-13T13:48:20.763Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

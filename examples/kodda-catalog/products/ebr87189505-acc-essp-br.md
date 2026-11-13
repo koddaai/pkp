@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr87189505-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Monitor LG 22BN550Y-B - EBR87189505 - EBR87189505"
+name: "Placa Principal Monitor LG 22BN550Y-B - EBR87189505 - EBR87189505 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 303.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.149Z"
+  updated_at: "2026-11-13T13:48:21.104Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.149Z"
+    verified_at: "2026-11-13T13:48:21.104Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.149Z"
+    verified_at: "2026-11-13T13:48:21.104Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

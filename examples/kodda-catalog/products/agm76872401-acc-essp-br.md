@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm76872401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 43UN7300PSC, 43UN731C0SC, 43US660H0SD - AGM76872401 - AGM76872401"
+name: "Kit régua de LED TV LG 43UN7300PSC, 43UN731C0SC, 43US660H0SD - AGM76872401 - AGM76872401 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 197.65
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.931Z"
+  updated_at: "2026-11-13T13:48:20.891Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.931Z"
+    verified_at: "2026-11-13T13:48:20.891Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.931Z"
+    verified_at: "2026-11-13T13:48:20.891Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

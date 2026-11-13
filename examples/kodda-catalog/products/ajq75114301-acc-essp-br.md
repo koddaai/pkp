@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajq75114301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tambor de Aço Inox Lavadora LG CV9013WC4A AJQ75114301 - AJQ75114301"
+name: "Tambor de Aço Inox Lavadora LG CV9013WC4A AJQ75114301 - AJQ75114301 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 847.44
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.942Z"
+  updated_at: "2026-11-13T13:48:20.905Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.942Z"
+    verified_at: "2026-11-13T13:48:20.905Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.942Z"
+    verified_at: "2026-11-13T13:48:20.905Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

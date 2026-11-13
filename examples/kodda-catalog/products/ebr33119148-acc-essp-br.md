@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr33119148-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do display Lavadora LG CV7011WS4A, CV7011TC4, CV7011TC4A - EBR33119148 - EBR33119148"
+name: "Placa do display Lavadora LG CV7011WS4A, CV7011TC4, CV7011TC4A - EBR33119148 - EBR33119148 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 832.18
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.103Z"
+  updated_at: "2026-11-13T13:48:21.053Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.103Z"
+    verified_at: "2026-11-13T13:48:21.053Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.103Z"
+    verified_at: "2026-11-13T13:48:21.053Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

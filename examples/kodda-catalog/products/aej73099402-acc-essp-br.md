@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aej73099402-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte trava com micro-chave Micro-ondas LG MS3042R, MS3057QA, MS3097AR - AEJ73099402 - AEJ73099402"
+name: "Suporte trava com micro-chave Micro-ondas LG MS3042R, MS3057QA, MS3097AR - AEJ73099402 - AEJ73099402 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.903Z"
+  updated_at: "2026-11-13T13:48:20.861Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.903Z"
+    verified_at: "2026-11-13T13:48:20.861Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.903Z"
+    verified_at: "2026-11-13T13:48:20.861Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

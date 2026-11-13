@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acz74230538-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Dispensador de Sabão Lavadora LG CV5013BC4A ACZ74230538 - ACZ74230538"
+name: "Dispensador de Sabão Lavadora LG CV5013BC4A ACZ74230538 - ACZ74230538 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.884Z"
+  updated_at: "2026-11-13T13:48:20.842Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.884Z"
+    verified_at: "2026-11-13T13:48:20.842Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.884Z"
+    verified_at: "2026-11-13T13:48:20.842Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

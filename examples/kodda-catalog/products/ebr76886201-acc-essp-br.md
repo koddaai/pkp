@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr76886201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa fonte da condensadora Ar Condicionado LG ARUB160BTE4, ARUB180BTE4, ARUB180LTE4 - EBR76886201 - EBR76886201"
+name: "Placa fonte da condensadora Ar Condicionado LG ARUB160BTE4, ARUB180BTE4, ARUB180LTE4 - EBR76886201 - EBR76886201 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3915.04
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.119Z"
+  updated_at: "2026-11-13T13:48:21.073Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.119Z"
+    verified_at: "2026-11-13T13:48:21.073Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.119Z"
+    verified_at: "2026-11-13T13:48:21.073Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

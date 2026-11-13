@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajb73816004-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Estator Lavadora de Roupas LG WT1701CV - AJB73816004 - AJB73816004"
+name: "Estator Lavadora de Roupas LG WT1701CV - AJB73816004 - AJB73816004 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 622.43
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.940Z"
+  updated_at: "2026-11-13T13:48:20.900Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.940Z"
+    verified_at: "2026-11-13T13:48:20.900Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.940Z"
+    verified_at: "2026-11-13T13:48:20.900Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb75455601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle remoto TV LG 42LF6500, 49LF6400, 55LF6500 - AKB75455601 - AKB75455601"
+name: "Controle remoto TV LG 42LF6500, 49LF6400, 55LF6500 - AKB75455601 - AKB75455601 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.955Z"
+  updated_at: "2026-11-13T13:48:20.920Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.955Z"
+    verified_at: "2026-11-13T13:48:20.920Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.955Z"
+    verified_at: "2026-11-13T13:48:20.920Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

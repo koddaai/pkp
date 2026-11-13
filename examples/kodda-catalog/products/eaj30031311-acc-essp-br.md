@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj30031311-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido BA TV LG 65UA8550PSA EAJ30031311 - EAJ30031311"
+name: "Tela de cristal líquido BA TV LG 65UA8550PSA EAJ30031311 - EAJ30031311 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1832.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.021Z"
+  updated_at: "2026-11-13T13:48:20.974Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.021Z"
+    verified_at: "2026-11-13T13:48:20.974Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.021Z"
+    verified_at: "2026-11-13T13:48:20.974Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

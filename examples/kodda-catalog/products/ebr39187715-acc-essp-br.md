@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr39187715-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Ar Condicionado LG ARNU28GTPC2 - EBR39187715 - EBR39187715"
+name: "Placa principal Ar Condicionado LG ARNU28GTPC2 - EBR39187715 - EBR39187715 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 626.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.107Z"
+  updated_at: "2026-11-13T13:48:21.059Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.107Z"
+    verified_at: "2026-11-13T13:48:21.059Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.107Z"
+    verified_at: "2026-11-13T13:48:21.059Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead61071209-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo de fibra óptica LG OK99, OK75, SL9YG - EAD61071209 - EAD61071209"
+name: "Cabo de fibra óptica LG OK99, OK75, SL9YG - EAD61071209 - EAD61071209 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 20.33
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.002Z"
+  updated_at: "2026-11-13T13:48:20.954Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.002Z"
+    verified_at: "2026-11-13T13:48:20.954Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.002Z"
+    verified_at: "2026-11-13T13:48:20.954Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

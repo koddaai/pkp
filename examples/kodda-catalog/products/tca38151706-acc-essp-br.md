@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tca38151706-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motocompressor hermético Refrigerador LG TCA38151706 - TCA38151706"
+name: "Motocompressor hermético Refrigerador LG TCA38151706 - TCA38151706 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/tca38151706/"
 
 # === DESCOBERTA (L0) ===
-summary: "Logotipo Refrigerador LG MFT62346511"
+summary: "Get more information on the LG TCA38151706. Click for pictures, reviews, and tech specs for the LG Motocompressor hermético Refrigerador LG TCA38151706."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1595.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.276Z"
+  updated_at: "2026-11-13T13:48:21.213Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.276Z"
+    verified_at: "2026-11-13T13:48:21.213Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.276Z"
+    verified_at: "2026-11-13T13:48:21.213Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Logotipo Refrigerador LG MFT62346511
+Get more information on the LG TCA38151706. Click for pictures, reviews, and tech specs for the LG Motocompressor hermético Refrigerador LG TCA38151706.

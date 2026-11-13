@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-q12jar1j-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-Q12JAR1J - S3-Q12JAR1J"
+name: "Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-Q12JAR1J - S3-Q12JAR1J | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3149.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.252Z"
+  updated_at: "2026-11-13T13:48:21.197Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.252Z"
+    verified_at: "2026-11-13T13:48:21.197Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.252Z"
+    verified_at: "2026-11-13T13:48:21.197Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

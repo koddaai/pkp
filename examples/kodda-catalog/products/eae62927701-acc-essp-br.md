@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eae62927701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Capacitor Forno Micro-ondas LG MS3045S, MS3042B, MS3043S - EAE62927701 - EAE62927701"
+name: "Capacitor Forno Micro-ondas LG MS3045S, MS3042B, MS3043S - EAE62927701 - EAE62927701 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 41.89
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.019Z"
+  updated_at: "2026-11-13T13:48:20.972Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.019Z"
+    verified_at: "2026-11-13T13:48:20.972Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.019Z"
+    verified_at: "2026-11-13T13:48:20.972Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

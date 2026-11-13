@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681jb1029a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor corrente contínua Refrigerador LG LR-26TDT1 - 4681JB1029A - 4681JB1029A"
+name: "Motor corrente contínua Refrigerador LG LR-26TDT1 - 4681JB1029A - 4681JB1029A | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 521.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.804Z"
+  updated_at: "2026-11-13T13:48:20.754Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.804Z"
+    verified_at: "2026-11-13T13:48:20.754Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.804Z"
+    verified_at: "2026-11-13T13:48:20.754Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

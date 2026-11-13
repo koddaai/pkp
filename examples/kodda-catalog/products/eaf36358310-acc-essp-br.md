@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaf36358310-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fusível Forno Micro-ondas LG MJ3881BC, MH7043BAR, MH7043SAR - EAF36358310 - EAF36358310"
+name: "Fusível Forno Micro-ondas LG MJ3881BC, MH7043BAR, MH7043SAR - EAF36358310 - EAF36358310 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.019Z"
+  updated_at: "2026-11-13T13:48:20.972Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.019Z"
+    verified_at: "2026-11-13T13:48:20.972Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.019Z"
+    verified_at: "2026-11-13T13:48:20.972Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

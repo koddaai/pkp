@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acq88151704-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tampa evaporadora Ar Condicionado LG AVNQ60GM2A0, ARNU36GV2A4, ARNU48GV2A4 - ACQ88151704 - ACQ88151704"
+name: "Tampa evaporadora Ar Condicionado LG AVNQ60GM2A0, ARNU36GV2A4, ARNU48GV2A4 - ACQ88151704 - ACQ88151704 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 398.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.881Z"
+  updated_at: "2026-11-13T13:48:20.839Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.881Z"
+    verified_at: "2026-11-13T13:48:20.839Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.881Z"
+    verified_at: "2026-11-13T13:48:20.839Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

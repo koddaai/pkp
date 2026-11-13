@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4280fr4048n-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Rolamento Lava e Seca LG WD-13436RD, FH069FD6M, F12U1TCNK4 - 4280FR4048N - 4280FR4048N"
+name: "Rolamento Lava e Seca LG WD-13436RD, FH069FD6M, F12U1TCNK4 - 4280FR4048N - 4280FR4048N | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 62.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.794Z"
+  updated_at: "2026-11-13T13:48:20.743Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.794Z"
+    verified_at: "2026-11-13T13:48:20.743Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.794Z"
+    verified_at: "2026-11-13T13:48:20.743Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

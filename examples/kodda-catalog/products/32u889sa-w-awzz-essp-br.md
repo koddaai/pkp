@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "32u889sa-w-awzz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor Touch LG Swing 32U889SA-W IPS Streaming WebOS 4K UHD 32\" USB-C base móvel com rodas  - 32U889SA-W"
+name: "Monitor Touch LG Swing 32U889SA-W IPS Streaming WebOS 4K UHD 32\" USB-C base móvel com rodas  - 32U889SA-W | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7473.85
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.783Z"
+  updated_at: "2026-11-13T13:48:20.731Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.783Z"
+    verified_at: "2026-11-13T13:48:20.731Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.783Z"
+    verified_at: "2026-11-13T13:48:20.731Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

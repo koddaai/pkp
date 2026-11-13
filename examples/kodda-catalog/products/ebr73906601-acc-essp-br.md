@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr73906601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da condensadora VRF Ar Condicionado LG ARUN140BT3, ARUN180BT3.AWGBLAT, ARUN80BT3 - EBR73906601 - EBR73906601"
+name: "Placa da condensadora VRF Ar Condicionado LG ARUN140BT3, ARUN180BT3.AWGBLAT, ARUN80BT3 - EBR73906601 - EBR73906601 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7851.41
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.114Z"
+  updated_at: "2026-11-13T13:48:21.067Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.114Z"
+    verified_at: "2026-11-13T13:48:21.067Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.114Z"
+    verified_at: "2026-11-13T13:48:21.067Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr74578617-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da evaporadora Ar Condicionado LG ARNU12GSBL2, ARNU12GSBL2, CRNU12GSBL2 - EBR74578617 - EBR74578617"
+name: "Placa da evaporadora Ar Condicionado LG ARNU12GSBL2, ARNU12GSBL2, CRNU12GSBL2 - EBR74578617 - EBR74578617 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 293.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.116Z"
+  updated_at: "2026-11-13T13:48:21.069Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.116Z"
+    verified_at: "2026-11-13T13:48:21.069Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.116Z"
+    verified_at: "2026-11-13T13:48:21.069Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

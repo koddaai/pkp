@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau62263304-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Eletrobomba Lavadora LG WD-1403FDA, WD10WP6A, WD11EP6A - EAU62263304 - EAU62263304"
+name: "Eletrobomba Lavadora LG WD-1403FDA, WD10WP6A, WD11EP6A - EAU62263304 - EAU62263304 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.066Z"
+  updated_at: "2026-11-13T13:48:21.011Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.066Z"
+    verified_at: "2026-11-13T13:48:21.011Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.066Z"
+    verified_at: "2026-11-13T13:48:21.011Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

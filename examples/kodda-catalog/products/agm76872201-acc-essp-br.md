@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm76872201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 43UM7500PSB, 43UM7510PSA - AGM76872201 - AGM76872201"
+name: "Kit régua de LED TV LG 43UM7500PSB, 43UM7510PSA - AGM76872201 - AGM76872201 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.931Z"
+  updated_at: "2026-11-13T13:48:20.891Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.931Z"
+    verified_at: "2026-11-13T13:48:20.891Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.931Z"
+    verified_at: "2026-11-13T13:48:20.891Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

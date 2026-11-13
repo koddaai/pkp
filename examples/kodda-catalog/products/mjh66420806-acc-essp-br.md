@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mjh66420806-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte de Parede fixo TV LG - MJH66420806 - MJH66420806"
+name: "Suporte de Parede fixo TV LG - MJH66420806 - MJH66420806 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 417.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.240Z"
+  updated_at: "2026-11-13T13:48:21.184Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.240Z"
+    verified_at: "2026-11-13T13:48:21.184Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.240Z"
+    verified_at: "2026-11-13T13:48:21.184Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

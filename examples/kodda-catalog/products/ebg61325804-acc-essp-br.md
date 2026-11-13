@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg61325804-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Termistor (NTC) Ar Condicionado LG ARNU07GB1G2, ABNQ36GGLA0, ABNQ54GM3A2 - EBG61325804 - EBG61325804"
+name: "Termistor (NTC) Ar Condicionado LG ARNU07GB1G2, ABNQ36GGLA0, ABNQ54GM3A2 - EBG61325804 - EBG61325804 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.093Z"
+  updated_at: "2026-11-13T13:48:21.043Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.093Z"
+    verified_at: "2026-11-13T13:48:21.043Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.093Z"
+    verified_at: "2026-11-13T13:48:21.043Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

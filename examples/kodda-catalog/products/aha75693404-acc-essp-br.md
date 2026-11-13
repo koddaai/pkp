@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aha75693404-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bomba centrífuga Lavadora LG CV9011EC4, WD14WGSP6A, WD17BV2S6BA - AHA75693404 - AHA75693404"
+name: "Bomba centrífuga Lavadora LG CV9011EC4, WD14WGSP6A, WD17BV2S6BA - AHA75693404 - AHA75693404 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 436.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.938Z"
+  updated_at: "2026-11-13T13:48:20.898Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.938Z"
+    verified_at: "2026-11-13T13:48:20.898Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.938Z"
+    verified_at: "2026-11-13T13:48:20.898Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

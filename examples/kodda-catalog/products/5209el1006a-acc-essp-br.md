@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5209el1006a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conjunto Duto de Secagem Secadora LG DLGX4071V 5209EL1006A - 5209EL1006A"
+name: "Conjunto Duto de Secagem Secadora LG DLGX4071V 5209EL1006A - 5209EL1006A | LG BR"
 category: "eletrodomesticos"
 subcategory: "secadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 31.67
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.812Z"
+  updated_at: "2026-11-13T13:48:20.763Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.812Z"
+    verified_at: "2026-11-13T13:48:20.763Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.812Z"
+    verified_at: "2026-11-13T13:48:20.763Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

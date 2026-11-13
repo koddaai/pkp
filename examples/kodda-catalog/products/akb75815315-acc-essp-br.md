@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb75815315-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto Mini System LG CL87 AKB75815315 - AKB75815315"
+name: "Controle Remoto Mini System LG CL87 AKB75815315 - AKB75815315 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 64.65
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.957Z"
+  updated_at: "2026-11-13T13:48:20.922Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.957Z"
+    verified_at: "2026-11-13T13:48:20.922Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.957Z"
+    verified_at: "2026-11-13T13:48:20.922Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

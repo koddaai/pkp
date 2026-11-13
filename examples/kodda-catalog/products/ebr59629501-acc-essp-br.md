@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr59629501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do Display Ar Condicionado LG LMN096HVT EBR59629501 - EBR59629501"
+name: "Placa do Display Ar Condicionado LG LMN096HVT EBR59629501 - EBR59629501 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.112Z"
+  updated_at: "2026-11-13T13:48:21.065Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.112Z"
+    verified_at: "2026-11-13T13:48:21.065Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.112Z"
+    verified_at: "2026-11-13T13:48:21.065Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

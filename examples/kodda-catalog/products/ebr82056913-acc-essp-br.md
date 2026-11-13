@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr82056913-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Wi-Fi Ar Condicionado LG - AMNW12GSJR0, AG161BWC0, AS101DSH0 - EBR82056913 - EBR82056913"
+name: "Placa Wi-Fi Ar Condicionado LG - AMNW12GSJR0, AG161BWC0, AS101DSH0 - EBR82056913 - EBR82056913 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 265.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.130Z"
+  updated_at: "2026-11-13T13:48:21.084Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.130Z"
+    verified_at: "2026-11-13T13:48:21.084Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.130Z"
+    verified_at: "2026-11-13T13:48:21.084Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

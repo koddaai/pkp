@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan73069057-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte de articulação Monitor Desktop LG 23MB35PH-B, 22BN550Y-B, 22MP55PJ-B - AAN73069057 - AAN73069057"
+name: "Suporte de articulação Monitor Desktop LG 23MB35PH-B, 22BN550Y-B, 22MP55PJ-B - AAN73069057 - AAN73069057 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 128.44
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.860Z"
+  updated_at: "2026-11-13T13:48:20.819Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.860Z"
+    verified_at: "2026-11-13T13:48:20.819Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.860Z"
+    verified_at: "2026-11-13T13:48:20.819Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

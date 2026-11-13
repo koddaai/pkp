@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead66038330-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flat TV LG 65UA8550PSA EAD66038330 - EAD66038330"
+name: "Cabo Flat TV LG 65UA8550PSA EAD66038330 - EAD66038330 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.018Z"
+  updated_at: "2026-11-13T13:48:20.971Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.018Z"
+    verified_at: "2026-11-13T13:48:20.971Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.018Z"
+    verified_at: "2026-11-13T13:48:20.971Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

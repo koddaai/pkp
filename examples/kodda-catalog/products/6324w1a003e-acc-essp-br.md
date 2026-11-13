@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6324w1a003e-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Magnetron 2M214 -39F Forno Micro-ondas LG MS3052R, MH7058GA, MH7053R - 6324W1A003E - 6324W1A003E"
+name: "Magnetron 2M214 -39F Forno Micro-ondas LG MS3052R, MH7058GA, MH7053R - 6324W1A003E - 6324W1A003E | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 153.08
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.838Z"
+  updated_at: "2026-11-13T13:48:20.799Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.838Z"
+    verified_at: "2026-11-13T13:48:20.799Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.838Z"
+    verified_at: "2026-11-13T13:48:20.799Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

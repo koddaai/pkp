@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eab64048403-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Alto Falante Full Range TV LG - EAB64048403 - EAB64048403"
+name: "Alto Falante Full Range TV LG - EAB64048403 - EAB64048403 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 49.42
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.994Z"
+  updated_at: "2026-11-13T13:48:20.947Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.994Z"
+    verified_at: "2026-11-13T13:48:20.947Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.994Z"
+    verified_at: "2026-11-13T13:48:20.947Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

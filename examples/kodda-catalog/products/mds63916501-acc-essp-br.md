@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mds63916501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Borracha porta Lava e Seca LG WD9WP6, WD9EP6A, WD9WP6A - MDS63916501 - MDS63916501"
+name: "Borracha porta Lava e Seca LG WD9WP6, WD9EP6A, WD9WP6A - MDS63916501 - MDS63916501 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 265.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.224Z"
+  updated_at: "2026-11-13T13:48:21.169Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.224Z"
+    verified_at: "2026-11-13T13:48:21.169Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.224Z"
+    verified_at: "2026-11-13T13:48:21.169Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

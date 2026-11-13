@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj64667701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (BA) TV LG 43UJ6500, 43UJ6525, 43UJ6565 - EAJ64667701 - EAJ64667701"
+name: "Tela de cristal líquido (BA) TV LG 43UJ6500, 43UJ6525, 43UJ6565 - EAJ64667701 - EAJ64667701 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 449.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.026Z"
+  updated_at: "2026-11-13T13:48:20.979Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.026Z"
+    verified_at: "2026-11-13T13:48:20.979Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.026Z"
+    verified_at: "2026-11-13T13:48:20.979Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay62933012-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte externa Monitor LG EAY62933012 - EAY62933012"
+name: "Fonte externa Monitor LG EAY62933012 - EAY62933012 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 217.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.072Z"
+  updated_at: "2026-11-13T13:48:21.017Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.072Z"
+    verified_at: "2026-11-13T13:48:21.017Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.072Z"
+    verified_at: "2026-11-13T13:48:21.017Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

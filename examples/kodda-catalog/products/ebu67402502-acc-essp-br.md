@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu67402502-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 65NANO77SRA - EBU67402502 - EBU67402502"
+name: "Placa Principal TV LG 65NANO77SRA - EBU67402502 - EBU67402502 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 873.37
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.182Z"
+  updated_at: "2026-11-13T13:48:21.137Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.182Z"
+    verified_at: "2026-11-13T13:48:21.137Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.182Z"
+    verified_at: "2026-11-13T13:48:21.137Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau61383503-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bomba de drenagem Lavadora LG T1209DS, T1209DB, T1409DB - EAU61383503 - EAU61383503"
+name: "Bomba de drenagem Lavadora LG T1209DS, T1209DB, T1409DB - EAU61383503 - EAU61383503 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 82.84
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.065Z"
+  updated_at: "2026-11-13T13:48:21.009Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.065Z"
+    verified_at: "2026-11-13T13:48:21.009Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.065Z"
+    verified_at: "2026-11-13T13:48:21.009Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

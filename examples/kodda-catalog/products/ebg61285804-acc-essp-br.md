@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg61285804-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sensor de temperatura e cabo elétrico Ar Condicionado LG ASUW092B4A0, ASUQ122BSA1, ASUQ182CRG2 - EBG61285804 - EBG61285804"
+name: "Sensor de temperatura e cabo elétrico Ar Condicionado LG ASUW092B4A0, ASUQ122BSA1, ASUQ182CRG2 - EBG61285804 - EBG61285804 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.092Z"
+  updated_at: "2026-11-13T13:48:21.042Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.092Z"
+    verified_at: "2026-11-13T13:48:21.042Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.092Z"
+    verified_at: "2026-11-13T13:48:21.042Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

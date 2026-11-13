@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-w18kl31c-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG Dual Inverter AI Voice 18.000 BTU Quente/Frio 220V - S3-W18KL31C"
+name: "Ar-Condicionado LG Dual Inverter AI Voice 18.000 BTU Quente/Frio 220V - S3-W18KL31C | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter", "8k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3961.34
+  value: 4189
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.263Z"
+  updated_at: "2026-11-13T13:48:21.203Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.263Z"
+    verified_at: "2026-11-13T13:48:21.203Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.263Z"
+    verified_at: "2026-11-13T13:48:21.203Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

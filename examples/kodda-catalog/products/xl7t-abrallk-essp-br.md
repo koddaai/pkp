@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "xl7t-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "Caixa de som Bluetooth PartyBox LG XBOOM 250W RMS, Resistente à água (IPX4), 20 horas de bateria e Visor de Pixel LED - XL7T - XL7T"
+name: "Caixa de som Bluetooth PartyBox LG XBOOM 250W RMS, Resistente à água (IPX4), 20 horas de bateria e Visor de Pixel LED - XL7T - XL7T | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2069.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.283Z"
+  updated_at: "2026-11-13T13:48:21.221Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.283Z"
+    verified_at: "2026-11-13T13:48:21.221Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.283Z"
+    verified_at: "2026-11-13T13:48:21.221Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

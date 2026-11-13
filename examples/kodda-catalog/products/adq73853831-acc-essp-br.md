@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adq73853831-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de entrada de ar Refrigerador LG GC-X247CKB1,  GC-J257CSFS, GC-L228FTL1 - ADQ73853831 - ADQ73853831"
+name: "Filtro de entrada de ar Refrigerador LG GC-X247CKB1,  GC-J257CSFS, GC-L228FTL1 - ADQ73853831 - ADQ73853831 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.896Z"
+  updated_at: "2026-11-13T13:48:20.854Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.896Z"
+    verified_at: "2026-11-13T13:48:20.854Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.896Z"
+    verified_at: "2026-11-13T13:48:20.854Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-q12jaqal-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "12,000 BTU Dual Inverter Ar-Condicionado Frio Branco 220V  - S3-Q12JAQAL"
+name: "12,000 BTU Dual Inverter Ar-Condicionado Frio Branco 220V  - S3-Q12JAQAL | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2999
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.252Z"
+  updated_at: "2026-11-13T13:48:21.197Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.252Z"
+    verified_at: "2026-11-13T13:48:21.197Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.252Z"
+    verified_at: "2026-11-13T13:48:21.197Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

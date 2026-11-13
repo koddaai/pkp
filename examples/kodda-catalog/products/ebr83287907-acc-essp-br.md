@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr83287907-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Condensadora Ar Condicionado LG A5UW30GFA2, A5UW36GFA2 - EBR83287907 - EBR83287907"
+name: "Placa Principal Condensadora Ar Condicionado LG A5UW30GFA2, A5UW36GFA2 - EBR83287907 - EBR83287907 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4530.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.135Z"
+  updated_at: "2026-11-13T13:48:21.089Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.135Z"
+    verified_at: "2026-11-13T13:48:21.089Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.135Z"
+    verified_at: "2026-11-13T13:48:21.089Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tbz39254001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motocompressor Ar Condicionado LG S3UQ18KLQAL TBZ39254001 - TBZ39254001"
+name: "Motocompressor Ar Condicionado LG S3UQ18KLQAL TBZ39254001 - TBZ39254001 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1352.04
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.274Z"
+  updated_at: "2026-11-13T13:48:21.211Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.274Z"
+    verified_at: "2026-11-13T13:48:21.211Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.274Z"
+    verified_at: "2026-11-13T13:48:21.211Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

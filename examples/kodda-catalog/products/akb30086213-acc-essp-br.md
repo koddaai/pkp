@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb30086213-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto Ar Condicionado LG S3NQ12JAR1L  AKB30086213 - AKB30086213"
+name: "Controle Remoto Ar Condicionado LG S3NQ12JAR1L  AKB30086213 - AKB30086213 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.947Z"
+  updated_at: "2026-11-13T13:48:20.911Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.947Z"
+    verified_at: "2026-11-13T13:48:20.911Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.947Z"
+    verified_at: "2026-11-13T13:48:20.911Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

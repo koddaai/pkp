@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6501kw2001a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sensor de Carga Lavadora LG WD1403RD5 6501KW2001A - 6501KW2001A"
+name: "Sensor de Carga Lavadora LG WD1403RD5 6501KW2001A - 6501KW2001A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.839Z"
+  updated_at: "2026-11-13T13:48:20.800Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.839Z"
+    verified_at: "2026-11-13T13:48:20.800Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.839Z"
+    verified_at: "2026-11-13T13:48:20.800Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

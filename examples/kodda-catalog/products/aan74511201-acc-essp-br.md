@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan74511201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base (Pedestal) Monitor LG 28LB700B-SC, 28MT47T, 29MT45T - AAN74511201 - AAN74511201"
+name: "Base (Pedestal) Monitor LG 28LB700B-SC, 28MT47T, 29MT45T - AAN74511201 - AAN74511201 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.860Z"
+  updated_at: "2026-11-13T13:48:20.820Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.860Z"
+    verified_at: "2026-11-13T13:48:20.820Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.860Z"
+    verified_at: "2026-11-13T13:48:20.820Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

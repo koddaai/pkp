@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "abq75785878-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal condensadora Ar Condicionado LG ABQ75785878 - ABQ75785878"
+name: "Placa principal condensadora Ar Condicionado LG ABQ75785878 - ABQ75785878 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1649.81
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.872Z"
+  updated_at: "2026-11-13T13:48:20.830Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.872Z"
+    verified_at: "2026-11-13T13:48:20.830Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.872Z"
+    verified_at: "2026-11-13T13:48:20.830Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

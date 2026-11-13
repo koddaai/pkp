@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65894911-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da Fonte TV LG 86QNED85TSA EAY65894911 - EAY65894911"
+name: "Placa da Fonte TV LG 86QNED85TSA EAY65894911 - EAY65894911 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 756.17
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.083Z"
+  updated_at: "2026-11-13T13:48:21.031Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.083Z"
+    verified_at: "2026-11-13T13:48:21.031Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.083Z"
+    verified_at: "2026-11-13T13:48:21.031Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

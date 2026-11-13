@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "22u403a-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG FHD Home & Office 22U403A-B 22”, 1ms (MBR), 120Hz (O/C), Modo leitura, Flicker Safe, HDMI, LG Switch, Black Stabilizer, Dynamic Action Sync - 22U403A-B"
+name: "Monitor LG FHD Home & Office 22U403A-B 22”, 1ms (MBR), 120Hz (O/C), Modo leitura, Flicker Safe, HDMI, LG Switch, Black Stabilizer, Dynamic Action Sync - 22U403A-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 529
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.772Z"
+  updated_at: "2026-11-13T13:48:20.718Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.772Z"
+    verified_at: "2026-11-13T13:48:20.718Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.772Z"
+    verified_at: "2026-11-13T13:48:20.718Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

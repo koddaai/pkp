@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27gn750-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor Gamer LG UltraGear 27\" IPS Full HD 1920x1080 240Hz 1ms (GtG) HDMI USB HDR10 NVIDIA G-Sync AMD FreeSync 27GN750-B - 27GN750-B"
+name: "Monitor Gamer LG UltraGear 27\" IPS Full HD 1920x1080 240Hz 1ms (GtG) HDMI USB HDR10 NVIDIA G-Sync AMD FreeSync 27GN750-B - 27GN750-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1429
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.775Z"
+  updated_at: "2026-11-13T13:48:20.722Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.775Z"
+    verified_at: "2026-11-13T13:48:20.722Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.775Z"
+    verified_at: "2026-11-13T13:48:20.722Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

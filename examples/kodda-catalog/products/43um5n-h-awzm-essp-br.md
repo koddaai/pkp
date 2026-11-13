@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "43um5n-h-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor Profissional UHD 4K - 43UM5N-H"
+name: "Monitor Profissional UHD 4K - 43UM5N-H | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3609.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.796Z"
+  updated_at: "2026-11-13T13:48:20.745Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.796Z"
+    verified_at: "2026-11-13T13:48:20.745Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.796Z"
+    verified_at: "2026-11-13T13:48:20.745Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

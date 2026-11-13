@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mds63834704-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação da Porta Lava e Seca LG WD17SV2S6BA MDS63834704 - MDS63834704"
+name: "Vedação da Porta Lava e Seca LG WD17SV2S6BA MDS63834704 - MDS63834704 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 616.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.224Z"
+  updated_at: "2026-11-13T13:48:21.169Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.224Z"
+    verified_at: "2026-11-13T13:48:21.169Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.224Z"
+    verified_at: "2026-11-13T13:48:21.169Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

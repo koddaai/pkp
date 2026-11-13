@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s4-q30r43fa-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG Dual Inverter AI Voice 30.000 BTU Frio 220V - S4-Q30R43FA"
+name: "Ar-Condicionado LG Dual Inverter AI Voice 30.000 BTU Frio 220V - S4-Q30R43FA | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 8152.59
+  value: 8519
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.269Z"
+  updated_at: "2026-11-13T13:48:21.205Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.269Z"
+    verified_at: "2026-11-13T13:48:21.205Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.269Z"
+    verified_at: "2026-11-13T13:48:21.205Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

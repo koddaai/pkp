@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30112012-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 50UM670H0UA AGF30112012 - AGF30112012"
+name: "Kit régua de LED TV LG 50UM670H0UA AGF30112012 - AGF30112012 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 136.79
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.911Z"
+  updated_at: "2026-11-13T13:48:20.870Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.911Z"
+    verified_at: "2026-11-13T13:48:20.870Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.911Z"
+    verified_at: "2026-11-13T13:48:20.870Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

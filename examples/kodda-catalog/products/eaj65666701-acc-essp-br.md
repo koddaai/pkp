@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65666701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (Módulo) TV LG 70UM7370PSA, 70UN7310PSC - EAJ65666701 - EAJ65666701"
+name: "Tela de cristal líquido (Módulo) TV LG 70UM7370PSA, 70UN7310PSC - EAJ65666701 - EAJ65666701 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3191.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.029Z"
+  updated_at: "2026-11-13T13:48:20.983Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.029Z"
+    verified_at: "2026-11-13T13:48:20.983Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.029Z"
+    verified_at: "2026-11-13T13:48:20.983Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

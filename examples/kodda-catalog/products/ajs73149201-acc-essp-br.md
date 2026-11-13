@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajs73149201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Eixo do suporte do prato giratório Forno Micro-ondas LG MS3047G, LMC2075ST, LSRM2085ST - AJS73149201 - AJS73149201"
+name: "Eixo do suporte do prato giratório Forno Micro-ondas LG MS3047G, LMC2075ST, LSRM2085ST - AJS73149201 - AJS73149201 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 49.53
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.945Z"
+  updated_at: "2026-11-13T13:48:20.909Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.945Z"
+    verified_at: "2026-11-13T13:48:20.909Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.945Z"
+    verified_at: "2026-11-13T13:48:20.909Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan30141519-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base Pedestal TV LG OLED65G4PSA - AAN30141519"
+name: "Base Pedestal TV LG OLED65G4PSA - AAN30141519 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1357.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.859Z"
+  updated_at: "2026-11-13T13:48:20.819Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.859Z"
+    verified_at: "2026-11-13T13:48:20.819Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.859Z"
+    verified_at: "2026-11-13T13:48:20.819Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

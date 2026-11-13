@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebt66449802-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Soundbar LG SN4 EBT66449802 - EBT66449802"
+name: "Placa Principal Soundbar LG SN4 EBT66449802 - EBT66449802 | LG BR"
 category: "audio"
 subcategory: "soundbar"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 564.56
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.159Z"
+  updated_at: "2026-11-13T13:48:21.114Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.159Z"
+    verified_at: "2026-11-13T13:48:21.114Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.159Z"
+    verified_at: "2026-11-13T13:48:21.114Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

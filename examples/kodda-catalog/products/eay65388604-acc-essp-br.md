@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65388604-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da fonte Monitor LG 22BN550Y-BI, 24BL550J-BI, 24BL550J-BI - EAY65388604 - EAY65388604"
+name: "Placa da fonte Monitor LG 22BN550Y-BI, 24BL550J-BI, 24BL550J-BI - EAY65388604 - EAY65388604 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.080Z"
+  updated_at: "2026-11-13T13:48:21.027Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.080Z"
+    verified_at: "2026-11-13T13:48:21.027Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.080Z"
+    verified_at: "2026-11-13T13:48:21.027Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

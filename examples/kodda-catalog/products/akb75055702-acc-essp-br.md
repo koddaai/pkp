@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb75055702-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle remoto para TV - AKB75055702"
+name: "Controle remoto para TV - AKB75055702 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 57.59
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.953Z"
+  updated_at: "2026-11-13T13:48:20.918Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.953Z"
+    verified_at: "2026-11-13T13:48:20.918Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.953Z"
+    verified_at: "2026-11-13T13:48:20.918Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr82683029-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do Display Máquina de Lavar Roupas LG WD9WE6A - EBR82683029 - EBR82683029"
+name: "Placa do Display Máquina de Lavar Roupas LG WD9WE6A - EBR82683029 - EBR82683029 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 753.36
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.132Z"
+  updated_at: "2026-11-13T13:48:21.086Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.132Z"
+    verified_at: "2026-11-13T13:48:21.086Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.132Z"
+    verified_at: "2026-11-13T13:48:21.086Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

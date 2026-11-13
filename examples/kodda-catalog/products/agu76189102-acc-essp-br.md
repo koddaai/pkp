@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agu76189102-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base de metal Ar Condicionado LG S4NQ12JA3WC, AMNW07GSJR0, AMNH09GB1A2 - AGU76189102 - AGU76189102"
+name: "Base de metal Ar Condicionado LG S4NQ12JA3WC, AMNW07GSJR0, AMNH09GB1A2 - AGU76189102 - AGU76189102 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.934Z"
+  updated_at: "2026-11-13T13:48:20.895Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.934Z"
+    verified_at: "2026-11-13T13:48:20.895Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.934Z"
+    verified_at: "2026-11-13T13:48:20.895Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

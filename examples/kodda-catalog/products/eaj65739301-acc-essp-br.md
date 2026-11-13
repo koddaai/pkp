@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65739301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (Módulo) TV LG 55NANO85SPA - EAJ65739301 - EAJ65739301"
+name: "Tela de cristal líquido (Módulo) TV LG 55NANO85SPA - EAJ65739301 - EAJ65739301 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2070.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.034Z"
+  updated_at: "2026-11-13T13:48:20.988Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.034Z"
+    verified_at: "2026-11-13T13:48:20.988Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.034Z"
+    verified_at: "2026-11-13T13:48:20.988Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

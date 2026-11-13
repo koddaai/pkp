@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan75811006-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base do Gabinete Ar Condicionado LG USUQ122HSG3 AAN75811006 - AAN75811006"
+name: "Base do Gabinete Ar Condicionado LG USUQ122HSG3 AAN75811006 - AAN75811006 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 118.84
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.860Z"
+  updated_at: "2026-11-13T13:48:20.820Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.860Z"
+    verified_at: "2026-11-13T13:48:20.820Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.860Z"
+    verified_at: "2026-11-13T13:48:20.820Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

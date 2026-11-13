@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg61486302-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Termistor Ar Condicionado LG ARUM220LTE5 EBG61486302 - EBG61486302"
+name: "Termistor Ar Condicionado LG ARUM220LTE5 EBG61486302 - EBG61486302 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 208.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.095Z"
+  updated_at: "2026-11-13T13:48:21.045Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.095Z"
+    verified_at: "2026-11-13T13:48:21.045Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.095Z"
+    verified_at: "2026-11-13T13:48:21.045Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

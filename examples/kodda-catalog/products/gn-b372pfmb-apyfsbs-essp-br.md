@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gn-b372pfmb-apyfsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira LG Frost Free Inverter 375L Duplex Cor Inox Look  - GN-B372PFMB"
+name: "Geladeira LG Frost Free Inverter 375L Duplex Cor Inox Look  - GN-B372PFMB | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3134.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.196Z"
+  updated_at: "2026-11-13T13:48:21.150Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.196Z"
+    verified_at: "2026-11-13T13:48:21.150Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.196Z"
+    verified_at: "2026-11-13T13:48:21.150Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

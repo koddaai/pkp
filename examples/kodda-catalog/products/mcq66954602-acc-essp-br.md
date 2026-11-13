@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mcq66954602-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fita auto-adesiva Lavadora LG - MCQ66954602 - MCQ66954602"
+name: "Fita auto-adesiva Lavadora LG - MCQ66954602 - MCQ66954602 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 43.17
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.219Z"
+  updated_at: "2026-11-13T13:48:21.165Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.219Z"
+    verified_at: "2026-11-13T13:48:21.165Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.219Z"
+    verified_at: "2026-11-13T13:48:21.165Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

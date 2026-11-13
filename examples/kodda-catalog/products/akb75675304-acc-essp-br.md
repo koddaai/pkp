@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb75675304-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto TV LG 43UM7300PSA - AKB75675304 - AKB75675304"
+name: "Controle Remoto TV LG 43UM7300PSA - AKB75675304 - AKB75675304 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 57.59
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.956Z"
+  updated_at: "2026-11-13T13:48:20.921Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.956Z"
+    verified_at: "2026-11-13T13:48:20.921Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.956Z"
+    verified_at: "2026-11-13T13:48:20.921Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

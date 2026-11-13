@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "zt-w36gnlaa-anwzbr1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar Condicionado LG Cassete Inverter 36.000 BTU/h 220V ZT-W36GNLAA, Quente e Frio - ZT-W36GNLAA"
+name: "Ar Condicionado LG Cassete Inverter 36.000 BTU/h 220V ZT-W36GNLAA, Quente e Frio - ZT-W36GNLAA | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 14360.2
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.284Z"
+  updated_at: "2026-11-13T13:48:21.223Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.284Z"
+    verified_at: "2026-11-13T13:48:21.223Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.284Z"
+    verified_at: "2026-11-13T13:48:21.223Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

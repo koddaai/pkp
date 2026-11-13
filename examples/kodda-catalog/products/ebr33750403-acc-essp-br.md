@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr33750403-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Ar Condicionado LG - EBR33750403 - EBR33750403"
+name: "Placa Principal Ar Condicionado LG - EBR33750403 - EBR33750403 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 874.61
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.104Z"
+  updated_at: "2026-11-13T13:48:21.055Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.104Z"
+    verified_at: "2026-11-13T13:48:21.055Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.104Z"
+    verified_at: "2026-11-13T13:48:21.055Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

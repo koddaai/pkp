@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "50nu850bpsa-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG NANO UHD AI 4K NU850 50 polegadas 2026 - 50NU850BPSA"
+name: "Smart TV LG NANO UHD AI 4K NU850 50 polegadas 2026 - 50NU850BPSA | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2564.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.810Z"
+  updated_at: "2026-11-13T13:48:20.761Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.810Z"
+    verified_at: "2026-11-13T13:48:20.761Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.810Z"
+    verified_at: "2026-11-13T13:48:20.761Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

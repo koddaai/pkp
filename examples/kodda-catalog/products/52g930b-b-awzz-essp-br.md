@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "52g930b-b-awzz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraGear™ Evo - 52G930B-B 52\", Tela Curva 1000R, 5K2K, 240Hz, 1 ms (GtG), VESA DisplayHDR™ 600, AMD FreeSync™ Premium - 52G930B-B"
+name: "Monitor LG UltraGear™ Evo - 52G930B-B 52\", Tela Curva 1000R, 5K2K, 240Hz, 1 ms (GtG), VESA DisplayHDR™ 600, AMD FreeSync™ Premium - 52G930B-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 13649.81
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.826Z"
+  updated_at: "2026-11-13T13:48:20.770Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.826Z"
+    verified_at: "2026-11-13T13:48:20.770Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.826Z"
+    verified_at: "2026-11-13T13:48:20.770Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

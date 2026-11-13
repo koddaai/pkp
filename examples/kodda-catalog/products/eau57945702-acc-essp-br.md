@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau57945702-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor de corrente contínua Ar Condicionado LG ASNW092HDW0, ASUW092B4A0, ASUW092BRW0 - EAU57945702 - EAU57945702"
+name: "Motor de corrente contínua Ar Condicionado LG ASNW092HDW0, ASUW092B4A0, ASUW092BRW0 - EAU57945702 - EAU57945702 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 322.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.063Z"
+  updated_at: "2026-11-13T13:48:21.007Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.063Z"
+    verified_at: "2026-11-13T13:48:21.007Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.063Z"
+    verified_at: "2026-11-13T13:48:21.007Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu67135901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 55UQ8050PSB - EBU67135901 - EBU67135901"
+name: "Placa Principal TV LG 55UQ8050PSB - EBU67135901 - EBU67135901 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 538.4
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.180Z"
+  updated_at: "2026-11-13T13:48:21.135Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.180Z"
+    verified_at: "2026-11-13T13:48:21.135Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.180Z"
+    verified_at: "2026-11-13T13:48:21.135Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

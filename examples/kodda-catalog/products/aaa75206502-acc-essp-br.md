@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aaa75206502-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto Ar Condicionado LG PWLRVN000 AAA75206502 - AAA75206502"
+name: "Controle Remoto Ar Condicionado LG PWLRVN000 AAA75206502 - AAA75206502 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.854Z"
+  updated_at: "2026-11-13T13:48:20.814Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.854Z"
+    verified_at: "2026-11-13T13:48:20.814Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.854Z"
+    verified_at: "2026-11-13T13:48:20.814Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

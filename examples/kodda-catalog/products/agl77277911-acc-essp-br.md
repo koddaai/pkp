@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agl77277911-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Painel frontal Lavadora LG CV5010TS4, CV5011TS4 - AGL77277911 - AGL77277911"
+name: "Painel frontal Lavadora LG CV5010TS4, CV5011TS4 - AGL77277911 - AGL77277911 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 569.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.927Z"
+  updated_at: "2026-11-13T13:48:20.887Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.927Z"
+    verified_at: "2026-11-13T13:48:20.887Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.927Z"
+    verified_at: "2026-11-13T13:48:20.887Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aeb76284901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Grade Ar Condicionado LG S4NW09AA31A AEB76284901 - AEB76284901"
+name: "Grade Ar Condicionado LG S4NW09AA31A AEB76284901 - AEB76284901 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.901Z"
+  updated_at: "2026-11-13T13:48:20.860Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.901Z"
+    verified_at: "2026-11-13T13:48:20.860Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.901Z"
+    verified_at: "2026-11-13T13:48:20.860Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

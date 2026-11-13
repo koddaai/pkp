@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tbz39310601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Compressor Ar Condicionado LG S3UW09AAQAL TBZ39310601 - TBZ39310601"
+name: "Compressor Ar Condicionado LG S3UW09AAQAL TBZ39310601 - TBZ39310601 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 768.22
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.275Z"
+  updated_at: "2026-11-13T13:48:21.212Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.275Z"
+    verified_at: "2026-11-13T13:48:21.212Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.275Z"
+    verified_at: "2026-11-13T13:48:21.212Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

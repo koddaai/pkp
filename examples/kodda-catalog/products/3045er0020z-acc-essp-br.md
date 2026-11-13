@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3045er0020z-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conjunto do tambor traseiro Lavadora LG WD14EGS62, WD14WGSP6, WD14WGSP6A - 3045ER0020Z - 3045ER0020Z"
+name: "Conjunto do tambor traseiro Lavadora LG WD14EGS62, WD14WGSP6, WD14WGSP6A - 3045ER0020Z - 3045ER0020Z | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2884.71
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.780Z"
+  updated_at: "2026-11-13T13:48:20.728Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.780Z"
+    verified_at: "2026-11-13T13:48:20.728Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.780Z"
+    verified_at: "2026-11-13T13:48:20.728Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ala31161901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (Módulo) TV LG 65UP7750PSB, 65UP771C0SB - ALA31161901 - ALA31161901"
+name: "Tela de cristal líquido (Módulo) TV LG 65UP7750PSB, 65UP771C0SB - ALA31161901 - ALA31161901 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3096.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.962Z"
+  updated_at: "2026-11-13T13:48:20.927Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.962Z"
+    verified_at: "2026-11-13T13:48:20.927Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.962Z"
+    verified_at: "2026-11-13T13:48:20.927Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

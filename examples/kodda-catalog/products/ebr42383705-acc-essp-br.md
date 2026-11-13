@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr42383705-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Ar Condicionado LG S3NW18KL31A EBR42383705 - EBR42383705"
+name: "Placa Principal Ar Condicionado LG S3NW18KL31A EBR42383705 - EBR42383705 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.110Z"
+  updated_at: "2026-11-13T13:48:21.063Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.110Z"
+    verified_at: "2026-11-13T13:48:21.063Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.110Z"
+    verified_at: "2026-11-13T13:48:21.063Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

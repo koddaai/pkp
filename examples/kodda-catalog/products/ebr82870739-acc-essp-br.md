@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr82870739-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal condensadora Ar Condicionado LG EBR82870739 - EBR82870739"
+name: "Placa principal condensadora Ar Condicionado LG EBR82870739 - EBR82870739 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 578.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.134Z"
+  updated_at: "2026-11-13T13:48:21.088Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.134Z"
+    verified_at: "2026-11-13T13:48:21.088Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.134Z"
+    verified_at: "2026-11-13T13:48:21.088Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

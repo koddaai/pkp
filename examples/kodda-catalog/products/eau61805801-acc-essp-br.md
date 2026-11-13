@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau61805801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bomba drenagem Lava e Seca LG WD-12596RDA - EAU61805801 - EAU61805801"
+name: "Bomba drenagem Lava e Seca LG WD-12596RDA - EAU61805801 - EAU61805801 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.065Z"
+  updated_at: "2026-11-13T13:48:21.010Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.065Z"
+    verified_at: "2026-11-13T13:48:21.010Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.065Z"
+    verified_at: "2026-11-13T13:48:21.010Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

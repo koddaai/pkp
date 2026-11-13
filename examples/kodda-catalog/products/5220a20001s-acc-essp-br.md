@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5220a20001s-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Válvula de retenção Ar Condicionado LG ASUQ092B4A0, S4UQ09AA31C, ASUQ122BRZ0 - 5220A20001S - 5220A20001S"
+name: "Válvula de retenção Ar Condicionado LG ASUQ092B4A0, S4UQ09AA31C, ASUQ122BRZ0 - 5220A20001S - 5220A20001S | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.24
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.814Z"
+  updated_at: "2026-11-13T13:48:20.766Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.814Z"
+    verified_at: "2026-11-13T13:48:20.766Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.814Z"
+    verified_at: "2026-11-13T13:48:20.766Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

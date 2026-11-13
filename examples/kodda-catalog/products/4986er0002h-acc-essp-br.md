@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4986er0002h-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação de borracha da porta (guarnição) Lavadora LG WD-13436RD - 4986ER0002H - 4986ER0002H"
+name: "Vedação de borracha da porta (guarnição) Lavadora LG WD-13436RD - 4986ER0002H - 4986ER0002H | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 324.04
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.808Z"
+  updated_at: "2026-11-13T13:48:20.759Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.808Z"
+    verified_at: "2026-11-13T13:48:20.759Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.808Z"
+    verified_at: "2026-11-13T13:48:20.759Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

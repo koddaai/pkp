@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead61071210-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo fibra ótica Home Theater LG LAS550H, LAS453B, SH5 - EAD61071210 - EAD61071210"
+name: "Cabo fibra ótica Home Theater LG LAS550H, LAS453B, SH5 - EAD61071210 - EAD61071210 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 43.17
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.002Z"
+  updated_at: "2026-11-13T13:48:20.954Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.002Z"
+    verified_at: "2026-11-13T13:48:20.954Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.002Z"
+    verified_at: "2026-11-13T13:48:20.954Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

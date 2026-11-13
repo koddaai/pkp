@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaz63101102-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Dico rígido ALL IN ONE LG 24V50N-C - EAZ63101102 - EAZ63101102"
+name: "Dico rígido ALL IN ONE LG 24V50N-C - EAZ63101102 - EAZ63101102 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 521.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.087Z"
+  updated_at: "2026-11-13T13:48:21.036Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.087Z"
+    verified_at: "2026-11-13T13:48:21.036Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.087Z"
+    verified_at: "2026-11-13T13:48:21.036Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "wd16gnts6b-aegfbrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lava e Seca Smart LG 16kg Black Inox com AIDD™ - WD16GNTS6B"
+name: "Lava e Seca Smart LG 16kg Black Inox com AIDD™ - WD16GNTS6B | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 5799
+  value: 5899
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.279Z"
+  updated_at: "2026-11-13T13:48:21.217Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.279Z"
+    verified_at: "2026-11-13T13:48:21.217Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.279Z"
+    verified_at: "2026-11-13T13:48:21.217Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

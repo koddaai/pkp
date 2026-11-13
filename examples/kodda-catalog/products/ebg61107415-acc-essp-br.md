@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg61107415-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Termistor NTC Ar Condicionado LG ARUN180BTE5, ARUV241BTR5,ARUV264BTR5 - EBG61107415 - EBG61107415"
+name: "Termistor NTC Ar Condicionado LG ARUN180BTE5, ARUV241BTR5,ARUV264BTR5 - EBG61107415 - EBG61107415 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 265.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.091Z"
+  updated_at: "2026-11-13T13:48:21.041Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.091Z"
+    verified_at: "2026-11-13T13:48:21.041Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.091Z"
+    verified_at: "2026-11-13T13:48:21.041Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

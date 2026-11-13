@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf79719932-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (módulo) Monitor LG 20M37AA-B - AGF79719932 - AGF79719932"
+name: "Tela de cristal líquido (módulo) Monitor LG 20M37AA-B - AGF79719932 - AGF79719932 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 626.16
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.924Z"
+  updated_at: "2026-11-13T13:48:20.883Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.924Z"
+    verified_at: "2026-11-13T13:48:20.883Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.924Z"
+    verified_at: "2026-11-13T13:48:20.883Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

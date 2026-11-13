@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aem73433305-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mangueira de entrada de água Lavadora LG WD-14312RDA - AEM73433305 - AEM73433305"
+name: "Mangueira de entrada de água Lavadora LG WD-14312RDA - AEM73433305 - AEM73433305 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.903Z"
+  updated_at: "2026-11-13T13:48:20.862Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.903Z"
+    verified_at: "2026-11-13T13:48:20.862Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.903Z"
+    verified_at: "2026-11-13T13:48:20.862Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

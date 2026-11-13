@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "2w20017f-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Abraçadeira de aço Lava e Seca LG WD-1403RD, WD-12321RDK, WD-12320RD - 2W20017F - 2W20017F"
+name: "Abraçadeira de aço Lava e Seca LG WD-1403RD, WD-12321RDK, WD-12320RD - 2W20017F - 2W20017F | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.780Z"
+  updated_at: "2026-11-13T13:48:20.727Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.780Z"
+    verified_at: "2026-11-13T13:48:20.727Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.780Z"
+    verified_at: "2026-11-13T13:48:20.727Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

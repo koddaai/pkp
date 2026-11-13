@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "43lr671c0sa-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "TV Profissional LG Full HD 43\" LR67 - 43LR671C0SA"
+name: "TV Profissional LG Full HD 43\" LR67 - 43LR671C0SA | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1994.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.795Z"
+  updated_at: "2026-11-13T13:48:20.744Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.795Z"
+    verified_at: "2026-11-13T13:48:20.744Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.795Z"
+    verified_at: "2026-11-13T13:48:20.744Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

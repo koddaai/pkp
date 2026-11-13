@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3045er0030g-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conjunto tambor traseiro Lavadora LG WD-1409RD5, WD-1409RDA5, WD-1410RD - 3045ER0030G - 3045ER0030G"
+name: "Conjunto tambor traseiro Lavadora LG WD-1409RD5, WD-1409RDA5, WD-1410RD - 3045ER0030G - 3045ER0030G | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 892.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.780Z"
+  updated_at: "2026-11-13T13:48:20.728Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.780Z"
+    verified_at: "2026-11-13T13:48:20.728Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.780Z"
+    verified_at: "2026-11-13T13:48:20.728Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

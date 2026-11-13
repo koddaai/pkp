@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mhw62141203-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte Máquina de Lavar Roupa LG WM1317RD7 MHW62141203 - MHW62141203"
+name: "Suporte Máquina de Lavar Roupa LG WM1317RD7 MHW62141203 - MHW62141203 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 617.48
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.239Z"
+  updated_at: "2026-11-13T13:48:21.183Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.239Z"
+    verified_at: "2026-11-13T13:48:21.183Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.239Z"
+    verified_at: "2026-11-13T13:48:21.183Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

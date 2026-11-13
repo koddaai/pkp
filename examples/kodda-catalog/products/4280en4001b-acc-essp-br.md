@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4280en4001b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Rolamento do tanque Lava e Seca LG WD-12320RD, WD14EGS62, WD14WGSP6 - 4280EN4001B - 4280EN4001B"
+name: "Rolamento do tanque Lava e Seca LG WD-12320RD, WD14EGS62, WD14WGSP6 - 4280EN4001B - 4280EN4001B | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 30.21
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.794Z"
+  updated_at: "2026-11-13T13:48:20.743Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.794Z"
+    verified_at: "2026-11-13T13:48:20.743Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.794Z"
+    verified_at: "2026-11-13T13:48:20.743Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

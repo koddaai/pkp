@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf79046001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 49LH5100, 49LH5600, 49LH5700 - AGF79040501 - AGF79046001"
+name: "Kit régua de LED TV LG 49LH5100, 49LH5600, 49LH5700 - AGF79040501 - AGF79046001 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.921Z"
+  updated_at: "2026-11-13T13:48:20.881Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.921Z"
+    verified_at: "2026-11-13T13:48:20.881Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.921Z"
+    verified_at: "2026-11-13T13:48:20.881Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

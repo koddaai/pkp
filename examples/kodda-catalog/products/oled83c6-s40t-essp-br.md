@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "oled83c6-s40t-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG OLED evo AI 4K C6 83 polegadas 2026+Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - OLED83C6.S40T"
+name: "Smart TV LG OLED evo AI 4K C6 83 polegadas 2026+Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - OLED83C6.S40T | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 21416.04
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.247Z"
+  updated_at: "2026-11-13T13:48:21.191Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.247Z"
+    verified_at: "2026-11-13T13:48:21.191Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.247Z"
+    verified_at: "2026-11-13T13:48:21.191Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

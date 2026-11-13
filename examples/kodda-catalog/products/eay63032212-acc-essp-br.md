@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay63032212-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte externa ADS-120QL-19A-3 Monitor LG 27GR95QE-B, MSAD-0072, XG9QBK - EAY63032212 - EAY63032212"
+name: "Fonte externa ADS-120QL-19A-3 Monitor LG 27GR95QE-B, MSAD-0072, XG9QBK - EAY63032212 - EAY63032212 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 310.84
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.074Z"
+  updated_at: "2026-11-13T13:48:21.019Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.074Z"
+    verified_at: "2026-11-13T13:48:21.019Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.074Z"
+    verified_at: "2026-11-13T13:48:21.019Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

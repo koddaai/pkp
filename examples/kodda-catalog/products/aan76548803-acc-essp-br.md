@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan76548803-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base Pedestal TV LG AAN76548803 - AAN76548803"
+name: "Base Pedestal TV LG AAN76548803 - AAN76548803 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.865Z"
+  updated_at: "2026-11-13T13:48:20.824Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.865Z"
+    verified_at: "2026-11-13T13:48:20.824Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.865Z"
+    verified_at: "2026-11-13T13:48:20.824Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

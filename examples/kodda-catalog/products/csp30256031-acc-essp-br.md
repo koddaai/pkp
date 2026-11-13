@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "csp30256031-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal evaporadora Ar Condicionado LG S4NW18KL3XC, S4NW18KLRXC, S4NW24K231D - CSP30256031 - CSP30256031"
+name: "Placa principal evaporadora Ar Condicionado LG S4NW18KL3XC, S4NW18KLRXC, S4NW24K231D - CSP30256031 - CSP30256031 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.14
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.984Z"
+  updated_at: "2026-11-13T13:48:20.936Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.984Z"
+    verified_at: "2026-11-13T13:48:20.936Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.984Z"
+    verified_at: "2026-11-13T13:48:20.936Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adq72910902-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de água para geladeira LT500P (6 meses) - ADQ72910902"
+name: "Filtro de água para geladeira LT500P (6 meses) - ADQ72910902 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 215.46
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.895Z"
+  updated_at: "2026-11-13T13:48:20.853Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.895Z"
+    verified_at: "2026-11-13T13:48:20.853Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.895Z"
+    verified_at: "2026-11-13T13:48:20.853Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

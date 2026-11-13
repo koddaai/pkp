@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau36296404-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor Ar Condicionado LG LTNC602MLE0 EAU36296404 - EAU36296404"
+name: "Motor Ar Condicionado LG LTNC602MLE0 EAU36296404 - EAU36296404 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1002.85
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.060Z"
+  updated_at: "2026-11-13T13:48:21.005Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.060Z"
+    verified_at: "2026-11-13T13:48:21.005Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.060Z"
+    verified_at: "2026-11-13T13:48:21.005Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

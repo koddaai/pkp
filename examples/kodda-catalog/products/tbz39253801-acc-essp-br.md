@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tbz39253801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Compressor rotativo Ar Condicionado LG - TBZ39253801 - TBZ39253801"
+name: "Compressor rotativo Ar Condicionado LG - TBZ39253801 - TBZ39253801 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 933
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.274Z"
+  updated_at: "2026-11-13T13:48:21.211Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.274Z"
+    verified_at: "2026-11-13T13:48:21.211Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.274Z"
+    verified_at: "2026-11-13T13:48:21.211Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

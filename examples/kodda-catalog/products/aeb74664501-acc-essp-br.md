@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aeb74664501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Grade Frontal evaporadora Ar Condicionado LG AEB74664501 - AEB74664501"
+name: "Grade Frontal evaporadora Ar Condicionado LG AEB74664501 - AEB74664501 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 607.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.899Z"
+  updated_at: "2026-11-13T13:48:20.857Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.899Z"
+    verified_at: "2026-11-13T13:48:20.857Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.899Z"
+    verified_at: "2026-11-13T13:48:20.857Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adp35994403-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hélice do ventilador Ar Condicionado LG LTNC400SU, ARNU09GTUC4, ARNU12GTUA2 - ADP35994403 - ADP35994403"
+name: "Hélice do ventilador Ar Condicionado LG LTNC400SU, ARNU09GTUC4, ARNU12GTUA2 - ADP35994403 - ADP35994403 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 391.25
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.892Z"
+  updated_at: "2026-11-13T13:48:20.850Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.892Z"
+    verified_at: "2026-11-13T13:48:20.850Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.892Z"
+    verified_at: "2026-11-13T13:48:20.850Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65669101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (Módulo) TV LG 55SM8600PSA, 55NANO86SNA - EAJ65669101 - EAJ65669101"
+name: "Tela de cristal líquido (Módulo) TV LG 55SM8600PSA, 55NANO86SNA - EAJ65669101 - EAJ65669101 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2497.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.030Z"
+  updated_at: "2026-11-13T13:48:20.983Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.030Z"
+    verified_at: "2026-11-13T13:48:20.983Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.030Z"
+    verified_at: "2026-11-13T13:48:20.983Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau41577624-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor hélice da condensadora Ar Condicionado LG ASUQ092BRZ0, ASUQ092BRG2, ASUQ092BRZ0 - EAU41577624 - EAU41577624"
+name: "Motor hélice da condensadora Ar Condicionado LG ASUQ092BRZ0, ASUQ092BRG2, ASUQ092BRZ0 - EAU41577624 - EAU41577624 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 283.4
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.062Z"
+  updated_at: "2026-11-13T13:48:21.006Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.062Z"
+    verified_at: "2026-11-13T13:48:21.006Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.062Z"
+    verified_at: "2026-11-13T13:48:21.006Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

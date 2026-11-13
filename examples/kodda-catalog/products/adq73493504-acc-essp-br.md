@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adq73493504-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "filtro de entrada de ar Ar Condicionado LG ABNQ36GM2A2, ARNU42GM2A4, CRNU28GM2A4 - ADQ73493504 - ADQ73493504"
+name: "filtro de entrada de ar Ar Condicionado LG ABNQ36GM2A2, ARNU42GM2A4, CRNU28GM2A4 - ADQ73493504 - ADQ73493504 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 59.18
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.896Z"
+  updated_at: "2026-11-13T13:48:20.854Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.896Z"
+    verified_at: "2026-11-13T13:48:20.854Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.896Z"
+    verified_at: "2026-11-13T13:48:20.854Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

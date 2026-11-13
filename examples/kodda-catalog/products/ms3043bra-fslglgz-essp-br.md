@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ms3043bra-fslglgz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Micro-ondas LG 30 litros Prata Limpa Fácil (MS3043BRA) - MS3043BRA"
+name: "Micro-ondas LG 30 litros Prata Limpa Fácil (MS3043BRA) - MS3043BRA | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 664.05
+  value: 776.66
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.243Z"
+  updated_at: "2026-11-13T13:48:21.187Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.243Z"
+    verified_at: "2026-11-13T13:48:21.187Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.243Z"
+    verified_at: "2026-11-13T13:48:21.187Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

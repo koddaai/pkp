@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf79045801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 49LF5100, 49LH5700-SF, 49LW300C - AGF79045801 - AGF79045801"
+name: "Kit régua de LED TV LG 49LF5100, 49LH5700-SF, 49LW300C - AGF79045801 - AGF79045801 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 217.73
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.921Z"
+  updated_at: "2026-11-13T13:48:20.880Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.921Z"
+    verified_at: "2026-11-13T13:48:20.880Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.921Z"
+    verified_at: "2026-11-13T13:48:20.880Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

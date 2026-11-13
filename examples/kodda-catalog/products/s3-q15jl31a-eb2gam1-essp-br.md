@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-q15jl31a-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Cond. LG Dual Inv. Voice +AI 15.000 BTU - S3-Q15JL31A"
+name: "Ar-Cond. LG Dual Inv. Voice +AI 15.000 BTU - S3-Q15JL31A | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2799
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.253Z"
+  updated_at: "2026-11-13T13:48:21.197Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.253Z"
+    verified_at: "2026-11-13T13:48:21.197Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.253Z"
+    verified_at: "2026-11-13T13:48:21.197Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

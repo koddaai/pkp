@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681a20169b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor de corrente contínua Ar Condicionado LG ARNU42GBGA2, ARNU28GBGA2, ARNU36GBGA2 - 4681A20169B - 4681A20169B"
+name: "Motor de corrente contínua Ar Condicionado LG ARNU42GBGA2, ARNU28GBGA2, ARNU36GBGA2 - 4681A20169B - 4681A20169B | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1196.05
+  value: 1019.04
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.802Z"
+  updated_at: "2026-11-13T13:48:20.752Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.802Z"
+    verified_at: "2026-11-13T13:48:20.752Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.802Z"
+    verified_at: "2026-11-13T13:48:20.752Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

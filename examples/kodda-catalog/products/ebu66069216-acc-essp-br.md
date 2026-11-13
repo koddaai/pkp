@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu66069216-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 75UN8000PSB EBU66069216 - EBU66069216"
+name: "Placa Principal TV LG 75UN8000PSB EBU66069216 - EBU66069216 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 597.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.172Z"
+  updated_at: "2026-11-13T13:48:21.126Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.172Z"
+    verified_at: "2026-11-13T13:48:21.126Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.172Z"
+    verified_at: "2026-11-13T13:48:21.126Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

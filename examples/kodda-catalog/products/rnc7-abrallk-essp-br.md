@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "rnc7-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "Torre de Som LG XBOOM Graves Potentes, Bass Boost, Iluminação Colorida, Karaokê, Party Speaker - RNC7 - RNC7"
+name: "Torre de Som LG XBOOM Graves Potentes, Bass Boost, Iluminação Colorida, Karaokê, Party Speaker - RNC7 - RNC7 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1259.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.248Z"
+  updated_at: "2026-11-13T13:48:21.192Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.248Z"
+    verified_at: "2026-11-13T13:48:21.192Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.248Z"
+    verified_at: "2026-11-13T13:48:21.192Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

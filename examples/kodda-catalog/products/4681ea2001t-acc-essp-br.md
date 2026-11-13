@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681ea2001t-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bomba de drenagem Lava e Seca LG WD-11270RD, WD17VTS6, WD17VVS6 - 4681EA2001T - 4681EA2001T"
+name: "Bomba de drenagem Lava e Seca LG WD-11270RD, WD17VTS6, WD17VVS6 - 4681EA2001T - 4681EA2001T | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.803Z"
+  updated_at: "2026-11-13T13:48:20.754Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.803Z"
+    verified_at: "2026-11-13T13:48:20.754Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.803Z"
+    verified_at: "2026-11-13T13:48:20.754Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6600jb2005c-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Chave Push Geladeira LG MB582ULVG 6600JB2005C - 6600JB2005C"
+name: "Chave Push Geladeira LG MB582ULVG 6600JB2005C - 6600JB2005C | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.842Z"
+  updated_at: "2026-11-13T13:48:20.803Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.842Z"
+    verified_at: "2026-11-13T13:48:20.803Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.842Z"
+    verified_at: "2026-11-13T13:48:20.803Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

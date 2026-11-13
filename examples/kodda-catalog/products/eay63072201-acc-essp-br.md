@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay63072201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da fonte TV LG 60LB5800, 60LB6500-SF, 60LF5850-SE - EAY63072201 - EAY63072201"
+name: "Placa da fonte TV LG 60LB5800, 60LB6500-SF, 60LF5850-SE - EAY63072201 - EAY63072201 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 637.6
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.074Z"
+  updated_at: "2026-11-13T13:48:21.020Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.074Z"
+    verified_at: "2026-11-13T13:48:21.020Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.074Z"
+    verified_at: "2026-11-13T13:48:21.020Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

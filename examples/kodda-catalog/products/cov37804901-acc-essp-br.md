@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "cov37804901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal para TV LG 32LR600BPSA COV37804901 - COV37804901"
+name: "Placa Principal para TV LG 32LR600BPSA COV37804901 - COV37804901 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 775.33
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.968Z"
+  updated_at: "2026-11-13T13:48:20.933Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.968Z"
+    verified_at: "2026-11-13T13:48:20.933Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.968Z"
+    verified_at: "2026-11-13T13:48:20.933Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

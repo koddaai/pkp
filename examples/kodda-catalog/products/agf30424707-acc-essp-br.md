@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30424707-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 55UT9050PSA AGF30424707 - AGF30424707"
+name: "Kit régua de LED TV LG 55UT9050PSA AGF30424707 - AGF30424707 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 405.2
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.914Z"
+  updated_at: "2026-11-13T13:48:20.873Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.914Z"
+    verified_at: "2026-11-13T13:48:20.873Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.914Z"
+    verified_at: "2026-11-13T13:48:20.873Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

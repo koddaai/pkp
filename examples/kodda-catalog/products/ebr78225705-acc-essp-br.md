@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr78225705-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da evaporadora Ar Condicionado LG ARNU09GSBL4, ARNU09GSBR4, CRNU09GSBL4 - EBR78225705 - EBR78225705"
+name: "Placa da evaporadora Ar Condicionado LG ARNU09GSBL4, ARNU09GSBR4, CRNU09GSBL4 - EBR78225705 - EBR78225705 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 455.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.121Z"
+  updated_at: "2026-11-13T13:48:21.075Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.121Z"
+    verified_at: "2026-11-13T13:48:21.075Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.121Z"
+    verified_at: "2026-11-13T13:48:21.075Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

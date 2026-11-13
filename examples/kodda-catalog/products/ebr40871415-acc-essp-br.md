@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr40871415-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Ar Condicionado LG S3UQ12JA31E EBR40871415 - EBR40871415"
+name: "Placa Principal Ar Condicionado LG S3UQ12JA31E EBR40871415 - EBR40871415 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1886.93
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.109Z"
+  updated_at: "2026-11-13T13:48:21.061Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.109Z"
+    verified_at: "2026-11-13T13:48:21.061Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.109Z"
+    verified_at: "2026-11-13T13:48:21.061Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

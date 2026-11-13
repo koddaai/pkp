@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6871a20259d-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa liga desliga Ar Condicionado LG ARNU18GS8R2, ARNU24GSCR4, ASNQ092B4A0 - 6871A20259D - 6871A20259D"
+name: "Placa liga desliga Ar Condicionado LG ARNU18GS8R2, ARNU24GSCR4, ASNQ092B4A0 - 6871A20259D - 6871A20259D | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 54.04
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.847Z"
+  updated_at: "2026-11-13T13:48:20.807Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.847Z"
+    verified_at: "2026-11-13T13:48:20.807Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.847Z"
+    verified_at: "2026-11-13T13:48:20.807Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

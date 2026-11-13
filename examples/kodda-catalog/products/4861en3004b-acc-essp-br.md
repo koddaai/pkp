@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4861en3004b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Anel fixação abraçadeira Lavadora LG WD-1485TDA, F4V3RGP0WB, F4V3RGPMW - 4861EN3004B - 4861EN3004B"
+name: "Anel fixação abraçadeira Lavadora LG WD-1485TDA, F4V3RGP0WB, F4V3RGPMW - 4861EN3004B - 4861EN3004B | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.807Z"
+  updated_at: "2026-11-13T13:48:20.757Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.807Z"
+    verified_at: "2026-11-13T13:48:20.757Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.807Z"
+    verified_at: "2026-11-13T13:48:20.757Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mds66651627-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação Máquina de Lavar Roupa LG CV9011EC4A MDS66651627 - MDS66651627"
+name: "Vedação Máquina de Lavar Roupa LG CV9011EC4A MDS66651627 - MDS66651627 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 360.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.225Z"
+  updated_at: "2026-11-13T13:48:21.170Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.225Z"
+    verified_at: "2026-11-13T13:48:21.170Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.225Z"
+    verified_at: "2026-11-13T13:48:21.170Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

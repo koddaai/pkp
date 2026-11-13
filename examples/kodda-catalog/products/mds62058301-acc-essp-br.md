@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mds62058301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Retentor vedação do eixo do cesto Lavadora LG WM4070HVA, F4V5LGP2P, F4V9LCP2E - MDS62058301 - MDS62058301"
+name: "Retentor vedação do eixo do cesto Lavadora LG WM4070HVA, F4V5LGP2P, F4V9LCP2E - MDS62058301 - MDS62058301 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.224Z"
+  updated_at: "2026-11-13T13:48:21.169Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.224Z"
+    verified_at: "2026-11-13T13:48:21.169Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.224Z"
+    verified_at: "2026-11-13T13:48:21.169Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

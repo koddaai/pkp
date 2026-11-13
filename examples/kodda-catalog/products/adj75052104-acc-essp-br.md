@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adj75052104-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Duto flexível Ar Condicionado LG - ADJ75052104 - ADJ75052104"
+name: "Duto flexível Ar Condicionado LG - ADJ75052104 - ADJ75052104 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 601.01
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.887Z"
+  updated_at: "2026-11-13T13:48:20.845Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.887Z"
+    verified_at: "2026-11-13T13:48:20.845Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.887Z"
+    verified_at: "2026-11-13T13:48:20.845Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

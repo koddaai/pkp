@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mdj63604401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro da entrada de ar Ar Condicionado LG MDJ63604401 - MDJ63604401"
+name: "Filtro da entrada de ar Ar Condicionado LG MDJ63604401 - MDJ63604401 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 39.33
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.221Z"
+  updated_at: "2026-11-13T13:48:21.166Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.221Z"
+    verified_at: "2026-11-13T13:48:21.166Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.221Z"
+    verified_at: "2026-11-13T13:48:21.166Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

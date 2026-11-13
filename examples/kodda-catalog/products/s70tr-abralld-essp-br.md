@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s70tr-abralld-essp-br"
 # gtin: null
 brand: "LG"
-name: "Home Theater Soundbar LG S70TR – Dolby Atmos, 500W RMS, 5.1.1 Canais, DTS X, Caixas Traseiras, AI Sound Pro, WOW Sinergy, Bluetooth 5.1, HDMI - S70TR"
+name: "Home Theater Soundbar LG S70TR – Dolby Atmos, 500W RMS, 5.1.1 Canais, DTS X, Caixas Traseiras, AI Sound Pro, WOW Sinergy, Bluetooth 5.1, HDMI - S70TR | LG BR"
 category: "audio"
 subcategory: "soundbar"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2659.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.269Z"
+  updated_at: "2026-11-13T13:48:21.206Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.269Z"
+    verified_at: "2026-11-13T13:48:21.206Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.269Z"
+    verified_at: "2026-11-13T13:48:21.206Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

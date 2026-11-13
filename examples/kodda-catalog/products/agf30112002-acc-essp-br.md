@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30112002-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 50NANO75SPA AGF30112002 - AGF30112002"
+name: "Kit régua de LED TV LG 50NANO75SPA AGF30112002 - AGF30112002 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 233.92
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.911Z"
+  updated_at: "2026-11-13T13:48:20.869Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.911Z"
+    verified_at: "2026-11-13T13:48:20.869Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.911Z"
+    verified_at: "2026-11-13T13:48:20.869Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

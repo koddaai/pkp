@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mds38201427-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação de borracha Refrigerador LG GRX228NMS1 MDS38201427 - MDS38201427"
+name: "Vedação de borracha Refrigerador LG GRX228NMS1 MDS38201427 - MDS38201427 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.222Z"
+  updated_at: "2026-11-13T13:48:21.168Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.222Z"
+    verified_at: "2026-11-13T13:48:21.168Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.222Z"
+    verified_at: "2026-11-13T13:48:21.168Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

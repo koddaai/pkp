@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "xl9t-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "Caixa de som Bluetooth LG XBOOM 1000W RMS, Iluminação de Festa e Visor de Pixel LED -  XL9T - XL9T"
+name: "Caixa de som Bluetooth LG XBOOM 1000W RMS, Iluminação de Festa e Visor de Pixel LED -  XL9T - XL9T | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3134.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.283Z"
+  updated_at: "2026-11-13T13:48:21.221Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.283Z"
+    verified_at: "2026-11-13T13:48:21.221Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.283Z"
+    verified_at: "2026-11-13T13:48:21.221Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

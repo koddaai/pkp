@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "xg5s-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "LG XBOOM XG5S Caixa de som Bluetooth portátil - IP67 e 18 horas de bateria - XG5S"
+name: "LG XBOOM XG5S Caixa de som Bluetooth portátil - IP67 e 18 horas de bateria - XG5S | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 449.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.282Z"
+  updated_at: "2026-11-13T13:48:21.220Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.282Z"
+    verified_at: "2026-11-13T13:48:21.220Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.282Z"
+    verified_at: "2026-11-13T13:48:21.220Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65808901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Módulo OLED TV LG OLED48C2PSA - EAJ65808901 - EAJ65808901"
+name: "Módulo OLED TV LG OLED48C2PSA - EAJ65808901 - EAJ65808901 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4596.95
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.047Z"
+  updated_at: "2026-11-13T13:48:20.993Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.047Z"
+    verified_at: "2026-11-13T13:48:20.993Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.047Z"
+    verified_at: "2026-11-13T13:48:20.993Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

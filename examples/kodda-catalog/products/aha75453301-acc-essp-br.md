@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aha75453301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bomba de drenagem Lava e Seca LG WD1412RTA5, NAS106F1WBR, WD11EP6A - AHA75453301 - AHA75453301"
+name: "Bomba de drenagem Lava e Seca LG WD1412RTA5, NAS106F1WBR, WD11EP6A - AHA75453301 - AHA75453301 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 521.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.937Z"
+  updated_at: "2026-11-13T13:48:20.898Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.937Z"
+    verified_at: "2026-11-13T13:48:20.898Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.937Z"
+    verified_at: "2026-11-13T13:48:20.898Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

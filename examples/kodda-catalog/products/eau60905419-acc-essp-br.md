@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau60905419-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor ventilador condensadora Ar Condicionado LG EAU60905419 - EAU60905419"
+name: "Motor ventilador condensadora Ar Condicionado LG EAU60905419 - EAU60905419 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 258.2
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.064Z"
+  updated_at: "2026-11-13T13:48:21.009Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.064Z"
+    verified_at: "2026-11-13T13:48:21.009Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.064Z"
+    verified_at: "2026-11-13T13:48:21.009Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

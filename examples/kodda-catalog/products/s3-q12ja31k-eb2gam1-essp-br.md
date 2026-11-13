@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-q12ja31k-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG Dual Inverter Voice +AI 12.000 BTU Frio 220V - S3-Q12JA31K"
+name: "Ar-Condicionado LG Dual Inverter Voice +AI 12.000 BTU Frio 220V - S3-Q12JA31K | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2564.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.251Z"
+  updated_at: "2026-11-13T13:48:21.195Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.251Z"
+    verified_at: "2026-11-13T13:48:21.195Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.251Z"
+    verified_at: "2026-11-13T13:48:21.195Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

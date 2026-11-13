@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65887701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido BA TV LG 32LR650BPSA EAJ65887701 - EAJ65887701"
+name: "Tela de cristal líquido BA TV LG 32LR650BPSA EAJ65887701 - EAJ65887701 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 506.93
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.051Z"
+  updated_at: "2026-11-13T13:48:20.997Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.051Z"
+    verified_at: "2026-11-13T13:48:20.997Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.051Z"
+    verified_at: "2026-11-13T13:48:20.997Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

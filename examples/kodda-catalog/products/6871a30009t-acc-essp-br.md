@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6871a30009t-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do display Ar CondicionadoLG SKN181FLA, LSNK1826CZ, LSNK1826HZ - 6871A30009T - 6871A30009T"
+name: "Placa do display Ar CondicionadoLG SKN181FLA, LSNK1826CZ, LSNK1826HZ - 6871A30009T - 6871A30009T | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.848Z"
+  updated_at: "2026-11-13T13:48:20.808Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.848Z"
+    verified_at: "2026-11-13T13:48:20.808Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.848Z"
+    verified_at: "2026-11-13T13:48:20.808Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

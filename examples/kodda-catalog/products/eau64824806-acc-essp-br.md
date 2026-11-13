@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau64824806-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor de Corrente Contínua Geladeira LG GM402BPL EAU64824806 - EAU64824806"
+name: "Motor de Corrente Contínua Geladeira LG GM402BPL EAU64824806 - EAU64824806 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 227.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.070Z"
+  updated_at: "2026-11-13T13:48:21.015Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.070Z"
+    verified_at: "2026-11-13T13:48:21.015Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.070Z"
+    verified_at: "2026-11-13T13:48:21.015Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan76548806-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base (pedestal) TV LG 43UM7300PSA - AAN76548806 - AAN76548806"
+name: "Base (pedestal) TV LG 43UM7300PSA - AAN76548806 - AAN76548806 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 54.78
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.866Z"
+  updated_at: "2026-11-13T13:48:20.824Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.866Z"
+    verified_at: "2026-11-13T13:48:20.824Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.866Z"
+    verified_at: "2026-11-13T13:48:20.824Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65912101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Fonte TV LG 32LR650BPSA EAY65912101 - EAY65912101"
+name: "Placa Fonte TV LG 32LR650BPSA EAY65912101 - EAY65912101 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 156.91
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.086Z"
+  updated_at: "2026-11-13T13:48:21.035Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.086Z"
+    verified_at: "2026-11-13T13:48:21.035Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.086Z"
+    verified_at: "2026-11-13T13:48:21.035Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm76191401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 49UJ6320-SA, 49LJ5500-SA, 49LJ5550-SC - AGM76191401 - AGM76191401"
+name: "Kit régua de LED TV LG 49UJ6320-SA, 49LJ5500-SA, 49LJ5550-SC - AGM76191401 - AGM76191401 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 293.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.930Z"
+  updated_at: "2026-11-13T13:48:20.890Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.930Z"
+    verified_at: "2026-11-13T13:48:20.890Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.930Z"
+    verified_at: "2026-11-13T13:48:20.890Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

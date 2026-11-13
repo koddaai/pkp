@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan30078221-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base Pedestal TV LG 43UR7800PSA AAN30078221 - AAN30078221"
+name: "Base Pedestal TV LG 43UR7800PSA AAN30078221 - AAN30078221 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.857Z"
+  updated_at: "2026-11-13T13:48:20.817Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.857Z"
+    verified_at: "2026-11-13T13:48:20.817Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.857Z"
+    verified_at: "2026-11-13T13:48:20.817Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

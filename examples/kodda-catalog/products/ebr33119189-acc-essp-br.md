@@ -4,9 +4,9 @@ schema: pkp/1.0
 sku: "ebr33119189-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Display Máquina Lavar Roupas LG FV5013WC4 EBR33119189 - EBR33119189"
-category: "eletrodomesticos"
-subcategory: "lavadora"
+name: "Placa Display Máquina Lavar Roupas LG FV5013WC4 EBR33119189 - EBR33119189 | LG BR"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 844.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.104Z"
+  updated_at: "2026-11-13T13:48:21.054Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.104Z"
+    verified_at: "2026-11-13T13:48:21.054Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.104Z"
+    verified_at: "2026-11-13T13:48:21.054Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

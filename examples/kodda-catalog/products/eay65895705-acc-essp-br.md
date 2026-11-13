@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65895705-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte De Alimentação Monitor Desktop EAY65895705 - EAY65895705"
+name: "Fonte De Alimentação Monitor Desktop EAY65895705 - EAY65895705 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 105.64
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.085Z"
+  updated_at: "2026-11-13T13:48:21.034Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.085Z"
+    verified_at: "2026-11-13T13:48:21.034Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.085Z"
+    verified_at: "2026-11-13T13:48:21.034Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

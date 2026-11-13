@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj64449001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de Cristal Líquido (Módulo) TV LG 55SK8500PSA - EAJ64449001 - EAJ64449001"
+name: "Tela de Cristal Líquido (Módulo) TV LG 55SK8500PSA - EAJ64449001 - EAJ64449001 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4293.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.026Z"
+  updated_at: "2026-11-13T13:48:20.979Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.026Z"
+    verified_at: "2026-11-13T13:48:20.979Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.026Z"
+    verified_at: "2026-11-13T13:48:20.979Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

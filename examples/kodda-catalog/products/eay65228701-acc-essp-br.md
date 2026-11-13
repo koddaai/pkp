@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65228701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da fonte TV LG 65UM7520PSB, 65UM761C0SB, 65UM7650PSB - EAY65228701 - EAY65228701"
+name: "Placa da fonte TV LG 65UM7520PSB, 65UM761C0SB, 65UM7650PSB - EAY65228701 - EAY65228701 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 700.98
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.079Z"
+  updated_at: "2026-11-13T13:48:21.025Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.079Z"
+    verified_at: "2026-11-13T13:48:21.025Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.079Z"
+    verified_at: "2026-11-13T13:48:21.025Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

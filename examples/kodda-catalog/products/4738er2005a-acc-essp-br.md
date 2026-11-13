@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4738er2005a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mangueira do tanque Lavadora LG WD-12320RD, WD-12311RD, WD-13436RD  - 4738ER2005A - 4738ER2005A"
+name: "Mangueira do tanque Lavadora LG WD-12320RD, WD-12311RD, WD-13436RD  - 4738ER2005A - 4738ER2005A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.805Z"
+  updated_at: "2026-11-13T13:48:20.756Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.805Z"
+    verified_at: "2026-11-13T13:48:20.756Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.805Z"
+    verified_at: "2026-11-13T13:48:20.756Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

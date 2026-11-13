@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead40521480-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo de força Lavadora LG WD1410RT, WD-12596RD, WD1014RD7 - EAD40521480 - EAD40521480"
+name: "Cabo de força Lavadora LG WD1410RT, WD-12596RD, WD1014RD7 - EAD40521480 - EAD40521480 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.83
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.000Z"
+  updated_at: "2026-11-13T13:48:20.952Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.000Z"
+    verified_at: "2026-11-13T13:48:20.952Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.000Z"
+    verified_at: "2026-11-13T13:48:20.952Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

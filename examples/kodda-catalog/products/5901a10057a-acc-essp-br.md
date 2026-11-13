@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5901a10057a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hélice plástica do ventilador Ar Condicionado LG TSUC122YMA1, TSUC092ERM1, TSUC092YDA1 - 5901A10057A - 5901A10057A"
+name: "Hélice plástica do ventilador Ar Condicionado LG TSUC122YMA1, TSUC092ERM1, TSUC092YDA1 - 5901A10057A - 5901A10057A | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 50.63
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.834Z"
+  updated_at: "2026-11-13T13:48:20.794Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.834Z"
+    verified_at: "2026-11-13T13:48:20.794Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.834Z"
+    verified_at: "2026-11-13T13:48:20.794Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

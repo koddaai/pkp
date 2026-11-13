@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead61518911-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Condutor USB para Ar Condicionado LG ASUW182CRG2 EAD61518911 - EAD61518911"
+name: "Condutor USB para Ar Condicionado LG ASUW182CRG2 EAD61518911 - EAD61518911 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 71.02
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.002Z"
+  updated_at: "2026-11-13T13:48:20.955Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.002Z"
+    verified_at: "2026-11-13T13:48:20.955Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.002Z"
+    verified_at: "2026-11-13T13:48:20.955Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

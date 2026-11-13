@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681er1007c-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor Lavadora LG WD-12596RDA, WD11WCS6A, WD1411RW - 4681ER1007C - 4681ER1007C"
+name: "Motor Lavadora LG WD-12596RDA, WD11WCS6A, WD1411RW - 4681ER1007C - 4681ER1007C | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 303.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.804Z"
+  updated_at: "2026-11-13T13:48:20.754Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.804Z"
+    verified_at: "2026-11-13T13:48:20.754Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.804Z"
+    verified_at: "2026-11-13T13:48:20.754Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

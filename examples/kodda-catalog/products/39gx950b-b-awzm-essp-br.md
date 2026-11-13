@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "39gx950b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG OLED UltraGear™ 39GX950B 39”, Dual-Mode 5K2K, 0.03ms real (GtG), DisplayHDR True Black 500, NVIDIA G-Sync™, AMD FreeSync™ Premium Pro, Recursos IA, DP2.1, HDMI2.1, USB-C - 39GX950B-B"
+name: "Monitor LG OLED UltraGear™ 39GX950B 39”, Dual-Mode 5K2K, 0.03ms real (GtG), DisplayHDR True Black 500, NVIDIA G-Sync™, AMD FreeSync™ Premium Pro, Recursos IA, DP2.1, HDMI2.1, USB-C - 39GX950B-B | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "oled", "hdr", "premium", "pro", "ultra", "gaming"]
 price:
   type: "street"
   currency: "BRL"
-  value: 9798.96
+  value: 9999.03
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.789Z"
+  updated_at: "2026-11-13T13:48:20.737Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.789Z"
+    verified_at: "2026-11-13T13:48:20.737Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.789Z"
+    verified_at: "2026-11-13T13:48:20.737Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

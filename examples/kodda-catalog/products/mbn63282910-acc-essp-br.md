@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mbn63282910-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tampa Superior Forno Micro Ondas LG MS3057Q MBN63282910 - MBN63282910"
+name: "Tampa Superior Forno Micro Ondas LG MS3057Q MBN63282910 - MBN63282910 | LG BR"
 category: "eletrodomesticos"
 subcategory: "forno"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.216Z"
+  updated_at: "2026-11-13T13:48:21.162Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.216Z"
+    verified_at: "2026-11-13T13:48:21.162Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.216Z"
+    verified_at: "2026-11-13T13:48:21.162Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr88920706-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Mini System LG - EBR88920706 - EBR88920706"
+name: "Placa Principal Mini System LG - EBR88920706 - EBR88920706 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 753.36
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.155Z"
+  updated_at: "2026-11-13T13:48:21.111Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.155Z"
+    verified_at: "2026-11-13T13:48:21.111Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.155Z"
+    verified_at: "2026-11-13T13:48:21.111Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

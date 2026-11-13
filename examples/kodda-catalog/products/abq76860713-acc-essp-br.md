@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "abq76860713-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Módulo Inverter Ar Condicionado LG S4UQ18KL31A ABQ76860713 - ABQ76860713"
+name: "Módulo Inverter Ar Condicionado LG S4UQ18KL31A ABQ76860713 - ABQ76860713 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 838.13
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.873Z"
+  updated_at: "2026-11-13T13:48:20.831Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.873Z"
+    verified_at: "2026-11-13T13:48:20.831Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.873Z"
+    verified_at: "2026-11-13T13:48:20.831Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

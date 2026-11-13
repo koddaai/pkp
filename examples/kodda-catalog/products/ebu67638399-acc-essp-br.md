@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu67638399-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG OLED65C4PSA EBU67638399 - EBU67638399"
+name: "Placa Principal TV LG OLED65C4PSA EBU67638399 - EBU67638399 | LG BR"
 category: "tvs"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/ebu67638399/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Principal TV LG OLED65C4PSA EBU67638399"
+summary: "Get more information on the LG EBU67638399. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG OLED65C4PSA EBU67638399."
 tags: ["lg", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2205.08
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.184Z"
+  updated_at: "2026-11-13T13:48:21.139Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.184Z"
+    verified_at: "2026-11-13T13:48:21.139Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.184Z"
+    verified_at: "2026-11-13T13:48:21.139Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa Principal TV LG OLED65C4PSA EBU67638399
+Get more information on the LG EBU67638399. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG OLED65C4PSA EBU67638399.

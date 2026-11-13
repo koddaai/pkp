@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr75260024-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa  Principal Ar Condicionado LG EBR75260024 - EBR75260024"
+name: "Placa  Principal Ar Condicionado LG EBR75260024 - EBR75260024 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 569.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.117Z"
+  updated_at: "2026-11-13T13:48:21.071Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.117Z"
+    verified_at: "2026-11-13T13:48:21.071Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.117Z"
+    verified_at: "2026-11-13T13:48:21.071Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

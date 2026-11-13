@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681ea1009a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor Lavadora LG T1409DSA, T1209DBA, TS1804DPH - 4681EA1009A - 4681EA1009A"
+name: "Motor Lavadora LG T1409DSA, T1209DBA, TS1804DPH - 4681EA1009A - 4681EA1009A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.803Z"
+  updated_at: "2026-11-13T13:48:20.753Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.803Z"
+    verified_at: "2026-11-13T13:48:20.753Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.803Z"
+    verified_at: "2026-11-13T13:48:20.753Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

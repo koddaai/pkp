@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "29wq600b-w-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraWide™ 29WQ600B-W Tela IPS de 29\", 21:9, USB-C, 7Wx2 MaxxAudio®, 1ms (MBR), 100Hz, sRGB 99%, HDR10 - 29WQ600B-W"
+name: "Monitor LG UltraWide™ 29WQ600B-W Tela IPS de 29\", 21:9, USB-C, 7Wx2 MaxxAudio®, 1ms (MBR), 100Hz, sRGB 99%, HDR10 - 29WQ600B-W | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1399
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.779Z"
+  updated_at: "2026-11-13T13:48:20.726Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.779Z"
+    verified_at: "2026-11-13T13:48:20.726Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.779Z"
+    verified_at: "2026-11-13T13:48:20.726Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

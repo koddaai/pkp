@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau37932714-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor corrente contínua Lava e Seca LG CV9011EC4, CV3011BC4, CV5010TS4A - EAU37932714 - EAU37932714"
+name: "Motor corrente contínua Lava e Seca LG CV9011EC4, CV3011BC4, CV5010TS4A - EAU37932714 - EAU37932714 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 398.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.061Z"
+  updated_at: "2026-11-13T13:48:21.006Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.061Z"
+    verified_at: "2026-11-13T13:48:21.006Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.061Z"
+    verified_at: "2026-11-13T13:48:21.006Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

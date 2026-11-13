@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mfm62719601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Membrana plástica Forno Micro-ondas LG MS3042R, MS3042RA, MS3052R - MFM62719601 - MFM62719601"
+name: "Membrana plástica Forno Micro-ondas LG MS3042R, MS3042RA, MS3052R - MFM62719601 - MFM62719601 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.234Z"
+  updated_at: "2026-11-13T13:48:21.178Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.234Z"
+    verified_at: "2026-11-13T13:48:21.178Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.234Z"
+    verified_at: "2026-11-13T13:48:21.178Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

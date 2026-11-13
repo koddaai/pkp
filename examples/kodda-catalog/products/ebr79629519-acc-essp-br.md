@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr79629519-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Ar Condicionado LG CRNU18GTSC4, ARNU18GTSC4, ARNU24GTPA4 - EBR79629519 - EBR79629519"
+name: "Placa principal Ar Condicionado LG CRNU18GTSC4, ARNU18GTSC4, ARNU24GTPA4 - EBR79629519 - EBR79629519 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 930.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.125Z"
+  updated_at: "2026-11-13T13:48:21.079Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.125Z"
+    verified_at: "2026-11-13T13:48:21.079Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.125Z"
+    verified_at: "2026-11-13T13:48:21.079Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

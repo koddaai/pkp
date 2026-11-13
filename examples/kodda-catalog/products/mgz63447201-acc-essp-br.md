@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mgz63447201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conexão para tubo tipo união Refrigerador LG MGZ63447201 - MGZ63447201"
+name: "Conexão para tubo tipo união Refrigerador LG MGZ63447201 - MGZ63447201 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 69.83
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.238Z"
+  updated_at: "2026-11-13T13:48:21.182Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.238Z"
+    verified_at: "2026-11-13T13:48:21.182Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.238Z"
+    verified_at: "2026-11-13T13:48:21.182Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

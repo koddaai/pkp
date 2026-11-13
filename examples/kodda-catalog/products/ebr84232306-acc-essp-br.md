@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr84232306-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Soundbar LG SQC2 EBR84232306 - EBR84232306"
+name: "Placa Principal Soundbar LG SQC2 EBR84232306 - EBR84232306 | LG BR"
 category: "audio"
 subcategory: "soundbar"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 360.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.138Z"
+  updated_at: "2026-11-13T13:48:21.093Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.138Z"
+    verified_at: "2026-11-13T13:48:21.093Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.138Z"
+    verified_at: "2026-11-13T13:48:21.093Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

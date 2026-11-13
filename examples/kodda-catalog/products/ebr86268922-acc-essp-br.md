@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr86268922-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Máquina de Lavar LG WD17SV2S6BA EBR86268922 - EBR86268922"
+name: "Placa Principal Máquina de Lavar LG WD17SV2S6BA EBR86268922 - EBR86268922 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1381.81
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.145Z"
+  updated_at: "2026-11-13T13:48:21.101Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.145Z"
+    verified_at: "2026-11-13T13:48:21.101Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.145Z"
+    verified_at: "2026-11-13T13:48:21.101Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-b569nql2-amcgsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Smart LG Frost Free Inverter 451L Inverse Cor Black Inox (GC-B569NQL2) - 220V - GC-B569NQL2"
+name: "Geladeira Smart LG Frost Free Inverter 451L Inverse Cor Black Inox (GC-B569NQL2) - 220V - GC-B569NQL2 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3799.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.195Z"
+  updated_at: "2026-11-13T13:48:21.149Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.195Z"
+    verified_at: "2026-11-13T13:48:21.149Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.195Z"
+    verified_at: "2026-11-13T13:48:21.149Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

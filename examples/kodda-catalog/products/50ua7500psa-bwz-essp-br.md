@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "50ua7500psa-bwz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG UHD AI 4K UA75 de 50 polegadas 2025 - 50UA7500PSA"
+name: "Smart TV LG UHD AI 4K UA75 de 50 polegadas 2025 - 50UA7500PSA | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2345.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.811Z"
+  updated_at: "2026-11-13T13:48:20.762Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.811Z"
+    verified_at: "2026-11-13T13:48:20.762Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.811Z"
+    verified_at: "2026-11-13T13:48:20.762Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

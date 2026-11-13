@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "abq76860725-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Inverter Ar Condicionado LG ABQ76860725 - ABQ76860725"
+name: "Placa Inverter Ar Condicionado LG ABQ76860725 - ABQ76860725 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1424.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.873Z"
+  updated_at: "2026-11-13T13:48:20.831Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.873Z"
+    verified_at: "2026-11-13T13:48:20.831Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.873Z"
+    verified_at: "2026-11-13T13:48:20.831Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

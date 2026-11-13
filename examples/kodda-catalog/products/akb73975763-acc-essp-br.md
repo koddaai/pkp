@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb73975763-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle remoto All in One LG 47WT30MS-B, 32SM5B, 22SM3B-B- AKB73975763 - AKB73975763"
+name: "Controle remoto All in One LG 47WT30MS-B, 32SM5B, 22SM3B-B- AKB73975763 - AKB73975763 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 63.84
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.950Z"
+  updated_at: "2026-11-13T13:48:20.914Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.950Z"
+    verified_at: "2026-11-13T13:48:20.914Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.950Z"
+    verified_at: "2026-11-13T13:48:20.914Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm73611313-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Folha Aromatizada LG Styler S3MFBN AGM73611313 - AGM73611313"
+name: "Folha Aromatizada LG Styler S3MFBN AGM73611313 - AGM73611313 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 47.96
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.928Z"
+  updated_at: "2026-11-13T13:48:20.888Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.928Z"
+    verified_at: "2026-11-13T13:48:20.888Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.928Z"
+    verified_at: "2026-11-13T13:48:20.888Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

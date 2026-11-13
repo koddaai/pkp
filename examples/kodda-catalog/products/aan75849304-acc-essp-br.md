@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan75849304-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base Monitor LG 28MT49S-PS - AAN75849304 - AAN75849304"
+name: "Base Monitor LG 28MT49S-PS - AAN75849304 - AAN75849304 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.861Z"
+  updated_at: "2026-11-13T13:48:20.821Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.861Z"
+    verified_at: "2026-11-13T13:48:20.821Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.861Z"
+    verified_at: "2026-11-13T13:48:20.821Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

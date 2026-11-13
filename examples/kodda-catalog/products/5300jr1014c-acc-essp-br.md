@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5300jr1014c-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Resistência de aquecimento do degelo Refrigerador LG GC-L207BSKV - 5300JR1014C - 5300JR1014C"
+name: "Resistência de aquecimento do degelo Refrigerador LG GC-L207BSKV - 5300JR1014C - 5300JR1014C | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 464.54
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.827Z"
+  updated_at: "2026-11-13T13:48:20.770Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.827Z"
+    verified_at: "2026-11-13T13:48:20.770Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.827Z"
+    verified_at: "2026-11-13T13:48:20.770Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

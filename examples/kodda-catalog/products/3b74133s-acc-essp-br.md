@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3b74133s-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fusível 65TS-120-H Forno Micro-ondas LG MP-9482SR, MH3046SPE, MH4046SPE - 3B74133S - 3B74133S"
+name: "Fusível 65TS-120-H Forno Micro-ondas LG MP-9482SR, MH3046SPE, MH4046SPE - 3B74133S - 3B74133S | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.789Z"
+  updated_at: "2026-11-13T13:48:20.738Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.789Z"
+    verified_at: "2026-11-13T13:48:20.738Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.789Z"
+    verified_at: "2026-11-13T13:48:20.738Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

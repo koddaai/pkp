@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3301a20020j-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte de parede evaporadora Ar Condicionado LG TSNH122YMA0, TSNH072YNW0, TSNH092YDA0 - 3301A20020J - 3301A20020J"
+name: "Suporte de parede evaporadora Ar Condicionado LG TSNH122YMA0, TSNH072YNW0, TSNH092YDA0 - 3301A20020J - 3301A20020J | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 108.53
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.784Z"
+  updated_at: "2026-11-13T13:48:20.732Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.784Z"
+    verified_at: "2026-11-13T13:48:20.732Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.784Z"
+    verified_at: "2026-11-13T13:48:20.732Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

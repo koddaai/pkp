@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acm73079231-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sensor controle do descongelamento do freezer Refrigerador LG LG-R64, GR-B333WLRU - ACM73079231 - ACM73079231"
+name: "Sensor controle do descongelamento do freezer Refrigerador LG LG-R64, GR-B333WLRU - ACM73079231 - ACM73079231 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 189.05
+  value: 165.98
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.878Z"
+  updated_at: "2026-11-13T13:48:20.836Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.878Z"
+    verified_at: "2026-11-13T13:48:20.836Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.878Z"
+    verified_at: "2026-11-13T13:48:20.836Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3390w1a044b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Prato de vidro para fornos de micro-ondas - 3390W1A044B"
+name: "Prato de vidro para fornos de micro-ondas - 3390W1A044B | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 79.38
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.784Z"
+  updated_at: "2026-11-13T13:48:20.733Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.784Z"
+    verified_at: "2026-11-13T13:48:20.733Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.784Z"
+    verified_at: "2026-11-13T13:48:20.733Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

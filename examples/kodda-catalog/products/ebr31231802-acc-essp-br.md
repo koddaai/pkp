@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr31231802-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal LG XBOOM RN7 - EBR31231802 - EBR31231802"
+name: "Placa principal LG XBOOM RN7 - EBR31231802 - EBR31231802 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 654.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.100Z"
+  updated_at: "2026-11-13T13:48:21.051Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.100Z"
+    verified_at: "2026-11-13T13:48:21.051Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.100Z"
+    verified_at: "2026-11-13T13:48:21.051Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

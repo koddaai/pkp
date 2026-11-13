@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5210a28001g-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo Conector (Y) para Ar Condicionado LG 5210A28001G - 5210A28001G"
+name: "Tubo Conector (Y) para Ar Condicionado LG 5210A28001G - 5210A28001G | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 54.04
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.812Z"
+  updated_at: "2026-11-13T13:48:20.764Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.812Z"
+    verified_at: "2026-11-13T13:48:20.764Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.812Z"
+    verified_at: "2026-11-13T13:48:20.764Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

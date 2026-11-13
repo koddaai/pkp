@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg61406004-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Termistor (NTC) Ar Condicionado LG AUUQ48GH2, ARNH08GK3A4, ATUW36GMLP0 - EBG61406004 - EBG61406004"
+name: "Termistor (NTC) Ar Condicionado LG AUUQ48GH2, ARNH08GK3A4, ATUW36GMLP0 - EBG61406004 - EBG61406004 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 132.05
+  value: 112.51
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.094Z"
+  updated_at: "2026-11-13T13:48:21.044Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.094Z"
+    verified_at: "2026-11-13T13:48:21.044Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.094Z"
+    verified_at: "2026-11-13T13:48:21.044Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

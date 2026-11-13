@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan75832007-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base Pedestal TV LG 49UJ6565 AAN75832007 - AAN75832007"
+name: "Base Pedestal TV LG 49UJ6565 AAN75832007 - AAN75832007 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 82.76
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.861Z"
+  updated_at: "2026-11-13T13:48:20.820Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.861Z"
+    verified_at: "2026-11-13T13:48:20.820Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.861Z"
+    verified_at: "2026-11-13T13:48:20.820Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

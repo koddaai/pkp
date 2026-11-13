@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4738en3002a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo de borracha Lavadora LG WD-1485TDA, WD-C1485ADA, WD-W1485AD - 4738EN3002A - 4738EN3002A"
+name: "Tubo de borracha Lavadora LG WD-1485TDA, WD-C1485ADA, WD-W1485AD - 4738EN3002A - 4738EN3002A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.804Z"
+  updated_at: "2026-11-13T13:48:20.755Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.804Z"
+    verified_at: "2026-11-13T13:48:20.755Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.804Z"
+    verified_at: "2026-11-13T13:48:20.755Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

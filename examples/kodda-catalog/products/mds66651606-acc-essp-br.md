@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mds66651606-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação em borracha da porta (Guarnição) Lava e Seca LG CV7011WS4, CV3011WG4, CV5010TS4 - MDS66651606 - MDS66651606"
+name: "Vedação em borracha da porta (Guarnição) Lava e Seca LG CV7011WS4, CV3011WG4, CV5010TS4 - MDS66651606 - MDS66651606 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 185.49
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.225Z"
+  updated_at: "2026-11-13T13:48:21.170Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.225Z"
+    verified_at: "2026-11-13T13:48:21.170Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.225Z"
+    verified_at: "2026-11-13T13:48:21.170Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

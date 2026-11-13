@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aeb75085035-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Gabinete frontal evaporadora Ar Condicionado LG S4NQ18KL31A, S4NQ18KL3AC, S4NQ24K231E - AEB75085035 - AEB75085035"
+name: "Gabinete frontal evaporadora Ar Condicionado LG S4NQ18KL31A, S4NQ18KL3AC, S4NQ24K231E - AEB75085035 - AEB75085035 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.899Z"
+  updated_at: "2026-11-13T13:48:20.858Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.899Z"
+    verified_at: "2026-11-13T13:48:20.858Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.899Z"
+    verified_at: "2026-11-13T13:48:20.858Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

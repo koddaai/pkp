@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tcg37249106-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Alto Falante Esquerdo Mini System LG CL98 TCG37249106 - TCG37249106"
+name: "Alto Falante Esquerdo Mini System LG CL98 TCG37249106 - TCG37249106 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1913.19
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.277Z"
+  updated_at: "2026-11-13T13:48:21.214Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.277Z"
+    verified_at: "2026-11-13T13:48:21.214Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.277Z"
+    verified_at: "2026-11-13T13:48:21.214Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr88271343-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Lavadora LG - EBR88271343 - EBR88271343"
+name: "Placa Principal Lavadora LG - EBR88271343 - EBR88271343 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 608.89
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.151Z"
+  updated_at: "2026-11-13T13:48:21.107Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.151Z"
+    verified_at: "2026-11-13T13:48:21.107Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.151Z"
+    verified_at: "2026-11-13T13:48:21.107Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

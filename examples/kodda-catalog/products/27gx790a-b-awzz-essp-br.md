@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27gx790a-b-awzz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG OLED UltraGear™ 27GX790A-B 27\", 480Hz, QuadHD 2K, 0.03ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa ClearMR21000, HDR True Black 400 - 27GX790A-B"
+name: "Monitor LG OLED UltraGear™ 27GX790A-B 27\", 480Hz, QuadHD 2K, 0.03ms (GtG), NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa ClearMR21000, HDR True Black 400 - 27GX790A-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6799
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.777Z"
+  updated_at: "2026-11-13T13:48:20.724Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.777Z"
+    verified_at: "2026-11-13T13:48:20.724Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.777Z"
+    verified_at: "2026-11-13T13:48:20.724Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

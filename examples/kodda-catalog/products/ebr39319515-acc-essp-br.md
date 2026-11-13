@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr39319515-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal da unidade evaporadora Ar Condicionado LG ARNU42GBGA2 - EBR39319515 - EBR39319515"
+name: "Placa principal da unidade evaporadora Ar Condicionado LG ARNU42GBGA2 - EBR39319515 - EBR39319515 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1823.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.108Z"
+  updated_at: "2026-11-13T13:48:21.059Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.108Z"
+    verified_at: "2026-11-13T13:48:21.059Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.108Z"
+    verified_at: "2026-11-13T13:48:21.059Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

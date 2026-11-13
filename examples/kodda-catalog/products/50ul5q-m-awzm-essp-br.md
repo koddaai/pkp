@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "50ul5q-m-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "UHD Signage - 50UL5Q-M"
+name: "UHD Signage - 50UL5Q-M | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2944.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.811Z"
+  updated_at: "2026-11-13T13:48:20.762Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.811Z"
+    verified_at: "2026-11-13T13:48:20.762Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.811Z"
+    verified_at: "2026-11-13T13:48:20.762Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

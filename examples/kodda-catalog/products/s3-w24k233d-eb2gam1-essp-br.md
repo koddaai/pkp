@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-w24k233d-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG Dual Inverter AI Voice 24.000 BTU Quente/Frio 220V - S3-W24K233D"
+name: "Ar-Condicionado LG Dual Inverter AI Voice 24.000 BTU Quente/Frio 220V - S3-W24K233D | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter", "4k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 4399.12
+  value: 4599.08
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.267Z"
+  updated_at: "2026-11-13T13:48:21.204Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.267Z"
+    verified_at: "2026-11-13T13:48:21.204Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.267Z"
+    verified_at: "2026-11-13T13:48:21.204Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

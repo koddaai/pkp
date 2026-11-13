@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "fab30006115-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Parafuso Monitor e Notebook LG L194WT-SF - FAB30006115 - FAB30006115"
+name: "Parafuso Monitor e Notebook LG L194WT-SF - FAB30006115 - FAB30006115 | LG BR"
 category: "notebooks"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 19.73
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.190Z"
+  updated_at: "2026-11-13T13:48:21.144Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.190Z"
+    verified_at: "2026-11-13T13:48:21.144Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.190Z"
+    verified_at: "2026-11-13T13:48:21.144Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

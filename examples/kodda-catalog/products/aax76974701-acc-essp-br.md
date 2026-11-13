@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aax76974701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Alto falantes Woofer+Tweeter Loud Speaker LG RN9 - AAX76974701 - AAX76974701"
+name: "Alto falantes Woofer+Tweeter Loud Speaker LG RN9 - AAX76974701 - AAX76974701 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1511.15
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.869Z"
+  updated_at: "2026-11-13T13:48:20.827Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.869Z"
+    verified_at: "2026-11-13T13:48:20.827Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.869Z"
+    verified_at: "2026-11-13T13:48:20.827Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4036er2003a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação em borracha da porta (Retentor) Lava e Seca LG WD-12596RD, WD-12311RD, WD-12311RDA - 4036ER2003A - 4036ER2003A"
+name: "Vedação em borracha da porta (Retentor) Lava e Seca LG WD-12596RD, WD-12311RD, WD-12311RDA - 4036ER2003A - 4036ER2003A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.792Z"
+  updated_at: "2026-11-13T13:48:20.741Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.792Z"
+    verified_at: "2026-11-13T13:48:20.741Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.792Z"
+    verified_at: "2026-11-13T13:48:20.741Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

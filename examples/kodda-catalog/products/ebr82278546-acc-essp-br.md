@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr82278546-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa  Principal Ar Condicionado LG EBR82278546 - EBR82278546"
+name: "Placa  Principal Ar Condicionado LG EBR82278546 - EBR82278546 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 892.85
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.131Z"
+  updated_at: "2026-11-13T13:48:21.085Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.131Z"
+    verified_at: "2026-11-13T13:48:21.085Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.131Z"
+    verified_at: "2026-11-13T13:48:21.085Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

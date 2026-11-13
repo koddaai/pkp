@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681a20168b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor corrente contínua 60W 650RPM Ar Condicionado LG LTNC182QLE0, AMNW18GTQA0, AMNW18GTQA1 - 4681A20168B - 4681A20168B"
+name: "Motor corrente contínua 60W 650RPM Ar Condicionado LG LTNC182QLE0, AMNW18GTQA0, AMNW18GTQA1 - 4681A20168B - 4681A20168B | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 540.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.802Z"
+  updated_at: "2026-11-13T13:48:20.752Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.802Z"
+    verified_at: "2026-11-13T13:48:20.752Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.802Z"
+    verified_at: "2026-11-13T13:48:20.752Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

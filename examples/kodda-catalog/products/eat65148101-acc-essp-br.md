@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eat65148101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa time control TV LG 43LM6300PSB, 43LM6370PSB, 43LM6300PLA - EAT65148101 - EAT65148101"
+name: "Placa time control TV LG 43LM6300PSB, 43LM6370PSB, 43LM6300PLA - EAT65148101 - EAT65148101 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.059Z"
+  updated_at: "2026-11-13T13:48:21.004Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.059Z"
+    verified_at: "2026-11-13T13:48:21.004Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.059Z"
+    verified_at: "2026-11-13T13:48:21.004Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

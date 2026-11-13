@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27g411a-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraGear™ G4, 27G411A-B, 144Hz (O/C), Tela IPS FHD 27\", 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10, sRGB 99% - 27G411A-B"
+name: "Monitor LG UltraGear™ G4, 27G411A-B, 144Hz (O/C), Tela IPS FHD 27\", 1ms (MBR), NVIDIA G-SYNC, AMD FreeSync, HDR10, sRGB 99% - 27G411A-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 779
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.774Z"
+  updated_at: "2026-11-13T13:48:20.721Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.774Z"
+    verified_at: "2026-11-13T13:48:20.721Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.774Z"
+    verified_at: "2026-11-13T13:48:20.721Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30027304-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 82UM7570PSB AGF30027304 - AGF30027304"
+name: "Kit régua de LED TV LG 82UM7570PSB AGF30027304 - AGF30027304 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1063.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.909Z"
+  updated_at: "2026-11-13T13:48:20.868Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.909Z"
+    verified_at: "2026-11-13T13:48:20.868Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.909Z"
+    verified_at: "2026-11-13T13:48:20.868Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

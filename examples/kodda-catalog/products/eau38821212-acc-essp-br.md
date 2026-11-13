@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau38821212-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor de corrente alternada Ar Condicionado LG LSUC2423MM1, LTUC182QLE0, LTUC242PLE0 - EAU38821212 - EAU38821212"
+name: "Motor de corrente alternada Ar Condicionado LG LSUC2423MM1, LTUC182QLE0, LTUC242PLE0 - EAU38821212 - EAU38821212 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 322.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.062Z"
+  updated_at: "2026-11-13T13:48:21.006Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.062Z"
+    verified_at: "2026-11-13T13:48:21.006Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.062Z"
+    verified_at: "2026-11-13T13:48:21.006Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

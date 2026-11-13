@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27gs95qe-24ms500-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor Gamer LG UltraGear OLED – Tela OLED 27\" + Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação - 27GS95QE.24MS500"
+name: "Monitor Gamer LG UltraGear OLED – Tela OLED 27\" + Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação - 27GS95QE.24MS500 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4799.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.776Z"
+  updated_at: "2026-11-13T13:48:20.723Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.776Z"
+    verified_at: "2026-11-13T13:48:20.723Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.776Z"
+    verified_at: "2026-11-13T13:48:20.723Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

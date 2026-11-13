@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3550a30254a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cobertura das válvulas unidade condensadora Ar Condicionado LG ASNW092HDW0, S4UQ09WA5WB, S4UQ12JA314 - 3550A30254A - 3550A30254A"
+name: "Cobertura das válvulas unidade condensadora Ar Condicionado LG ASNW092HDW0, S4UQ09WA5WB, S4UQ12JA314 - 3550A30254A - 3550A30254A | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.787Z"
+  updated_at: "2026-11-13T13:48:20.736Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.787Z"
+    verified_at: "2026-11-13T13:48:20.736Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.787Z"
+    verified_at: "2026-11-13T13:48:20.736Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

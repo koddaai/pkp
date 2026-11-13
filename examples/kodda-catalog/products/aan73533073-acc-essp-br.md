@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan73533073-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base de metal Ar Condicionado LG USUQ122HSG3 - AAN73533073 - AAN73533073"
+name: "Base de metal Ar Condicionado LG USUQ122HSG3 - AAN73533073 - AAN73533073 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.860Z"
+  updated_at: "2026-11-13T13:48:20.819Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.860Z"
+    verified_at: "2026-11-13T13:48:20.819Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.860Z"
+    verified_at: "2026-11-13T13:48:20.819Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

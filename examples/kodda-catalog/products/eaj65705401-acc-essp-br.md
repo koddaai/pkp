@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65705401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (BA) TV LG 55UM7650PSB - EAJ65705401 - EAJ65705401"
+name: "Tela de cristal líquido (BA) TV LG 55UM7650PSB - EAJ65705401 - EAJ65705401 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1861.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.031Z"
+  updated_at: "2026-11-13T13:48:20.984Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.031Z"
+    verified_at: "2026-11-13T13:48:20.984Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.031Z"
+    verified_at: "2026-11-13T13:48:20.984Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

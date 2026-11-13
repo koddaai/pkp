@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acq88879601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tampa da gaveta de vegetais da geladeira - ACQ88879601"
+name: "Tampa da gaveta de vegetais da geladeira - ACQ88879601 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 338.34
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.882Z"
+  updated_at: "2026-11-13T13:48:20.839Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.882Z"
+    verified_at: "2026-11-13T13:48:20.839Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.882Z"
+    verified_at: "2026-11-13T13:48:20.839Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

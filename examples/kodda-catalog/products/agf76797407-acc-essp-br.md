@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf76797407-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fusível Forno Micro Ondas LG MS3042R AGF76797407 - AGF76797407"
+name: "Fusível Forno Micro Ondas LG MS3042R AGF76797407 - AGF76797407 | LG BR"
 category: "eletrodomesticos"
 subcategory: "forno"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.916Z"
+  updated_at: "2026-11-13T13:48:20.874Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.916Z"
+    verified_at: "2026-11-13T13:48:20.874Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.916Z"
+    verified_at: "2026-11-13T13:48:20.874Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

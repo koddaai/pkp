@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "zt-w18gplaa-anwzbr1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar Condicionado LG Cassete Inverter 18.000 BTU/h 220V ZT-W18GPLAA, Quente e Frio - ZT-W18GPLAA"
+name: "Ar Condicionado LG Cassete Inverter 18.000 BTU/h 220V ZT-W18GPLAA, Quente e Frio - ZT-W18GPLAA | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 9766
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.283Z"
+  updated_at: "2026-11-13T13:48:21.222Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.283Z"
+    verified_at: "2026-11-13T13:48:21.222Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.283Z"
+    verified_at: "2026-11-13T13:48:21.222Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

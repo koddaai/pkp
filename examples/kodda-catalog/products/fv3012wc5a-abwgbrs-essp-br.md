@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "fv3012wc5a-abwgbrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lavadora LG VC5 12kg Branca com Inteligência Artificial AIDD™ - 220V - FV3012WC5A"
+name: "Lavadora LG VC5 12kg Branca com Inteligência Artificial AIDD™ - 220V - FV3012WC5A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2798.99
+  value: 2899
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.192Z"
+  updated_at: "2026-11-13T13:48:21.146Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.192Z"
+    verified_at: "2026-11-13T13:48:21.146Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.192Z"
+    verified_at: "2026-11-13T13:48:21.146Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

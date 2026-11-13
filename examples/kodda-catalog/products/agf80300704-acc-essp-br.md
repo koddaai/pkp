@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf80300704-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de água Refrigerador LG GM86SDDB1, GC-L22FTLKL, GR-J31FTKHL - AGF80300704 - AGF80300704"
+name: "Filtro de água Refrigerador LG GM86SDDB1, GC-L22FTLKL, GR-J31FTKHL - AGF80300704 - AGF80300704 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.925Z"
+  updated_at: "2026-11-13T13:48:20.884Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.925Z"
+    verified_at: "2026-11-13T13:48:20.884Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.925Z"
+    verified_at: "2026-11-13T13:48:20.884Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr83968403-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Condensadora Ar Condicionado LG S4UQ24K231D, S4UQ24K231E, S4UQ24K23WD - EBR83968403 - EBR83968403"
+name: "Placa principal Condensadora Ar Condicionado LG S4UQ24K231D, S4UQ24K231E, S4UQ24K23WD - EBR83968403 - EBR83968403 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1379.92
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.137Z"
+  updated_at: "2026-11-13T13:48:21.092Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.137Z"
+    verified_at: "2026-11-13T13:48:21.092Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.137Z"
+    verified_at: "2026-11-13T13:48:21.092Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

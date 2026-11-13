@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65753801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (BA) TV LG 50NANO75SPA, 50NANO75SQA - EAJ65753801 - EAJ65753801"
+name: "Tela de cristal líquido (BA) TV LG 50NANO75SPA, 50NANO75SQA - EAJ65753801 - EAJ65753801 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1234.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.036Z"
+  updated_at: "2026-11-13T13:48:20.990Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.036Z"
+    verified_at: "2026-11-13T13:48:20.990Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.036Z"
+    verified_at: "2026-11-13T13:48:20.990Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

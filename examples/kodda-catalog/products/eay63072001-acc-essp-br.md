@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay63072001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa fonte TV LG 47LB5600 - EAY63072001 - EAY63072001"
+name: "Placa fonte TV LG 47LB5600 - EAY63072001 - EAY63072001 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 475.8
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.074Z"
+  updated_at: "2026-11-13T13:48:21.019Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.074Z"
+    verified_at: "2026-11-13T13:48:21.019Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.074Z"
+    verified_at: "2026-11-13T13:48:21.019Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

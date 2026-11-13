@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65733801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Painel de cristal líquido (módulo) TV LG OLED65CXPSA - EAJ65733801 - EAJ65733801"
+name: "Painel de cristal líquido (módulo) TV LG OLED65CXPSA - EAJ65733801 - EAJ65733801 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5917.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.033Z"
+  updated_at: "2026-11-13T13:48:20.987Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.033Z"
+    verified_at: "2026-11-13T13:48:20.987Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.033Z"
+    verified_at: "2026-11-13T13:48:20.987Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

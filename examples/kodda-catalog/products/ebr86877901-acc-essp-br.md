@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr86877901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do painel frontal Mini System LG - EBR86877901 - EBR86877901"
+name: "Placa do painel frontal Mini System LG - EBR86877901 - EBR86877901 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 268.79
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.148Z"
+  updated_at: "2026-11-13T13:48:21.103Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.148Z"
+    verified_at: "2026-11-13T13:48:21.103Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.148Z"
+    verified_at: "2026-11-13T13:48:21.103Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

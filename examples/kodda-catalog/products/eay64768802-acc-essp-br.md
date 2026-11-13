@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay64768802-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da fonte TV LG OLED65W8PSA - EAY64768802 - EAY64768802"
+name: "Placa da fonte TV LG OLED65W8PSA - EAY64768802 - EAY64768802 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1268.7
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.077Z"
+  updated_at: "2026-11-13T13:48:21.023Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.077Z"
+    verified_at: "2026-11-13T13:48:21.023Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.077Z"
+    verified_at: "2026-11-13T13:48:21.023Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

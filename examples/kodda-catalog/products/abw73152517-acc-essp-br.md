@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "abw73152517-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Chassis Ar condicionado LG S4NW09WA5WA, S4NQ09WA51A, S4NQ09WA51C - ABW73152517  - ABW73152517"
+name: "Chassis Ar condicionado LG S4NW09WA5WA, S4NQ09WA51A, S4NQ09WA51C - ABW73152517  - ABW73152517 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.874Z"
+  updated_at: "2026-11-13T13:48:20.832Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.874Z"
+    verified_at: "2026-11-13T13:48:20.832Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.874Z"
+    verified_at: "2026-11-13T13:48:20.832Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

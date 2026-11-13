@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebz64570307-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Iluminação Led Refrigerador LG GCB187PQAM EBZ64570307 - EBZ64570307"
+name: "Placa Iluminação Led Refrigerador LG GCB187PQAM EBZ64570307 - EBZ64570307 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 188.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.189Z"
+  updated_at: "2026-11-13T13:48:21.144Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.189Z"
+    verified_at: "2026-11-13T13:48:21.144Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.189Z"
+    verified_at: "2026-11-13T13:48:21.144Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

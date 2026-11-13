@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681a20060h-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor ventilador da condensadora Ar Condicionado LG LPUC2108S4R - 4681A20060H - 4681A20060H"
+name: "Motor ventilador da condensadora Ar Condicionado LG LPUC2108S4R - 4681A20060H - 4681A20060H | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 607.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.801Z"
+  updated_at: "2026-11-13T13:48:20.751Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.801Z"
+    verified_at: "2026-11-13T13:48:20.751Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.801Z"
+    verified_at: "2026-11-13T13:48:20.751Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

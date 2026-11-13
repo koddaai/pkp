@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aeg73309903-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Resistência de Aquecimento Lava e Seca LG WD-12276RD, WD1316ADA7, WD17VVS6A - AEG73309903 - AEG73309903"
+name: "Resistência de Aquecimento Lava e Seca LG WD-12276RD, WD1316ADA7, WD17VVS6A - AEG73309903 - AEG73309903 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 398.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.902Z"
+  updated_at: "2026-11-13T13:48:20.861Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.902Z"
+    verified_at: "2026-11-13T13:48:20.861Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.902Z"
+    verified_at: "2026-11-13T13:48:20.861Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

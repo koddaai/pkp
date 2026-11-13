@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr85607360-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Evaporadora Ar Condicionado LG EBR85607360 - EBR85607360"
+name: "Placa Principal Evaporadora Ar Condicionado LG EBR85607360 - EBR85607360 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 436.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.141Z"
+  updated_at: "2026-11-13T13:48:21.096Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.141Z"
+    verified_at: "2026-11-13T13:48:21.096Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.141Z"
+    verified_at: "2026-11-13T13:48:21.096Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

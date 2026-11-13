@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "b392pqw2-3091bc2-essp-br"
 # gtin: null
 brand: "LG"
-name: "Combo LG Geladeira Frost Free Inverter 395L Duplex Branca 127V  + Micro-ondas 30L EasyClean™ Branco 127V - B392PQW2.3091BC2"
+name: "Combo LG Geladeira Frost Free Inverter 395L Duplex Branca 127V  + Micro-ondas 30L EasyClean™ Branco 127V - B392PQW2.3091BC2 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3258.63
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.963Z"
+  updated_at: "2026-11-13T13:48:20.928Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.963Z"
+    verified_at: "2026-11-13T13:48:20.928Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.963Z"
+    verified_at: "2026-11-13T13:48:20.928Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

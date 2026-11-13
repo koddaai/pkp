@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead64947349-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conjunto de condutores (chicote) 220V Lavadora LG CV5011WG4A, CV3011WG4A, CV5010TS4 - EAD64947349 - EAD64947349"
+name: "Conjunto de condutores (chicote) 220V Lavadora LG CV5011WG4A, CV3011WG4A, CV5010TS4 - EAD64947349 - EAD64947349 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 608.89
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.013Z"
+  updated_at: "2026-11-13T13:48:20.966Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.013Z"
+    verified_at: "2026-11-13T13:48:20.966Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.013Z"
+    verified_at: "2026-11-13T13:48:20.966Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

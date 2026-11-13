@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr83592301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Sub TV LG 65UJ6585, 55LV761H-ZA - EBR83592301 - EBR83592301"
+name: "Placa Sub TV LG 65UJ6585, 55LV761H-ZA - EBR83592301 - EBR83592301 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.135Z"
+  updated_at: "2026-11-13T13:48:21.090Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.135Z"
+    verified_at: "2026-11-13T13:48:21.090Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.135Z"
+    verified_at: "2026-11-13T13:48:21.090Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3390jm2003a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bandeja de gelo Refrigerador LG GNB392PLMB 3390JM2003A - 3390JM2003A"
+name: "Bandeja de gelo Refrigerador LG GNB392PLMB 3390JM2003A - 3390JM2003A | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 25.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.784Z"
+  updated_at: "2026-11-13T13:48:20.732Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.784Z"
+    verified_at: "2026-11-13T13:48:20.732Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.784Z"
+    verified_at: "2026-11-13T13:48:20.732Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

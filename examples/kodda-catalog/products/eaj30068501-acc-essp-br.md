@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj30068501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido BA TV LG 43UR7800PSA EAJ30068501 - EAJ30068501"
+name: "Tela de cristal líquido BA TV LG 43UR7800PSA EAJ30068501 - EAJ30068501 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 664.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.022Z"
+  updated_at: "2026-11-13T13:48:20.975Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.022Z"
+    verified_at: "2026-11-13T13:48:20.975Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.022Z"
+    verified_at: "2026-11-13T13:48:20.975Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

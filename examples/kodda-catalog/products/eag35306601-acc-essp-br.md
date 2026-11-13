@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eag35306601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conector Jack 5V KJA-DC-1-0032 Monitor Desktop LG HS201, 20EN33SS-B, 22MA33D-PS - EAG35306601 - EAG35306601"
+name: "Conector Jack 5V KJA-DC-1-0032 Monitor Desktop LG HS201, 20EN33SS-B, 22MA33D-PS - EAG35306601 - EAG35306601 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 34.9
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.020Z"
+  updated_at: "2026-11-13T13:48:20.973Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.020Z"
+    verified_at: "2026-11-13T13:48:20.973Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.020Z"
+    verified_at: "2026-11-13T13:48:20.973Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

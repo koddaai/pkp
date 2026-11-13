@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "oled55c6-s40t-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG OLED evo AI 4K C6 55 polegadas 2026+Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - OLED55C6.S40T"
+name: "Smart TV LG OLED evo AI 4K C6 55 polegadas 2026+Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - OLED55C6.S40T | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7874.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.245Z"
+  updated_at: "2026-11-13T13:48:21.189Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.245Z"
+    verified_at: "2026-11-13T13:48:21.189Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.245Z"
+    verified_at: "2026-11-13T13:48:21.189Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

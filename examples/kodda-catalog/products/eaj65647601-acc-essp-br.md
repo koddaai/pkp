@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65647601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (Módulo) Monitor LG 22MP55PJ-B, 22BN550Y-B, 22SM3G-B - EAJ65647601 - EAJ65647601"
+name: "Tela de cristal líquido (Módulo) Monitor LG 22MP55PJ-B, 22BN550Y-B, 22SM3G-B - EAJ65647601 - EAJ65647601 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.028Z"
+  updated_at: "2026-11-13T13:48:20.982Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.028Z"
+    verified_at: "2026-11-13T13:48:20.982Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.028Z"
+    verified_at: "2026-11-13T13:48:20.982Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

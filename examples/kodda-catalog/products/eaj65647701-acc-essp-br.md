@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65647701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (módulo) Monitor LG 24BL550J-B, 24BP750C-B, 24MK430H-B - EAJ65647701 - EAJ65647701"
+name: "Tela de cristal líquido (módulo) Monitor LG 24BL550J-B, 24BP750C-B, 24MK430H-B - EAJ65647701 - EAJ65647701 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 664.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.029Z"
+  updated_at: "2026-11-13T13:48:20.982Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.029Z"
+    verified_at: "2026-11-13T13:48:20.982Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.029Z"
+    verified_at: "2026-11-13T13:48:20.982Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

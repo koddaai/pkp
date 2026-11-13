@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau61723704-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor do Duto de Secagem Lavadora LG WD17VTS6 EAU61723704 - EAU61723704"
+name: "Motor do Duto de Secagem Lavadora LG WD17VTS6 EAU61723704 - EAU61723704 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 521.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.065Z"
+  updated_at: "2026-11-13T13:48:21.010Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.065Z"
+    verified_at: "2026-11-13T13:48:21.010Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.065Z"
+    verified_at: "2026-11-13T13:48:21.010Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

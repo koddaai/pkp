@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "34wp550-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraWide 34'' IPS Full HD 2560x1080 75Hz 5ms (GtG) HDR10 HDMI AMD FreeSync Dynamic Action Sync 34WP550-B - 34WP550-B"
+name: "Monitor LG UltraWide 34'' IPS Full HD 2560x1080 75Hz 5ms (GtG) HDR10 HDMI AMD FreeSync Dynamic Action Sync 34WP550-B - 34WP550-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1499
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.786Z"
+  updated_at: "2026-11-13T13:48:20.734Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.786Z"
+    verified_at: "2026-11-13T13:48:20.734Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.786Z"
+    verified_at: "2026-11-13T13:48:20.734Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "75nu855bpsa-bwz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG NANO UHD AI 4K NU855 75 polegadas 2026 - 75NU855BPSA"
+name: "Smart TV LG NANO UHD AI 4K NU855 75 polegadas 2026 - 75NU855BPSA | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4949.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.850Z"
+  updated_at: "2026-11-13T13:48:20.811Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.850Z"
+    verified_at: "2026-11-13T13:48:20.811Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.850Z"
+    verified_at: "2026-11-13T13:48:20.811Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

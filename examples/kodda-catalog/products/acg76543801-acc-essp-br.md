@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acg76543801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina da unidade condensadora Ar Condicionado LG S4UQ24K231D, S4UQ24K231E - ACG76543801 - ACG76543801"
+name: "Serpentina da unidade condensadora Ar Condicionado LG S4UQ24K231D, S4UQ24K231E - ACG76543801 - ACG76543801 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1547.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.878Z"
+  updated_at: "2026-11-13T13:48:20.836Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.878Z"
+    verified_at: "2026-11-13T13:48:20.836Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.878Z"
+    verified_at: "2026-11-13T13:48:20.836Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

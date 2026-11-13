@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "32g403b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraGear™ 32G403B - 144Hz Nativo, Tela 32” VA, 1ms (MBR), AMD FreeSync™, HDR10, sRGB 99%, HDMI, DisplayPort, Saída de fone de ouvido, Alto-Falante integrado - 32G403B-B"
+name: "Monitor LG UltraGear™ 32G403B - 144Hz Nativo, Tela 32” VA, 1ms (MBR), AMD FreeSync™, HDR10, sRGB 99%, HDMI, DisplayPort, Saída de fone de ouvido, Alto-Falante integrado - 32G403B-B | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "hdr", "ultra", "gaming"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1048.99
+  value: 1149.02
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.781Z"
+  updated_at: "2026-11-13T13:48:20.729Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.781Z"
+    verified_at: "2026-11-13T13:48:20.729Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.781Z"
+    verified_at: "2026-11-13T13:48:20.729Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

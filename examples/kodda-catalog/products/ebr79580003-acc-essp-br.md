@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr79580003-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa de Funções Ar Condicionado LG TSNC122H4W0 EBR79580003 - EBR79580003"
+name: "Placa de Funções Ar Condicionado LG TSNC122H4W0 EBR79580003 - EBR79580003 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.125Z"
+  updated_at: "2026-11-13T13:48:21.078Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.125Z"
+    verified_at: "2026-11-13T13:48:21.078Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.125Z"
+    verified_at: "2026-11-13T13:48:21.078Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

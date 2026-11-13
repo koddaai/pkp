@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5220fr2009h-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Válvula de 3 vias Lavadora LG WD-12596RW, WD-1403RD, WD-1403RD5 - 5220FR2009H - 5220FR2009H"
+name: "Válvula de 3 vias Lavadora LG WD-12596RW, WD-1403RD, WD-1403RD5 - 5220FR2009H - 5220FR2009H | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.823Z"
+  updated_at: "2026-11-13T13:48:20.768Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.823Z"
+    verified_at: "2026-11-13T13:48:20.768Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.823Z"
+    verified_at: "2026-11-13T13:48:20.768Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

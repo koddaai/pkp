@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "pu615u-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Projetor LG CineBeam S PU615U: Triple Laser 4K UHD, Tela Gigante 100”, ultra curta distância, Smart WebOS, DCI-P3 154%, Dolby Atmos, Leve e Ultraportátil, Screen Share & Bluetooth, USB-C - PU615U"
+name: "Projetor LG CineBeam S PU615U: Triple Laser 4K UHD, Tela Gigante 100”, ultra curta distância, Smart WebOS, DCI-P3 154%, Dolby Atmos, Leve e Ultraportátil, Screen Share & Bluetooth, USB-C - PU615U | LG BR"
 category: "monitors"
 subcategory: "projetor"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6999
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.247Z"
+  updated_at: "2026-11-13T13:48:21.192Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.247Z"
+    verified_at: "2026-11-13T13:48:21.192Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.247Z"
+    verified_at: "2026-11-13T13:48:21.192Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

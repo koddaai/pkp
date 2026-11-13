@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mjs47373302-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Prato Giratório Forno Micro Ondas LG MH8297CIRA MJS47373302 - MJS47373302"
+name: "Prato Giratório Forno Micro Ondas LG MH8297CIRA MJS47373302 - MJS47373302 | LG BR"
 category: "eletrodomesticos"
 subcategory: "forno"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.240Z"
+  updated_at: "2026-11-13T13:48:21.184Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.240Z"
+    verified_at: "2026-11-13T13:48:21.184Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.240Z"
+    verified_at: "2026-11-13T13:48:21.184Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

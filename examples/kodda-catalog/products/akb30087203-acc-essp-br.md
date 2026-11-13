@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb30087203-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto TV LG 43NU850BPSA AKB30087203 - AKB30087203"
+name: "Controle Remoto TV LG 43NU850BPSA AKB30087203 - AKB30087203 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.99
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.948Z"
+  updated_at: "2026-11-13T13:48:20.912Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.948Z"
+    verified_at: "2026-11-13T13:48:20.912Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.948Z"
+    verified_at: "2026-11-13T13:48:20.912Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

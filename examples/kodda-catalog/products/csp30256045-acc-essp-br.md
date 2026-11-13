@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "csp30256045-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Ar Condicionado LG CSP30256045 - CSP30256045"
+name: "Placa Principal Ar Condicionado LG CSP30256045 - CSP30256045 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 208.85
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.986Z"
+  updated_at: "2026-11-13T13:48:20.938Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.986Z"
+    verified_at: "2026-11-13T13:48:20.938Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.986Z"
+    verified_at: "2026-11-13T13:48:20.938Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

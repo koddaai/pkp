@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead65286204-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo de força Lava e Seca LG CV9011EC4, F4V3RGP0WB, F4V3RGPMW - EAD65286204 - EAD65286204"
+name: "Cabo de força Lava e Seca LG CV9011EC4, F4V3RGP0WB, F4V3RGPMW - EAD65286204 - EAD65286204 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 78.48
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.013Z"
+  updated_at: "2026-11-13T13:48:20.966Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.013Z"
+    verified_at: "2026-11-13T13:48:20.966Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.013Z"
+    verified_at: "2026-11-13T13:48:20.966Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

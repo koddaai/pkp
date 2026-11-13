@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gn-b372pfm2-apygsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Duplex LG 375L Inox Look com Compressor Smart Inverter - GN-B372PFM2"
+name: "Geladeira Duplex LG 375L Inox Look com Compressor Smart Inverter - GN-B372PFM2 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3134.05
+  value: 3324.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.196Z"
+  updated_at: "2026-11-13T13:48:21.150Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.196Z"
+    verified_at: "2026-11-13T13:48:21.150Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.196Z"
+    verified_at: "2026-11-13T13:48:21.150Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

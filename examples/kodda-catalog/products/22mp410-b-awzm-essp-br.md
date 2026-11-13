@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "22mp410-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor Gamer LG 21,5'' VA Full HD 1920x1080 75Hz 5ms (GtG) HDMI AMD FreeSync 22MP410-B - 22MP410-B"
+name: "Monitor Gamer LG 21,5'' VA Full HD 1920x1080 75Hz 5ms (GtG) HDMI AMD FreeSync 22MP410-B - 22MP410-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 428.99
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.772Z"
+  updated_at: "2026-11-13T13:48:20.718Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.772Z"
+    verified_at: "2026-11-13T13:48:20.718Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.772Z"
+    verified_at: "2026-11-13T13:48:20.718Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

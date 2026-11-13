@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau38500603-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cooler unidade condensadora Ar Condicionado LG ARUN60GS2, ARUV160LT2E, ARUV40GS2 - EAU38500603 - EAU38500603"
+name: "Cooler unidade condensadora Ar Condicionado LG ARUN60GS2, ARUV160LT2E, ARUV40GS2 - EAU38500603 - EAU38500603 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 816.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.061Z"
+  updated_at: "2026-11-13T13:48:21.006Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.061Z"
+    verified_at: "2026-11-13T13:48:21.006Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.061Z"
+    verified_at: "2026-11-13T13:48:21.006Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

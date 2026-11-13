@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "coa01243135-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fone de Ouvido Lado Esquerdo LG HBSFN6 COA01243135 - COA01243135"
+name: "Fone de Ouvido Lado Esquerdo LG HBSFN6 COA01243135 - COA01243135 | LG BR"
 category: "audio"
 subcategory: "headphones"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 569.24
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.966Z"
+  updated_at: "2026-11-13T13:48:20.931Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.966Z"
+    verified_at: "2026-11-13T13:48:20.931Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.966Z"
+    verified_at: "2026-11-13T13:48:20.931Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay64948601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da fonte TV LG 50UK6510PSF, 50UK6520PSA - EAY64948601 - EAY64948601"
+name: "Placa da fonte TV LG 50UK6510PSF, 50UK6520PSA - EAY64948601 - EAY64948601 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.078Z"
+  updated_at: "2026-11-13T13:48:21.023Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.078Z"
+    verified_at: "2026-11-13T13:48:21.023Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.078Z"
+    verified_at: "2026-11-13T13:48:21.023Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

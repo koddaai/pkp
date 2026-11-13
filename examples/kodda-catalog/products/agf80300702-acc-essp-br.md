@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf80300702-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de água LT700P Refrigerador LG AGF80300702 - AGF80300702"
+name: "Filtro de água LT700P Refrigerador LG AGF80300702 - AGF80300702 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 206.65
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.924Z"
+  updated_at: "2026-11-13T13:48:20.884Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.924Z"
+    verified_at: "2026-11-13T13:48:20.884Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.924Z"
+    verified_at: "2026-11-13T13:48:20.884Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

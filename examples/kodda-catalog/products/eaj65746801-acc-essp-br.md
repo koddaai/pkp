@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65746801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de Cristal Líquido Módulo LG 32GN600B EAJ65746801 - EAJ65746801"
+name: "Tela de Cristal Líquido Módulo LG 32GN600B EAJ65746801 - EAJ65746801 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 987.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.035Z"
+  updated_at: "2026-11-13T13:48:20.989Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.035Z"
+    verified_at: "2026-11-13T13:48:20.989Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.035Z"
+    verified_at: "2026-11-13T13:48:20.989Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

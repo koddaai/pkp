@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm30160703-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Reservatório de Latas Refrigerador LG GCX247CSAV AGM30160703 - AGM30160703"
+name: "Reservatório de Latas Refrigerador LG GCX247CSAV AGM30160703 - AGM30160703 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 336.76
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.928Z"
+  updated_at: "2026-11-13T13:48:20.887Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.928Z"
+    verified_at: "2026-11-13T13:48:20.887Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.928Z"
+    verified_at: "2026-11-13T13:48:20.887Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

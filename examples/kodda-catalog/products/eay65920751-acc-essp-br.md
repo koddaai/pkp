@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65920751-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da Fonte Televisão LG 50UA8550PSA EAY65920751 - EAY65920751"
+name: "Placa da Fonte Televisão LG 50UA8550PSA EAY65920751 - EAY65920751 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 322.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.086Z"
+  updated_at: "2026-11-13T13:48:21.035Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.086Z"
+    verified_at: "2026-11-13T13:48:21.035Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.086Z"
+    verified_at: "2026-11-13T13:48:21.035Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

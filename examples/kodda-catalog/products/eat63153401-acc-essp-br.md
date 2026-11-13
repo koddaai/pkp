@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eat63153401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Wi Fi TV LG 65UH6500, 49UH6500, 55UH7700 - EAT63153401 - EAT63153401"
+name: "Placa Wi Fi TV LG 65UH6500, 49UH6500, 55UH7700 - EAT63153401 - EAT63153401 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.058Z"
+  updated_at: "2026-11-13T13:48:21.003Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.058Z"
+    verified_at: "2026-11-13T13:48:21.003Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.058Z"
+    verified_at: "2026-11-13T13:48:21.003Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

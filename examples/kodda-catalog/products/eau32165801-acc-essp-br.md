@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau32165801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor ventilador da evaporadora Ar Condicionado LG ARNU28GTPC2, ATNH12GRLE2, ATNH24GPLE2 - EAU32165801 - EAU32165801"
+name: "Motor ventilador da evaporadora Ar Condicionado LG ARNU28GTPC2, ATNH12GRLE2, ATNH24GPLE2 - EAU32165801 - EAU32165801 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 282.48
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.060Z"
+  updated_at: "2026-11-13T13:48:21.005Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.060Z"
+    verified_at: "2026-11-13T13:48:21.005Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.060Z"
+    verified_at: "2026-11-13T13:48:21.005Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

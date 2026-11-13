@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4h01010a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conexão do dreno Ar Condicionado LG 4H01010A - 4H01010A"
+name: "Conexão do dreno Ar Condicionado LG 4H01010A - 4H01010A | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.809Z"
+  updated_at: "2026-11-13T13:48:20.760Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.809Z"
+    verified_at: "2026-11-13T13:48:20.760Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.809Z"
+    verified_at: "2026-11-13T13:48:20.760Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

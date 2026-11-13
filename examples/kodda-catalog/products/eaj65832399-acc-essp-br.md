@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65832399-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido Módulo TV LG OLED55C3PSA EAJ65832399 - EAJ65832399"
+name: "Tela de cristal líquido Módulo TV LG OLED55C3PSA EAJ65832399 - EAJ65832399 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4032.65
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.049Z"
+  updated_at: "2026-11-13T13:48:20.996Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.049Z"
+    verified_at: "2026-11-13T13:48:20.996Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.049Z"
+    verified_at: "2026-11-13T13:48:20.996Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

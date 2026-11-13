@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay64569201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte de alimentação externa para TV (19 V, 2,53 A, cabo de alimentação não incluído, preto) - EAY64569201"
+name: "Fonte de alimentação externa para TV (19 V, 2,53 A, cabo de alimentação não incluído, preto) - EAY64569201 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 113.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.077Z"
+  updated_at: "2026-11-13T13:48:21.023Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.077Z"
+    verified_at: "2026-11-13T13:48:21.023Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.077Z"
+    verified_at: "2026-11-13T13:48:21.023Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

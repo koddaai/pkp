@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj63909101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (Módulo) Monitor LG 24MK430H-B, 24V50N-C, 24V570-C - EAJ63909101 - EAJ63909101"
+name: "Tela de cristal líquido (Módulo) Monitor LG 24MK430H-B, 24V50N-C, 24V570-C - EAJ63909101 - EAJ63909101 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 673.56
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.024Z"
+  updated_at: "2026-11-13T13:48:20.977Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.024Z"
+    verified_at: "2026-11-13T13:48:20.977Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.024Z"
+    verified_at: "2026-11-13T13:48:20.977Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

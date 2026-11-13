@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajj75138530-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Forno Microondas LG MS4297DIR AJJ75138530 - AJJ75138530"
+name: "Placa Forno Microondas LG MS4297DIR AJJ75138530 - AJJ75138530 | LG BR"
 category: "eletrodomesticos"
 subcategory: "forno"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 531.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.940Z"
+  updated_at: "2026-11-13T13:48:20.901Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.940Z"
+    verified_at: "2026-11-13T13:48:20.901Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.940Z"
+    verified_at: "2026-11-13T13:48:20.901Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

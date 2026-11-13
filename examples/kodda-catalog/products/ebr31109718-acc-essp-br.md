@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr31109718-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Inverter Ar Condicionado LG EBR31109718 - EBR31109718"
+name: "Placa Inverter Ar Condicionado LG EBR31109718 - EBR31109718 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5604.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.100Z"
+  updated_at: "2026-11-13T13:48:21.050Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.100Z"
+    verified_at: "2026-11-13T13:48:21.050Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.100Z"
+    verified_at: "2026-11-13T13:48:21.050Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

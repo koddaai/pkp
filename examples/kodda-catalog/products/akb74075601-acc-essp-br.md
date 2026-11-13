@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb74075601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle remoto para ar-condicionado cassete (suporte incluso) - AKB74075601"
+name: "Controle remoto para ar-condicionado cassete (suporte incluso) - AKB74075601 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 109.13
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.950Z"
+  updated_at: "2026-11-13T13:48:20.915Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.950Z"
+    verified_at: "2026-11-13T13:48:20.915Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.950Z"
+    verified_at: "2026-11-13T13:48:20.915Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

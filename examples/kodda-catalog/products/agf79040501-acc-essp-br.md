@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf79040501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 49UF6800 - AGF79040501 - AGF79040501"
+name: "Kit régua de LED TV LG 49UF6800 - AGF79040501 - AGF79040501 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 246.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.921Z"
+  updated_at: "2026-11-13T13:48:20.880Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.921Z"
+    verified_at: "2026-11-13T13:48:20.880Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.921Z"
+    verified_at: "2026-11-13T13:48:20.880Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

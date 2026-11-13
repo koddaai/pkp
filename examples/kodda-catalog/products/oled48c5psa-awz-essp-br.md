@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "oled48c5psa-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG OLED evo AI C5 4K de 48 polegadas 2025 - OLED48C5PSA"
+name: "Smart TV LG OLED evo AI C5 4K de 48 polegadas 2025 - OLED48C5PSA | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5233.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.244Z"
+  updated_at: "2026-11-13T13:48:21.188Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.244Z"
+    verified_at: "2026-11-13T13:48:21.188Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.244Z"
+    verified_at: "2026-11-13T13:48:21.188Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu64034506-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 49LJ5500 EBU64034506 - EBU64034506"
+name: "Placa Principal TV LG 49LJ5500 EBU64034506 - EBU64034506 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 366.83
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.164Z"
+  updated_at: "2026-11-13T13:48:21.119Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.164Z"
+    verified_at: "2026-11-13T13:48:21.119Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.164Z"
+    verified_at: "2026-11-13T13:48:21.119Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

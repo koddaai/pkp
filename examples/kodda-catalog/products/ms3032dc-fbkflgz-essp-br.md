@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ms3032dc-fbkflgz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Micro-ondas NeoChef LG 30L Preto Limpa Fácil - 127V - MS3032DC"
+name: "Micro-ondas NeoChef LG 30L Preto Limpa Fácil - 127V - MS3032DC | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 901.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.242Z"
+  updated_at: "2026-11-13T13:48:21.186Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.242Z"
+    verified_at: "2026-11-13T13:48:21.186Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.242Z"
+    verified_at: "2026-11-13T13:48:21.186Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

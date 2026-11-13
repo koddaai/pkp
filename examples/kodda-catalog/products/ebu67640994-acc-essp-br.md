@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu67640994-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 65NANO80TSA EBU67640994 - EBU67640994"
+name: "Placa Principal TV LG 65NANO80TSA EBU67640994 - EBU67640994 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1265.53
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.186Z"
+  updated_at: "2026-11-13T13:48:21.141Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.186Z"
+    verified_at: "2026-11-13T13:48:21.141Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.186Z"
+    verified_at: "2026-11-13T13:48:21.141Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

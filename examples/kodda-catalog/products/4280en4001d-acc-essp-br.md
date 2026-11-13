@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4280en4001d-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Rolamento Lavadora LG WD-1485TDA, CV3011WG4A, CV5010TS4 - 4280EN4001D - 4280EN4001D"
+name: "Rolamento Lavadora LG WD-1485TDA, CV3011WG4A, CV5010TS4 - 4280EN4001D - 4280EN4001D | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 113.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.794Z"
+  updated_at: "2026-11-13T13:48:20.743Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.794Z"
+    verified_at: "2026-11-13T13:48:20.743Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.794Z"
+    verified_at: "2026-11-13T13:48:20.743Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

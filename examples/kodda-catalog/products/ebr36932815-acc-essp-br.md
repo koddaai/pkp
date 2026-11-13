@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr36932815-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Ar Condicionado LG ARUV100LT3, ARUN200LN3, ARUN80LN3 - EBR36932815 - EBR36932815"
+name: "Placa Ar Condicionado LG ARUV100LT3, ARUN200LN3, ARUN80LN3 - EBR36932815 - EBR36932815 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 11969.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.106Z"
+  updated_at: "2026-11-13T13:48:21.057Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.106Z"
+    verified_at: "2026-11-13T13:48:21.057Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.106Z"
+    verified_at: "2026-11-13T13:48:21.057Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

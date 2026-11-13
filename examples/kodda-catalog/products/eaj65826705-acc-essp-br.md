@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65826705-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido BA TV LG 55QNED7SSQA EAJ30068801 - EAJ65826705"
+name: "Tela de cristal líquido BA TV LG 55QNED7SSQA EAJ30068801 - EAJ65826705 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1538.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.048Z"
+  updated_at: "2026-11-13T13:48:20.995Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.048Z"
+    verified_at: "2026-11-13T13:48:20.995Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.048Z"
+    verified_at: "2026-11-13T13:48:20.995Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

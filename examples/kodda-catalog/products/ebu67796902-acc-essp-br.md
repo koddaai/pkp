@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu67796902-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 75QNED90TSA EBU67796902 - EBU67796902"
+name: "Placa Principal TV LG 75QNED90TSA EBU67796902 - EBU67796902 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 848.86
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.187Z"
+  updated_at: "2026-11-13T13:48:21.142Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.187Z"
+    verified_at: "2026-11-13T13:48:21.142Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.187Z"
+    verified_at: "2026-11-13T13:48:21.142Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

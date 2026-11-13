@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acw74677035-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tampa evaporadora Ar Condicionado LG AMNW18GSKR0, ARNU18GSKR4, ARNU24GSKR4 - ACW74677035 - ACW74677035"
+name: "Tampa evaporadora Ar Condicionado LG AMNW18GSKR0, ARNU18GSKR4, ARNU24GSKR4 - ACW74677035 - ACW74677035 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 217.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.883Z"
+  updated_at: "2026-11-13T13:48:20.841Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.883Z"
+    verified_at: "2026-11-13T13:48:20.841Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.883Z"
+    verified_at: "2026-11-13T13:48:20.841Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

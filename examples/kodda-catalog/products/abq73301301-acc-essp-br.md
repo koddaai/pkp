@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "abq73301301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Modulo eletrônico com display, cabos elétricos com conectores e gabinete plástico Ar Condicionado LG ASNQ092WSA0 - ABQ73301301 - ABQ73301301"
+name: "Modulo eletrônico com display, cabos elétricos com conectores e gabinete plástico Ar Condicionado LG ASNQ092WSA0 - ABQ73301301 - ABQ73301301 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.872Z"
+  updated_at: "2026-11-13T13:48:20.830Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.872Z"
+    verified_at: "2026-11-13T13:48:20.830Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.872Z"
+    verified_at: "2026-11-13T13:48:20.830Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

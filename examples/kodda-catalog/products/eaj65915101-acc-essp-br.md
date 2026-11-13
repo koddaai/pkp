@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65915101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido Módulo Monitor LG 24MS500B EAJ65915101 - EAJ65915101"
+name: "Tela de cristal líquido Módulo Monitor LG 24MS500B EAJ65915101 - EAJ65915101 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 436.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.052Z"
+  updated_at: "2026-11-13T13:48:20.998Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.052Z"
+    verified_at: "2026-11-13T13:48:20.998Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.052Z"
+    verified_at: "2026-11-13T13:48:20.998Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

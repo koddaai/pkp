@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mch63104901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bobina de ignição para motor GHP (GAS HEAT PUMP) Ar Condicionado LG GPUW161B2CM, GPUW200C2RM, GPUW320C2R - MCH63104901 - MCH63104901"
+name: "Bobina de ignição para motor GHP (GAS HEAT PUMP) Ar Condicionado LG GPUW161B2CM, GPUW200C2RM, GPUW320C2R - MCH63104901 - MCH63104901 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 266.08
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.217Z"
+  updated_at: "2026-11-13T13:48:21.163Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.217Z"
+    verified_at: "2026-11-13T13:48:21.163Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.217Z"
+    verified_at: "2026-11-13T13:48:21.163Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

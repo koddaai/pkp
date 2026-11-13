@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "cls32007201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sensor de temperatura e pressão da bomba Ar Condicionado GHP LG CLS32007201 - CLS32007201"
+name: "Sensor de temperatura e pressão da bomba Ar Condicionado GHP LG CLS32007201 - CLS32007201 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 683.24
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.965Z"
+  updated_at: "2026-11-13T13:48:20.930Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.965Z"
+    verified_at: "2026-11-13T13:48:20.930Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.965Z"
+    verified_at: "2026-11-13T13:48:20.930Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

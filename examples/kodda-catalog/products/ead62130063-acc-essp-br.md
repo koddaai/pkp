@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead62130063-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Condutor Elétrico Caixa Acústica Xbomm LG RNC9 EAD62130063 - EAD62130063"
+name: "Condutor Elétrico Caixa Acústica Xbomm LG RNC9 EAD62130063 - EAD62130063 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 33.84
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.004Z"
+  updated_at: "2026-11-13T13:48:20.957Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.004Z"
+    verified_at: "2026-11-13T13:48:20.957Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.004Z"
+    verified_at: "2026-11-13T13:48:20.957Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

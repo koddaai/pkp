@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4011en3006v-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Parafuso de segurança Lavadora LG F14U2TDN0, CV5013WC4A, CV9013EC4 - 4011EN3006V - 4011EN3006V"
+name: "Parafuso de segurança Lavadora LG F14U2TDN0, CV5013WC4A, CV9013EC4 - 4011EN3006V - 4011EN3006V | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.791Z"
+  updated_at: "2026-11-13T13:48:20.740Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.791Z"
+    verified_at: "2026-11-13T13:48:20.740Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.791Z"
+    verified_at: "2026-11-13T13:48:20.740Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

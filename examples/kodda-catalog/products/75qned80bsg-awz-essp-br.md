@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "75qned80bsg-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG QNED evo Mini LED AI 4K QNED80 75 polegadas 2026 - 75QNED80BSG"
+name: "Smart TV LG QNED evo Mini LED AI 4K QNED80 75 polegadas 2026 - 75QNED80BSG | LG BR"
 category: "tvs"
 
 
@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/75qned80bsg/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 75QNED80BSG. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED evo Mini LED AI 4K QNED80 75 polegadas 2026."
+summary: "Descubra a próxima geração de Smart TVs com IA da LG, 75QNED80BSG.AWZ, para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV 4K LG QNED evo AI QNED80 Mini LED de 75 polegadas."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 4859.1
+  value: 5129.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.851Z"
+  updated_at: "2026-11-13T13:48:20.811Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.851Z"
+    verified_at: "2026-11-13T13:48:20.811Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.851Z"
+    verified_at: "2026-11-13T13:48:20.811Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 75QNED80BSG. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED evo Mini LED AI 4K QNED80 75 polegadas 2026.
+Descubra a próxima geração de Smart TVs com IA da LG, 75QNED80BSG.AWZ, para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV 4K LG QNED evo AI QNED80 Mini LED de 75 polegadas.

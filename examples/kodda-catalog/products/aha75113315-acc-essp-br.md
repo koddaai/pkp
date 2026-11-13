@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aha75113315-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bomba de dreno Ar Condicionado LG AMNW12GTUC0, AMNH09GTUC0, AMNH12GTUC0 - AHA75113315"
+name: "Bomba de dreno Ar Condicionado LG AMNW12GTUC0, AMNH09GTUC0, AMNH12GTUC0 - AHA75113315 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 407.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.937Z"
+  updated_at: "2026-11-13T13:48:20.897Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.937Z"
+    verified_at: "2026-11-13T13:48:20.897Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.937Z"
+    verified_at: "2026-11-13T13:48:20.897Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

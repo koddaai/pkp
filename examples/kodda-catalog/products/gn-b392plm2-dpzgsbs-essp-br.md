@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gn-b392plm2-dpzgsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira LG Frost Free Inverter 395L Duplex Cor Inox Look (GN-B392PLM) - 220V - GN-B392PLM2"
+name: "Geladeira LG Frost Free Inverter 395L Duplex Cor Inox Look (GN-B392PLM) - 220V - GN-B392PLM2 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3134.05
+  value: 3229.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.196Z"
+  updated_at: "2026-11-13T13:48:21.153Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.196Z"
+    verified_at: "2026-11-13T13:48:21.153Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.196Z"
+    verified_at: "2026-11-13T13:48:21.153Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

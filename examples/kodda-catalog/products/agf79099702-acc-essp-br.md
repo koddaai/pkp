@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf79099702-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 43UF6400, 43UH6000, 43UH6100 - AGF79099702 - AGF79099702"
+name: "Kit régua de LED TV LG 43UF6400, 43UH6000, 43UH6100 - AGF79099702 - AGF79099702 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 217.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.923Z"
+  updated_at: "2026-11-13T13:48:20.882Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.923Z"
+    verified_at: "2026-11-13T13:48:20.882Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.923Z"
+    verified_at: "2026-11-13T13:48:20.882Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5901a10026g-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hélice evaporadora Ar Condicionado LG ARNU24GBHA2, ARNU15GBHA4, ARNU18GBHA2 - 5901A10026G - 5901A10026G"
+name: "Hélice evaporadora Ar Condicionado LG ARNU24GBHA2, ARNU15GBHA4, ARNU18GBHA2 - 5901A10026G - 5901A10026G | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -27,9 +27,9 @@ tags: ["lg", "5g"]
 price:
   type: "street"
   currency: "BRL"
-  value: 312.55
+  value: 300.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.833Z"
+  updated_at: "2026-11-13T13:48:20.793Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.833Z"
+    verified_at: "2026-11-13T13:48:20.793Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.833Z"
+    verified_at: "2026-11-13T13:48:20.793Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

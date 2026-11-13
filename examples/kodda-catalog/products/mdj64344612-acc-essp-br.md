@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mdj64344612-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de Entrada Ar Condicionado LG S4NQ18KL3WB MDJ64344612 - MDJ64344612"
+name: "Filtro de Entrada Ar Condicionado LG S4NQ18KL3WB MDJ64344612 - MDJ64344612 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 72.48
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.221Z"
+  updated_at: "2026-11-13T13:48:21.167Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.221Z"
+    verified_at: "2026-11-13T13:48:21.167Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.221Z"
+    verified_at: "2026-11-13T13:48:21.167Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "55vm5j-h-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Video Wall FHD 55'' 500 nits com borda fina - 55VM5J-H"
+name: "Video Wall FHD 55'' 500 nits com borda fina - 55VM5J-H | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7599.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.830Z"
+  updated_at: "2026-11-13T13:48:20.774Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.830Z"
+    verified_at: "2026-11-13T13:48:20.774Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.830Z"
+    verified_at: "2026-11-13T13:48:20.774Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

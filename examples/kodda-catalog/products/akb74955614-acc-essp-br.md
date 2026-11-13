@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb74955614-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto Ar Condicionado LG S4NQ30R43FA AKB74955614 - AKB74955614."
+name: "Controle Remoto Ar Condicionado LG S4NQ30R43FA AKB74955614 - AKB74955614. | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.953Z"
+  updated_at: "2026-11-13T13:48:20.917Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.953Z"
+    verified_at: "2026-11-13T13:48:20.917Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.953Z"
+    verified_at: "2026-11-13T13:48:20.917Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

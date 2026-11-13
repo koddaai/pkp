@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead63969904-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo (condutor elétrico 60V) TV LG 43UJ6525, 43UJ6565, 49UK7500PSA - EAD63969904 - EAD63969904"
+name: "Cabo (condutor elétrico 60V) TV LG 43UJ6525, 43UJ6565, 49UK7500PSA - EAD63969904 - EAD63969904 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.008Z"
+  updated_at: "2026-11-13T13:48:20.961Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.008Z"
+    verified_at: "2026-11-13T13:48:20.961Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.008Z"
+    verified_at: "2026-11-13T13:48:20.961Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

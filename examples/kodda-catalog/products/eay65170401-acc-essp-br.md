@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65170401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da Fonte TV LG OLED55C9PSA EAY65170401 - EAY65170401"
+name: "Placa da Fonte TV LG OLED55C9PSA EAY65170401 - EAY65170401 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 630.01
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.079Z"
+  updated_at: "2026-11-13T13:48:21.024Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.079Z"
+    verified_at: "2026-11-13T13:48:21.024Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.079Z"
+    verified_at: "2026-11-13T13:48:21.024Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

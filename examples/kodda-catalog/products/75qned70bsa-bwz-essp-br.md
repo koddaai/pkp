@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "75qned70bsa-bwz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG QNED Mini LED AI 4K QNED70 75 polegadas 2026 - 75QNED70BSA"
+name: "Smart TV LG QNED Mini LED AI 4K QNED70 75 polegadas 2026 - 75QNED70BSA | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5604.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.850Z"
+  updated_at: "2026-11-13T13:48:20.811Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.850Z"
+    verified_at: "2026-11-13T13:48:20.811Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.850Z"
+    verified_at: "2026-11-13T13:48:20.811Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

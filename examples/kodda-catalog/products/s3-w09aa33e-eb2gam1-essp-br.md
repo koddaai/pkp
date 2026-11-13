@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-w09aa33e-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-W09AA33E - S3-W09AA33E"
+name: "Ar-Condicionado Split LG Dual Inverter 9.000 BTUs S3-W09AA33E - S3-W09AA33E | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2198.7
+  value: 2223.13
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.255Z"
+  updated_at: "2026-11-13T13:48:21.200Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.255Z"
+    verified_at: "2026-11-13T13:48:21.200Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.255Z"
+    verified_at: "2026-11-13T13:48:21.200Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

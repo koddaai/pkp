@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "55tr3dk-b-muwq-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lousa Digital LG CreateBoard UHD 4K - 55TR3DK-BM"
+name: "Lousa Digital LG CreateBoard UHD 4K - 55TR3DK-BM | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 11399.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.829Z"
+  updated_at: "2026-11-13T13:48:20.773Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.829Z"
+    verified_at: "2026-11-13T13:48:20.773Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.829Z"
+    verified_at: "2026-11-13T13:48:20.773Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

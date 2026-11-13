@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "oled65c6-s70ty-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG OLED evo AI 4K C6 65 polegadas 2026+Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS - OLED65C6.S70TY"
+name: "Smart TV LG OLED evo AI 4K C6 65 polegadas 2026+Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS - OLED65C6.S70TY | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 9830.79
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.246Z"
+  updated_at: "2026-11-13T13:48:21.190Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.246Z"
+    verified_at: "2026-11-13T13:48:21.190Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.246Z"
+    verified_at: "2026-11-13T13:48:21.190Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

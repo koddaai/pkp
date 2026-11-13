@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aem73493416-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mangueira do dreno da evaporadora Ar Condicionado LG S4NW24KE311, AMNW07GSJA0, AMNW09GSJA0 - AEM73493416 - AEM73493416"
+name: "Mangueira do dreno da evaporadora Ar Condicionado LG S4NW24KE311, AMNW07GSJA0, AMNW09GSJA0 - AEM73493416 - AEM73493416 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 52.38
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.903Z"
+  updated_at: "2026-11-13T13:48:20.862Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.903Z"
+    verified_at: "2026-11-13T13:48:20.862Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.903Z"
+    verified_at: "2026-11-13T13:48:20.862Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

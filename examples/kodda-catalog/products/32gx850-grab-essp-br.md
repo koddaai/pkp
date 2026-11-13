@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "32gx850-grab-essp-br"
 # gtin: null
 brand: "LG"
-name: "Combo Monitor LG UltraGear™ OLED 32GX850A GX8 4K UHD de 32” + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA - 32GX850.GRAB"
+name: "Combo Monitor LG UltraGear™ OLED 32GX850A GX8 4K UHD de 32” + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA - 32GX850.GRAB | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6079.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.782Z"
+  updated_at: "2026-11-13T13:48:20.729Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.782Z"
+    verified_at: "2026-11-13T13:48:20.729Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.782Z"
+    verified_at: "2026-11-13T13:48:20.729Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

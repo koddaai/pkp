@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4738er1006a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mangueira de conexão tanque bomba Lavadora LG WD-12320RD, WD-1250ARD, WD-1250ERD - 4738ER1006A - 4738ER1006A"
+name: "Mangueira de conexão tanque bomba Lavadora LG WD-12320RD, WD-1250ARD, WD-1250ERD - 4738ER1006A - 4738ER1006A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 112.6
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.805Z"
+  updated_at: "2026-11-13T13:48:20.755Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.805Z"
+    verified_at: "2026-11-13T13:48:20.755Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.805Z"
+    verified_at: "2026-11-13T13:48:20.755Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

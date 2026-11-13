@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30489501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 32LR650BPSA AGF30489501 - AGF30489501"
+name: "Kit régua de LED TV LG 32LR650BPSA AGF30489501 - AGF30489501 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 120.6
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.915Z"
+  updated_at: "2026-11-13T13:48:20.874Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.915Z"
+    verified_at: "2026-11-13T13:48:20.874Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.915Z"
+    verified_at: "2026-11-13T13:48:20.874Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

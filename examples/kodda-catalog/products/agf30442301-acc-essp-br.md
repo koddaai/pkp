@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30442301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 55QNED75SRA AGF30442301 - AGF30442301"
+name: "Kit régua de LED TV LG 55QNED75SRA AGF30442301 - AGF30442301 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 436.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.915Z"
+  updated_at: "2026-11-13T13:48:20.873Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.915Z"
+    verified_at: "2026-11-13T13:48:20.873Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.915Z"
+    verified_at: "2026-11-13T13:48:20.873Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

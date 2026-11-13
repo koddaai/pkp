@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4738er1004b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mangueira do dispenser Lavadora LG WD-11270RD, WK17VS6A, WM1317RD7 - 4738ER1004B - 4738ER1004B"
+name: "Mangueira do dispenser Lavadora LG WD-11270RD, WK17VS6A, WM1317RD7 - 4738ER1004B - 4738ER1004B | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.805Z"
+  updated_at: "2026-11-13T13:48:20.755Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.805Z"
+    verified_at: "2026-11-13T13:48:20.755Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.805Z"
+    verified_at: "2026-11-13T13:48:20.755Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

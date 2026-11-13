@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "45gx950a-b-awzz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG OLED UltraGear™ 45GX950A 45\",Dual-Mode 5K2K, 0,03ms (GtG), DisplayHDR True Black 400, NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa  - 45GX950A-B"
+name: "Monitor LG OLED UltraGear™ 45GX950A 45\",Dual-Mode 5K2K, 0,03ms (GtG), DisplayHDR True Black 400, NVIDIA G-SYNC, AMD FreeSync Premium Pro, Vesa  - 45GX950A-B | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "5g", "oled", "hdr", "premium", "pro", "ultra"]
 price:
   type: "street"
   currency: "BRL"
-  value: 11728.98
+  value: 12706.56
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.800Z"
+  updated_at: "2026-11-13T13:48:20.750Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.800Z"
+    verified_at: "2026-11-13T13:48:20.750Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.800Z"
+    verified_at: "2026-11-13T13:48:20.750Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm76110502-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 49UK6400,  49UM7000, 49UK6300 - AGM76110502 - AGM76110502"
+name: "Kit régua de LED TV LG 49UK6400,  49UM7000, 49UK6300 - AGM76110502 - AGM76110502 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.929Z"
+  updated_at: "2026-11-13T13:48:20.889Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.929Z"
+    verified_at: "2026-11-13T13:48:20.889Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.929Z"
+    verified_at: "2026-11-13T13:48:20.889Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

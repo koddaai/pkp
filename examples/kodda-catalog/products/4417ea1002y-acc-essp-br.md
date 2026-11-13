@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4417ea1002y-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Estator Lavadora LG WD1873RDS, WD-12276RDA, WD1316AD7 - 4417EA1002Y - 4417EA1002Y"
+name: "Estator Lavadora LG WD1873RDS, WD-12276RDA, WD1316AD7 - 4417EA1002Y - 4417EA1002Y | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 654.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.797Z"
+  updated_at: "2026-11-13T13:48:20.746Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.797Z"
+    verified_at: "2026-11-13T13:48:20.746Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.797Z"
+    verified_at: "2026-11-13T13:48:20.746Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

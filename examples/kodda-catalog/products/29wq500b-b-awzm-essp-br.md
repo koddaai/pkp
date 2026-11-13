@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "29wq500b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraWide™ 29WQ500B-B Tela IPS de 29\", 21:9, Full HD, 1ms (MBR), 100Hz, sRGB 99%, HDR10 - 29WQ500B-B"
+name: "Monitor LG UltraWide™ 29WQ500B-B Tela IPS de 29\", 21:9, Full HD, 1ms (MBR), 100Hz, sRGB 99%, HDR10 - 29WQ500B-B | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "hdr", "ultra"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1198.99
+  value: 1299.03
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.779Z"
+  updated_at: "2026-11-13T13:48:20.726Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.779Z"
+    verified_at: "2026-11-13T13:48:20.726Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.779Z"
+    verified_at: "2026-11-13T13:48:20.726Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

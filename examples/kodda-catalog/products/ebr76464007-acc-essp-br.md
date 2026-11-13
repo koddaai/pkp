@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr76464007-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Eeprom Ar Condicionado LG EBR76464007 - EBR76464007"
+name: "Placa Eeprom Ar Condicionado LG EBR76464007 - EBR76464007 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 117.65
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.118Z"
+  updated_at: "2026-11-13T13:48:21.072Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.118Z"
+    verified_at: "2026-11-13T13:48:21.072Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.118Z"
+    verified_at: "2026-11-13T13:48:21.072Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

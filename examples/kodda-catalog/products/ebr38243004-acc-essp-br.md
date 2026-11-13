@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr38243004-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Display Forno Micro Ondas LG MS3094NR EBR38243004 - EBR38243004"
+name: "Placa Display Forno Micro Ondas LG MS3094NR EBR38243004 - EBR38243004 | LG BR"
 category: "eletrodomesticos"
 subcategory: "forno"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.107Z"
+  updated_at: "2026-11-13T13:48:21.058Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.107Z"
+    verified_at: "2026-11-13T13:48:21.058Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.107Z"
+    verified_at: "2026-11-13T13:48:21.058Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

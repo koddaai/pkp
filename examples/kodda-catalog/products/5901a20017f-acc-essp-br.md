@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5901a20017f-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hélice do Ventilador Ar Condicionado LG M122HD 5901A20017F - 5901A20017F"
+name: "Hélice do Ventilador Ar Condicionado LG M122HD 5901A20017F - 5901A20017F | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 398.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.834Z"
+  updated_at: "2026-11-13T13:48:20.794Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.834Z"
+    verified_at: "2026-11-13T13:48:20.794Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.834Z"
+    verified_at: "2026-11-13T13:48:20.794Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

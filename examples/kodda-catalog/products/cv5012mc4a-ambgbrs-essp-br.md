@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "cv5012mc4a-ambgbrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lava e Seca LG Smart VC4 12kg Titanium com Inteligência Artificial AIDD™ (CV5012MC4A) - 220v - CV5012MC4A"
+name: "Lava e Seca LG Smart VC4 12kg Titanium com Inteligência Artificial AIDD™ (CV5012MC4A) - 220v - CV5012MC4A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 4274.05
+  value: 4464.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.988Z"
+  updated_at: "2026-11-13T13:48:20.940Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.988Z"
+    verified_at: "2026-11-13T13:48:20.940Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.988Z"
+    verified_at: "2026-11-13T13:48:20.940Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

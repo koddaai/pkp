@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "lp1419ivsi-cv5011-essp-br"
 # gtin: null
 brand: "LG"
-name: "Combo Lava e Seca LG Smart VC4 14kg Branca 127V  + Ar Portátil 127V - LP1419IVSI.CV5011"
+name: "Combo Lava e Seca LG Smart VC4 14kg Branca 127V  + Ar Portátil 127V - LP1419IVSI.CV5011 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 9061.29
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.200Z"
+  updated_at: "2026-11-13T13:48:21.158Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.200Z"
+    verified_at: "2026-11-13T13:48:21.158Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.200Z"
+    verified_at: "2026-11-13T13:48:21.158Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

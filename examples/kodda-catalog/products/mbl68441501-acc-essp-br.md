@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mbl68441501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte adicional da porta para ventilação em Lavadoras LG MBL68441501 - MBL68441501"
+name: "Suporte adicional da porta para ventilação em Lavadoras LG MBL68441501 - MBL68441501 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 113.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.216Z"
+  updated_at: "2026-11-13T13:48:21.162Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.216Z"
+    verified_at: "2026-11-13T13:48:21.162Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.216Z"
+    verified_at: "2026-11-13T13:48:21.162Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

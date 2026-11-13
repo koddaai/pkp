@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "40u990a-w-awzz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG UltraFine 40U990A-W Nano IPS Black 5K2K WUHD 40\", Thunderbolt™ 5, PD 96W, DisplayHDR™600, DCI-P3 99%(Typ.), USB-C, DP 2.1 - 40U990A-W"
+name: "Monitor LG UltraFine 40U990A-W Nano IPS Black 5K2K WUHD 40\", Thunderbolt™ 5, PD 96W, DisplayHDR™600, DCI-P3 99%(Typ.), USB-C, DP 2.1 - 40U990A-W | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 11288.22
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.793Z"
+  updated_at: "2026-11-13T13:48:20.742Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.793Z"
+    verified_at: "2026-11-13T13:48:20.742Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.793Z"
+    verified_at: "2026-11-13T13:48:20.742Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

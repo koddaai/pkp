@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan30041352-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base pedestal TV LG OLED55/65C4 AAN30041352 - AAN30041352"
+name: "Base pedestal TV LG OLED55/65C4 AAN30041352 - AAN30041352 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1424.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.856Z"
+  updated_at: "2026-11-13T13:48:20.816Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.856Z"
+    verified_at: "2026-11-13T13:48:20.816Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.856Z"
+    verified_at: "2026-11-13T13:48:20.816Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

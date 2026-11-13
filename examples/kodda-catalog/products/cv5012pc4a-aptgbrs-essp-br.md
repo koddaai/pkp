@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "cv5012pc4a-aptgbrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lava e Seca LG Smart VC4 12kg Inox Look com Inteligência Artificial AIDD™ (CV5012PC4A) - 220v - CV5012PC4A"
+name: "Lava e Seca LG Smart VC4 12kg Inox Look com Inteligência Artificial AIDD™ (CV5012PC4A) - 220v - CV5012PC4A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5034.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.988Z"
+  updated_at: "2026-11-13T13:48:20.940Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.988Z"
+    verified_at: "2026-11-13T13:48:20.940Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.988Z"
+    verified_at: "2026-11-13T13:48:20.940Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

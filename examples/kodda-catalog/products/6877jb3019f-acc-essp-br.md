@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6877jb3019f-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Contudor (chicote) Refrigerador LG GC-P213BVK, GC-L207WVK, GC-L216BSK - 6877JB3019F - 6877JB3019F"
+name: "Contudor (chicote) Refrigerador LG GC-P213BVK, GC-L207WVK, GC-L216BSK - 6877JB3019F - 6877JB3019F | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 303.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.848Z"
+  updated_at: "2026-11-13T13:48:20.808Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.848Z"
+    verified_at: "2026-11-13T13:48:20.808Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.848Z"
+    verified_at: "2026-11-13T13:48:20.808Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

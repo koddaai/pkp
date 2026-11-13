@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebf49827801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Trava da porta Lava e Seca LG WD-1403RD5, WD-1403FD, WD-1410RD - EBF49827801 - EBF49827801"
+name: "Trava da porta Lava e Seca LG WD-1403RD5, WD-1403FD, WD-1410RD - EBF49827801 - EBF49827801 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.088Z"
+  updated_at: "2026-11-13T13:48:21.037Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.088Z"
+    verified_at: "2026-11-13T13:48:21.037Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.088Z"
+    verified_at: "2026-11-13T13:48:21.037Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

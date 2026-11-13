@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay63032209-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte de alimentação externa (19 V, 5,79 A, 110 W, cabo de alimentação não incluído, preto) - EAY63032209"
+name: "Fonte de alimentação externa (19 V, 5,79 A, 110 W, cabo de alimentação não incluído, preto) - EAY63032209 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 208.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.073Z"
+  updated_at: "2026-11-13T13:48:21.019Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.073Z"
+    verified_at: "2026-11-13T13:48:21.019Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.073Z"
+    verified_at: "2026-11-13T13:48:21.019Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

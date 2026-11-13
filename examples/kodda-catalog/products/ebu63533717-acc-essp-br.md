@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu63533717-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Monitor LG 27GL650F-B - EBU63533717 - EBU63533717"
+name: "Placa Principal Monitor LG 27GL650F-B - EBU63533717 - EBU63533717 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 787.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.162Z"
+  updated_at: "2026-11-13T13:48:21.117Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.162Z"
+    verified_at: "2026-11-13T13:48:21.117Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.162Z"
+    verified_at: "2026-11-13T13:48:21.117Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5214en1004a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mangueira de água Lavadora LG T1409DS, CWG27MDCRS - 5214EN1004A - 5214EN1004A"
+name: "Mangueira de água Lavadora LG T1409DS, CWG27MDCRS - 5214EN1004A - 5214EN1004A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.813Z"
+  updated_at: "2026-11-13T13:48:20.764Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.813Z"
+    verified_at: "2026-11-13T13:48:20.764Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.813Z"
+    verified_at: "2026-11-13T13:48:20.764Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

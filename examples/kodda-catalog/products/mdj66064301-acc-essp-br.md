@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mdj66064301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de alergênicos para ar-condicionado de parede - MDJ66064301"
+name: "Filtro de alergênicos para ar-condicionado de parede - MDJ66064301 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 71.28
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.222Z"
+  updated_at: "2026-11-13T13:48:21.167Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.222Z"
+    verified_at: "2026-11-13T13:48:21.167Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.222Z"
+    verified_at: "2026-11-13T13:48:21.167Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

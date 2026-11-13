@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5230a30001l-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de entrada de ar Ar Condicionado LG ARNU42GBGA2, ARNU36GBGA4, ARNU28GBGA2 - 5230A30001L - 5230A30001L"
+name: "Filtro de entrada de ar Ar Condicionado LG ARNU42GBGA2, ARNU36GBGA4, ARNU28GBGA2 - 5230A30001L - 5230A30001L | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 90.44
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.826Z"
+  updated_at: "2026-11-13T13:48:20.769Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.826Z"
+    verified_at: "2026-11-13T13:48:20.769Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.826Z"
+    verified_at: "2026-11-13T13:48:20.769Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

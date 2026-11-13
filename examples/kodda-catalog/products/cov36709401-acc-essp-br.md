@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "cov36709401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Módulo Wi-Fi Bluetooth Monitor LG 65TR3BFB COV36709401 - COV36709401"
+name: "Módulo Wi-Fi Bluetooth Monitor LG 65TR3BFB COV36709401 - COV36709401 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 797.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.966Z"
+  updated_at: "2026-11-13T13:48:20.932Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.966Z"
+    verified_at: "2026-11-13T13:48:20.932Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.966Z"
+    verified_at: "2026-11-13T13:48:20.932Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

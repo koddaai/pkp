@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebf63534901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Pressostato Lava e Seca LG CV9011EC4, CV5010TS4, CV5010WG4 - EBF63534901 - EBF63534901"
+name: "Pressostato Lava e Seca LG CV9011EC4, CV5010TS4, CV5010WG4 - EBF63534901 - EBF63534901 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.089Z"
+  updated_at: "2026-11-13T13:48:21.038Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.089Z"
+    verified_at: "2026-11-13T13:48:21.038Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.089Z"
+    verified_at: "2026-11-13T13:48:21.038Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

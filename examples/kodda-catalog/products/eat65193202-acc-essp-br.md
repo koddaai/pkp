@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eat65193202-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Wi-Fi TV LG - EAT65193202 - EAT65193202"
+name: "Placa Wi-Fi TV LG - EAT65193202 - EAT65193202 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 371.07
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.060Z"
+  updated_at: "2026-11-13T13:48:21.004Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.060Z"
+    verified_at: "2026-11-13T13:48:21.004Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.060Z"
+    verified_at: "2026-11-13T13:48:21.004Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

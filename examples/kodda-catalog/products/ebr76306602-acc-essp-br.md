@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr76306602-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa controle TV LG 50PN4500, 60PH670H-SA, 50PH4700-SD - EBR76306602 - EBR76306602"
+name: "Placa controle TV LG 50PN4500, 60PH670H-SA, 50PH4700-SD - EBR76306602 - EBR76306602 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.118Z"
+  updated_at: "2026-11-13T13:48:21.071Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.118Z"
+    verified_at: "2026-11-13T13:48:21.071Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.118Z"
+    verified_at: "2026-11-13T13:48:21.071Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

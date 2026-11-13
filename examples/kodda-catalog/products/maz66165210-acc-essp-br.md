@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "maz66165210-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Acabamento das Conexões TV LG 32LK615BPSB MAZ66165210 - MAZ66165210"
+name: "Acabamento das Conexões TV LG 32LK615BPSB MAZ66165210 - MAZ66165210 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 20.38
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.216Z"
+  updated_at: "2026-11-13T13:48:21.162Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.216Z"
+    verified_at: "2026-11-13T13:48:21.162Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.216Z"
+    verified_at: "2026-11-13T13:48:21.162Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

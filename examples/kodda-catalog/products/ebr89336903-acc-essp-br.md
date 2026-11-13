@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr89336903-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Mini System LG CL87 - EBR89336903 - EBR89336903"
+name: "Placa Principal Mini System LG CL87 - EBR89336903 - EBR89336903  | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 806.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.157Z"
+  updated_at: "2026-11-13T13:48:21.113Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.157Z"
+    verified_at: "2026-11-13T13:48:21.113Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.157Z"
+    verified_at: "2026-11-13T13:48:21.113Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

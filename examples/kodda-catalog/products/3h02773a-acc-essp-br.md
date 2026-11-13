@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3h02773a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bico de Saída Drenagem Ar Condicionado LG-AW12 3H02773A - 3H02773A"
+name: "Bico de Saída Drenagem Ar Condicionado LG-AW12 3H02773A - 3H02773A | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.789Z"
+  updated_at: "2026-11-13T13:48:20.738Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.789Z"
+    verified_at: "2026-11-13T13:48:20.738Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.789Z"
+    verified_at: "2026-11-13T13:48:20.738Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

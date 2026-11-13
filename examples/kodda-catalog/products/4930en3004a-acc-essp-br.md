@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4930en3004a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte fixador da mola Lavadora LG WD-1485TDA, 1485TDA, WD-C1485AD - 4930EN3004A - 4930EN3004A"
+name: "Suporte fixador da mola Lavadora LG WD-1485TDA, 1485TDA, WD-C1485AD - 4930EN3004A - 4930EN3004A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.807Z"
+  updated_at: "2026-11-13T13:48:20.758Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.807Z"
+    verified_at: "2026-11-13T13:48:20.758Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.807Z"
+    verified_at: "2026-11-13T13:48:20.758Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay62990908-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte de alimentação externa para TV (19 V, 3,42 A, 65 W, cabo de alimentação não incluído, preto) - EAY62990908"
+name: "Fonte de alimentação externa para TV (19 V, 3,42 A, 65 W, cabo de alimentação não incluído, preto) - EAY62990908 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 147.25
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.073Z"
+  updated_at: "2026-11-13T13:48:21.018Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.073Z"
+    verified_at: "2026-11-13T13:48:21.018Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.073Z"
+    verified_at: "2026-11-13T13:48:21.018Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

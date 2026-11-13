@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-q09aa31f-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG Dual Inverter AI Voice 9.000 BTU Frio 220V - S3-Q09AA31F"
+name: "Ar-Condicionado LG Dual Inverter AI Voice 9.000 BTU Frio 220V - S3-Q09AA31F | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2409
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.249Z"
+  updated_at: "2026-11-13T13:48:21.193Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.249Z"
+    verified_at: "2026-11-13T13:48:21.193Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.249Z"
+    verified_at: "2026-11-13T13:48:21.193Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

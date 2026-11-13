@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65904024-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Fonte TV LG OLED65C3PSA EAY65904024 - EAY65904024"
+name: "Placa Fonte TV LG OLED65C3PSA EAY65904024 - EAY65904024 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 669.44
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.085Z"
+  updated_at: "2026-11-13T13:48:21.034Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.085Z"
+    verified_at: "2026-11-13T13:48:21.034Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.085Z"
+    verified_at: "2026-11-13T13:48:21.034Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay64548902-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da fonte TV LG 32LK610BPSA, 32LM627BPSB, 32LT330HBSB - EAY64548902 - EAY64548902"
+name: "Placa da fonte TV LG 32LK610BPSA, 32LM627BPSB, 32LT330HBSB - EAY64548902 - EAY64548902 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.077Z"
+  updated_at: "2026-11-13T13:48:21.022Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.077Z"
+    verified_at: "2026-11-13T13:48:21.022Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.077Z"
+    verified_at: "2026-11-13T13:48:21.022Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

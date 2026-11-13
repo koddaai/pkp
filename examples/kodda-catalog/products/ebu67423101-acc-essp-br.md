@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu67423101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 50UR8750PSA, 65UR871C0SA, 65UR8750PSA - EBU67423101 - EBU67423101"
+name: "Placa Principal TV LG 50UR8750PSA, 65UR871C0SA, 65UR8750PSA - EBU67423101 - EBU67423101 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 946.9
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.182Z"
+  updated_at: "2026-11-13T13:48:21.138Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.182Z"
+    verified_at: "2026-11-13T13:48:21.138Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.182Z"
+    verified_at: "2026-11-13T13:48:21.138Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay64530001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa fonte LGP43DJ-17F1 TV LG 43LJ5500, 43LK5700PSC, 43LK571C - EAY64530001 - EAY64530001"
+name: "Placa fonte LGP43DJ-17F1 TV LG 43LJ5500, 43LK5700PSC, 43LK571C - EAY64530001 - EAY64530001 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 219.99
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.077Z"
+  updated_at: "2026-11-13T13:48:21.022Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.077Z"
+    verified_at: "2026-11-13T13:48:21.022Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.077Z"
+    verified_at: "2026-11-13T13:48:21.022Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

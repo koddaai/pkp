@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3w20018b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Chave para nivelamento do pé Lavadora LG WD-1403FD, WD-1485AD, WD-C1485AD - 3W20018B - 3W20018B"
+name: "Chave para nivelamento do pé Lavadora LG WD-1403FD, WD-1485AD, WD-C1485AD - 3W20018B - 3W20018B | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.790Z"
+  updated_at: "2026-11-13T13:48:20.738Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.790Z"
+    verified_at: "2026-11-13T13:48:20.738Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.790Z"
+    verified_at: "2026-11-13T13:48:20.738Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

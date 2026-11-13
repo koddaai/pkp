@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg61285807-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sensor Termistor Ar Condicionado LG S4UW36R43FA EBG61285807 - EBG61285807"
+name: "Sensor Termistor Ar Condicionado LG S4UW36R43FA EBG61285807 - EBG61285807 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 177.26
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.092Z"
+  updated_at: "2026-11-13T13:48:21.042Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.092Z"
+    verified_at: "2026-11-13T13:48:21.042Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.092Z"
+    verified_at: "2026-11-13T13:48:21.042Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

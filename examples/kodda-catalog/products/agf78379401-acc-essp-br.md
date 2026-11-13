@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf78379401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 42LN5400 - AGF78379401 - AGF78379401"
+name: "Kit régua de LED TV LG 42LN5400 - AGF78379401 - AGF78379401 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 331.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.916Z"
+  updated_at: "2026-11-13T13:48:20.875Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.916Z"
+    verified_at: "2026-11-13T13:48:20.875Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.916Z"
+    verified_at: "2026-11-13T13:48:20.875Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

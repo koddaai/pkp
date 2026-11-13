@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-q24k2r1c-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG Dual Inverter AI Artcool 24.000 BTU Frio 220V - S3-Q24K2R1C"
+name: "Ar-Condicionado LG Dual Inverter AI Artcool 24.000 BTU Frio 220V - S3-Q24K2R1C | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter", "4k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 5237.1
+  value: 5528.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.254Z"
+  updated_at: "2026-11-13T13:48:21.199Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.254Z"
+    verified_at: "2026-11-13T13:48:21.199Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.254Z"
+    verified_at: "2026-11-13T13:48:21.199Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

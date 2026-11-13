@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr79838401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da condensadora Ar Condicionado LG ARUV180LTS4, ARUN200LTS4, ARUV100LTS4 - EBR79838401 - EBR79838401"
+name: "Placa da condensadora Ar Condicionado LG ARUV180LTS4, ARUN200LTS4, ARUV100LTS4 - EBR79838401 - EBR79838401 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 10195.25
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.126Z"
+  updated_at: "2026-11-13T13:48:21.080Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.126Z"
+    verified_at: "2026-11-13T13:48:21.080Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.126Z"
+    verified_at: "2026-11-13T13:48:21.080Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

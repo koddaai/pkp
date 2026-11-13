@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5988ja1001e-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Unidade de fazer gelo Refrigerador LG GC-P213BVK, GC-L207BSKV, LR-21SDT1 - 5988JA1001E - 5988JA1001E"
+name: "Unidade de fazer gelo Refrigerador LG GC-P213BVK, GC-L207BSKV, LR-21SDT1 - 5988JA1001E - 5988JA1001E | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 702.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.835Z"
+  updated_at: "2026-11-13T13:48:20.795Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.835Z"
+    verified_at: "2026-11-13T13:48:20.795Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.835Z"
+    verified_at: "2026-11-13T13:48:20.795Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

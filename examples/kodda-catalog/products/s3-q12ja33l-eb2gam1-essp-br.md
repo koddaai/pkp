@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-q12ja33l-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-Q12JA33L - S3-Q12JA33L"
+name: "Ar-Condicionado Split LG Dual Inverter 12.000 BTUs S3-Q12JA33L - S3-Q12JA33L | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2361.93
+  value: 2521.16
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.252Z"
+  updated_at: "2026-11-13T13:48:21.196Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.252Z"
+    verified_at: "2026-11-13T13:48:21.196Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.252Z"
+    verified_at: "2026-11-13T13:48:21.196Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mfm63758101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Membrana do display Micro-ondas LG MFM63758101 - MFM63758101"
+name: "Membrana do display Micro-ondas LG MFM63758101 - MFM63758101 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.235Z"
+  updated_at: "2026-11-13T13:48:21.179Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.235Z"
+    verified_at: "2026-11-13T13:48:21.179Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.235Z"
+    verified_at: "2026-11-13T13:48:21.179Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

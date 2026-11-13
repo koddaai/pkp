@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "wd18sv2s6ba-assgbrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lava e Seca LG Smart 18kg Inox Look com Inteligência Artificial AIDD™ (WD18SV2S6BA) - 220V - WD18SV2S6BA"
+name: "Lava e Seca LG Smart 18kg Inox Look com Inteligência Artificial AIDD™ (WD18SV2S6BA) - 220V - WD18SV2S6BA | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai", "8k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 5999
+  value: 6199.01
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.280Z"
+  updated_at: "2026-11-13T13:48:21.219Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.280Z"
+    verified_at: "2026-11-13T13:48:21.219Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.280Z"
+    verified_at: "2026-11-13T13:48:21.219Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

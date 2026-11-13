@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb30086804-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto AI Magic MR26GA TV LG Série 2026 AKB30086804 - AKB30086804"
+name: "Controle Remoto AI Magic MR26GA TV LG Série 2026 AKB30086804 - AKB30086804 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 175.56
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.948Z"
+  updated_at: "2026-11-13T13:48:20.912Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.948Z"
+    verified_at: "2026-11-13T13:48:20.912Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.948Z"
+    verified_at: "2026-11-13T13:48:20.912Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

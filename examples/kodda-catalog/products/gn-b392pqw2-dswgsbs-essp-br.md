@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gn-b392pqw2-dswgsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Duplex LG 395L Branca com Compressor Smart Inverter e Door Cooling+™ - 220V - GN-B392PQW2"
+name: "Geladeira Duplex LG 395L Branca com Compressor Smart Inverter e Door Cooling+™ - 220V - GN-B392PQW2 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -27,9 +27,9 @@ tags: ["lg", "smart", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2399
+  value: 2549
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.197Z"
+  updated_at: "2026-11-13T13:48:21.154Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.197Z"
+    verified_at: "2026-11-13T13:48:21.154Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.197Z"
+    verified_at: "2026-11-13T13:48:21.154Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

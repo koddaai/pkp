@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mck67732665-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cobertura frontal do gabinete Lavadora LG FV5011WG4, F4V3RGP0WB, F4V5RGP0WC - MCK67732665 - MCK67732665"
+name: "Cobertura frontal do gabinete Lavadora LG FV5011WG4, F4V3RGP0WB, F4V5RGP0WC - MCK67732665 - MCK67732665 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 500.88
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.219Z"
+  updated_at: "2026-11-13T13:48:21.164Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.219Z"
+    verified_at: "2026-11-13T13:48:21.164Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.219Z"
+    verified_at: "2026-11-13T13:48:21.164Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

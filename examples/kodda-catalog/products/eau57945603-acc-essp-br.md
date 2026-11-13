@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau57945603-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor de corrente contínua Ar Condicionado LG ASNW092HDW0, ARNU07GSBL2, ARNU07GSBL2 - EAU57945603 - EAU57945603"
+name: "Motor de corrente contínua Ar Condicionado LG ASNW092HDW0, ARNU07GSBL2, ARNU07GSBL2 - EAU57945603 - EAU57945603 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.063Z"
+  updated_at: "2026-11-13T13:48:21.007Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.063Z"
+    verified_at: "2026-11-13T13:48:21.007Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.063Z"
+    verified_at: "2026-11-13T13:48:21.007Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

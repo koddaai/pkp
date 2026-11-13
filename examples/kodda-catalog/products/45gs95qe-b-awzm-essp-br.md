@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "45gs95qe-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor Gamer LG UltraGear OLED Curvo – Tela OLED 45”, QHD, HDR400 Trueblack, 240Hz, 0,03ms (GtG), NVIDIA G-SYNC - 45GS95QE-B"
+name: "Monitor Gamer LG UltraGear OLED Curvo – Tela OLED 45”, QHD, HDR400 Trueblack, 240Hz, 0,03ms (GtG), NVIDIA G-SYNC - 45GS95QE-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8499
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.799Z"
+  updated_at: "2026-11-13T13:48:20.749Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.799Z"
+    verified_at: "2026-11-13T13:48:20.749Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.799Z"
+    verified_at: "2026-11-13T13:48:20.749Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

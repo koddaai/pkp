@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajr77187602-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo e Suporte Refrigerador LG GMB298NLNH AJR77187602 - AJR77187602"
+name: "Tubo e Suporte Refrigerador LG GMB298NLNH AJR77187602 - AJR77187602 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.945Z"
+  updated_at: "2026-11-13T13:48:20.909Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.945Z"
+    verified_at: "2026-11-13T13:48:20.909Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.945Z"
+    verified_at: "2026-11-13T13:48:20.909Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

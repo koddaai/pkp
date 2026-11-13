@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead65185201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo HDMI para HDMI 2.0 para monitor (1,5 m, preto) - EAD65185201"
+name: "Cabo HDMI para HDMI 2.0 para monitor (1,5 m, preto) - EAD65185201 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 60.04
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.013Z"
+  updated_at: "2026-11-13T13:48:20.966Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.013Z"
+    verified_at: "2026-11-13T13:48:20.966Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.013Z"
+    verified_at: "2026-11-13T13:48:20.966Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

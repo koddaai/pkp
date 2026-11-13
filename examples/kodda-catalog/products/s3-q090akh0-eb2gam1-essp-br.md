@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-q090akh0-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG Dual Inverter AI Air 9.000 BTU Frio 220V - S3-Q090AKH0"
+name: "Ar-Condicionado LG Dual Inverter AI Air 9.000 BTU Frio 220V - S3-Q090AKH0 | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2879.1
+  value: 3007.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.248Z"
+  updated_at: "2026-11-13T13:48:21.193Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.248Z"
+    verified_at: "2026-11-13T13:48:21.193Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.248Z"
+    verified_at: "2026-11-13T13:48:21.193Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

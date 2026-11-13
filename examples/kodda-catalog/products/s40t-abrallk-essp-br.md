@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s40t-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T"
+name: "Soundbar LG S40T - 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T | LG BR"
 category: "audio"
 subcategory: "soundbar"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1169.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.269Z"
+  updated_at: "2026-11-13T13:48:21.206Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.269Z"
+    verified_at: "2026-11-13T13:48:21.206Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.269Z"
+    verified_at: "2026-11-13T13:48:21.206Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

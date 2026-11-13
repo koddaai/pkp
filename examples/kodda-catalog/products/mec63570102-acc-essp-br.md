@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mec63570102-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte de Parede fixo TV LG MEC63570102 - MEC63570102"
+name: "Suporte de Parede fixo TV LG MEC63570102 - MEC63570102 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 436.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.227Z"
+  updated_at: "2026-11-13T13:48:21.171Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.227Z"
+    verified_at: "2026-11-13T13:48:21.171Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.227Z"
+    verified_at: "2026-11-13T13:48:21.171Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

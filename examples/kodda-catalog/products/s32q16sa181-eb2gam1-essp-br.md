@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s32q16sa181-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG Dual Inverter Voice + AI Bi-Split Frio (Evaporadoras 9.000+9.000 BTU) 220V - S32Q16SA181"
+name: "Ar-Condicionado LG Dual Inverter Voice + AI Bi-Split Frio (Evaporadoras 9.000+9.000 BTU) 220V - S32Q16SA181 | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 5095.1
+  value: 5151.09
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.268Z"
+  updated_at: "2026-11-13T13:48:21.205Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.268Z"
+    verified_at: "2026-11-13T13:48:21.205Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.268Z"
+    verified_at: "2026-11-13T13:48:21.205Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

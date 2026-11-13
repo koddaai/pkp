@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr39187712-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal da evaporadora LG ARNU24GTTA2 - EBR39187712 - EBR39187712"
+name: "Placa principal da evaporadora LG ARNU24GTTA2 - EBR39187712 - EBR39187712 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 654.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.107Z"
+  updated_at: "2026-11-13T13:48:21.059Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.107Z"
+    verified_at: "2026-11-13T13:48:21.059Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.107Z"
+    verified_at: "2026-11-13T13:48:21.059Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

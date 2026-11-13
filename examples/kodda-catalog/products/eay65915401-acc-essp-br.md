@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65915401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte de Alimentação Monitor Gamer LG 45GS95QEB EAY65915401 - EAY65915401"
+name: "Fonte de Alimentação Monitor Gamer LG 45GS95QEB EAY65915401 - EAY65915401 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 654.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.086Z"
+  updated_at: "2026-11-13T13:48:21.035Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.086Z"
+    verified_at: "2026-11-13T13:48:21.035Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.086Z"
+    verified_at: "2026-11-13T13:48:21.035Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

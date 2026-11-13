@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "abw68676010-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Chassis evaporadora Ar condicionado LG ASNW092BRW0, ASNQ092BRG2, ASNQ092BRZ0 -  ABW68676010 - ABW68676010"
+name: "Chassis evaporadora Ar condicionado LG ASNW092BRW0, ASNQ092BRG2, ASNQ092BRZ0 -  ABW68676010 - ABW68676010 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.874Z"
+  updated_at: "2026-11-13T13:48:20.832Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.874Z"
+    verified_at: "2026-11-13T13:48:20.832Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.874Z"
+    verified_at: "2026-11-13T13:48:20.832Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

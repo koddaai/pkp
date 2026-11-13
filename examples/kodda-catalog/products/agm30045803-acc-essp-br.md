@@ -4,9 +4,9 @@ schema: pkp/1.0
 sku: "agm30045803-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Led Máquina De Lava e Seca Roupas LG WD1316ADA7 AGM30045803 - AGM30045803"
+name: "Led Máquina De Lava e Seca Roupas LG WD1316ADA7 AGM30045803 - AGM30045803 | LG BR"
 category: "eletrodomesticos"
-subcategory: "lavadora"
+subcategory: "lava-e-seca"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.927Z"
+  updated_at: "2026-11-13T13:48:20.887Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.927Z"
+    verified_at: "2026-11-13T13:48:20.887Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.927Z"
+    verified_at: "2026-11-13T13:48:20.887Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65756914-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Módulo (BA) LCD TV LG - EAJ65756914 - EAJ65756914"
+name: "Módulo (BA) LCD TV LG - EAJ65756914 - EAJ65756914 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1452.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.042Z"
+  updated_at: "2026-11-13T13:48:20.991Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.042Z"
+    verified_at: "2026-11-13T13:48:20.991Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.042Z"
+    verified_at: "2026-11-13T13:48:20.991Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

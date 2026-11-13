@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf78400801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 47LN5400, 47LN5700, 47LN5460 - AGF78400801 - AGF78400801"
+name: "Kit régua de LED TV LG 47LN5400, 47LN5700, 47LN5460 - AGF78400801 - AGF78400801 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 502.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.917Z"
+  updated_at: "2026-11-13T13:48:20.876Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.917Z"
+    verified_at: "2026-11-13T13:48:20.876Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.917Z"
+    verified_at: "2026-11-13T13:48:20.876Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

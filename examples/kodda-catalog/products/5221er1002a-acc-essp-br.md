@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5221er1002a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Válvula de 4 vias Lavadora LG WD-1250ERDA - 5221ER1002A - 5221ER1002A"
+name: "Válvula de 4 vias Lavadora LG WD-1250ERDA - 5221ER1002A - 5221ER1002A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 360.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.825Z"
+  updated_at: "2026-11-13T13:48:20.769Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.825Z"
+    verified_at: "2026-11-13T13:48:20.769Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.825Z"
+    verified_at: "2026-11-13T13:48:20.769Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

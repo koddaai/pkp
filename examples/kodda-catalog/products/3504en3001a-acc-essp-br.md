@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3504en3001a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo polipropileno Lavadora LG WD-1485TDA, WD1412RTAB, FV5011WG4 - 3504EN3001A - 3504EN3001A"
+name: "Tubo polipropileno Lavadora LG WD-1485TDA, WD1412RTAB, FV5011WG4 - 3504EN3001A - 3504EN3001A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 18.52
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.787Z"
+  updated_at: "2026-11-13T13:48:20.735Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.787Z"
+    verified_at: "2026-11-13T13:48:20.735Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.787Z"
+    verified_at: "2026-11-13T13:48:20.735Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

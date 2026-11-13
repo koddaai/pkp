@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajq73113808-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo Externo Máquina Lavar Roupa LG F12U1TCN4 AJQ73113808 - AJQ73113808"
+name: "Tubo Externo Máquina Lavar Roupa LG F12U1TCN4 AJQ73113808 - AJQ73113808 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2833.18
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.941Z"
+  updated_at: "2026-11-13T13:48:20.904Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.941Z"
+    verified_at: "2026-11-13T13:48:20.904Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.941Z"
+    verified_at: "2026-11-13T13:48:20.904Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

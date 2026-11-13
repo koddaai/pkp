@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681jb1029b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor do ventilador de refrigeração Refrigerador LG LR-27SPT1, GR-G267ATBA - 4681JB1029B - 4681JB1029B"
+name: "Motor do ventilador de refrigeração Refrigerador LG LR-27SPT1, GR-G267ATBA - 4681JB1029B - 4681JB1029B | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 455.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.804Z"
+  updated_at: "2026-11-13T13:48:20.754Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.804Z"
+    verified_at: "2026-11-13T13:48:20.754Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.804Z"
+    verified_at: "2026-11-13T13:48:20.754Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adl76697301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina evaporadora Ar Condicionado LG S4NQ09AA31A - ADL76697301 - ADL76697301"
+name: "Serpentina evaporadora Ar Condicionado LG S4NQ09AA31A - ADL76697301 - ADL76697301 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 765.4
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.892Z"
+  updated_at: "2026-11-13T13:48:20.849Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.892Z"
+    verified_at: "2026-11-13T13:48:20.849Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.892Z"
+    verified_at: "2026-11-13T13:48:20.849Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

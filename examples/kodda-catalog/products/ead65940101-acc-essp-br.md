@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead65940101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flat TV LG OLED65C2PSA EAD65940101 - EAD65940101"
+name: "Cabo Flat TV LG OLED65C2PSA EAD65940101 - EAD65940101 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 312.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.017Z"
+  updated_at: "2026-11-13T13:48:20.970Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.017Z"
+    verified_at: "2026-11-13T13:48:20.970Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.017Z"
+    verified_at: "2026-11-13T13:48:20.970Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

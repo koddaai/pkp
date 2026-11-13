@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr86444822-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Ar Condicionado LG S4UQ18KL3AA, S4UQ18KL31A, S4UQ18KL3AC - EBR86444822 - EBR86444822"
+name: "Placa principal Ar Condicionado LG S4UQ18KL3AA, S4UQ18KL31A, S4UQ18KL3AC - EBR86444822 - EBR86444822 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 854.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.147Z"
+  updated_at: "2026-11-13T13:48:21.102Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.147Z"
+    verified_at: "2026-11-13T13:48:21.102Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.147Z"
+    verified_at: "2026-11-13T13:48:21.102Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

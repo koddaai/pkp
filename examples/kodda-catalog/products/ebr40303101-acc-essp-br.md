@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr40303101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Torre de Som LG XBOOM LG RNC7 EBR40303101 - EBR40303101"
+name: "Placa Principal Torre de Som LG XBOOM LG RNC7 EBR40303101 - EBR40303101 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 702.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.108Z"
+  updated_at: "2026-11-13T13:48:21.060Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.108Z"
+    verified_at: "2026-11-13T13:48:21.060Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.108Z"
+    verified_at: "2026-11-13T13:48:21.060Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

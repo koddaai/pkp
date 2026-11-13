@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead60714628-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo elétrico Ar Condicionado LG EAD60714628 - EAD60714628"
+name: "Cabo elétrico Ar Condicionado LG EAD60714628 - EAD60714628 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 34.42
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.001Z"
+  updated_at: "2026-11-13T13:48:20.953Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.001Z"
+    verified_at: "2026-11-13T13:48:20.953Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.001Z"
+    verified_at: "2026-11-13T13:48:20.953Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

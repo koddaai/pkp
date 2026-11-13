@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "24u411b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor PC Gamer LG com Tela IPS 24”, 144Hz, 1ms (MBR), AMD FreeSync™, HDR 10, sRGB 99%, Reader Mode, Flicker Safe, HDMI, VGA, saída de fone de ouvido - 24U411B - 24U411B-B"
+name: "Monitor PC Gamer LG com Tela IPS 24”, 144Hz, 1ms (MBR), AMD FreeSync™, HDR 10, sRGB 99%, Reader Mode, Flicker Safe, HDMI, VGA, saída de fone de ouvido - 24U411B - 24U411B-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 648.99
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.773Z"
+  updated_at: "2026-11-13T13:48:20.720Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.773Z"
+    verified_at: "2026-11-13T13:48:20.720Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.773Z"
+    verified_at: "2026-11-13T13:48:20.720Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

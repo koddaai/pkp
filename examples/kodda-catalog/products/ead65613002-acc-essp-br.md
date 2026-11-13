@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead65613002-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo de Força Ar Condicionado LG LP1419IVSM EAD65613002 - EAD65613002"
+name: "Cabo de Força Ar Condicionado LG LP1419IVSM EAD65613002 - EAD65613002 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 128.44
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.016Z"
+  updated_at: "2026-11-13T13:48:20.969Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.016Z"
+    verified_at: "2026-11-13T13:48:20.969Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.016Z"
+    verified_at: "2026-11-13T13:48:20.969Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

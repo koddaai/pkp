@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "csp30256008-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Ar Condicionado LG S4NQ09WA51B = CSP30256008 - CSP30256008"
+name: "Placa Principal Ar Condicionado LG S4NQ09WA51B = CSP30256008 - CSP30256008 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 373.01
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.983Z"
+  updated_at: "2026-11-13T13:48:20.935Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.983Z"
+    verified_at: "2026-11-13T13:48:20.935Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.983Z"
+    verified_at: "2026-11-13T13:48:20.935Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

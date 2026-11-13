@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "65qned80bsg-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG QNED evo Mini LED AI 4K QNED80 65 polegadas 2026 - 65QNED80BSG"
+name: "Smart TV LG QNED evo Mini LED AI 4K QNED80 65 polegadas 2026 - 65QNED80BSG | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3941.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.842Z"
+  updated_at: "2026-11-13T13:48:20.803Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.842Z"
+    verified_at: "2026-11-13T13:48:20.803Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.842Z"
+    verified_at: "2026-11-13T13:48:20.803Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

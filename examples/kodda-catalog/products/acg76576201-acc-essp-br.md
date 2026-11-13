@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acg76576201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina Condensadora Ar Condicionado LG ACG76576201 - ACG76576201"
+name: "Serpentina Condensadora Ar Condicionado LG ACG76576201 - ACG76576201 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1421.81
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.878Z"
+  updated_at: "2026-11-13T13:48:20.836Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.878Z"
+    verified_at: "2026-11-13T13:48:20.836Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.878Z"
+    verified_at: "2026-11-13T13:48:20.836Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

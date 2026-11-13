@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6549w1s013m-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor corrente alternada Forno Micro-ondas LG MH8048AP, MH4046SP, MH7048AP - 6549W1S013M - 6549W1S013M"
+name: "Motor corrente alternada Forno Micro-ondas LG MH8048AP, MH4046SP, MH7048AP - 6549W1S013M - 6549W1S013M | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 41.89
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.840Z"
+  updated_at: "2026-11-13T13:48:20.801Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.840Z"
+    verified_at: "2026-11-13T13:48:20.801Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.840Z"
+    verified_at: "2026-11-13T13:48:20.801Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

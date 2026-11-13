@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebg61405904-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Termistor NTC Ar Condicionado LG A5UW30GFA2, A4UQ30GFA0, A5UW48GFA1 - EBG61405904 - EBG61405904"
+name: "Termistor NTC Ar Condicionado LG A5UW30GFA2, A4UQ30GFA0, A5UW48GFA1 - EBG61405904 - EBG61405904 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 112.51
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.093Z"
+  updated_at: "2026-11-13T13:48:21.043Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.093Z"
+    verified_at: "2026-11-13T13:48:21.043Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.093Z"
+    verified_at: "2026-11-13T13:48:21.043Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ala31000001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (Módulo) TV LG 43LM6300PSB, 43LM631C0SB, 43LM6370PSB - ALA31000001 - ALA31000001"
+name: "Tela de cristal líquido (Módulo) TV LG 43LM6300PSB, 43LM631C0SB, 43LM6370PSB - ALA31000001 - ALA31000001 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1737.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.962Z"
+  updated_at: "2026-11-13T13:48:20.927Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.962Z"
+    verified_at: "2026-11-13T13:48:20.927Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.962Z"
+    verified_at: "2026-11-13T13:48:20.927Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

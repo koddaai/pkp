@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu65082901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Monitor LG 24BL550J-B - EBU65082901 - EBU65082901"
+name: "Placa Principal Monitor LG 24BL550J-B - EBU65082901 - EBU65082901 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 759.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.168Z"
+  updated_at: "2026-11-13T13:48:21.122Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.168Z"
+    verified_at: "2026-11-13T13:48:21.122Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.168Z"
+    verified_at: "2026-11-13T13:48:21.122Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

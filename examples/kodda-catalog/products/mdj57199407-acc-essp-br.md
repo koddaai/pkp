@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mdj57199407-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de ar para Ar-Condicionado LG MDJ57199407 - MDJ57199407"
+name: "Filtro de ar para Ar-Condicionado LG MDJ57199407 - MDJ57199407 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.220Z"
+  updated_at: "2026-11-13T13:48:21.165Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.220Z"
+    verified_at: "2026-11-13T13:48:21.165Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.220Z"
+    verified_at: "2026-11-13T13:48:21.165Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

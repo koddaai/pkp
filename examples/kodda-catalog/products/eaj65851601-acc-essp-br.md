@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65851601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Peça - Tela de cristal líquido (Módulo) Monitor LG - EAJ65851601 - EAJ65851601"
+name: "Peça - Tela de cristal líquido (Módulo) Monitor LG - EAJ65851601 - EAJ65851601 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 573.7
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.050Z"
+  updated_at: "2026-11-13T13:48:20.997Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.050Z"
+    verified_at: "2026-11-13T13:48:20.997Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.050Z"
+    verified_at: "2026-11-13T13:48:20.997Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

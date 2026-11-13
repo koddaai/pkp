@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu66103919-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal TV LG 60UN7310PSA - EBU66103919 - EBU66103919"
+name: "Placa principal TV LG 60UN7310PSA - EBU66103919 - EBU66103919 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 949.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.172Z"
+  updated_at: "2026-11-13T13:48:21.127Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.172Z"
+    verified_at: "2026-11-13T13:48:21.127Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.172Z"
+    verified_at: "2026-11-13T13:48:21.127Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

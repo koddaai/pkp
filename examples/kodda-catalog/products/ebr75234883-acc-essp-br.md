@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr75234883-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Display Forno Micro-ondas LG MH7043R, MH7048G, MH7044L - EBR75234883 - EBR75234883"
+name: "Placa Display Forno Micro-ondas LG MH7043R, MH7048G, MH7044L - EBR75234883 - EBR75234883 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.117Z"
+  updated_at: "2026-11-13T13:48:21.070Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.117Z"
+    verified_at: "2026-11-13T13:48:21.070Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.117Z"
+    verified_at: "2026-11-13T13:48:21.070Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr88910702-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal Lava e Seca LG CV7011WS4, CV5010TS4, CV5010WG4 - EBR88910702 - EBR88910702"
+name: "Placa principal Lava e Seca LG CV7011WS4, CV5010TS4, CV5010WG4 - EBR88910702 - EBR88910702 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1063.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.154Z"
+  updated_at: "2026-11-13T13:48:21.110Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.154Z"
+    verified_at: "2026-11-13T13:48:21.110Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.154Z"
+    verified_at: "2026-11-13T13:48:21.110Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

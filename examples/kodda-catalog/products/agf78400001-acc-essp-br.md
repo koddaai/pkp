@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf78400001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de  LED TV LG 32LB550B, 32LF565B , 32LY340H  - AGF78400001 - AGF78400001"
+name: "Kit régua de  LED TV LG 32LB550B, 32LF565B , 32LY340H  - AGF78400001 - AGF78400001 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 91.03
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.917Z"
+  updated_at: "2026-11-13T13:48:20.876Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.917Z"
+    verified_at: "2026-11-13T13:48:20.876Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.917Z"
+    verified_at: "2026-11-13T13:48:20.876Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

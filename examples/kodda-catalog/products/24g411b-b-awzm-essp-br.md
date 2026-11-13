@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "24g411b-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor Gamer LG UltraGear™ 24G411B, 144Hz Nativo, 1ms (MBR), Tela IPS 24” FHD, compatível com NVIDIA® G-SYNC® & AMD FreeSync™, HDR10, sRGB 99%, HDMI, DP, Saida Fone de ouvido - 24G411B-B"
+name: "Monitor Gamer LG UltraGear™ 24G411B, 144Hz Nativo, 1ms (MBR), Tela IPS 24” FHD, compatível com NVIDIA® G-SYNC® & AMD FreeSync™, HDR10, sRGB 99%, HDMI, DP, Saida Fone de ouvido - 24G411B-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 699
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.773Z"
+  updated_at: "2026-11-13T13:48:20.719Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.773Z"
+    verified_at: "2026-11-13T13:48:20.719Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.773Z"
+    verified_at: "2026-11-13T13:48:20.719Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

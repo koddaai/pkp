@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3h03229a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Coxim de borracha Ar Condicionado LGNAS12, S4UW09WA51A, S4UW09WA5WA - 3H03229A - 3H03229A"
+name: "Coxim de borracha Ar Condicionado LGNAS12, S4UW09WA51A, S4UW09WA5WA - 3H03229A - 3H03229A | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 31.3
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.790Z"
+  updated_at: "2026-11-13T13:48:20.738Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.790Z"
+    verified_at: "2026-11-13T13:48:20.738Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.790Z"
+    verified_at: "2026-11-13T13:48:20.738Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

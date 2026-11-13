@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead60958308-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flat TV LG 42WT30MS, 60PV550B-SC, 60PZ850B - EAD60958308 - EAD60958308"
+name: "Cabo Flat TV LG 42WT30MS, 60PV550B-SC, 60PZ850B - EAD60958308 - EAD60958308 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 47.28
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.001Z"
+  updated_at: "2026-11-13T13:48:20.954Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.001Z"
+    verified_at: "2026-11-13T13:48:20.954Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.001Z"
+    verified_at: "2026-11-13T13:48:20.954Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

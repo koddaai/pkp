@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr73980402-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal da evaporadora Ar Condicionado LG ASNQ182CSA1, ASNQ092WSA0, ASNQ122BSA1 - EBR73980402 - EBR73980402"
+name: "Placa principal da evaporadora Ar Condicionado LG ASNQ182CSA1, ASNQ092WSA0, ASNQ122BSA1 - EBR73980402 - EBR73980402 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.115Z"
+  updated_at: "2026-11-13T13:48:21.068Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.115Z"
+    verified_at: "2026-11-13T13:48:21.068Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.115Z"
+    verified_at: "2026-11-13T13:48:21.068Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adl74161407-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina evaporadora Ar Condicionado  LG S4NQ12JA3WF - ADL74161407 - ADL74161407"
+name: "Serpentina evaporadora Ar Condicionado  LG S4NQ12JA3WF - ADL74161407 - ADL74161407 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1118.21
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.889Z"
+  updated_at: "2026-11-13T13:48:20.847Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.889Z"
+    verified_at: "2026-11-13T13:48:20.847Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.889Z"
+    verified_at: "2026-11-13T13:48:20.847Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

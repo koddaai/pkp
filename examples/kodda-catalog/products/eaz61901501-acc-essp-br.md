@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaz61901501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Disco rígido ALL IN ONE LG 22V240-L, 23V545-G, 24V360-L - EAZ61901501 - EAZ61901501"
+name: "Disco rígido ALL IN ONE LG 22V240-L, 23V545-G, 24V360-L - EAZ61901501 - EAZ61901501 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 683.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.087Z"
+  updated_at: "2026-11-13T13:48:21.036Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.087Z"
+    verified_at: "2026-11-13T13:48:21.036Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.087Z"
+    verified_at: "2026-11-13T13:48:21.036Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "34sr60qc-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG MyView Smart 34SR60QC-B Tela curva 34\" QuadHD 2K 21:9, WebOS, Air Play, Screen Share, Bluetooth, ThinQ Home - 34SR60QC-B"
+name: "Monitor LG MyView Smart 34SR60QC-B Tela curva 34\" QuadHD 2K 21:9, WebOS, Air Play, Screen Share, Bluetooth, ThinQ Home - 34SR60QC-B | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "bluetooth", "smart", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 2198.96
+  value: 2399.03
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.785Z"
+  updated_at: "2026-11-13T13:48:20.734Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.785Z"
+    verified_at: "2026-11-13T13:48:20.734Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.785Z"
+    verified_at: "2026-11-13T13:48:20.734Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

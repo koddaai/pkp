@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agu75208814-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base de fixação evaporadora Ar Condicionado LG AGU75208814 - AGU75208814"
+name: "Base de fixação evaporadora Ar Condicionado LG AGU75208814 - AGU75208814 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 81.17
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.934Z"
+  updated_at: "2026-11-13T13:48:20.894Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.934Z"
+    verified_at: "2026-11-13T13:48:20.894Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.934Z"
+    verified_at: "2026-11-13T13:48:20.894Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

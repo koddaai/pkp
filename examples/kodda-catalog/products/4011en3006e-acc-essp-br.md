@@ -4,9 +4,9 @@ schema: pkp/1.0
 sku: "4011en3006e-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Parafuso Máquina de Lavar Roupas LG CV7011TC4A 4011EN3006E - 4011EN3006E"
-category: "eletrodomesticos"
-subcategory: "lavadora"
+name: "Parafuso Máquina de Lavar Roupas LG CV7011TC4A 4011EN3006E - 4011EN3006E | LG BR"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 24.79
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.791Z"
+  updated_at: "2026-11-13T13:48:20.739Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.791Z"
+    verified_at: "2026-11-13T13:48:20.739Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.791Z"
+    verified_at: "2026-11-13T13:48:20.739Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

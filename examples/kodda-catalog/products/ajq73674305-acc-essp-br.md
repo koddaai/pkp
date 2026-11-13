@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajq73674305-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conjunto Tubo Externo Máquina de Lavar Roupas LG WD17VTS6 - AJQ73674305 - AJQ73674305"
+name: "Conjunto Tubo Externo Máquina de Lavar Roupas LG WD17VTS6 - AJQ73674305 - AJQ73674305 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 892.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.941Z"
+  updated_at: "2026-11-13T13:48:20.904Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.941Z"
+    verified_at: "2026-11-13T13:48:20.904Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.941Z"
+    verified_at: "2026-11-13T13:48:20.904Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

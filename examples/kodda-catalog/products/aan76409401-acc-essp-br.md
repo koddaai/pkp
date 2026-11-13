@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan76409401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Coluna Pedestal Monitor LG AAN76409401 - AAN76409401"
+name: "Coluna Pedestal Monitor LG AAN76409401 - AAN76409401 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.863Z"
+  updated_at: "2026-11-13T13:48:20.822Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.863Z"
+    verified_at: "2026-11-13T13:48:20.822Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.863Z"
+    verified_at: "2026-11-13T13:48:20.822Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5208er1008a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tampa duto Secagem LG WD-1403RD5, WD-1403RD5, WD-1403RDA - 5208ER1008A - 5208ER1008A"
+name: "Tampa duto Secagem LG WD-1403RD5, WD-1403RD5, WD-1403RDA - 5208ER1008A - 5208ER1008A | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.812Z"
+  updated_at: "2026-11-13T13:48:20.763Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.812Z"
+    verified_at: "2026-11-13T13:48:20.763Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.812Z"
+    verified_at: "2026-11-13T13:48:20.763Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

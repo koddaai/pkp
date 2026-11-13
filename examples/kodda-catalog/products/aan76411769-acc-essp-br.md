@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan76411769-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base (Pedestal) TV LG 50NANO79SND - AAN76411769 - AAN76411769"
+name: "Base (Pedestal) TV LG 50NANO79SND - AAN76411769 - AAN76411769 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 199.79
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.864Z"
+  updated_at: "2026-11-13T13:48:20.823Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.864Z"
+    verified_at: "2026-11-13T13:48:20.823Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.864Z"
+    verified_at: "2026-11-13T13:48:20.823Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

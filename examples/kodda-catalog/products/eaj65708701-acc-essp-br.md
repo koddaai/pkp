@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65708701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Painel de cristal líquido (módulo) TV LG 75UP8050PSB - EAJ65708701 - EAJ65708701"
+name: "Painel de cristal líquido (módulo) TV LG 75UP8050PSB - EAJ65708701 - EAJ65708701 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3951.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.032Z"
+  updated_at: "2026-11-13T13:48:20.985Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.032Z"
+    verified_at: "2026-11-13T13:48:20.985Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.032Z"
+    verified_at: "2026-11-13T13:48:20.985Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6871a20096p-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do display Ar Condicionado LG 6871A20096P - 6871A20096P"
+name: "Placa do display Ar Condicionado LG 6871A20096P - 6871A20096P | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 81.17
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.846Z"
+  updated_at: "2026-11-13T13:48:20.806Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.846Z"
+    verified_at: "2026-11-13T13:48:20.806Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.846Z"
+    verified_at: "2026-11-13T13:48:20.806Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

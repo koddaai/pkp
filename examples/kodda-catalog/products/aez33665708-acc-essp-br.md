@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aez33665708-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Botão rotativo do painel de controle  Lavadora LG WD-1410RD, WD11WP6A, WD1412RT - AEZ33665708 - AEZ33665708"
+name: "Botão rotativo do painel de controle  Lavadora LG WD-1410RD, WD11WP6A, WD1412RT - AEZ33665708 - AEZ33665708 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 136.04
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.906Z"
+  updated_at: "2026-11-13T13:48:20.864Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.906Z"
+    verified_at: "2026-11-13T13:48:20.864Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.906Z"
+    verified_at: "2026-11-13T13:48:20.864Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

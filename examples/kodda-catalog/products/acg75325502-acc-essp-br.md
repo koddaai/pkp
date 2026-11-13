@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acg75325502-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina da unidade condensadora Ar Condicionado LG USUW092WSZ2, ASUQ092WSA0,USUW122HSG3 - ACG75325502 - ACG75325502"
+name: "Serpentina da unidade condensadora Ar Condicionado LG USUW092WSZ2, ASUQ092WSA0,USUW122HSG3 - ACG75325502 - ACG75325502 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1015.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.877Z"
+  updated_at: "2026-11-13T13:48:20.835Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.877Z"
+    verified_at: "2026-11-13T13:48:20.835Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.877Z"
+    verified_at: "2026-11-13T13:48:20.835Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "hu70la-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Projetor LG CineBeam Smart TV UHD 140\" 4K  Led RGBB 1.500 lúmens ANSI 150.000:1  HU70LA - HU70LA"
+name: "Projetor LG CineBeam Smart TV UHD 140\" 4K  Led RGBB 1.500 lúmens ANSI 150.000:1  HU70LA - HU70LA | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6499
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.198Z"
+  updated_at: "2026-11-13T13:48:21.156Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.198Z"
+    verified_at: "2026-11-13T13:48:21.156Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.198Z"
+    verified_at: "2026-11-13T13:48:21.156Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

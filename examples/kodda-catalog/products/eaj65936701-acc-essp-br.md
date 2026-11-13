@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65936701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de Cristal Líquido Módulo Monitor LG EAJ65915801 - EAJ65936701"
+name: "Tela de Cristal Líquido Módulo Monitor LG EAJ65915801 - EAJ65936701 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 654.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.053Z"
+  updated_at: "2026-11-13T13:48:20.999Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.053Z"
+    verified_at: "2026-11-13T13:48:20.999Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.053Z"
+    verified_at: "2026-11-13T13:48:20.999Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

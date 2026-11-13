@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "e2q1810-obs-essp-br"
 # gtin: null
 brand: "LG"
-name: "2 Ambientes (Hiwall 2x12) Quente/Frio, WiFi, 220V , Ar Condicionado Multi Split - E2Q1810.OBS"
+name: "2 Ambientes (Hiwall 2x12) Quente/Frio, WiFi, 220V , Ar Condicionado Multi Split - E2Q1810.OBS | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8784.79
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.991Z"
+  updated_at: "2026-11-13T13:48:20.943Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.991Z"
+    verified_at: "2026-11-13T13:48:20.943Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.991Z"
+    verified_at: "2026-11-13T13:48:20.943Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

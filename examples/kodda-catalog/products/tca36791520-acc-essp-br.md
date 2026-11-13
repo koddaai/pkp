@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tca36791520-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motocompressor para Refrigerador LG GM402BPL TCA36791520 - TCA36791520"
+name: "Motocompressor para Refrigerador LG GM402BPL TCA36791520 - TCA36791520 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1317.51
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.275Z"
+  updated_at: "2026-11-13T13:48:21.213Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.275Z"
+    verified_at: "2026-11-13T13:48:21.213Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.275Z"
+    verified_at: "2026-11-13T13:48:21.213Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

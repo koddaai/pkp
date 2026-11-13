@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30388801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 65QNED80SRA AGF30388801 - AGF30388801"
+name: "Kit régua de LED TV LG 65QNED80SRA AGF30388801 - AGF30388801 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.914Z"
+  updated_at: "2026-11-13T13:48:20.872Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.914Z"
+    verified_at: "2026-11-13T13:48:20.872Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.914Z"
+    verified_at: "2026-11-13T13:48:20.872Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3b74133q-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fusível 65TS-200H Forno Micro-ondas LG MH8048AP, MS2096HSS, MS5640FRSE - 3B74133Q - 3B74133Q"
+name: "Fusível 65TS-200H Forno Micro-ondas LG MH8048AP, MS2096HSS, MS5640FRSE - 3B74133Q - 3B74133Q | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.789Z"
+  updated_at: "2026-11-13T13:48:20.737Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.789Z"
+    verified_at: "2026-11-13T13:48:20.737Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.789Z"
+    verified_at: "2026-11-13T13:48:20.737Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

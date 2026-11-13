@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4011en3006g-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Parafuso de segurança Lavadora LG WD-1485TDA, CV3011WG4A, CV5010TS4 - 4011EN3006G - 4011EN3006G"
+name: "Parafuso de segurança Lavadora LG WD-1485TDA, CV3011WG4A, CV5010TS4 - 4011EN3006G - 4011EN3006G | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.791Z"
+  updated_at: "2026-11-13T13:48:20.739Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.791Z"
+    verified_at: "2026-11-13T13:48:20.739Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.791Z"
+    verified_at: "2026-11-13T13:48:20.739Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

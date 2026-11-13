@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6601er1007a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Trava da porta Lavadora LG WD-1250ARD, WD-12311RDA - 6601ER1007A - 6601ER1007A"
+name: "Trava da porta Lavadora LG WD-1250ARD, WD-12311RDA - 6601ER1007A - 6601ER1007A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 265.05
+  value: 232.71
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.844Z"
+  updated_at: "2026-11-13T13:48:20.805Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.844Z"
+    verified_at: "2026-11-13T13:48:20.805Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.844Z"
+    verified_at: "2026-11-13T13:48:20.805Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

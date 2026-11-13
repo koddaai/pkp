@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead64947319-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Chicote elétrico Lavadora LG CV7011TC4A, CV5010TS4, CV7011WS4A - EAD64947319 - EAD64947319"
+name: "Chicote elétrico Lavadora LG CV7011TC4A, CV5010TS4, CV7011WS4A - EAD64947319 - EAD64947319 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 673.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.012Z"
+  updated_at: "2026-11-13T13:48:20.965Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.012Z"
+    verified_at: "2026-11-13T13:48:20.965Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.012Z"
+    verified_at: "2026-11-13T13:48:20.965Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr41914301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa receptor de comando TV LG OLED55C4PSA EBR41914301 - EBR41914301"
+name: "Placa receptor de comando TV LG OLED55C4PSA EBR41914301 - EBR41914301 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 113.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.110Z"
+  updated_at: "2026-11-13T13:48:21.062Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.110Z"
+    verified_at: "2026-11-13T13:48:21.062Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.110Z"
+    verified_at: "2026-11-13T13:48:21.062Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

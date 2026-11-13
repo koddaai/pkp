@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5220fr2009f-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Válvula para Lavadora de Roupas LG WD14311RDA 5220FR2009F - 5220FR2009F"
+name: "Válvula para Lavadora de Roupas LG WD14311RDA 5220FR2009F - 5220FR2009F | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.822Z"
+  updated_at: "2026-11-13T13:48:20.768Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.822Z"
+    verified_at: "2026-11-13T13:48:20.768Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.822Z"
+    verified_at: "2026-11-13T13:48:20.768Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aeb75005515-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bandeja do dreno Ar Condicionado LG S4NQ09WA5WB - AEB75005515 - AEB75005515"
+name: "Bandeja do dreno Ar Condicionado LG S4NQ09WA5WB - AEB75005515 - AEB75005515 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.899Z"
+  updated_at: "2026-11-13T13:48:20.857Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.899Z"
+    verified_at: "2026-11-13T13:48:20.857Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.899Z"
+    verified_at: "2026-11-13T13:48:20.857Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

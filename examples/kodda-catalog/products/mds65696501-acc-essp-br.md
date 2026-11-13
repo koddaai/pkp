@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mds65696501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação de borracha da porta Lava e Seca LG WD11SB6D, F4A8JMB3W, F4A8JMB2S - MDS65696501 - MDS65696501"
+name: "Vedação de borracha da porta Lava e Seca LG WD11SB6D, F4A8JMB3W, F4A8JMB2S - MDS65696501 - MDS65696501 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 265.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.225Z"
+  updated_at: "2026-11-13T13:48:21.170Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.225Z"
+    verified_at: "2026-11-13T13:48:21.170Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.225Z"
+    verified_at: "2026-11-13T13:48:21.170Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

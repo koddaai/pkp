@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mck67732664-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Gabinete metálico frontaL Máquina de Lavar Roupas LG CV5013EC4 - MCK67732664 - MCK67732664"
+name: "Gabinete metálico frontaL Máquina de Lavar Roupas LG CV5013EC4 - MCK67732664 - MCK67732664 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 607.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.219Z"
+  updated_at: "2026-11-13T13:48:21.164Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.219Z"
+    verified_at: "2026-11-13T13:48:21.164Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.219Z"
+    verified_at: "2026-11-13T13:48:21.164Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

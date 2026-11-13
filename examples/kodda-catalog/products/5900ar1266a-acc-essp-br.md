@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5900ar1266a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hélice da condensadora Ar Condicionado LG TSUC072YDA0, TSUC072YMA0, TSUH092YMA0 - 5900AR1266A - 5900AR1266A"
+name: "Hélice da condensadora Ar Condicionado LG TSUC072YDA0, TSUC072YMA0, TSUH092YMA0 - 5900AR1266A - 5900AR1266A | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 174.76
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.832Z"
+  updated_at: "2026-11-13T13:48:20.777Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.832Z"
+    verified_at: "2026-11-13T13:48:20.777Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.832Z"
+    verified_at: "2026-11-13T13:48:20.777Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

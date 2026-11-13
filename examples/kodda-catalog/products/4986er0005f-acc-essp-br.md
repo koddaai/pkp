@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4986er0005f-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação em borracha da porta (Guarnição) Lavadora LG WD-12320RD, WD-12321RDK - 4986ER0005F - 4986ER0005F"
+name: "Vedação em borracha da porta (Guarnição) Lavadora LG WD-12320RD, WD-12321RDK - 4986ER0005F - 4986ER0005F | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 339.39
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.809Z"
+  updated_at: "2026-11-13T13:48:20.760Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.809Z"
+    verified_at: "2026-11-13T13:48:20.760Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.809Z"
+    verified_at: "2026-11-13T13:48:20.760Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

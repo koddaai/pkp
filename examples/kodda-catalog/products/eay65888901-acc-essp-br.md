@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65888901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte externa ADS-25FSF-19 19V/0.84A Monitor LCD 20M37AA, 22MK400H - EAY65888901 - EAY65888901"
+name: "Fonte externa ADS-25FSF-19 19V/0.84A Monitor LCD 20M37AA, 22MK400H - EAY65888901 - EAY65888901 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.081Z"
+  updated_at: "2026-11-13T13:48:21.030Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.081Z"
+    verified_at: "2026-11-13T13:48:21.030Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.081Z"
+    verified_at: "2026-11-13T13:48:21.030Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

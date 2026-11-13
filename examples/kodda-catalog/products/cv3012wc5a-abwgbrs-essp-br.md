@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "cv3012wc5a-abwgbrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lava e Seca LG VC5 12kg Branca com Inteligência Artificial AIDD™ (CV3012WC5A) - 220v - CV3012WC5A"
+name: "Lava e Seca LG VC5 12kg Branca com Inteligência Artificial AIDD™ (CV3012WC5A) - 220v - CV3012WC5A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3514.05
+  value: 3704.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.988Z"
+  updated_at: "2026-11-13T13:48:20.939Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.988Z"
+    verified_at: "2026-11-13T13:48:20.939Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.988Z"
+    verified_at: "2026-11-13T13:48:20.939Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

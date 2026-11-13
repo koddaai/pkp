@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adl73301311-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina da evaporadora Ar Condicionado LG USNW092WSZ2, USNC072W4W0, USNW092WSG3 - ADL73301311 - ADL73301311"
+name: "Serpentina da evaporadora Ar Condicionado LG USNW092WSZ2, USNC072W4W0, USNW092WSG3 - ADL73301311 - ADL73301311 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 844.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.888Z"
+  updated_at: "2026-11-13T13:48:20.846Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.888Z"
+    verified_at: "2026-11-13T13:48:20.846Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.888Z"
+    verified_at: "2026-11-13T13:48:20.846Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

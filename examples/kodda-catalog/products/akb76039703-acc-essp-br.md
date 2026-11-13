@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb76039703-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Magic Remote para TV série 2021 - AKB76039703"
+name: "Controle Magic Remote para TV série 2021 - AKB76039703 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 157.09
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.960Z"
+  updated_at: "2026-11-13T13:48:20.924Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.960Z"
+    verified_at: "2026-11-13T13:48:20.924Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.960Z"
+    verified_at: "2026-11-13T13:48:20.924Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

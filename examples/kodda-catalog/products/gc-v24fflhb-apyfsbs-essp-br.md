@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gc-v24fflhb-apyfsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira Multidoor LG 670L Inox Look com InstaView™ e Compressor Inverter - 127V - GC-V24FFLHB"
+name: "Geladeira Multidoor LG 670L Inox Look com InstaView™ e Compressor Inverter - 127V - GC-V24FFLHB | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 11399.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.195Z"
+  updated_at: "2026-11-13T13:48:21.150Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.195Z"
+    verified_at: "2026-11-13T13:48:21.150Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.195Z"
+    verified_at: "2026-11-13T13:48:21.150Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr86093723-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Refrigerador LG GRX228NMS1 EBR86093723 - EBR86093723"
+name: "Placa Principal Refrigerador LG GRX228NMS1 EBR86093723 - EBR86093723 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1558.93
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.145Z"
+  updated_at: "2026-11-13T13:48:21.100Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.145Z"
+    verified_at: "2026-11-13T13:48:21.100Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.145Z"
+    verified_at: "2026-11-13T13:48:21.100Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

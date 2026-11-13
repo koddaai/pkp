@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb73756524-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto LG TV Smart AKB73756524 - AKB73756524"
+name: "Controle Remoto LG TV Smart AKB73756524 - AKB73756524 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 60.79
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.950Z"
+  updated_at: "2026-11-13T13:48:20.914Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.950Z"
+    verified_at: "2026-11-13T13:48:20.914Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.950Z"
+    verified_at: "2026-11-13T13:48:20.914Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

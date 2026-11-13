@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mft64808222-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Etiqueta Logo Adesiva Refrigerador LG GRX228NMSM MFT64808222 - MFT64808222"
+name: "Etiqueta Logo Adesiva Refrigerador LG GRX228NMSM MFT64808222 - MFT64808222 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.236Z"
+  updated_at: "2026-11-13T13:48:21.180Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.236Z"
+    verified_at: "2026-11-13T13:48:21.180Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.236Z"
+    verified_at: "2026-11-13T13:48:21.180Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

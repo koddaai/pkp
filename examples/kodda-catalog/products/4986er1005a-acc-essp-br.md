@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4986er1005a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação em borracha (Guarnição) Lavadora LG WD1496ADPA, WD-14312RD - 4986ER1005A - 4986ER1005A"
+name: "Vedação em borracha (Guarnição) Lavadora LG WD1496ADPA, WD-14312RD - 4986ER1005A - 4986ER1005A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 246.05
+  value: 181.19
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.809Z"
+  updated_at: "2026-11-13T13:48:20.760Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.809Z"
+    verified_at: "2026-11-13T13:48:20.760Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.809Z"
+    verified_at: "2026-11-13T13:48:20.760Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

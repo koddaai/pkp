@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr30169518-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Caixa de Som Xboom LG RNC5 EBR30169518 - EBR30169518"
+name: "Placa Principal Caixa de Som Xboom LG RNC5 EBR30169518 - EBR30169518 | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 473.82
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.099Z"
+  updated_at: "2026-11-13T13:48:21.049Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.099Z"
+    verified_at: "2026-11-13T13:48:21.049Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.099Z"
+    verified_at: "2026-11-13T13:48:21.049Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

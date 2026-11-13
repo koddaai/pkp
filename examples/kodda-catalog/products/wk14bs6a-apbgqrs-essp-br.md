@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "wk14bs6a-apbgqrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lava e Seca Torre WashTower 14kg Black Inox - 220V - WK14BS6A"
+name: "Lava e Seca Torre WashTower 14kg Black Inox - 220V - WK14BS6A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -27,9 +27,9 @@ tags: ["lg", "4k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 13299.05
+  value: 14249.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.281Z"
+  updated_at: "2026-11-13T13:48:21.219Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.281Z"
+    verified_at: "2026-11-13T13:48:21.219Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.281Z"
+    verified_at: "2026-11-13T13:48:21.219Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

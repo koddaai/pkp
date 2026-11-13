@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr79004828-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal da evaporadora Ar Condicionado LG CRNU07GL1G4 - EBR79004828 - EBR79004828"
+name: "Placa principal da evaporadora Ar Condicionado LG CRNU07GL1G4 - EBR79004828 - EBR79004828 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 854.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.124Z"
+  updated_at: "2026-11-13T13:48:21.078Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.124Z"
+    verified_at: "2026-11-13T13:48:21.078Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.124Z"
+    verified_at: "2026-11-13T13:48:21.078Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

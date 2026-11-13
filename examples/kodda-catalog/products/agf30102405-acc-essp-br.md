@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30102405-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 65UQ7950PSB AGF30102405 - AGF30102405"
+name: "Kit régua de LED TV LG 65UQ7950PSB AGF30102405 - AGF30102405 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 436.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.910Z"
+  updated_at: "2026-11-13T13:48:20.869Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.910Z"
+    verified_at: "2026-11-13T13:48:20.869Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.910Z"
+    verified_at: "2026-11-13T13:48:20.869Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

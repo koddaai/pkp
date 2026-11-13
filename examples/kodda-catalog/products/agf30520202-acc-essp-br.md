@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30520202-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Peça - Tela de cristal líquido (Módulo) Monitor LG - AGF30520202 - AGF30520202"
+name: "Peça - Tela de cristal líquido (Módulo) Monitor LG - AGF30520202 - AGF30520202 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 550.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.915Z"
+  updated_at: "2026-11-13T13:48:20.874Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.915Z"
+    verified_at: "2026-11-13T13:48:20.874Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.915Z"
+    verified_at: "2026-11-13T13:48:20.874Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

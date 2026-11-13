@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr71326806-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Sensor Refrigerador LG GRX228NMSM EBR71326806 - EBR71326806"
+name: "Sensor Refrigerador LG GRX228NMSM EBR71326806 - EBR71326806 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.113Z"
+  updated_at: "2026-11-13T13:48:21.066Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.113Z"
+    verified_at: "2026-11-13T13:48:21.066Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.113Z"
+    verified_at: "2026-11-13T13:48:21.066Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

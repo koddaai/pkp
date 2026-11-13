@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-w18klr7a-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Cond. LG Dual Inv. Voice +AI 18.000 BTU - S3-W18KLR7A"
+name: "Ar-Cond. LG Dual Inv. Voice +AI 18.000 BTU - S3-W18KLR7A | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter", "8k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 4986.94
+  value: 5323.13
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.265Z"
+  updated_at: "2026-11-13T13:48:21.204Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.265Z"
+    verified_at: "2026-11-13T13:48:21.204Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.265Z"
+    verified_at: "2026-11-13T13:48:21.204Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

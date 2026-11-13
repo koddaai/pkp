@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "28mq780-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG Ergo DualUp 28\" Nano IPS SDQHD 2560x2880 60Hz 5ms (GtG) USB HDMI HDR10 PBP KVM 28MQ780-B - 28MQ780-B"
+name: "Monitor LG Ergo DualUp 28\" Nano IPS SDQHD 2560x2880 60Hz 5ms (GtG) USB HDMI HDR10 PBP KVM 28MQ780-B - 28MQ780-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3489.35
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.779Z"
+  updated_at: "2026-11-13T13:48:20.726Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.779Z"
+    verified_at: "2026-11-13T13:48:20.726Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.779Z"
+    verified_at: "2026-11-13T13:48:20.726Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

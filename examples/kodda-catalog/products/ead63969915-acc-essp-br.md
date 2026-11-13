@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead63969915-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flat TV LG 49UJ6300, 55UJ6300 - EAD63969915 - EAD63969915"
+name: "Cabo Flat TV LG 49UJ6300, 55UJ6300 - EAD63969915 - EAD63969915 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.009Z"
+  updated_at: "2026-11-13T13:48:20.962Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.009Z"
+    verified_at: "2026-11-13T13:48:20.962Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.009Z"
+    verified_at: "2026-11-13T13:48:20.962Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

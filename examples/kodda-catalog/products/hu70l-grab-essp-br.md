@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "hu70l-grab-essp-br"
 # gtin: null
 brand: "LG"
-name: "Projetor LG CineBeam Smart TV UHD 140\" 4K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA   - HU70L.GRAB"
+name: "Projetor LG CineBeam Smart TV UHD 140\" 4K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA   - HU70L.GRAB | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6513.52
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.198Z"
+  updated_at: "2026-11-13T13:48:21.156Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.198Z"
+    verified_at: "2026-11-13T13:48:21.156Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.198Z"
+    verified_at: "2026-11-13T13:48:21.156Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

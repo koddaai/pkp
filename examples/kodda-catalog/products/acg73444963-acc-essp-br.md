@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acg73444963-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina da unidade condensadora Ar Condicionado LG S4UQ12JA314 - ACG73444963 - ACG73444963"
+name: "Serpentina da unidade condensadora Ar Condicionado LG S4UQ12JA314 - ACG73444963 - ACG73444963 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 888.34
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.876Z"
+  updated_at: "2026-11-13T13:48:20.833Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.876Z"
+    verified_at: "2026-11-13T13:48:20.833Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.876Z"
+    verified_at: "2026-11-13T13:48:20.833Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

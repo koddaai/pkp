@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebf61315801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Trava da porta Lava e Seca LG WD1252RWA, CWG27MDCRS, F12U1TCN4 - EBF61315801 - EBF61315801"
+name: "Trava da porta Lava e Seca LG WD1252RWA, CWG27MDCRS, F12U1TCN4 - EBF61315801 - EBF61315801 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 80.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.088Z"
+  updated_at: "2026-11-13T13:48:21.037Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.088Z"
+    verified_at: "2026-11-13T13:48:21.037Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.088Z"
+    verified_at: "2026-11-13T13:48:21.037Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

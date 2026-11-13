@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead65825806-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flat TV LG 50UN7310PSC, 50UP7550PSF, 50UQ751C0SF - EAD65825806 - EAD65825806"
+name: "Cabo Flat TV LG 50UN7310PSC, 50UP7550PSF, 50UQ751C0SF - EAD65825806 - EAD65825806 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.016Z"
+  updated_at: "2026-11-13T13:48:20.969Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.016Z"
+    verified_at: "2026-11-13T13:48:20.969Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.016Z"
+    verified_at: "2026-11-13T13:48:20.969Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

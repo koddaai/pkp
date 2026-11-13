@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "csp30276142-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Ar Condicionado LG S3NQ09AA31A CSP30276142 - CSP30276142"
+name: "Placa Principal Ar Condicionado LG S3NQ09AA31A CSP30276142 - CSP30276142 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.986Z"
+  updated_at: "2026-11-13T13:48:20.938Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.986Z"
+    verified_at: "2026-11-13T13:48:20.938Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.986Z"
+    verified_at: "2026-11-13T13:48:20.938Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

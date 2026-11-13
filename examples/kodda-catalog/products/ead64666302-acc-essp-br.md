@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead64666302-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flat TV LG 55UK6360PSF - EAD64666302 - EAD64666302"
+name: "Cabo Flat TV LG 55UK6360PSF - EAD64666302 - EAD64666302 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.012Z"
+  updated_at: "2026-11-13T13:48:20.965Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.012Z"
+    verified_at: "2026-11-13T13:48:20.965Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.012Z"
+    verified_at: "2026-11-13T13:48:20.965Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

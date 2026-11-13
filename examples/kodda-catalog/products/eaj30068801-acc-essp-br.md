@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj30068801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido BA TV LG 65NANO75SPA EAJ30068801 - EAJ30068801"
+name: "Tela de cristal líquido BA TV LG 65NANO75SPA EAJ30068801 - EAJ30068801 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1349.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.022Z"
+  updated_at: "2026-11-13T13:48:20.975Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.022Z"
+    verified_at: "2026-11-13T13:48:20.975Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.022Z"
+    verified_at: "2026-11-13T13:48:20.975Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

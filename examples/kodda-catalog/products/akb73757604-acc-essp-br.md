@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb73757604-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle remoto para ar-condicionado de parede (suporte incluso) - AKB73757604"
+name: "Controle remoto para ar-condicionado de parede (suporte incluso) - AKB73757604 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 120.6
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.950Z"
+  updated_at: "2026-11-13T13:48:20.914Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.950Z"
+    verified_at: "2026-11-13T13:48:20.914Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.950Z"
+    verified_at: "2026-11-13T13:48:20.914Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

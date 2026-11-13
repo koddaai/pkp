@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr88121722-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Home Theater LG LHD687BG EBR88121722 - EBR88121722"
+name: "Placa Principal Home Theater LG LHD687BG EBR88121722 - EBR88121722 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 582.23
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.151Z"
+  updated_at: "2026-11-13T13:48:21.106Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.151Z"
+    verified_at: "2026-11-13T13:48:21.106Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.151Z"
+    verified_at: "2026-11-13T13:48:21.106Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "20u401a-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG LED Home & Office 20U401A-B Tela 20” HD+, LG Switch, Modo leitura e Flicker Safe, HDMI, VGA, 2ms (GtG), 75Hz, Black Stabilizer, Dynamic Action Sync, Crosshair, saída fone de ouvido - 20U401A-B"
+name: "Monitor LG LED Home & Office 20U401A-B Tela 20” HD+, LG Switch, Modo leitura e Flicker Safe, HDMI, VGA, 2ms (GtG), 75Hz, Black Stabilizer, Dynamic Action Sync, Crosshair, saída fone de ouvido - 20U401A-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 419
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.772Z"
+  updated_at: "2026-11-13T13:48:20.718Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.772Z"
+    verified_at: "2026-11-13T13:48:20.718Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.772Z"
+    verified_at: "2026-11-13T13:48:20.718Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

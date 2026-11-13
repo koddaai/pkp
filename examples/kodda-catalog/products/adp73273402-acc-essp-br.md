@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adp73273402-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hélice de Plástico Refrigerador LG K417SS13 ADP73273402 - ADP73273402"
+name: "Hélice de Plástico Refrigerador LG K417SS13 ADP73273402 - ADP73273402 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 25.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.893Z"
+  updated_at: "2026-11-13T13:48:20.851Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.893Z"
+    verified_at: "2026-11-13T13:48:20.851Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.893Z"
+    verified_at: "2026-11-13T13:48:20.851Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

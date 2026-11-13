@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr78770649-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do display Lava e Seca LG WD11WP6A, F4A8JMB2S, FH4A8JDMB4N - EBR78770649 - EBR78770649"
+name: "Placa do display Lava e Seca LG WD11WP6A, F4A8JMB2S, FH4A8JDMB4N - EBR78770649 - EBR78770649 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1063.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.123Z"
+  updated_at: "2026-11-13T13:48:21.077Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.123Z"
+    verified_at: "2026-11-13T13:48:21.077Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.123Z"
+    verified_at: "2026-11-13T13:48:21.077Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

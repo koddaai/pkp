@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "6324w1a003d-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Magnetron 2M214-240GP Micro-ondas LG MS3047G - 6324W1A003D - 6324W1A003D"
+name: "Magnetron 2M214-240GP Micro-ondas LG MS3047G - 6324W1A003D - 6324W1A003D | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.838Z"
+  updated_at: "2026-11-13T13:48:20.799Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.838Z"
+    verified_at: "2026-11-13T13:48:20.799Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.838Z"
+    verified_at: "2026-11-13T13:48:20.799Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

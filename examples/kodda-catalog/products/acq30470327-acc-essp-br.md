@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acq30470327-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cobertura Plástica Traseira TV LG 60UQ8050PSB ACQ30470327 - ACQ30470327"
+name: "Cobertura Plástica Traseira TV LG 60UQ8050PSB ACQ30470327 - ACQ30470327 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 920.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.879Z"
+  updated_at: "2026-11-13T13:48:20.837Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.879Z"
+    verified_at: "2026-11-13T13:48:20.837Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.879Z"
+    verified_at: "2026-11-13T13:48:20.837Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

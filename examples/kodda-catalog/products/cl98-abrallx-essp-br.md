@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "cl98-abrallx-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bluetooth speaker LG XBOOM CL98 3500W Karaokê Party Speaker - CL98"
+name: "Bluetooth speaker LG XBOOM CL98 3500W Karaokê Party Speaker - CL98 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3324.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.964Z"
+  updated_at: "2026-11-13T13:48:20.929Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.964Z"
+    verified_at: "2026-11-13T13:48:20.929Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.964Z"
+    verified_at: "2026-11-13T13:48:20.929Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

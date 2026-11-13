@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr86064216-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal da evaporado Ar Condicionado LG AMNW09GSJA0 - EBR86064216 - EBR86064216"
+name: "Placa principal da evaporado Ar Condicionado LG AMNW09GSJA0 - EBR86064216 - EBR86064216 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 251.81
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.145Z"
+  updated_at: "2026-11-13T13:48:21.100Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.145Z"
+    verified_at: "2026-11-13T13:48:21.100Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.145Z"
+    verified_at: "2026-11-13T13:48:21.100Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

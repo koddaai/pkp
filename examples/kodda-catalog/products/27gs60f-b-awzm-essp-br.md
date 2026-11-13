@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27gs60f-b-awzm-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor Gamer LG UltraGear 27” IPS, 180Hz, 1ms (GtG), NVIDIA® G-SYNC® , AMD FreeSync™, HDR10, sRGB 99% - 27GS60F-B - 27GS60F-B"
+name: "Monitor Gamer LG UltraGear 27” IPS, 180Hz, 1ms (GtG), NVIDIA® G-SYNC® , AMD FreeSync™, HDR10, sRGB 99% - 27GS60F-B - 27GS60F-B | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "hdr", "ultra", "gamer"]
 price:
   type: "street"
   currency: "BRL"
-  value: 946.42
+  value: 999
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.775Z"
+  updated_at: "2026-11-13T13:48:20.722Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.775Z"
+    verified_at: "2026-11-13T13:48:20.722Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.775Z"
+    verified_at: "2026-11-13T13:48:20.722Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

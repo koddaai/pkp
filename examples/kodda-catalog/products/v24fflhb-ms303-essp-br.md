@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "v24fflhb-ms303-essp-br"
 # gtin: null
 brand: "LG"
-name: "Combo LG Geladeira Smart Multidoor 670L Inverter InstaView Inox Look 127V + Micro-ondas NeoChef 30 litros Preto Limpa Fácil 127V - V24FFLHB.MS303"
+name: "Combo LG Geladeira Smart Multidoor 670L Inverter InstaView Inox Look 127V + Micro-ondas NeoChef 30 litros Preto Limpa Fácil 127V - V24FFLHB.MS303 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 13744.83
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.278Z"
+  updated_at: "2026-11-13T13:48:21.215Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.278Z"
+    verified_at: "2026-11-13T13:48:21.215Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.278Z"
+    verified_at: "2026-11-13T13:48:21.215Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

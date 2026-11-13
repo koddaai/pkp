@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr88543212-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Ar Condicionado LG S4NW18KL31A EBR88543212 - EBR88543212"
+name: "Placa Principal Ar Condicionado LG S4NW18KL31A EBR88543212 - EBR88543212 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 373.01
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.153Z"
+  updated_at: "2026-11-13T13:48:21.108Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.153Z"
+    verified_at: "2026-11-13T13:48:21.108Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.153Z"
+    verified_at: "2026-11-13T13:48:21.108Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

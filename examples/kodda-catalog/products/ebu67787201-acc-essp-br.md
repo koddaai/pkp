@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu67787201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Monitor LG 27GS60FB EBU67787201 - EBU67787201"
+name: "Placa Principal Monitor LG 27GS60FB EBU67787201 - EBU67787201 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 504.5
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.186Z"
+  updated_at: "2026-11-13T13:48:21.142Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.186Z"
+    verified_at: "2026-11-13T13:48:21.142Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.186Z"
+    verified_at: "2026-11-13T13:48:21.142Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

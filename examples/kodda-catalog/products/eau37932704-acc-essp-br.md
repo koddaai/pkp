@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau37932704-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor Lavadora LG WD-1485AD, WD1496ADPA, WD9EP6 - EAU37932704 - EAU37932704"
+name: "Motor Lavadora LG WD-1485AD, WD1496ADPA, WD9EP6 - EAU37932704 - EAU37932704 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 312.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.061Z"
+  updated_at: "2026-11-13T13:48:21.006Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.061Z"
+    verified_at: "2026-11-13T13:48:21.006Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.061Z"
+    verified_at: "2026-11-13T13:48:21.006Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

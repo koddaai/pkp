@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acg73867718-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina condensadora Ar Condicionado LG S4UW24KERP1 - ACG73867718 - ACG73867718"
+name: "Serpentina condensadora Ar Condicionado LG S4UW24KERP1 - ACG73867718 - ACG73867718 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1243.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.877Z"
+  updated_at: "2026-11-13T13:48:20.835Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.877Z"
+    verified_at: "2026-11-13T13:48:20.835Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.877Z"
+    verified_at: "2026-11-13T13:48:20.835Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

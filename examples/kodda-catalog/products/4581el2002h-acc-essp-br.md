@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4581el2002h-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Roldona do cesto Secadora LG DY1119RD7, DF17VVS, DLEY1701V - 4581EL2002H - 4581EL2002H"
+name: "Roldona do cesto Secadora LG DY1119RD7, DF17VVS, DLEY1701V - 4581EL2002H - 4581EL2002H | LG BR"
 category: "eletrodomesticos"
 subcategory: "secadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 227.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.798Z"
+  updated_at: "2026-11-13T13:48:20.747Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.798Z"
+    verified_at: "2026-11-13T13:48:20.747Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.798Z"
+    verified_at: "2026-11-13T13:48:20.747Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

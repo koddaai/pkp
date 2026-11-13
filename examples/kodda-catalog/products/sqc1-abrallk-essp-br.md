@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "sqc1-abrallk-essp-br"
 # gtin: null
 brand: "LG"
-name: "SoundBar LG SQC1 – 160W RMS, Conexão Bluetooth, 2.1 Canais, Auto Sound Engine (ASE), Adaptive Sound Control (ASC), Sem fios, Conexões Múltiplas - SQC1"
+name: "SoundBar LG SQC1 – 160W RMS, Conexão Bluetooth, 2.1 Canais, Auto Sound Engine (ASE), Adaptive Sound Control (ASC), Sem fios, Conexões Múltiplas - SQC1 | LG BR"
 category: "audio"
 subcategory: "soundbar"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 899.1
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.270Z"
+  updated_at: "2026-11-13T13:48:21.207Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.270Z"
+    verified_at: "2026-11-13T13:48:21.207Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.270Z"
+    verified_at: "2026-11-13T13:48:21.207Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead62425604-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo de alimentação TV LG 32LN640R EAD62425604 - EAD62425604"
+name: "Cabo de alimentação TV LG 32LN640R EAD62425604 - EAD62425604 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.004Z"
+  updated_at: "2026-11-13T13:48:20.957Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.004Z"
+    verified_at: "2026-11-13T13:48:20.957Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.004Z"
+    verified_at: "2026-11-13T13:48:20.957Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

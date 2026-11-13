@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan30063508-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base Pedestal TV LG 55LX1QPSA AAN30063508 - AAN30063508"
+name: "Base Pedestal TV LG 55LX1QPSA AAN30063508 - AAN30063508 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 595.59
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.857Z"
+  updated_at: "2026-11-13T13:48:20.816Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.857Z"
+    verified_at: "2026-11-13T13:48:20.816Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.857Z"
+    verified_at: "2026-11-13T13:48:20.816Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

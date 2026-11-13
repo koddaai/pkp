@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adx72910108-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação de borracha da porta Refrigerador LG GC-L207BSKV, GC-L216BSK,GC-L216BSK1 - ADX72910108 - ADX72910108"
+name: "Vedação de borracha da porta Refrigerador LG GC-L207BSKV, GC-L216BSK,GC-L216BSK1 - ADX72910108 - ADX72910108 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 239.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.898Z"
+  updated_at: "2026-11-13T13:48:20.856Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.898Z"
+    verified_at: "2026-11-13T13:48:20.856Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.898Z"
+    verified_at: "2026-11-13T13:48:20.856Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

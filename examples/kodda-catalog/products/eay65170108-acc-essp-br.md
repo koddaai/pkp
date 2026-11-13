@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65170108-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da fonte TV LG 43UM7300PSA, 43UN731C0SC, 43UP7500PSF - EAY65170108 - EAY65170108"
+name: "Placa da fonte TV LG 43UM7300PSA, 43UN731C0SC, 43UP7500PSF - EAY65170108 - EAY65170108 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 322.5
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.079Z"
+  updated_at: "2026-11-13T13:48:21.024Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.079Z"
+    verified_at: "2026-11-13T13:48:21.024Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.079Z"
+    verified_at: "2026-11-13T13:48:21.024Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

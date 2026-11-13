@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr77678901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Sub Refrigerador LG GMC372SLCN EBR77678901 - EBR77678901"
+name: "Placa Sub Refrigerador LG GMC372SLCN EBR77678901 - EBR77678901 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 683.13
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.120Z"
+  updated_at: "2026-11-13T13:48:21.074Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.120Z"
+    verified_at: "2026-11-13T13:48:21.074Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.120Z"
+    verified_at: "2026-11-13T13:48:21.074Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

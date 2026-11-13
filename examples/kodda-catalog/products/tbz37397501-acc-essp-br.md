@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tbz37397501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Compressor 8.296 FRIG/HR 32.928 BTUs GAT156M Ar Condicionado LG S4UW18KL3WA, ATUW18GPLP0 - TBZ37397501 - TBZ37397501"
+name: "Compressor 8.296 FRIG/HR 32.928 BTUs GAT156M Ar Condicionado LG S4UW18KL3WA, ATUW18GPLP0 - TBZ37397501 - TBZ37397501 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -27,9 +27,9 @@ tags: ["lg", "8k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1633.05
+  value: 1306.44
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.272Z"
+  updated_at: "2026-11-13T13:48:21.209Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.272Z"
+    verified_at: "2026-11-13T13:48:21.209Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.272Z"
+    verified_at: "2026-11-13T13:48:21.209Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

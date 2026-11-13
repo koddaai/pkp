@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4970wra001g-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mola Helicoidal Forno Micro Ondas LG MH7043R 4970WRA001G - 4970WRA001G"
+name: "Mola Helicoidal Forno Micro Ondas LG MH7043R 4970WRA001G - 4970WRA001G | LG BR"
 category: "eletrodomesticos"
 subcategory: "forno"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 43.17
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.808Z"
+  updated_at: "2026-11-13T13:48:20.759Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.808Z"
+    verified_at: "2026-11-13T13:48:20.759Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.808Z"
+    verified_at: "2026-11-13T13:48:20.759Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

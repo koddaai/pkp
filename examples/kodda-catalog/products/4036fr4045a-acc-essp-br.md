@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4036fr4045a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Vedação de Borracha Lavadora LG WD1403RD5 4036FR4045A - 4036FR4045A"
+name: "Vedação de Borracha Lavadora LG WD1403RD5 4036FR4045A - 4036FR4045A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.793Z"
+  updated_at: "2026-11-13T13:48:20.741Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.793Z"
+    verified_at: "2026-11-13T13:48:20.741Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.793Z"
+    verified_at: "2026-11-13T13:48:20.741Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

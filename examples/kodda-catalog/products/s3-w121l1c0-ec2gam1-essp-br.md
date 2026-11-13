@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-w121l1c0-ec2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG AI Dual Inverter Uniq 12.000 BTU Quente/Frio 220V - S3-W121L1C0"
+name: "Ar-Condicionado LG AI Dual Inverter Uniq 12.000 BTU Quente/Frio 220V - S3-W121L1C0 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7801.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.256Z"
+  updated_at: "2026-11-13T13:48:21.201Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.256Z"
+    verified_at: "2026-11-13T13:48:21.201Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.256Z"
+    verified_at: "2026-11-13T13:48:21.201Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

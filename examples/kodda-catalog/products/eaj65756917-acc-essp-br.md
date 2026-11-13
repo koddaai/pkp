@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65756917-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido BA TV LG 55UT8050PSA EAJ65756917 - EAJ65756917"
+name: "Tela de cristal líquido BA TV LG 55UT8050PSA EAJ65756917 - EAJ65756917 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1481.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.044Z"
+  updated_at: "2026-11-13T13:48:20.992Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.044Z"
+    verified_at: "2026-11-13T13:48:20.992Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.044Z"
+    verified_at: "2026-11-13T13:48:20.992Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

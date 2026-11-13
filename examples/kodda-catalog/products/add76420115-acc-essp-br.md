@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "add76420115-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Porta do Freezer Refrigerador LG - ADD76420115 - ADD76420115"
+name: "Porta do Freezer Refrigerador LG - ADD76420115 - ADD76420115 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2284.6
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.886Z"
+  updated_at: "2026-11-13T13:48:20.844Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.886Z"
+    verified_at: "2026-11-13T13:48:20.844Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.886Z"
+    verified_at: "2026-11-13T13:48:20.844Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

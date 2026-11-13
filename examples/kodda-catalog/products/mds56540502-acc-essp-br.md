@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mds56540502-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Borracha porta Lavadora LG WD1014RDA7 - MDS56540502 - MDS56540502"
+name: "Borracha porta Lavadora LG WD1014RDA7 - MDS56540502 - MDS56540502 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 350.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.223Z"
+  updated_at: "2026-11-13T13:48:21.168Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.223Z"
+    verified_at: "2026-11-13T13:48:21.168Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.223Z"
+    verified_at: "2026-11-13T13:48:21.168Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

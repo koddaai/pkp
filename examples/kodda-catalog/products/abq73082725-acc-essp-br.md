@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "abq73082725-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do Display Ar Condicionado LG ABQ73082725 - ABQ73082725"
+name: "Placa do Display Ar Condicionado LG ABQ73082725 - ABQ73082725 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 108.53
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.871Z"
+  updated_at: "2026-11-13T13:48:20.829Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.871Z"
+    verified_at: "2026-11-13T13:48:20.829Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.871Z"
+    verified_at: "2026-11-13T13:48:20.829Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

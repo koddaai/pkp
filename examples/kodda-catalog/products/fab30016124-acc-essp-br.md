@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "fab30016124-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Parafuso para monitor desktop LG 32LV2500, 42LY760H, 43LF5100 - FAB30016124 - FAB30016124"
+name: "Parafuso para monitor desktop LG 32LV2500, 42LY760H, 43LF5100 - FAB30016124 - FAB30016124 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 19.73
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.190Z"
+  updated_at: "2026-11-13T13:48:21.145Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.190Z"
+    verified_at: "2026-11-13T13:48:21.145Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.190Z"
+    verified_at: "2026-11-13T13:48:21.145Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

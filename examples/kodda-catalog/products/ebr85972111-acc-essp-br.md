@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr85972111-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do display Ar Condicionado LG EBR85972111 - EBR85972111"
+name: "Placa do display Ar Condicionado LG EBR85972111 - EBR85972111 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 303.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.143Z"
+  updated_at: "2026-11-13T13:48:21.098Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.143Z"
+    verified_at: "2026-11-13T13:48:21.098Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.143Z"
+    verified_at: "2026-11-13T13:48:21.098Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

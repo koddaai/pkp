@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay62990913-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte externa DA-65G19 Monitor LG 32UK550, 34GL750-B.AWZM, 34WP65C-B - EAY62990913 - EAY62990913"
+name: "Fonte externa DA-65G19 Monitor LG 32UK550, 34GL750-B.AWZM, 34WP65C-B - EAY62990913 - EAY62990913 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 227.43
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.073Z"
+  updated_at: "2026-11-13T13:48:21.018Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.073Z"
+    verified_at: "2026-11-13T13:48:21.018Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.073Z"
+    verified_at: "2026-11-13T13:48:21.018Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ahl73855301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Rotor do motor AC Lavadora LG F14U1JBS2 AHL73855301 - AHL73855301"
+name: "Rotor do motor AC Lavadora LG F14U1JBS2 AHL73855301 - AHL73855301 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 331.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.938Z"
+  updated_at: "2026-11-13T13:48:20.899Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.938Z"
+    verified_at: "2026-11-13T13:48:20.899Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.938Z"
+    verified_at: "2026-11-13T13:48:20.899Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

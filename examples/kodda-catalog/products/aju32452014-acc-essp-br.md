@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aju32452014-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Válvula retenção Ar Condicionado LG - CRNU07GSBL2, ARNU05GSJR4, ARNU07GSBL2 - AJU32452014 - AJU32452014"
+name: "Válvula retenção Ar Condicionado LG - CRNU07GSBL2, ARNU05GSJR4, ARNU07GSBL2 - AJU32452014 - AJU32452014 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.945Z"
+  updated_at: "2026-11-13T13:48:20.909Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.945Z"
+    verified_at: "2026-11-13T13:48:20.909Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.945Z"
+    verified_at: "2026-11-13T13:48:20.909Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

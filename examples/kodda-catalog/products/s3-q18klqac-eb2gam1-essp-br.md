@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-q18klqac-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG Dual Inverter AI Compact 18.000 BTU Frio 220V - S3-Q18KLQAC"
+name: "Ar-Condicionado LG Dual Inverter AI Compact 18.000 BTU Frio 220V - S3-Q18KLQAC | LG BR"
 category: "outros"
 
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter", "8k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3305.13
+  value: 3457.09
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.253Z"
+  updated_at: "2026-11-13T13:48:21.198Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.253Z"
+    verified_at: "2026-11-13T13:48:21.198Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.253Z"
+    verified_at: "2026-11-13T13:48:21.198Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

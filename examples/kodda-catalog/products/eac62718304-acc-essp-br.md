@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eac62718304-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bateria recarregável Notebook LG 13Z940-G - EAC62718304 - EAC62718304"
+name: "Bateria recarregável Notebook LG 13Z940-G - EAC62718304 - EAC62718304 | LG BR"
 category: "notebooks"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 626.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.999Z"
+  updated_at: "2026-11-13T13:48:20.951Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.999Z"
+    verified_at: "2026-11-13T13:48:20.951Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.999Z"
+    verified_at: "2026-11-13T13:48:20.951Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

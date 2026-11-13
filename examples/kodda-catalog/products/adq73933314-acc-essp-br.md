@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adq73933314-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro Ar condicionado LG S4NQ24K23WD, S4NQ12JA314, S4NQ12JA31C - ADQ73933314 - ADQ73933314"
+name: "Filtro Ar condicionado LG S4NQ24K23WD, S4NQ12JA314, S4NQ12JA31C - ADQ73933314 - ADQ73933314 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.896Z"
+  updated_at: "2026-11-13T13:48:20.855Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.896Z"
+    verified_at: "2026-11-13T13:48:20.855Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.896Z"
+    verified_at: "2026-11-13T13:48:20.855Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj64809601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (módulo) Monitor LG 24GL600F-B - EAJ64809601 - EAJ64809601"
+name: "Tela de cristal líquido (módulo) Monitor LG 24GL600F-B - EAJ64809601 - EAJ64809601 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 911.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.027Z"
+  updated_at: "2026-11-13T13:48:20.980Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.027Z"
+    verified_at: "2026-11-13T13:48:20.980Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.027Z"
+    verified_at: "2026-11-13T13:48:20.980Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

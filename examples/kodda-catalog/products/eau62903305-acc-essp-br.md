@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau62903305-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor ventilador da condensadora Ar Condicionado LG EAU62903305 - EAU62903305"
+name: "Motor ventilador da condensadora Ar Condicionado LG EAU62903305 - EAU62903305 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 983.72
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.067Z"
+  updated_at: "2026-11-13T13:48:21.012Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.067Z"
+    verified_at: "2026-11-13T13:48:21.012Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.067Z"
+    verified_at: "2026-11-13T13:48:21.012Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

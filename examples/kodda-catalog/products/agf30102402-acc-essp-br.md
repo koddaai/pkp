@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30102402-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 65NANO75SPA AGF30102402 - AGF30102402"
+name: "Kit régua de LED TV LG 65NANO75SPA AGF30102402 - AGF30102402 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 497.68
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.910Z"
+  updated_at: "2026-11-13T13:48:20.869Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.910Z"
+    verified_at: "2026-11-13T13:48:20.869Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.910Z"
+    verified_at: "2026-11-13T13:48:20.869Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "hu710pb-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Projetor LG CineBeam Q 4K UHD Laser, Smart WebOS, Leve e Ultraportátil,  até 120”, Screen Share, Air Play, Bluetooth e Alto-falante - HU710PB - HU710PB"
+name: "Projetor LG CineBeam Q 4K UHD Laser, Smart WebOS, Leve e Ultraportátil,  até 120”, Screen Share, Air Play, Bluetooth e Alto-falante - HU710PB - HU710PB | LG BR"
 category: "monitors"
 subcategory: "projetor"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5999
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.198Z"
+  updated_at: "2026-11-13T13:48:21.156Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.198Z"
+    verified_at: "2026-11-13T13:48:21.156Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.198Z"
+    verified_at: "2026-11-13T13:48:21.156Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

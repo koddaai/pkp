@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead63990616-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo (condutor elétrico plano FFC 60V) TV LG 26LV2500, 32LN640R, 32LW300C - EAD63990616 - EAD63990616"
+name: "Cabo (condutor elétrico plano FFC 60V) TV LG 26LV2500, 32LN640R, 32LW300C - EAD63990616 - EAD63990616 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.010Z"
+  updated_at: "2026-11-13T13:48:20.963Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.010Z"
+    verified_at: "2026-11-13T13:48:20.963Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.010Z"
+    verified_at: "2026-11-13T13:48:20.963Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

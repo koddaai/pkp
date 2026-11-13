@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead63669424-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Cabo Flat Monitor Desktop LG 24GN600-B, 24GN60R-B - EAD63669424 - EAD63669424"
+name: "Cabo Flat Monitor Desktop LG 24GN600-B, 24GN60R-B - EAD63669424 - EAD63669424 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.006Z"
+  updated_at: "2026-11-13T13:48:20.959Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.006Z"
+    verified_at: "2026-11-13T13:48:20.959Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.006Z"
+    verified_at: "2026-11-13T13:48:20.959Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

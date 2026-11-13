@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3650en3005a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Dobradiça da porta Lavadora LG WD1496ADPA, WD9WE6A - 3650EN3005A - 3650EN3005A"
+name: "Dobradiça da porta Lavadora LG WD1496ADPA, WD9WE6A - 3650EN3005A - 3650EN3005A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 26.31
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.787Z"
+  updated_at: "2026-11-13T13:48:20.736Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.787Z"
+    verified_at: "2026-11-13T13:48:20.736Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.787Z"
+    verified_at: "2026-11-13T13:48:20.736Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

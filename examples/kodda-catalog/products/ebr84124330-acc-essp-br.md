@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr84124330-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Inverter Ar Condicionado LG A2UW18GFAC EBR84124330 - EBR84124330"
+name: "Placa Inverter Ar Condicionado LG A2UW18GFAC EBR84124330 - EBR84124330 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1832.21
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.138Z"
+  updated_at: "2026-11-13T13:48:21.092Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.138Z"
+    verified_at: "2026-11-13T13:48:21.092Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.138Z"
+    verified_at: "2026-11-13T13:48:21.092Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

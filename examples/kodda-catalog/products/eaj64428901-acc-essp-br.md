@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj64428901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (BA) TV LG 32LJ600B - EAJ64428901 - EAJ64428901"
+name: "Tela de cristal líquido (BA) TV LG 32LJ600B - EAJ64428901 - EAJ64428901 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 369.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.025Z"
+  updated_at: "2026-11-13T13:48:20.979Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.025Z"
+    verified_at: "2026-11-13T13:48:20.979Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.025Z"
+    verified_at: "2026-11-13T13:48:20.979Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

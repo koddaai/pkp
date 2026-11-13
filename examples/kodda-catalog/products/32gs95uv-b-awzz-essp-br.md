@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "32gs95uv-b-awzz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Monitor LG OLED UltraGear™ Dual Mode 32GS95UV-B 32\", 480Hz FHD, 240Hz 4K, 0.03ms (GtG), NVIDIA G-SYNC, AMD FreeSync™ Premium Pro, HDR True Black 400  - 32GS95UV-B"
+name: "Monitor LG OLED UltraGear™ Dual Mode 32GS95UV-B 32\", 480Hz FHD, 240Hz 4K, 0.03ms (GtG), NVIDIA G-SYNC, AMD FreeSync™ Premium Pro, HDR True Black 400  - 32GS95UV-B | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8999
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.781Z"
+  updated_at: "2026-11-13T13:48:20.729Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.781Z"
+    verified_at: "2026-11-13T13:48:20.729Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.781Z"
+    verified_at: "2026-11-13T13:48:20.729Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

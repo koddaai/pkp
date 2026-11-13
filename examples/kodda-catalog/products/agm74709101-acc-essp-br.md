@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm74709101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Amortecedor Lavador LG WD17VTS6, WD17VTS6A, WM5000HVA - AGM74709101 - AGM74709101"
+name: "Amortecedor Lavador LG WD17VTS6, WD17VTS6A, WM5000HVA - AGM74709101 - AGM74709101 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.928Z"
+  updated_at: "2026-11-13T13:48:20.888Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.928Z"
+    verified_at: "2026-11-13T13:48:20.888Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.928Z"
+    verified_at: "2026-11-13T13:48:20.888Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "0fzza90001t-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fusível M8120050 Ar Condicionado LG LPUC3008S4R, LPNC4108S4R, LPNC5808S4R - 0FZZA90001T - 0FZZA90001T"
+name: "Fusível M8120050 Ar Condicionado LG LPUC3008S4R, LPNC4108S4R, LPNC5808S4R - 0FZZA90001T - 0FZZA90001T | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.770Z"
+  updated_at: "2026-11-13T13:48:20.716Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.770Z"
+    verified_at: "2026-11-13T13:48:20.716Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.770Z"
+    verified_at: "2026-11-13T13:48:20.716Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

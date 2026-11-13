@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "cv3012mc5a-ambgbrs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Lava e Seca LG VC5 12kg Titanium com Inteligência Artificial AIDD™ (CV3012MC5A) - 220v - CV3012MC5A"
+name: "Lava e Seca LG VC5 12kg Titanium com Inteligência Artificial AIDD™ (CV3012MC5A) - 220v - CV3012MC5A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -27,9 +27,9 @@ tags: ["lg", "ai"]
 price:
   type: "street"
   currency: "BRL"
-  value: 4084.05
+  value: 4274.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.987Z"
+  updated_at: "2026-11-13T13:48:20.939Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.987Z"
+    verified_at: "2026-11-13T13:48:20.939Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.987Z"
+    verified_at: "2026-11-13T13:48:20.939Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

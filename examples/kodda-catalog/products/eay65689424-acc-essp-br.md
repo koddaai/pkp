@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65689424-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da fonte TV LG OLED55CXPSA, OLED55C1PSA - EAY65689424 - EAY65689424"
+name: "Placa da fonte TV LG OLED55CXPSA, OLED55C1PSA - EAY65689424 - EAY65689424 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1103.11
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.080Z"
+  updated_at: "2026-11-13T13:48:21.029Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.080Z"
+    verified_at: "2026-11-13T13:48:21.029Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.080Z"
+    verified_at: "2026-11-13T13:48:21.029Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

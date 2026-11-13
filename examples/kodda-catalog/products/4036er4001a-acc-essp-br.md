@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4036er4001a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Anel de vedação Lava e Seca LG WD-1403RD5, WD-1403FDA, WD-14312RD - 4036ER4001A - 4036ER4001A"
+name: "Anel de vedação Lava e Seca LG WD-1403RD5, WD-1403FDA, WD-14312RD - 4036ER4001A - 4036ER4001A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.06
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.792Z"
+  updated_at: "2026-11-13T13:48:20.741Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.792Z"
+    verified_at: "2026-11-13T13:48:20.741Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.792Z"
+    verified_at: "2026-11-13T13:48:20.741Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

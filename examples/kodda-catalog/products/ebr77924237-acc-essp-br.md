@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr77924237-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa do display Lavadora LG WD2100CB, WD2100CW, WD2100VM - EBR77924237 - EBR77924237"
+name: "Placa do display Lavadora LG WD2100CB, WD2100CW, WD2100VM - EBR77924237 - EBR77924237 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 763.48
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.120Z"
+  updated_at: "2026-11-13T13:48:21.074Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.120Z"
+    verified_at: "2026-11-13T13:48:21.074Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.120Z"
+    verified_at: "2026-11-13T13:48:21.074Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

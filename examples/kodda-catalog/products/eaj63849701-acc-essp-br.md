@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj63849701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (módulo) Monitor 22MP58VQ-P, 22SM3G-BJ, 22V280-L - LG EAJ63849701 - EAJ63849701"
+name: "Tela de cristal líquido (módulo) Monitor 22MP58VQ-P, 22SM3G-BJ, 22V280-L - LG EAJ63849701 - EAJ63849701 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.023Z"
+  updated_at: "2026-11-13T13:48:20.976Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.023Z"
+    verified_at: "2026-11-13T13:48:20.976Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.023Z"
+    verified_at: "2026-11-13T13:48:20.976Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

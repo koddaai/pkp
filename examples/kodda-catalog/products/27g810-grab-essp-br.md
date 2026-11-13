@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "27g810-grab-essp-br"
 # gtin: null
 brand: "LG"
-name: "Combo Monitor Gamer LG 27G810A-B Tela 27” HD + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA  - 27G810.GRAB"
+name: "Combo Monitor Gamer LG 27G810A-B Tela 27” HD + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA  - 27G810.GRAB | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3755.75
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.775Z"
+  updated_at: "2026-11-13T13:48:20.722Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.775Z"
+    verified_at: "2026-11-13T13:48:20.722Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.775Z"
+    verified_at: "2026-11-13T13:48:20.722Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

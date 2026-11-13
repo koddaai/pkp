@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "65qned80-s70ty-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV LG QNED AI QNED80 65” 4K 2024 + Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS - 65QNED80.S70TY"
+name: "Smart TV LG QNED AI QNED80 65” 4K 2024 + Soundbar LG S70TY Dolby Atmos com configuração de canais 3.1.1 e 400W RMS - 65QNED80.S70TY | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5384.79
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.841Z"
+  updated_at: "2026-11-13T13:48:20.803Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.841Z"
+    verified_at: "2026-11-13T13:48:20.803Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.841Z"
+    verified_at: "2026-11-13T13:48:20.803Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

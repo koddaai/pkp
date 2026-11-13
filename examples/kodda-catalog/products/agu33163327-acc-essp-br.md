@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agu33163327-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tampa Superior Lava e Seca Roupas LG CV9013WC4 AGU33163327 - AGU33163327"
+name: "Tampa Superior Lava e Seca Roupas LG CV9013WC4 AGU33163327 - AGU33163327 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lava-e-seca"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 325.49
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.933Z"
+  updated_at: "2026-11-13T13:48:20.894Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.933Z"
+    verified_at: "2026-11-13T13:48:20.894Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.933Z"
+    verified_at: "2026-11-13T13:48:20.894Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

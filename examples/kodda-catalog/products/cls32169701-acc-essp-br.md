@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "cls32169701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor Ar Condicionado LG GPUW250BSSM CLS32169701 - CLS32169701"
+name: "Motor Ar Condicionado LG GPUW250BSSM CLS32169701 - CLS32169701 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1946.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.965Z"
+  updated_at: "2026-11-13T13:48:20.930Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.965Z"
+    verified_at: "2026-11-13T13:48:20.930Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.965Z"
+    verified_at: "2026-11-13T13:48:20.930Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

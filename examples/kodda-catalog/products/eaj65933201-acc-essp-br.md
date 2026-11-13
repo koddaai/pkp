@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65933201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido Módulo Monitor LG 29WQ600BW EAJ65933201 - EAJ65933201"
+name: "Tela de cristal líquido Módulo Monitor LG 29WQ600BW EAJ65933201 - EAJ65933201 | LG BR"
 category: "monitors"
 
 
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1870.55
+  value: 1028.8
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.053Z"
+  updated_at: "2026-11-13T13:48:20.999Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.053Z"
+    verified_at: "2026-11-13T13:48:20.999Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.053Z"
+    verified_at: "2026-11-13T13:48:20.999Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

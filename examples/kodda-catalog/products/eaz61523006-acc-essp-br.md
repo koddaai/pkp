@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaz61523006-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mecanismo DVD LG DP132-NU - EAZ61523006 - EAZ61523006"
+name: "Mecanismo DVD LG DP132-NU - EAZ61523006 - EAZ61523006 | LG BR"
 category: "outros"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.087Z"
+  updated_at: "2026-11-13T13:48:21.036Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.087Z"
+    verified_at: "2026-11-13T13:48:21.036Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.087Z"
+    verified_at: "2026-11-13T13:48:21.036Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

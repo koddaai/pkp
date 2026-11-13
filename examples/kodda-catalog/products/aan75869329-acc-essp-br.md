@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan75869329-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base (pedestal) TV LG 60UK6200PSA - AAN75869329 - AAN75869329"
+name: "Base (pedestal) TV LG 60UK6200PSA - AAN75869329 - AAN75869329 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.31
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.862Z"
+  updated_at: "2026-11-13T13:48:20.821Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.862Z"
+    verified_at: "2026-11-13T13:48:20.821Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.862Z"
+    verified_at: "2026-11-13T13:48:20.821Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

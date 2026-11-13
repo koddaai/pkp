@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eac64790802-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bateria Caixa de Som Portátil XL5S LG EAC64790802 - EAC64790802"
+name: "Bateria Caixa de Som Portátil XL5S LG EAC64790802 - EAC64790802 | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 777.01
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.000Z"
+  updated_at: "2026-11-13T13:48:20.952Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.000Z"
+    verified_at: "2026-11-13T13:48:20.952Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.000Z"
+    verified_at: "2026-11-13T13:48:20.952Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

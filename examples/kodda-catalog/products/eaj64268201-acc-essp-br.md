@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj64268201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (módulo) Monitor LG 22MK400H-B - EAJ64268201 - EAJ64268201"
+name: "Tela de cristal líquido (módulo) Monitor LG 22MK400H-B - EAJ64268201 - EAJ64268201 | LG BR"
 category: "monitors"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 474.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.025Z"
+  updated_at: "2026-11-13T13:48:20.978Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.025Z"
+    verified_at: "2026-11-13T13:48:20.978Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.025Z"
+    verified_at: "2026-11-13T13:48:20.978Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

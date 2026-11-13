@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mhl63611618-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Grelha Forno Micro Ondas LG MGEN3097E MHL63611618 - MHL63611618"
+name: "Grelha Forno Micro Ondas LG MGEN3097E MHL63611618 - MHL63611618 | LG BR"
 category: "eletrodomesticos"
 subcategory: "forno"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.238Z"
+  updated_at: "2026-11-13T13:48:21.183Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.238Z"
+    verified_at: "2026-11-13T13:48:21.183Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.238Z"
+    verified_at: "2026-11-13T13:48:21.183Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

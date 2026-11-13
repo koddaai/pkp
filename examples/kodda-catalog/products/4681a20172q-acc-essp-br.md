@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4681a20172q-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor ventilador da condensadora Ar Condicionado LG A5UW30GFA0, A4UQ30GFA0, A5UW306FA3 - 4681A20172Q - 4681A20172Q"
+name: "Motor ventilador da condensadora Ar Condicionado LG A5UW30GFA0, A4UQ30GFA0, A5UW306FA3 - 4681A20172Q - 4681A20172Q | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2222.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.802Z"
+  updated_at: "2026-11-13T13:48:20.752Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.802Z"
+    verified_at: "2026-11-13T13:48:20.752Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.802Z"
+    verified_at: "2026-11-13T13:48:20.752Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

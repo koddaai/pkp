@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65753420-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (BA) TV LG 65NANO80SQA - EAJ65753420 - EAJ65753420"
+name: "Tela de cristal líquido (BA) TV LG 65NANO80SQA - EAJ65753420 - EAJ65753420 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2041.55
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.035Z"
+  updated_at: "2026-11-13T13:48:20.989Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.035Z"
+    verified_at: "2026-11-13T13:48:20.989Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.035Z"
+    verified_at: "2026-11-13T13:48:20.989Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

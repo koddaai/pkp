@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mea65310602-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte lateral do tubo de ventilação Ar Condicionado LG LP1419IVSM - MEA65310602 - MEA65310602"
+name: "Suporte lateral do tubo de ventilação Ar Condicionado LG LP1419IVSM - MEA65310602 - MEA65310602 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 303.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.226Z"
+  updated_at: "2026-11-13T13:48:21.171Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.226Z"
+    verified_at: "2026-11-13T13:48:21.171Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.226Z"
+    verified_at: "2026-11-13T13:48:21.171Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

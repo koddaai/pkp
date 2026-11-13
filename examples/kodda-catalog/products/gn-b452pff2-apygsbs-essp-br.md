@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "gn-b452pff2-apygsbs-essp-br"
 # gtin: null
 brand: "LG"
-name: "Geladeira LG Frost Free Inverter 461L Duplex Cor Inox Look - 220V - GN-B452PFF2"
+name: "Geladeira LG Frost Free Inverter 461L Duplex Cor Inox Look - 220V - GN-B452PFF2 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4559.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.197Z"
+  updated_at: "2026-11-13T13:48:21.155Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.197Z"
+    verified_at: "2026-11-13T13:48:21.155Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.197Z"
+    verified_at: "2026-11-13T13:48:21.155Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4620er4002c-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Calço Lavadora de Roupas LG WDS12MPAC 4620ER4002C - 4620ER4002C"
+name: "Calço Lavadora de Roupas LG WDS12MPAC 4620ER4002C - 4620ER4002C | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 26
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.801Z"
+  updated_at: "2026-11-13T13:48:20.751Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.801Z"
+    verified_at: "2026-11-13T13:48:20.751Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.801Z"
+    verified_at: "2026-11-13T13:48:20.751Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

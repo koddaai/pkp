@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "hu715qw-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Projetor LG CineBeam UHD 4K 120\" Laser de 8.3 Mega Pixels Curta Distância Apple Airplay 2 e HomeKit HU715QW - HU715QW"
+name: "Projetor LG CineBeam UHD 4K 120\" Laser de 8.3 Mega Pixels Curta Distância Apple Airplay 2 e HomeKit HU715QW - HU715QW | LG BR"
 category: "monitors"
 subcategory: "projetor"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 14999
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.198Z"
+  updated_at: "2026-11-13T13:48:21.156Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.198Z"
+    verified_at: "2026-11-13T13:48:21.156Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.198Z"
+    verified_at: "2026-11-13T13:48:21.156Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

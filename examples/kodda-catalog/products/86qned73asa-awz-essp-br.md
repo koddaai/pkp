@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "86qned73asa-awz-essp-br"
 # gtin: null
 brand: "LG"
-name: "Smart TV 4K 86\" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Alerta de Esportes - 86QNED73ASA"
+name: "Smart TV 4K 86\" LG QNED73 Portal de Games Processador AI α7 Ger8 4K Super Upscaling Google Cast Integrado Controle AI Magic WebOS 25 Modo Alerta de Esportes - 86QNED73ASA | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7029.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:35.853Z"
+  updated_at: "2026-11-13T13:48:20.813Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.853Z"
+    verified_at: "2026-11-13T13:48:20.813Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:35.853Z"
+    verified_at: "2026-11-13T13:48:20.813Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

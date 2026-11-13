@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eat63435703-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Wi-Fi TV LG 32LJ600B, 32LJ601C, 32LK610BPSA - EAT63435703 - EAT63435703"
+name: "Placa Wi-Fi TV LG 32LJ600B, 32LJ601C, 32LK610BPSA - EAT63435703 - EAT63435703 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.058Z"
+  updated_at: "2026-11-13T13:48:21.003Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.058Z"
+    verified_at: "2026-11-13T13:48:21.003Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.058Z"
+    verified_at: "2026-11-13T13:48:21.003Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
