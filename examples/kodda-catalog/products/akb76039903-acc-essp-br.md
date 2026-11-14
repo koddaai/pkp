@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb76039903-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Magic Remote para TV série 2022 - AKB76039903 | LG BR"
+name: "Controle Remoto Magic MR22GA TV LG AKB76039903 - AKB76039903 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb76039903-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/tvs/remote-controller/akb76039903/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/controle-remoto/akb76039903/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB76039903. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic MR22GA TV LG AKB76039903."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 148.82
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.444Z"
+  updated_at: "2026-11-14T12:52:15.894Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.444Z"
+    verified_at: "2026-11-14T12:52:15.894Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.444Z"
+    verified_at: "2026-11-14T12:52:15.894Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

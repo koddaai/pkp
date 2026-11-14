@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adq32617703-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro de água para geladeira (6 meses) - ADQ32617703 | LG BR"
+name: "Filtro de água Refrigerador LG ADQ32617703 - ADQ32617703 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adq32617703-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/refrigerators/water-filter-filter/adq32617703/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/refrigeradores/filtros-de-agua-e-ar/adq32617703/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ADQ32617703. Click for pictures, reviews, and tech specs for the LG Filtro de água Refrigerador LG ADQ32617703."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.365Z"
+  updated_at: "2026-11-14T12:52:15.787Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.365Z"
+    verified_at: "2026-11-14T12:52:15.787Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.365Z"
+    verified_at: "2026-11-14T12:52:15.787Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

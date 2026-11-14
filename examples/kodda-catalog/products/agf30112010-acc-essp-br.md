@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/agf30112010-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-e-audio/agf30112010/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agf30112010/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AGF30112010. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 50UR8750PSA - AGF30112010."
+summary: "Contém 06 barras de LED Quantidade de LED por barra: 06 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED,Kit completo para reposição das barras de LED internas do display"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 205.91
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.384Z"
+  updated_at: "2026-11-14T12:52:15.806Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.384Z"
+    verified_at: "2026-11-14T12:52:15.806Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.384Z"
+    verified_at: "2026-11-14T12:52:15.806Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AGF30112010. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 50UR8750PSA - AGF30112010.
+Contém 06 barras de LED Quantidade de LED por barra: 06 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED,Kit completo para reposição das barras de LED internas do display

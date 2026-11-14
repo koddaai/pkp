@@ -5,7 +5,7 @@ sku: "ebr88920703-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa Principal Mini System LG CL88-AB,CL88-AS - EBR88920703 - EBR88920703 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 911.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.662Z"
+  updated_at: "2026-11-14T12:52:16.189Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.662Z"
+    verified_at: "2026-11-14T12:52:16.189Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.662Z"
+    verified_at: "2026-11-14T12:52:16.189Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

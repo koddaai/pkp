@@ -5,7 +5,7 @@ sku: "eal60700911-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Ventoinha Mini System LG CM9750, CJ87, CJ88 - EAL60700911 - EAL60700911 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 189.05
+  value: 156.15
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.539Z"
+  updated_at: "2026-11-14T12:52:16.069Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.539Z"
+    verified_at: "2026-11-14T12:52:16.069Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.539Z"
+    verified_at: "2026-11-14T12:52:16.069Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -27,9 +27,9 @@ tags: ["lg", "4k", "pro"]
 price:
   type: "street"
   currency: "BRL"
-  value: 17999
+  value: 17430.61
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.449Z"
+  updated_at: "2026-11-14T12:52:15.899Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.449Z"
+    verified_at: "2026-11-14T12:52:15.899Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.449Z"
+    verified_at: "2026-11-14T12:52:15.899Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

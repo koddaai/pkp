@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/adp74133401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/adp74133401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adp74133401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Hélice de plástico do ventilador Para unidade evaporadora do ar condicionado"
+summary: "Get more information on the LG ADP74133401. Click for pictures, reviews, and tech specs for the LG Hélice Ventilador Ar Condicionado LG ASNW092HDW0 ADP74133401."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.365Z"
+  updated_at: "2026-11-14T12:52:15.786Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.365Z"
+    verified_at: "2026-11-14T12:52:15.786Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.365Z"
+    verified_at: "2026-11-14T12:52:15.786Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Hélice de plástico do ventilador Para unidade evaporadora do ar condicionado
+Get more information on the LG ADP74133401. Click for pictures, reviews, and tech specs for the LG Hélice Ventilador Ar Condicionado LG ASNW092HDW0 ADP74133401.

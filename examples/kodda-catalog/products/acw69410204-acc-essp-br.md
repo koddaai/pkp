@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/acw69410204-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acw69410204/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/acw69410204/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ACW69410204. Clique para ver imagens, análises e especificações técnicas da LG Acabamento inferior evaporadora Ar Condicionado LG ASNW242C4A0, AMNW18GECA0, AMNW24GECA0 - ACW69410204"
+summary: "Get more information on the LG ACW69410204. Click for pictures, reviews, and tech specs for the LG Acabamento inferior evaporadora Ar Condicionado LG ASNW242C4A0, AMNW18GECA0, AMNW24GECA0 - ACW69410204."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.350Z"
+  updated_at: "2026-11-14T12:52:15.771Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.350Z"
+    verified_at: "2026-11-14T12:52:15.771Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.350Z"
+    verified_at: "2026-11-14T12:52:15.771Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ACW69410204. Clique para ver imagens, análises e especificações técnicas da LG Acabamento inferior evaporadora Ar Condicionado LG ASNW242C4A0, AMNW18GECA0, AMNW24GECA0 - ACW69410204
+Get more information on the LG ACW69410204. Click for pictures, reviews, and tech specs for the LG Acabamento inferior evaporadora Ar Condicionado LG ASNW242C4A0, AMNW18GECA0, AMNW24GECA0 - ACW69410204.

@@ -5,7 +5,7 @@ sku: "cov36831601-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa Principal Lousa Digital LG 65TR3DJB COV36831601 - COV36831601 | LG BR"
-category: "monitors"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2956.72
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.453Z"
+  updated_at: "2026-11-14T12:52:15.903Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.453Z"
+    verified_at: "2026-11-14T12:52:15.903Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.453Z"
+    verified_at: "2026-11-14T12:52:15.903Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

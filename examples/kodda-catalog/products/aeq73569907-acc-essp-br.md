@@ -5,8 +5,8 @@ sku: "aeq73569907-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Unidade de Fabricação De Gelo LG GCX257CSH1 AEQ73569907 - AEQ73569907 | LG BR"
-category: "eletrodomesticos"
-subcategory: "refrigerador"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 607.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.377Z"
+  updated_at: "2026-11-14T12:52:15.798Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.377Z"
+    verified_at: "2026-11-14T12:52:15.798Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.377Z"
+    verified_at: "2026-11-14T12:52:15.798Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

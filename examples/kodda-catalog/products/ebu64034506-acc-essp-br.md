@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu64034506-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/ebu64034506/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu64034506/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBU64034506. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 49LJ5500 EBU64034506."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 366.83
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.672Z"
+  updated_at: "2026-11-14T12:52:16.199Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.672Z"
+    verified_at: "2026-11-14T12:52:16.199Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.672Z"
+    verified_at: "2026-11-14T12:52:16.199Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

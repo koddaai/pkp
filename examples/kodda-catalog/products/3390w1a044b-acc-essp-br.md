@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/3390w1a044b-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/microwave-ovens/tray/3390w1a044b/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/micro-ondas/pratos-e-aneis-giratorios/3390w1a044b/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 3390W1A044B. Click for pictures, reviews, and tech specs for the LG Prato de vidro para fornos de micro-ondas."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 79.38
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.250Z"
+  updated_at: "2026-11-14T12:52:15.672Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.250Z"
+    verified_at: "2026-11-14T12:52:15.672Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.250Z"
+    verified_at: "2026-11-14T12:52:15.672Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -5,7 +5,7 @@ sku: "cov36812201-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Diodo Emissor De Luz Painel Digital Signage LG LSBB015 COV36812201 - COV36812201 | LG BR"
-category: "monitors"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 18.76
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.452Z"
+  updated_at: "2026-11-14T12:52:15.903Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.452Z"
+    verified_at: "2026-11-14T12:52:15.903Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.452Z"
+    verified_at: "2026-11-14T12:52:15.903Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

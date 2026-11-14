@@ -5,8 +5,8 @@ sku: "eac63918501-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Bateria Caixa de Som Bluetooth LG PK3 - EAC63918501 - EAC63918501 | LG BR"
-category: "tvs"
-
+category: "audio"
+subcategory: "speaker"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.478Z"
+  updated_at: "2026-11-14T12:52:15.925Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.478Z"
+    verified_at: "2026-11-14T12:52:15.925Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.478Z"
+    verified_at: "2026-11-14T12:52:15.925Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

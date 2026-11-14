@@ -5,8 +5,8 @@ sku: "ebr87276201-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa principal Caixa de som Bluetooth LG PK3 - EBR87276201 - EBR87276201 | LG BR"
-category: "tvs"
-
+category: "audio"
+subcategory: "speaker"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.655Z"
+  updated_at: "2026-11-14T12:52:16.183Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.655Z"
+    verified_at: "2026-11-14T12:52:16.183Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.655Z"
+    verified_at: "2026-11-14T12:52:16.183Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -27,9 +27,9 @@ tags: ["lg", "5g"]
 price:
   type: "street"
   currency: "BRL"
-  value: 322.05
+  value: 274.39
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.555Z"
+  updated_at: "2026-11-14T12:52:16.085Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.555Z"
+    verified_at: "2026-11-14T12:52:16.085Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.555Z"
+    verified_at: "2026-11-14T12:52:16.085Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

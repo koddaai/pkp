@@ -5,7 +5,7 @@ sku: "ebr80446234-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa principal Home Theater LG LHB625M - EBR80446234 - EBR80446234 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 920.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.627Z"
+  updated_at: "2026-11-14T12:52:16.156Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.627Z"
+    verified_at: "2026-11-14T12:52:16.156Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.627Z"
+    verified_at: "2026-11-14T12:52:16.156Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

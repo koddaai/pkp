@@ -5,7 +5,7 @@ sku: "ebr37418703-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa Principal Caixa Acústica LG XG5QBK EBR37418703 - EBR37418703 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 407.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.602Z"
+  updated_at: "2026-11-14T12:52:16.132Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.602Z"
+    verified_at: "2026-11-14T12:52:16.132Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.602Z"
+    verified_at: "2026-11-14T12:52:16.132Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

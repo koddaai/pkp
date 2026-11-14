@@ -5,7 +5,7 @@ sku: "ebr87796702-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa display Mini System LG CL65 - EBR87796702 - EBR87796702 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 227.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.656Z"
+  updated_at: "2026-11-14T12:52:16.183Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.656Z"
+    verified_at: "2026-11-14T12:52:16.183Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.656Z"
+    verified_at: "2026-11-14T12:52:16.183Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

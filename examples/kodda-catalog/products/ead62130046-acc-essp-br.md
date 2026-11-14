@@ -5,7 +5,7 @@ sku: "ead62130046-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Cabo Flat Mini System LG CJ98 - EAD62130046 - EAD62130046 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.485Z"
+  updated_at: "2026-11-14T12:52:15.931Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.485Z"
+    verified_at: "2026-11-14T12:52:15.931Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.485Z"
+    verified_at: "2026-11-14T12:52:15.931Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

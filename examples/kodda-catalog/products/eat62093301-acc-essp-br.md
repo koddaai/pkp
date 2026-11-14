@@ -5,7 +5,7 @@ sku: "eat62093301-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Módulo Wi Fi Bluetooth LG 50PB690B - EAT62093301 - EAT62093301 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -27,9 +27,9 @@ tags: ["lg", "bluetooth"]
 price:
   type: "street"
   currency: "BRL"
-  value: 160.55
+  value: 147.71
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.541Z"
+  updated_at: "2026-11-14T12:52:16.071Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.541Z"
+    verified_at: "2026-11-14T12:52:16.071Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.541Z"
+    verified_at: "2026-11-14T12:52:16.071Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

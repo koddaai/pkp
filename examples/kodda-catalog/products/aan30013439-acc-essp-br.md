@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan30013439-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan30013439/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/aan30013439/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAN30013439. Click for pictures, reviews, and tech specs for the LG Base (pedestal) TV LG 55NANO80SQA - AAN30013439."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.323Z"
+  updated_at: "2026-11-14T12:52:15.744Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.323Z"
+    verified_at: "2026-11-14T12:52:15.744Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.323Z"
+    verified_at: "2026-11-14T12:52:15.744Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

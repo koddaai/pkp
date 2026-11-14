@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/agf30320604-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/agf30320604/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agf30320604/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AGF30320604. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UR8750PSA AGF30320604."
+summary: "Kit régua de LED TV LG 55UR8750PSA AGF30320604"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 339.14
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.387Z"
+  updated_at: "2026-11-14T12:52:15.808Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.387Z"
+    verified_at: "2026-11-14T12:52:15.808Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.387Z"
+    verified_at: "2026-11-14T12:52:15.808Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AGF30320604. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UR8750PSA AGF30320604.
+Kit régua de LED TV LG 55UR8750PSA AGF30320604

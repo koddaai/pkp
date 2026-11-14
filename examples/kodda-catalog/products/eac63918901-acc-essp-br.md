@@ -5,7 +5,7 @@ sku: "eac63918901-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Bateria Recarregável Speaker Bluetooth LG EAC63918901 - EAC63918901 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.479Z"
+  updated_at: "2026-11-14T12:52:15.925Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.479Z"
+    verified_at: "2026-11-14T12:52:15.925Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.479Z"
+    verified_at: "2026-11-14T12:52:15.925Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

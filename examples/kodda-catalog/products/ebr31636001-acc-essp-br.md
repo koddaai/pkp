@@ -5,8 +5,8 @@ sku: "ebr31636001-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa principal Soundbar LG SNH5 - EBR31636001 - EBR31636001 | LG BR"
-category: "tvs"
-
+category: "audio"
+subcategory: "soundbar"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 874.52
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.595Z"
+  updated_at: "2026-11-14T12:52:16.125Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.595Z"
+    verified_at: "2026-11-14T12:52:16.125Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.595Z"
+    verified_at: "2026-11-14T12:52:16.125Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

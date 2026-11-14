@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan30078342-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "AAN30078342 - AAN30078342 | LG BR"
+name: "Base pedestal TV LG AAN30078342 - AAN30078342 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan30078342-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan30078342/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/aan30078342/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAN30078342. Click for pictures, reviews, and tech specs for the LG Base pedestal TV LG AAN30078342."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 74.4
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.324Z"
+  updated_at: "2026-11-14T12:52:15.745Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.324Z"
+    verified_at: "2026-11-14T12:52:15.745Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.324Z"
+    verified_at: "2026-11-14T12:52:15.745Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

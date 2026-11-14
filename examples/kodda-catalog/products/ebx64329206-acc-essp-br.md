@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebx64329206-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto Magic MR20GA TV LG  50UN7310PSC,  65NANO86UNA, 55NANO90UNA - EBX64329206 - EBX64329206 | LG BR"
+name: "Controle Remoto Magic MR20GA TV LG EBX64329206 - EBX64329206 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebx64329206-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebx64329206/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/controle-remoto/ebx64329206/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBX64329206. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic MR20GA TV LG EBX64329206."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 164.88
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.701Z"
+  updated_at: "2026-11-14T12:52:16.227Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.701Z"
+    verified_at: "2026-11-14T12:52:16.227Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.701Z"
+    verified_at: "2026-11-14T12:52:16.227Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

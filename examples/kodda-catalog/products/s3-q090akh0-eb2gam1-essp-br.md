@@ -27,9 +27,9 @@ tags: ["lg", "ai", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 3007.06
+  value: 2879.1
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.757Z"
+  updated_at: "2026-11-14T12:52:16.332Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.757Z"
+    verified_at: "2026-11-14T12:52:16.332Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.757Z"
+    verified_at: "2026-11-14T12:52:16.332Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

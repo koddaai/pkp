@@ -6,7 +6,7 @@ sku: "6931el3001f-acc-essp-br"
 brand: "LG"
 name: "Termostato Secadora Roupa LG DLEY1701V 6931El3001F - 6931EL3001F | LG BR"
 category: "eletrodomesticos"
-subcategory: "lavadora"
+subcategory: "secadora"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.316Z"
+  updated_at: "2026-11-14T12:52:15.737Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.316Z"
+    verified_at: "2026-11-14T12:52:15.737Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.316Z"
+    verified_at: "2026-11-14T12:52:15.737Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

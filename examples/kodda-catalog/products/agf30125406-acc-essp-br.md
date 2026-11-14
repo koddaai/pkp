@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/agf30125406-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/agf30125406/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agf30125406/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AGF30125406. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 75UR8750PSA AGF30125406."
+summary: "Contém 09 barras de LED Quantidade de LED por barra: 08 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 630.85
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.385Z"
+  updated_at: "2026-11-14T12:52:15.807Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.385Z"
+    verified_at: "2026-11-14T12:52:15.807Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.385Z"
+    verified_at: "2026-11-14T12:52:15.807Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AGF30125406. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 75UR8750PSA AGF30125406.
+Contém 09 barras de LED Quantidade de LED por barra: 08 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display

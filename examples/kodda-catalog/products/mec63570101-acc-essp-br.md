@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mec63570101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte de Parede fixo TV LG - MEC63570101 - MEC63570101 | LG BR"
+name: "Suporte de Parede fixo TV LG MEC63570101 - MEC63570101 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mec63570101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-e-audio/mec63570101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/mec63570101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MEC63570101. Click for pictures, reviews, and tech specs for the LG Suporte de Parede fixo TV LG MEC63570101."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 134.1
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.731Z"
+  updated_at: "2026-11-14T12:52:16.256Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.731Z"
+    verified_at: "2026-11-14T12:52:16.256Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.731Z"
+    verified_at: "2026-11-14T12:52:16.256Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

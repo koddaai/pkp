@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb76043204-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Magic Remote para TV série 2023 (com NFC) - AKB76043204 | LG BR"
+name: "Controle Magic Remote para TV série 2023 AKB76043204 - AKB76043204 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb76043204-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/tvs/remote-controller/akb76043204/"
+  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/akb76043204/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB76043204. Click for pictures, reviews, and tech specs for the LG Controle Magic Remote para TV série 2023 AKB76043204."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 148.82
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.445Z"
+  updated_at: "2026-11-14T12:52:15.895Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.445Z"
+    verified_at: "2026-11-14T12:52:15.895Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.445Z"
+    verified_at: "2026-11-14T12:52:15.895Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

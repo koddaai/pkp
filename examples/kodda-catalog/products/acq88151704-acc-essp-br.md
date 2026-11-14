@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/acq88151704-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acq88151704/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/acq88151704/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ACQ88151704. Click for pictures, reviews, and tech specs for the LG Tampa evaporadora Ar Condicionado LG AVNQ60GM2A0, ARNU36GV2A4, ARNU48GV2A4 - ACQ88151704."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 398.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.349Z"
+  updated_at: "2026-11-14T12:52:15.769Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.349Z"
+    verified_at: "2026-11-14T12:52:15.769Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.349Z"
+    verified_at: "2026-11-14T12:52:15.769Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

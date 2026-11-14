@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/oled-evo/oled77c5psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG OLED77C5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI C5 4K de 77 polegadas 2025."
+summary: "Descubra a próxima geração de Smart AI TVs da LG, OLED77C5PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG OLED evo AI C5 4K de 77 polegadas 2025."
 tags: ["lg", "smart", "ai", "4k", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 16244.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.754Z"
+  updated_at: "2026-11-14T12:52:16.329Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.754Z"
+    verified_at: "2026-11-14T12:52:16.329Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.754Z"
+    verified_at: "2026-11-14T12:52:16.329Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG OLED77C5PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG OLED evo AI C5 4K de 77 polegadas 2025.
+Descubra a próxima geração de Smart AI TVs da LG, OLED77C5PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG OLED evo AI C5 4K de 77 polegadas 2025.

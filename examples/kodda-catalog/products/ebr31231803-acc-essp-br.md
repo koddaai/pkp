@@ -5,7 +5,7 @@ sku: "ebr31231803-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa principal Loud Speaker LG RN9 - EBR31231803 - EBR31231803 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 593.1
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.595Z"
+  updated_at: "2026-11-14T12:52:16.125Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.595Z"
+    verified_at: "2026-11-14T12:52:16.125Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.595Z"
+    verified_at: "2026-11-14T12:52:16.125Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

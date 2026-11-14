@@ -5,8 +5,8 @@ sku: "ebr89012902-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa principal Caixa de Som Portátil LG PL5W - EBR89012902 - EBR89012902 | LG BR"
-category: "tvs"
-
+category: "audio"
+subcategory: "speaker"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 307.78
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.663Z"
+  updated_at: "2026-11-14T12:52:16.190Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.663Z"
+    verified_at: "2026-11-14T12:52:16.190Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.663Z"
+    verified_at: "2026-11-14T12:52:16.190Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

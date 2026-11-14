@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mkj39170828-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/tvs-e-soundbars/acessorios-tv/mkj39170828/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/controle-remoto/mkj39170828/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MKJ39170828. Click for pictures, reviews, and tech specs for the LG Controle Remoto de Serviço LG MKJ39170828."
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 103.55
+  value: 77.89
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.749Z"
+  updated_at: "2026-11-14T12:52:16.324Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.749Z"
+    verified_at: "2026-11-14T12:52:16.324Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.749Z"
+    verified_at: "2026-11-14T12:52:16.324Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb30087203-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/akb30087203/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/controle-remoto/akb30087203/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB30087203. Click for pictures, reviews, and tech specs for the LG Controle Remoto TV LG 43NU850BPSA AKB30087203."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.99
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.429Z"
+  updated_at: "2026-11-14T12:52:15.879Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.429Z"
+    verified_at: "2026-11-14T12:52:15.879Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.429Z"
+    verified_at: "2026-11-14T12:52:15.879Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

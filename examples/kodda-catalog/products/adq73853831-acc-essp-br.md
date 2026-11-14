@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adq73853831-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/adq73853831/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/refrigeradores/filtros-de-agua-e-ar/adq73853831/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ADQ73853831. Click for pictures, reviews, and tech specs for the LG Filtro de entrada de ar Refrigerador LG GC-X247CKB1, GC-J257CSFS, GC-L228FTL1 - ADQ73853831."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.367Z"
+  updated_at: "2026-11-14T12:52:15.788Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.367Z"
+    verified_at: "2026-11-14T12:52:15.788Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.367Z"
+    verified_at: "2026-11-14T12:52:15.788Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

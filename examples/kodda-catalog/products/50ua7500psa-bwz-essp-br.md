@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/tv-uhd-4k/50ua7500psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 50UA7500PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD AI 4K UA75 de 50 polegadas 2025."
-tags: ["lg", "smart", "ai", "4k"]
+summary: "Smart TV LG UHD 4K de 50 polegadas com processador α7 AI Gen8, 4K Super Upscaling e webOS. Compre na loja oficial LG."
+tags: ["lg", "smart", "ai", "4k", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2345.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.283Z"
+  updated_at: "2026-11-14T12:52:15.705Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.283Z"
+    verified_at: "2026-11-14T12:52:15.705Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.283Z"
+    verified_at: "2026-11-14T12:52:15.705Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 50UA7500PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD AI 4K UA75 de 50 polegadas 2025.
+Smart TV LG UHD 4K de 50 polegadas com processador α7 AI Gen8, 4K Super Upscaling e webOS. Compre na loja oficial LG.

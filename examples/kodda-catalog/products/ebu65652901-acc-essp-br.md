@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu65652901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/ebu65652901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu65652901/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBU65652901. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 65UM7650PSB EBU65652901."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 979.58
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.677Z"
+  updated_at: "2026-11-14T12:52:16.204Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.677Z"
+    verified_at: "2026-11-14T12:52:16.204Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.677Z"
+    verified_at: "2026-11-14T12:52:16.204Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

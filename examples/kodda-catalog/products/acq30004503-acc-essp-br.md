@@ -5,7 +5,7 @@ sku: "acq30004503-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Painel superior Loud Speaker LG RN7 - ACQ30004503 - ACQ30004503 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.346Z"
+  updated_at: "2026-11-14T12:52:15.768Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.346Z"
+    verified_at: "2026-11-14T12:52:15.768Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.346Z"
+    verified_at: "2026-11-14T12:52:15.768Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

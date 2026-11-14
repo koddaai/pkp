@@ -5,7 +5,7 @@ sku: "eaz63541504-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Mecanismo completo Mini-System LG CJ44, CK43, CL65 - EAZ63541504 - EAZ63541504 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.578Z"
+  updated_at: "2026-11-14T12:52:16.108Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.578Z"
+    verified_at: "2026-11-14T12:52:16.108Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.578Z"
+    verified_at: "2026-11-14T12:52:16.108Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

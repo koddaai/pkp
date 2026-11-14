@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan30147405-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan30147405/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/aan30147405/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAN30147405. Click for pictures, reviews, and tech specs for the LG Base (Pedestal) TV LG 43UT8000PSA AAN30147405."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.56
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.326Z"
+  updated_at: "2026-11-14T12:52:15.748Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.326Z"
+    verified_at: "2026-11-14T12:52:15.748Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.326Z"
+    verified_at: "2026-11-14T12:52:15.748Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

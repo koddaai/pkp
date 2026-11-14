@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan30117605-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan30117605/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/aan30117605/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAN30117605. Click for pictures, reviews, and tech specs for the LG Base (Pedestal) TV LG 32LR650BPSA AAN30117605."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 82.84
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.325Z"
+  updated_at: "2026-11-14T12:52:15.746Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.325Z"
+    verified_at: "2026-11-14T12:52:15.746Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.325Z"
+    verified_at: "2026-11-14T12:52:15.746Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

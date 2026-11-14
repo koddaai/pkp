@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "3219ja3001p-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Conjunto de filtro de água para refrigerador (filtro de água, válvula, mangueira) - 3219JA3001P | LG BR"
+name: "Conjunto de filtro de água para Refrigerador LG 3219JA3001P ADQ73693903 (filtro de água, válvula, mangueira)  - 3219JA3001P | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/3219ja3001p-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/refrigerators/water-filter-filter/3219ja3001p/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/refrigeradores/filtros-de-agua-e-ar/3219ja3001p/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 3219JA3001P. Click for pictures, reviews, and tech specs for the LG Conjunto de filtro de água para Refrigerador LG 3219JA3001P ADQ73693903 (filtro de água, válvula, mangueira) ."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 242.1
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.245Z"
+  updated_at: "2026-11-14T12:52:15.667Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.245Z"
+    verified_at: "2026-11-14T12:52:15.667Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.245Z"
+    verified_at: "2026-11-14T12:52:15.667Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

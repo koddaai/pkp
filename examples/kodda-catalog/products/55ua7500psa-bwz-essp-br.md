@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/tv-uhd-4k/55ua7500psa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 55UA7500PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD AI 4K UA75 de 55 polegadas 2025."
+summary: "Descubra a próxima geração de Smart AI TVs da LG, 55UA7500PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG UHD AI 4K UA75 de 55 polegadas 2025."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2616.3
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.295Z"
+  updated_at: "2026-11-14T12:52:15.717Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.295Z"
+    verified_at: "2026-11-14T12:52:15.717Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.295Z"
+    verified_at: "2026-11-14T12:52:15.717Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 55UA7500PSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG UHD AI 4K UA75 de 55 polegadas 2025.
+Descubra a próxima geração de Smart AI TVs da LG, 55UA7500PSA para uma experiência de visualização ideal, personalizada para você por meio dos recursos inteligentes de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV LG UHD AI 4K UA75 de 55 polegadas 2025.

@@ -5,8 +5,8 @@ sku: "ebr89039401-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa secundaria Caixa de Som Portátil LG PL7 - EBR89039401 - EBR89039401 | LG BR"
-category: "tvs"
-
+category: "audio"
+subcategory: "speaker"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 107.4
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.663Z"
+  updated_at: "2026-11-14T12:52:16.190Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.663Z"
+    verified_at: "2026-11-14T12:52:16.190Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.663Z"
+    verified_at: "2026-11-14T12:52:16.190Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

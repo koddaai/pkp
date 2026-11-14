@@ -5,7 +5,7 @@ sku: "ebr89185715-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa principal Home Theater LG EBR89185715 - EBR89185715 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 901.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.665Z"
+  updated_at: "2026-11-14T12:52:16.191Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.665Z"
+    verified_at: "2026-11-14T12:52:16.191Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.665Z"
+    verified_at: "2026-11-14T12:52:16.191Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

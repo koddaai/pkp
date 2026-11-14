@@ -5,7 +5,7 @@ sku: "ebr83763304-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa principal Mini System LG CJ44 - EBR83763304 - EBR83763304 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 626.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.639Z"
+  updated_at: "2026-11-14T12:52:16.167Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.639Z"
+    verified_at: "2026-11-14T12:52:16.167Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.639Z"
+    verified_at: "2026-11-14T12:52:16.167Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

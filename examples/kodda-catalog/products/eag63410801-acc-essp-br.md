@@ -5,7 +5,7 @@ sku: "eag63410801-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Conector RCA Mini System LG CM9730-AB, CM9740-AB, CM9940 - EAG63410801 - EAG63410801 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.506Z"
+  updated_at: "2026-11-14T12:52:15.950Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.506Z"
+    verified_at: "2026-11-14T12:52:15.950Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.506Z"
+    verified_at: "2026-11-14T12:52:15.950Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

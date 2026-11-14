@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/acq88151703-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acq88151703/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/acq88151703/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ACQ88151703. Click for pictures, reviews, and tech specs for the LG Tampa plástica Ar Condicionado LG AVNQ60GM2A0, ARNU18GV1A4, ARNU36GV2A4 - ACQ88151703."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 382.13
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.348Z"
+  updated_at: "2026-11-14T12:52:15.769Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.348Z"
+    verified_at: "2026-11-14T12:52:15.769Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.348Z"
+    verified_at: "2026-11-14T12:52:15.769Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

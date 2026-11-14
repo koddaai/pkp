@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agf30112005-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf30112005/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agf30112005/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGF30112005. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 50UP7750PSB, 50UQ801C0SB, 50UQ8050PSB - AGF30112005."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 233.92
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.384Z"
+  updated_at: "2026-11-14T12:52:15.806Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.384Z"
+    verified_at: "2026-11-14T12:52:15.806Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.384Z"
+    verified_at: "2026-11-14T12:52:15.806Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -5,8 +5,8 @@ sku: "eac64790805-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Bateria Recarregável Caixa de som Bluetooth LG - EAC64790805 - EAC64790805 | LG BR"
-category: "tvs"
-
+category: "audio"
+subcategory: "speaker"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 445.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.479Z"
+  updated_at: "2026-11-14T12:52:15.926Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.479Z"
+    verified_at: "2026-11-14T12:52:15.926Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.479Z"
+    verified_at: "2026-11-14T12:52:15.926Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

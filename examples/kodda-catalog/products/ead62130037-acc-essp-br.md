@@ -5,7 +5,7 @@ sku: "ead62130037-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Cabo Flat Mini System LG OK55, OK75, OM5560 - EAD62130037 - EAD62130037 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.484Z"
+  updated_at: "2026-11-14T12:52:15.931Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.484Z"
+    verified_at: "2026-11-14T12:52:15.931Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.484Z"
+    verified_at: "2026-11-14T12:52:15.931Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
