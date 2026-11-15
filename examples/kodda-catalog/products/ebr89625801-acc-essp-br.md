@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr89625801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Aparelho Sound Bar LG SN8YG EBR89625801 - EBR89625801"
+name: "Placa Principal Aparelho Sound Bar LG SN8YG EBR89625801 - EBR89625801 | LG BR"
 category: "outros"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr89625801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-audio/acessorio/ebr89625801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr89625801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal Aparelho Sound Bar LG SN8YG EBR89625801"
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 654.55
+  value: 608.73
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.654Z"
+  updated_at: "2026-11-15T13:18:50.268Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.654Z"
+    verified_at: "2026-11-15T13:18:50.268Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.654Z"
+    verified_at: "2026-11-15T13:18:50.268Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-04
+# Data de importacao: 2026-11-15
 # aw_product_id: 43478676781
 ---
 
