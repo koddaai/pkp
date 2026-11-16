@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tbz38897601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Compressor Ar Condicionado LG ARUN180LLS5 TBZ38897601 - TBZ38897601"
+name: "Compressor Ar Condicionado LG ARUN180LLS5 TBZ38897601 - TBZ38897601 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/tbz38897601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/tbz38897601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/tbz38897601/"
 
 # === DESCOBERTA (L0) ===
 summary: "Compressor Ar Condicionado LG ARUN180LLS5 TBZ38897601"
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 8131.05
+  value: 6504.84
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.702Z"
+  updated_at: "2026-11-16T14:31:56.107Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.702Z"
+    verified_at: "2026-11-16T14:31:56.107Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.702Z"
+    verified_at: "2026-11-16T14:31:56.107Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478677216
 ---
 

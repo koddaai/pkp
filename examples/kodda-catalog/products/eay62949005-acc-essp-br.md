@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay62949005-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eay62949005/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/monitores/adaptadores-e-cabos-de-alimentacao/eay62949005/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAY62949005. Click for pictures, reviews, and tech specs for the LG Fonte externa LCAP31 Monitor LG 34UC97-S - EAY62949005."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 379.24
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.227Z"
+  updated_at: "2026-11-16T14:31:55.889Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.227Z"
+    verified_at: "2026-11-16T14:31:55.889Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.227Z"
+    verified_at: "2026-11-16T14:31:55.889Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478676238
 ---
 

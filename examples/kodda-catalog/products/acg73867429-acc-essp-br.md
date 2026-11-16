@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/acg73867429-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acg73867429/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/acg73867429/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ACG73867429. Click for pictures, reviews, and tech specs for the LG Serpentina condensadora Ar Condicionado LG S4UQ18KL3AA, 3-Q18KL5AA - ACG73867429."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1101.05
   source: "retailer"
-  updated_at: "2026-11-15T23:46:00.992Z"
+  updated_at: "2026-11-16T14:31:55.684Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.992Z"
+    verified_at: "2026-11-16T14:31:55.684Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.992Z"
+    verified_at: "2026-11-16T14:31:55.684Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478675247
 ---
 

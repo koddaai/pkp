@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/tbz38334801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/tbz38334801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/tbz38334801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG TBZ38334801. Click for pictures, reviews, and tech specs for the LG Compressor SBA052WB Ar Condicionado LG LG-NAS12 - TBZ38334801."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5250.84
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.408Z"
+  updated_at: "2026-11-16T14:31:56.103Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.408Z"
+    verified_at: "2026-11-16T14:31:56.103Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.408Z"
+    verified_at: "2026-11-16T14:31:56.103Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478677214
 ---
 

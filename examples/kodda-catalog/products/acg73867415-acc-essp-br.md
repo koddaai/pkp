@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/acg73867415-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acg73867415/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/acg73867415/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ACG73867415. Click for pictures, reviews, and tech specs for the LG Serpentina condensadora Ar Condicionado LG S4UW18KL3WA - ACG73867415."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2222.05
   source: "retailer"
-  updated_at: "2026-11-15T23:46:00.992Z"
+  updated_at: "2026-11-16T14:31:55.684Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.992Z"
+    verified_at: "2026-11-16T14:31:55.684Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.992Z"
+    verified_at: "2026-11-16T14:31:55.684Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478675246
 ---
 

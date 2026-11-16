@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/abq75725202-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/abq75725202/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/notebooks/outros-acessorios/abq75725202/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ABQ75725202. Click for pictures, reviews, and tech specs for the LG Base do Pedestal ALL IN ONE LG 22V270-L - ABQ75725202."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 246.05
   source: "retailer"
-  updated_at: "2026-11-15T23:46:00.988Z"
+  updated_at: "2026-11-16T14:31:55.679Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.988Z"
+    verified_at: "2026-11-16T14:31:55.679Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.988Z"
+    verified_at: "2026-11-16T14:31:55.679Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478675225
 ---
 

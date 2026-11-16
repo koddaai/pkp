@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "adq75153404-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Filtro purificador de ar PuriCare™ 360° - ADQ75153404 | LG BR"
+name: "Filtro Purificador de Ar LG AS101DSH0.AMZ ADQ75153404 - ADQ75153404 | LG BR"
 category: "eletrodomesticos"
 subcategory: "purificador"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adq75153404-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/air-purifiers/filter/adq75153404/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/purificadores-de-ar/filtros/adq75153404/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ADQ75153404. Click for pictures, reviews, and tech specs for the LG Filtro Purificador de Ar LG AS101DSH0.AMZ ADQ75153404."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 977.55
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.013Z"
+  updated_at: "2026-11-16T14:31:55.706Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.013Z"
+    verified_at: "2026-11-16T14:31:55.706Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.013Z"
+    verified_at: "2026-11-16T14:31:55.706Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478675353
 ---
 

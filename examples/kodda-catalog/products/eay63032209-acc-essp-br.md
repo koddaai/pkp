@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay63032209-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte de alimentação externa (19 V, 5,79 A, 110 W, cabo de alimentação não incluído, preto) - EAY63032209 | LG BR"
+name: "Fonte de Alimentação Monitor EAY63032209 - EAY63032209 | LG BR"
 category: "monitors"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay63032209-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/monitors/adapter-power-cord/eay63032209/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/monitores/adaptadores-e-cabos-de-alimentacao/eay63032209/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAY63032209. Click for pictures, reviews, and tech specs for the LG Fonte de Alimentação Monitor EAY63032209."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 208.05
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.228Z"
+  updated_at: "2026-11-16T14:31:55.891Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.228Z"
+    verified_at: "2026-11-16T14:31:55.891Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.228Z"
+    verified_at: "2026-11-16T14:31:55.891Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478676245
 ---
 

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/3390jm2003a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/acessorio/3390jm2003a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/refrigeradores/home-bar-e-baldes-de-gelo/3390jm2003a/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 3390JM2003A. Click for pictures, reviews, and tech specs for the LG Bandeja de gelo Refrigerador LG GNB392PLMB 3390JM2003A."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 25.55
   source: "retailer"
-  updated_at: "2026-11-15T23:46:00.912Z"
+  updated_at: "2026-11-16T14:31:55.582Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.912Z"
+    verified_at: "2026-11-16T14:31:55.582Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.912Z"
+    verified_at: "2026-11-16T14:31:55.582Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 45397222321
 ---
 

@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/tbz39262001-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/tbz39262001/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/tbz39262001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG TBZ39262001. Click for pictures, reviews, and tech specs for the LG Motocompressor DAT156MA* Ar Condicionado LG TBZ39262001."
+summary: "Capacidade de 5.195 frigorias/hora (20.780 btuh), 380V, trifásico, R32, tipo rotativo"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 858.04
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.409Z"
+  updated_at: "2026-11-16T14:31:56.108Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.409Z"
+    verified_at: "2026-11-16T14:31:56.108Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.409Z"
+    verified_at: "2026-11-16T14:31:56.108Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478677222
 ---
 
 ## Descricao
 
-Get more information on the LG TBZ39262001. Click for pictures, reviews, and tech specs for the LG Motocompressor DAT156MA* Ar Condicionado LG TBZ39262001.
+Capacidade de 5.195 frigorias/hora (20.780 btuh), 380V, trifásico, R32, tipo rotativo

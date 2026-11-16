@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mjs54580311-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/acessorio/MJS54580311/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/refrigeradores/bandejas-e-cestos/MJS54580311/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MJS54580311. Click for pictures, reviews, and tech specs for the LG Bandeja de Ovos Refrigerador LG GNB452PFFQ MJS54580311."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 35.97
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.383Z"
+  updated_at: "2026-11-16T14:31:56.074Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.383Z"
+    verified_at: "2026-11-16T14:31:56.074Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.383Z"
+    verified_at: "2026-11-16T14:31:56.074Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 44290564758
 ---
 

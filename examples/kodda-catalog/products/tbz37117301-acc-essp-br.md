@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/tbz37117301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/tbz37117301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/tbz37117301/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG TBZ37117301. Click for pictures, reviews, and tech specs for the LG Motocompressor hermético para sistema de Ar Condicionado LG ARUM100LTE5, ARWM200LAS5, CRUM100LTE5 - TBZ37117301."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 15845.24
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.406Z"
+  updated_at: "2026-11-16T14:31:56.098Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.406Z"
+    verified_at: "2026-11-16T14:31:56.098Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.406Z"
+    verified_at: "2026-11-16T14:31:56.098Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478677202
 ---
 

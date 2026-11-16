@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan30033603-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/aan30033603/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/monitores/suportes-e-bracos/aan30033603/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAN30033603. Click for pictures, reviews, and tech specs for the LG Suporte Articulado e base para fixação em mesas Monitor LG 28MQ780-B - AAN30033603."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1077.62
   source: "retailer"
-  updated_at: "2026-11-15T23:46:00.973Z"
+  updated_at: "2026-11-16T14:31:55.655Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.973Z"
+    verified_at: "2026-11-16T14:31:55.655Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.973Z"
+    verified_at: "2026-11-16T14:31:55.655Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478675154
 ---
 

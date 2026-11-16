@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aht75334801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/acessorio/aht75334801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/refrigeradores/prateleiras/aht75334801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AHT75334801. Click for pictures, reviews, and tech specs for the LG Prateleira de Vidro Refrigerador LG GNB392PLMB AHT75334801."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 350.55
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.056Z"
+  updated_at: "2026-11-16T14:31:55.756Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.056Z"
+    verified_at: "2026-11-16T14:31:55.756Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.056Z"
+    verified_at: "2026-11-16T14:31:55.756Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 44290564730
 ---
 

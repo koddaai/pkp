@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb74675304-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle remoto para ar-condicionado de parede (suporte incluso) - AKB74675304 | LG BR"
+name: "Controle remoto para ar-condicionado de parede (suporte incluso) AKB74675304 - AKB74675304 | LG BR"
 category: "outros"
 
 
@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/akb74675304-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/air-conditioners/remote-controller/akb74675304/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/ar-condicionado/controle-remoto/akb74675304/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AKB74675304. Clique para ver imagens, avaliações e especificações técnicas do Controle remoto para aparelhos de ar-condicionado de parede LG (suporte incluso)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AKB74675304. Click for pictures, reviews, and tech specs for the LG Controle remoto para ar-condicionado de parede (suporte incluso) AKB74675304."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 121.69
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.130Z"
+  updated_at: "2026-11-16T14:31:55.769Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.130Z"
+    verified_at: "2026-11-16T14:31:55.769Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.130Z"
+    verified_at: "2026-11-16T14:31:55.769Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478675659
 ---
 
 ## Descricao
 
-Obtenha mais informações sobre o AKB74675304. Clique para ver imagens, avaliações e especificações técnicas do Controle remoto para aparelhos de ar-condicionado de parede LG (suporte incluso).
+Get more information on the LG AKB74675304. Click for pictures, reviews, and tech specs for the LG Controle remoto para ar-condicionado de parede (suporte incluso) AKB74675304.

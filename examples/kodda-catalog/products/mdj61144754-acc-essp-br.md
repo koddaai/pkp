@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mdj61144754-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mdj61144754/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/ar-condicionado/filtros/mdj61144754/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MDJ61144754. Click for pictures, reviews, and tech specs for the LG Filtro entrada de ar evaporadora Ar Condicionado LG MDJ61144754."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 23.27
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.365Z"
+  updated_at: "2026-11-16T14:31:56.054Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.365Z"
+    verified_at: "2026-11-16T14:31:56.054Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.365Z"
+    verified_at: "2026-11-16T14:31:56.054Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478676978
 ---
 

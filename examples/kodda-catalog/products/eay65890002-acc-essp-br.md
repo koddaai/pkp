@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/eay65890002-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/monitors/adapter-power-cord/eay65890002/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/monitores/adaptadores-e-cabos-de-alimentacao/eay65890002/"
 
 # === DESCOBERTA (L0) ===
-summary: "Saiba mais sobre o EAY65890002. Confira fotos, especificações técnicas e todos os detalhes do Adaptador para Monitor LG EAY65890002."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAY65890002. Click for pictures, reviews, and tech specs for the LG Fonte Externa ADS-45SQ Monitor LG EAY65890002."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 156.91
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.236Z"
+  updated_at: "2026-11-16T14:31:55.902Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.236Z"
+    verified_at: "2026-11-16T14:31:55.902Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.236Z"
+    verified_at: "2026-11-16T14:31:55.902Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 45882888914
 ---
 
 ## Descricao
 
-Saiba mais sobre o EAY65890002. Confira fotos, especificações técnicas e todos os detalhes do Adaptador para Monitor LG EAY65890002.
+Get more information on the LG EAY65890002. Click for pictures, reviews, and tech specs for the LG Fonte Externa ADS-45SQ Monitor LG EAY65890002.

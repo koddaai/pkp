@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akc73349802-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/akc73349802/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/refrigeradores/home-bar-e-baldes-de-gelo/akc73349802/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKC73349802. Click for pictures, reviews, and tech specs for the LG Reservatório de gelo Refrigerador LG GS65SDN, GC-L247SLU1, GC-L247SLUV - AKC73349802."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 705.97
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.140Z"
+  updated_at: "2026-11-16T14:31:55.780Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.140Z"
+    verified_at: "2026-11-16T14:31:55.780Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.140Z"
+    verified_at: "2026-11-16T14:31:55.780Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478675719
 ---
 

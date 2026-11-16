@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agm30130202-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/agm30130202/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/refrigeradores/outros-acessorios/agm30130202/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGM30130202. Click for pictures, reviews, and tech specs for the LG Puxador adicional Refrigerador LG GCX247CSAV AGM30130202."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 174.32
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.043Z"
+  updated_at: "2026-11-16T14:31:55.741Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.043Z"
+    verified_at: "2026-11-16T14:31:55.741Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.043Z"
+    verified_at: "2026-11-16T14:31:55.741Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 44290564727
 ---
 

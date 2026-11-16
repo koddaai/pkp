@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65689615-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Fonte Externa All In One LG 22V30R EAY65689615 - EAY65689615"
+name: "Fonte Externa All In One LG 22V30R EAY65689615 - EAY65689615 | LG BR"
 category: "notebooks"
 
 
@@ -17,25 +17,25 @@ identifiers:
 uri: "pkp://lg.com/eay65689615-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/acessorio/eay65689615/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/notebooks/adaptadores-e-cabos-de-alimentacao/eay65689615/"
 
 # === DESCOBERTA (L0) ===
-summary: "Fonte de alimentação para all in one Não acompanha cabo de força"
+summary: "Get more information on the LG EAY65689615. Click for pictures, reviews, and tech specs for the LG Fonte Externa All In One LG 22V30R EAY65689615."
 tags: ["lg"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 246.05
+  value: 229.42
   source: "retailer"
-  updated_at: "2026-04-17T20:43:21.750Z"
+  updated_at: "2026-11-16T14:31:55.899Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=43478676294&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=46804038825&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-17T20:43:21.750Z"
+    verified_at: "2026-11-16T14:31:55.899Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-04-17T20:43:21.750Z"
+    verified_at: "2026-11-16T14:31:55.899Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-04-17
-# aw_product_id: 43478676294
+# Data de importacao: 2026-11-16
+# aw_product_id: 46804038825
 ---
 
 ## Descricao
 
-Fonte de alimentação para all in one  Não acompanha cabo de força
+Get more information on the LG EAY65689615. Click for pictures, reviews, and tech specs for the LG Fonte Externa All In One LG 22V30R EAY65689615.

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb75735404-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/air-conditioners/remote-controller/akb75735404/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/ar-condicionado/controle-remoto/akb75735404/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB75735404. Click for pictures, reviews, and tech specs for the LG Controle remoto para ar-condicionado de parede (suporte incluso)."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 115.2
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.136Z"
+  updated_at: "2026-11-16T14:31:55.776Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.136Z"
+    verified_at: "2026-11-16T14:31:55.776Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.136Z"
+    verified_at: "2026-11-16T14:31:55.776Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478675693
 ---
 

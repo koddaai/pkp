@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb74955601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle remoto Ar Condicionado LG S4NW31V43B1, ARNU28GBGA2, ARNU36GBGA2 - AKB74955601 - AKB74955601 | LG BR"
+name: "Controle remoto Ar Condicionado LG S4NW31V43B1 AKB74955601 - AKB74955601 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb74955601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/akb74955601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/ar-condicionado/controle-remoto/akb74955601/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB74955601. Click for pictures, reviews, and tech specs for the LG Controle remoto Ar Condicionado LG S4NW31V43B1 AKB74955601."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 115.22
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.132Z"
+  updated_at: "2026-11-16T14:31:55.771Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.132Z"
+    verified_at: "2026-11-16T14:31:55.771Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.132Z"
+    verified_at: "2026-11-16T14:31:55.771Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478675666
 ---
 

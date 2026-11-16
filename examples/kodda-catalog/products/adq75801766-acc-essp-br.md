@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adq75801766-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/adq75801766/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/purificadores-de-ar/filtros/adq75801766/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ADQ75801766. Click for pictures, reviews, and tech specs for the LG Filtro de Ar Purificador LG AS101DSH0 ADQ75801766."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 357.1
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.013Z"
+  updated_at: "2026-11-16T14:31:55.706Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.013Z"
+    verified_at: "2026-11-16T14:31:55.706Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.013Z"
+    verified_at: "2026-11-16T14:31:55.706Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 44735580473
 ---
 

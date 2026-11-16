@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/tbz38234401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/tbz38234401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/tbz38234401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG TBZ38234401. Click for pictures, reviews, and tech specs for the LG Compressor Ar Condicionado LG ARUN100LH2 TBZ38234401."
+summary: "Motocompressor hermético LG Para sistema de ar condicionado Com capacidade de 14.114,68 frigorias/hora (56.500 btu) Trifásico 540v Tipo scroll Modelo ARA055N"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 16567.05
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.407Z"
+  updated_at: "2026-11-16T14:31:56.100Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.407Z"
+    verified_at: "2026-11-16T14:31:56.100Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.407Z"
+    verified_at: "2026-11-16T14:31:56.100Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  storage: {"value":2,"unit":"TB"}
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 44643927406
 ---
 
 ## Descricao
 
-Get more information on the LG TBZ38234401. Click for pictures, reviews, and tech specs for the LG Compressor Ar Condicionado LG ARUN100LH2 TBZ38234401.
+Motocompressor hermético LG Para sistema de ar condicionado Com capacidade de 14.114,68 frigorias/hora (56.500 btu) Trifásico 540v Tipo scroll Modelo ARA055N

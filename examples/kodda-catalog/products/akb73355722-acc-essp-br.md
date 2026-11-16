@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb73355722-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle remoto para aparelhos de ar-condicionado cassete - AKB73355722 | LG BR"
+name: "Controle remoto de parede Ar-Condicionado LG AKB73355722 - AKB73355722 | LG BR"
 category: "outros"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb73355722-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/air-conditioners/remote-controller/akb73355722/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/ar-condicionado/controle-remoto/akb73355722/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB73355722. Click for pictures, reviews, and tech specs for the LG Controle remoto de parede Ar-Condicionado LG AKB73355722."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 818.61
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.128Z"
+  updated_at: "2026-11-16T14:31:55.767Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.128Z"
+    verified_at: "2026-11-16T14:31:55.767Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.128Z"
+    verified_at: "2026-11-16T14:31:55.767Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478675641
 ---
 

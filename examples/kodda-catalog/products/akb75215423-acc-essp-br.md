@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb75215423-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Remoto Ar Condicionado LG S3NW09AA31C, S3NW12JA31A, S3NW18KL31A - AKB75215423 - AKB75215423 | LG BR"
+name: "Controle Remoto Ar Condicionado LG S3NW09AA31C AKB75215423 - AKB75215423 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/akb75215423-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/akb75215423/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/ar-condicionado/controle-remoto/akb75215423/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB75215423. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar Condicionado LG S3NW09AA31C AKB75215423."
-tags: ["lg", "8k"]
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 121.9
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.134Z"
+  updated_at: "2026-11-16T14:31:55.773Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.134Z"
+    verified_at: "2026-11-16T14:31:55.773Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.134Z"
+    verified_at: "2026-11-16T14:31:55.773Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478675679
 ---
 

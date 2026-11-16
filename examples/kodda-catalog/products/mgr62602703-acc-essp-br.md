@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mgr62602703-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte de Garrafa Refrigerador LG GCB659NSM MGR62602703 - MGR62602703 | LG BR"
+name: "Suporte de Garrafa Refrigerador LG MGR62602703 - MGR62602703 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mgr62602703-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/mgr62602703/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/refrigeradores/outros-acessorios/mgr62602703/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MGR62602703. Click for pictures, reviews, and tech specs for the LG Suporte de Garrafa Refrigerador LG MGR62602703."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 288.49
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.379Z"
+  updated_at: "2026-11-16T14:31:56.070Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.379Z"
+    verified_at: "2026-11-16T14:31:56.070Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.379Z"
+    verified_at: "2026-11-16T14:31:56.070Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478677064
 ---
 

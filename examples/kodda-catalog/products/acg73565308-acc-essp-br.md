@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/acg73565308-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/acg73565308/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/acg73565308/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG ACG73565308. Click for pictures, reviews, and tech specs for the LG Serpentina Ar Condicionado LG LPUC2108S4R ACG73565308."
+summary: "Trocador de calor da unidade condensadora (condensador)"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2534.45
   source: "retailer"
-  updated_at: "2026-11-15T23:46:00.992Z"
+  updated_at: "2026-11-16T14:31:55.683Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.992Z"
+    verified_at: "2026-11-16T14:31:55.683Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.992Z"
+    verified_at: "2026-11-16T14:31:55.683Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 44643927393
 ---
 
 ## Descricao
 
-Get more information on the LG ACG73565308. Click for pictures, reviews, and tech specs for the LG Serpentina Ar Condicionado LG LPUC2108S4R ACG73565308.
+Trocador de calor da unidade condensadora (condensador)

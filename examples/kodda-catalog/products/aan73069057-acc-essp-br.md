@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan73069057-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/aan73069057/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/monitores/suportes-e-bracos/aan73069057/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAN73069057. Click for pictures, reviews, and tech specs for the LG Suporte de articulação Monitor Desktop LG 23MB35PH-B, 22BN550Y-B, 22MP55PJ-B - AAN73069057."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 128.44
   source: "retailer"
-  updated_at: "2026-11-15T23:46:00.977Z"
+  updated_at: "2026-11-16T14:31:55.660Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.977Z"
+    verified_at: "2026-11-16T14:31:55.660Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.977Z"
+    verified_at: "2026-11-16T14:31:55.660Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478675163
 ---
 

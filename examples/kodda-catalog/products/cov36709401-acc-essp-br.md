@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/cov36709401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/cov36709401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/monitores/outros-acessorios/cov36709401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG COV36709401. Click for pictures, reviews, and tech specs for the LG Módulo Wi-Fi Bluetooth Monitor LG 65TR3BFB COV36709401."
-tags: ["lg", "bluetooth"]
+summary: "Dispositivo de transmissão e recepção Tecnologia do tipo (wi-fi e bluetooth) com conexão USB Faixa de frequencias de 2,4 a 5ghz Taxa de transmissão 433mbps (3.464mbtis) Dual band IEEE 802.11 a/b/g/n/ac Modelo: SI01"
+tags: ["lg", "bluetooth", "ai", "5g"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 797.06
   source: "retailer"
-  updated_at: "2026-11-15T23:46:01.145Z"
+  updated_at: "2026-11-16T14:31:55.786Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.145Z"
+    verified_at: "2026-11-16T14:31:55.786Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:01.145Z"
+    verified_at: "2026-11-16T14:31:55.786Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 45391551802
 ---
 
 ## Descricao
 
-Get more information on the LG COV36709401. Click for pictures, reviews, and tech specs for the LG Módulo Wi-Fi Bluetooth Monitor LG 65TR3BFB COV36709401.
+Dispositivo de transmissão e recepção Tecnologia do tipo (wi-fi e bluetooth) com conexão USB Faixa de frequencias de 2,4 a 5ghz Taxa de transmissão 433mbps (3.464mbtis) Dual band IEEE 802.11 a/b/g/n/ac Modelo: SI01

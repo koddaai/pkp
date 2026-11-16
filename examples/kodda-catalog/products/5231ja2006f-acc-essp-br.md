@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/5231ja2006f-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/refrigerators/water-filter-filter/5231ja2006f/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/refrigeradores/filtros-de-agua-e-ar/5231ja2006f/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 5231JA2006F. Click for pictures, reviews, and tech specs for the LG Filtro de água LT600P Refrigerador LG 5231JA2006F."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 233.42
   source: "retailer"
-  updated_at: "2026-11-15T23:46:00.946Z"
+  updated_at: "2026-11-16T14:31:55.622Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.946Z"
+    verified_at: "2026-11-16T14:31:55.622Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-15T23:46:00.946Z"
+    verified_at: "2026-11-16T14:31:55.622Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-15
+# Data de importacao: 2026-11-16
 # aw_product_id: 43478674998
 ---
 
