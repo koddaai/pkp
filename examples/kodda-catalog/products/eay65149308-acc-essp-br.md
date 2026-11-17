@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eay65149308-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay65149308/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay65149308/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAY65149308. Clique para ver imagens, análises e especificações técnicas da LG Placa Fonte TV LG 55UP751C0SF, 55UT660H0SA - EAY65149308"
+summary: "Placa Fonte TV LG 55UP751C0SF, 55UT660H0SA - EAY65149308"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 153.04
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.605Z"
+  updated_at: "2026-11-17T15:22:38.490Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.605Z"
+    verified_at: "2026-11-17T15:22:38.490Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.605Z"
+    verified_at: "2026-11-17T15:22:38.490Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAY65149308. Clique para ver imagens, análises e especificações técnicas da LG Placa Fonte TV LG 55UP751C0SF, 55UT660H0SA - EAY65149308
+Placa Fonte TV LG 55UP751C0SF, 55UT660H0SA - EAY65149308

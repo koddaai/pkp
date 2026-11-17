@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aeb75044601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aeb75044601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aeb75044601/"
 
 # === DESCOBERTA (L0) ===
 summary: "Grade Frontal LG AEB75044601, feita de plástico, para a unidade evaporadora de Ar Condicionado. Protege e cobre os componentes internos, garantindo o fluxo de ar eficiente e a durabilidade do sistema, mantendo a estética e funcionalidade do equipamento."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 172.37
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.441Z"
+  updated_at: "2026-11-17T15:22:38.325Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.441Z"
+    verified_at: "2026-11-17T15:22:38.325Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.441Z"
+    verified_at: "2026-11-17T15:22:38.325Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

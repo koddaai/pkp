@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr30795407-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr30795407/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr30795407/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa da Fonte Torre de Som LG XBOOM LG RNC5 EBR30795407"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 265.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.628Z"
+  updated_at: "2026-11-17T15:22:38.512Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.628Z"
+    verified_at: "2026-11-17T15:22:38.512Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.628Z"
+    verified_at: "2026-11-17T15:22:38.512Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

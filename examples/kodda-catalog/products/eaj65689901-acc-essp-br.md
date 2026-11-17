@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eaj65689901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65689901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj65689901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ65689901. Click for pictures, reviews, and tech specs for the LG Módulo OLED TV LG OLED77C1PSA - EAJ65689901."
+summary: "Módulo OLED TV LG OLED77C1PSA - EAJ65689901"
 tags: ["lg", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 10933.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.563Z"
+  updated_at: "2026-11-17T15:22:38.449Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.563Z"
+    verified_at: "2026-11-17T15:22:38.449Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.563Z"
+    verified_at: "2026-11-17T15:22:38.449Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAJ65689901. Click for pictures, reviews, and tech specs for the LG Módulo OLED TV LG OLED77C1PSA - EAJ65689901.
+Módulo OLED TV LG OLED77C1PSA - EAJ65689901

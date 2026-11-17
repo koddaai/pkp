@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agf04075501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/agf04075501/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agf04075501/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGF04075501. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UA8550PSA AGF04075501."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 369.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.449Z"
+  updated_at: "2026-11-17T15:22:38.333Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.449Z"
+    verified_at: "2026-11-17T15:22:38.333Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.449Z"
+    verified_at: "2026-11-17T15:22:38.333Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -5,7 +5,7 @@ sku: "cov37592101-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Caneta Touch Lousa Digital LG 98TR3DKB COV37592101 - COV37592101 | LG BR"
-category: "monitors"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 82.57
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.514Z"
+  updated_at: "2026-11-17T15:22:38.396Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.514Z"
+    verified_at: "2026-11-17T15:22:38.396Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.514Z"
+    verified_at: "2026-11-17T15:22:38.396Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

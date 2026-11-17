@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adp73694502-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adp73694502/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adp73694502/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ADP73694502. Click for pictures, reviews, and tech specs for the LG Turbina da evaporadora Ar condicionado LG AVNQ54GLLA0, AVNQ18GJLA2, AVNQ21GJLA0 - ADP73694502."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 407.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.435Z"
+  updated_at: "2026-11-17T15:22:38.319Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.435Z"
+    verified_at: "2026-11-17T15:22:38.319Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.435Z"
+    verified_at: "2026-11-17T15:22:38.319Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

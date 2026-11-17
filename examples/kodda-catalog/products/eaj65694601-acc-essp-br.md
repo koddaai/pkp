@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65694601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido BA TV LG 55NANO75SPA EAJ65694601 - EAJ65694601"
+name: "Tela de cristal líquido BA TV LG 55NANO75SPA EAJ65694601 - EAJ65694601 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65694601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/eaj65694601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj65694601/"
 
 # === DESCOBERTA (L0) ===
 summary: "Tela de cristal líquido BA TV LG 55NANO75SPA EAJ65694601"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1158.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.422Z"
+  updated_at: "2026-11-17T15:22:38.449Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.422Z"
+    verified_at: "2026-11-17T15:22:38.449Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.422Z"
+    verified_at: "2026-11-17T15:22:38.449Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-05
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478676059
 ---
 

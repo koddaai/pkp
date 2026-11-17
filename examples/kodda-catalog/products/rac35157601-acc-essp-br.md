@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "rac35157601-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Óleo lubrificante sintético FHC R32 & R410A FW68L Ar Condicionado LG - RAC35157601 - RAC35157601 | LG BR"
+name: "Óleo lubrificante sintético FHC R32 & R410A FW68L Ar Condicionado LG RAC35157601 - RAC35157601 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/rac35157601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/rac35157601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/rac35157601/"
 
 # === DESCOBERTA (L0) ===
 summary: "Óleo lubrificante sintético FHC R32 & R410A FW68L Ar Condicionado LG - RAC35157601"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 319.01
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.764Z"
+  updated_at: "2026-11-17T15:22:38.654Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.764Z"
+    verified_at: "2026-11-17T15:22:38.654Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.764Z"
+    verified_at: "2026-11-17T15:22:38.654Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

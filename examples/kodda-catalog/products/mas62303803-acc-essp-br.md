@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mas62303803-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mas62303803/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mas62303803/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MAS62303803. Clique para ver imagens, análises e especificações técnicas da LG Correia de borracha GHP(GAS HEAT PUMP) LG GPUW280C2RM, GPUW300C2RM, GPUW320C2RM - MAS62303803"
+summary: "Get more information on the LG MAS62303803. Click for pictures, reviews, and tech specs for the LG Correia de borracha GHP(GAS HEAT PUMP) LG GPUW280C2RM, GPUW300C2RM, GPUW320C2RM - MAS62303803."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 330.23
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.733Z"
+  updated_at: "2026-11-17T15:22:38.619Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.733Z"
+    verified_at: "2026-11-17T15:22:38.619Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.733Z"
+    verified_at: "2026-11-17T15:22:38.619Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MAS62303803. Clique para ver imagens, análises e especificações técnicas da LG Correia de borracha GHP(GAS HEAT PUMP) LG GPUW280C2RM, GPUW300C2RM, GPUW320C2RM - MAS62303803
+Get more information on the LG MAS62303803. Click for pictures, reviews, and tech specs for the LG Correia de borracha GHP(GAS HEAT PUMP) LG GPUW280C2RM, GPUW300C2RM, GPUW320C2RM - MAS62303803.

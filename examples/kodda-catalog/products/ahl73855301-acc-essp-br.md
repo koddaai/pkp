@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ahl73855301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/ahl73855301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ahl73855301/"
 
 # === DESCOBERTA (L0) ===
 summary: "Rotor do motor AC Lavadora LG F14U1JBS2 AHL73855301"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 331.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.484Z"
+  updated_at: "2026-11-17T15:22:38.364Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.484Z"
+    verified_at: "2026-11-17T15:22:38.364Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.484Z"
+    verified_at: "2026-11-17T15:22:38.364Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

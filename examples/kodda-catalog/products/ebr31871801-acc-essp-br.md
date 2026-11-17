@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr31871801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr31871801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebr31871801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR31871801. Click for pictures, reviews, and tech specs for the LG Placa receptora de controle remoto TV LG 55UP7550PSF, 50UQ801C0SB, 55UQ801C0SB - EBR31871801."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 135.94
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.630Z"
+  updated_at: "2026-11-17T15:22:38.514Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.630Z"
+    verified_at: "2026-11-17T15:22:38.514Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.630Z"
+    verified_at: "2026-11-17T15:22:38.514Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

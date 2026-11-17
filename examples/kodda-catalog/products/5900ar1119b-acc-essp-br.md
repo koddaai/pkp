@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/5900ar1119b-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5900ar1119b/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/5900ar1119b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5900AR1119B. Clique para ver imagens, análises e especificações técnicas da LG Hélice do ventilador Ar Condicionado LG LSUC112PML1, LSUC1823MM1, LSUH182TNM0 - 5900AR1119B"
+summary: "Get more information on the LG 5900AR1119B. Click for pictures, reviews, and tech specs for the LG Hélice do ventilador Ar Condicionado LG LSUC112PML1, LSUC1823MM1, LSUH182TNM0 - 5900AR1119B."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.377Z"
+  updated_at: "2026-11-17T15:22:38.255Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.377Z"
+    verified_at: "2026-11-17T15:22:38.255Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.377Z"
+    verified_at: "2026-11-17T15:22:38.255Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5900AR1119B. Clique para ver imagens, análises e especificações técnicas da LG Hélice do ventilador Ar Condicionado LG LSUC112PML1, LSUC1823MM1, LSUH182TNM0 - 5900AR1119B
+Get more information on the LG 5900AR1119B. Click for pictures, reviews, and tech specs for the LG Hélice do ventilador Ar Condicionado LG LSUC112PML1, LSUC1823MM1, LSUH182TNM0 - 5900AR1119B.

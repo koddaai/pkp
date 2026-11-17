@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj64108301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj64108301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj64108301/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAJ64108301. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG 55UJ6300 - EAJ64108301."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1177.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.558Z"
+  updated_at: "2026-11-17T15:22:38.444Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.558Z"
+    verified_at: "2026-11-17T15:22:38.444Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.558Z"
+    verified_at: "2026-11-17T15:22:38.444Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

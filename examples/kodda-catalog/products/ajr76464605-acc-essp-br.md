@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ajr76464605-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ajr76464605/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ajr76464605/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AJR76464605. Click for pictures, reviews, and tech specs for the LG Tubo coletor da serpentina condensadora Ar Condicionado LG S4UW24KE311, S4UW24KE3W1, S4UW24KERP1 - AJR76464605."
+summary: "Obtenha informações sobre o LG AJR76464605. Encontre imagens, avaliações e especificações técnicas para o LG AJR76464605 Tubo coletor da serpentina condensadora Ar Condicionado LG S4UW24KE311, S4UW24KE3W1, S4UW24KERP1 - AJR76464605"
 tags: ["lg", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.491Z"
+  updated_at: "2026-11-17T15:22:38.371Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.491Z"
+    verified_at: "2026-11-17T15:22:38.371Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.491Z"
+    verified_at: "2026-11-17T15:22:38.371Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AJR76464605. Click for pictures, reviews, and tech specs for the LG Tubo coletor da serpentina condensadora Ar Condicionado  LG S4UW24KE311, S4UW24KE3W1, S4UW24KERP1 - AJR76464605.
+Obtenha informações sobre o LG AJR76464605. Encontre imagens, avaliações e especificações técnicas para o LG AJR76464605 Tubo coletor da serpentina condensadora Ar Condicionado LG S4UW24KE311, S4UW24KE3W1, S4UW24KERP1 - AJR76464605

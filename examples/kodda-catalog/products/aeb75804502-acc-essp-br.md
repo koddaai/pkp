@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aeb75804502-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aeb75804502/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aeb75804502/"
 
 # === DESCOBERTA (L0) ===
 summary: "Para unidade evaporadora, Grade de insuflamento de ar, com bandeja do dreno e aleta de plástico da unidade evaporadora"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 327.41
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.442Z"
+  updated_at: "2026-11-17T15:22:38.326Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.442Z"
+    verified_at: "2026-11-17T15:22:38.326Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.442Z"
+    verified_at: "2026-11-17T15:22:38.326Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

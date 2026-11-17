@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan76411769-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan76411769/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/aan76411769/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAN76411769. Click for pictures, reviews, and tech specs for the LG Base (Pedestal) TV LG 50NANO79SND - AAN76411769."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 199.79
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.407Z"
+  updated_at: "2026-11-17T15:22:38.287Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.407Z"
+    verified_at: "2026-11-17T15:22:38.287Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.407Z"
+    verified_at: "2026-11-17T15:22:38.287Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

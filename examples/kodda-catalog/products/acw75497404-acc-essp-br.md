@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/acw75497404-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acw75497404/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/acw75497404/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ACW75497404. Click for pictures, reviews, and tech specs for the LG Tampa frontal Ar condicionado LG S4NQ18KL31A - ACW75497404."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.424Z"
+  updated_at: "2026-11-17T15:22:38.305Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.424Z"
+    verified_at: "2026-11-17T15:22:38.305Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.424Z"
+    verified_at: "2026-11-17T15:22:38.305Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

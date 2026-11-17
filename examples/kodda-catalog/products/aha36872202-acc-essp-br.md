@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/aha36872202-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aha36872202/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aha36872202/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AHA36872202. Click for pictures, reviews, and tech specs for the LG Bomba Centrífuga Ar Condicionado LG AHA36872202."
-tags: ["lg"]
+summary: "Bomba centrífuga com vazão 0,4 litros por minuto com bep (ponto de maxima eficiencia) 0,024m3/h Monofásico de potência 0.01CV, 12W, 12V"
+tags: ["lg", "max"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 140.46
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.482Z"
+  updated_at: "2026-11-17T15:22:38.361Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.482Z"
+    verified_at: "2026-11-17T15:22:38.361Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.482Z"
+    verified_at: "2026-11-17T15:22:38.361Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  voltage: "220V"
+  capacity: {"value":4,"unit":"litros"}
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AHA36872202. Click for pictures, reviews, and tech specs for the LG Bomba Centrífuga Ar Condicionado LG AHA36872202.
+Bomba centrífuga com vazão  0,4 litros por minuto com bep (ponto de maxima eficiencia) 0,024m3/h Monofásico de potência 0.01CV, 12W, 12V

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mec63567316-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/mec63567316/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/mec63567316/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MEC63567316. Click for pictures, reviews, and tech specs for the LG Suporte de parede com parafusos e buchas TV OLED LG OLED65G2PSA, , OLED77G2PSA, OLED83G2PSA - MEC63567316."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 787.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.743Z"
+  updated_at: "2026-11-17T15:22:38.629Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.743Z"
+    verified_at: "2026-11-17T15:22:38.629Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.743Z"
+    verified_at: "2026-11-17T15:22:38.629Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead65893701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead65893701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ead65893701/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAD65893701. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG 43UP7500PSF, 43UP751C0SF, 43UQ7500PSF - EAD65893701."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.549Z"
+  updated_at: "2026-11-17T15:22:38.435Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.549Z"
+    verified_at: "2026-11-17T15:22:38.435Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.549Z"
+    verified_at: "2026-11-17T15:22:38.435Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

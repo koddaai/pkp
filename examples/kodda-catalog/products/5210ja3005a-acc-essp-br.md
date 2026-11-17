@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/5210ja3005a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/5210ja3005a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/5210ja3005a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Tubo plástico de expansão para aparelho refrigerador"
+summary: "Get more information on the LG 5210JA3005A. Click for pictures, reviews, and tech specs for the LG Tubo Plástico de Expansão Geladeira LG GCP213BVK 5210JA3005A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 41.18
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.366Z"
+  updated_at: "2026-11-17T15:22:38.242Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.366Z"
+    verified_at: "2026-11-17T15:22:38.242Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.366Z"
+    verified_at: "2026-11-17T15:22:38.242Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Tubo plástico de expansão para aparelho refrigerador
+Get more information on the LG 5210JA3005A. Click for pictures, reviews, and tech specs for the LG Tubo Plástico de Expansão Geladeira LG GCP213BVK 5210JA3005A.

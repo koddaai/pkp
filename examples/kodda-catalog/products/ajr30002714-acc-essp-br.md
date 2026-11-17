@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajr30002714-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubulação Ar Condicionado LG S3UQ12JA31K AJR30002714 - AJR30002714"
+name: "Tubulação Ar Condicionado LG S3UQ12JA31K AJR30002714 - AJR30002714 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ajr30002714-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/ajr30002714/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ajr30002714/"
 
 # === DESCOBERTA (L0) ===
 summary: "Tubulação equipada Com 2 válvulas de serviços e calço de borracha montado no suporte metálico Com tamanho e formato específicos para uso em aparelho de ar condicionado"
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 502.55
+  value: 482.45
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.355Z"
+  updated_at: "2026-11-17T15:22:38.368Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.355Z"
+    verified_at: "2026-11-17T15:22:38.368Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.355Z"
+    verified_at: "2026-11-17T15:22:38.368Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-05
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478675600
 ---
 

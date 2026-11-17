@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adp72912901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adp72912901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adp72912901/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ADP72912901. Click for pictures, reviews, and tech specs for the LG Hélice da condensadora Ar condicionado LG ASUW092HDW0, ASUQ122BRZ0.AMRBLSP, ASUW092B4A0 - ADP72912901."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 170.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.434Z"
+  updated_at: "2026-11-17T15:22:38.314Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.434Z"
+    verified_at: "2026-11-17T15:22:38.314Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.434Z"
+    verified_at: "2026-11-17T15:22:38.314Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5214en1004b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Mangueira Máquina De Lavar Roupa LG WD14312RDA 5214EN1004B - 5214EN1004B"
+name: "Mangueira Máquina De Lavar Roupa LG WD14312RDA 5214EN1004B - 5214EN1004B | LG BR"
 category: "outros"
 
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/5214en1004b-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/acessorio/5214en1004b/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/lavadoras/mangueiras-e-conectores/5214en1004b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Mangueira Máquina De Lavar Roupa LG WD14312RDA 5214EN1004B"
+summary: "Get more information on the LG 5214EN1004B. Click for pictures, reviews, and tech specs for the LG Mangueira Máquina De Lavar Roupa LG WD14312RDA 5214EN1004B."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-10T02:33:49.717Z"
+  updated_at: "2026-11-17T15:22:38.243Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.717Z"
+    verified_at: "2026-11-17T15:22:38.243Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-10T02:33:49.717Z"
+    verified_at: "2026-11-17T15:22:38.243Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,10 +55,10 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-10
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478674968
 ---
 
 ## Descricao
 
-Mangueira Máquina De Lavar Roupa LG WD14312RDA 5214EN1004B
+Get more information on the LG 5214EN1004B. Click for pictures, reviews, and tech specs for the LG Mangueira Máquina De Lavar Roupa LG WD14312RDA 5214EN1004B.

@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/eaj65738801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65738801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj65738801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ65738801. Click for pictures, reviews, and tech specs for the LG Tela OLED Módulo TV LG OLED55B6P EAJ65738801."
-tags: ["lg", "oled"]
+summary: "Módulo de visualização de tela (ecrã), plana, modelo: AC550AQL-BPA1, de 55 polegadas, sem tela sensível ao toque (ecrã táctil), com controladores (drivers) e circuito de controle, de diodos emissores de luz organicos (OLED) Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)"
+tags: ["lg", "ai", "oled"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3856.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.566Z"
+  updated_at: "2026-11-17T15:22:38.453Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.566Z"
+    verified_at: "2026-11-17T15:22:38.453Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.566Z"
+    verified_at: "2026-11-17T15:22:38.453Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 55
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAJ65738801. Click for pictures, reviews, and tech specs for the LG Tela OLED Módulo TV LG OLED55B6P EAJ65738801.
+Módulo de visualização de tela (ecrã), plana, modelo: AC550AQL-BPA1, de 55 polegadas, sem tela sensível ao toque (ecrã táctil), com controladores (drivers) e circuito de controle, de diodos emissores de luz organicos (OLED) Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)

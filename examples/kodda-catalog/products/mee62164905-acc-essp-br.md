@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mee62164905-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/mee62164905/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/mee62164905/"
 
 # === DESCOBERTA (L0) ===
 summary: "Resistência de Degelo 127 V 225 W"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 324.46
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.744Z"
+  updated_at: "2026-11-17T15:22:38.629Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.744Z"
+    verified_at: "2026-11-17T15:22:38.629Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.744Z"
+    verified_at: "2026-11-17T15:22:38.629Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

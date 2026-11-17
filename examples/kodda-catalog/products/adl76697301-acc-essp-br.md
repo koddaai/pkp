@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adl76697301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adl76697301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adl76697301/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ADL76697301. Click for pictures, reviews, and tech specs for the LG Serpentina evaporadora Ar Condicionado LG S4NQ09AA31A - ADL76697301."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 765.4
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.433Z"
+  updated_at: "2026-11-17T15:22:38.313Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.433Z"
+    verified_at: "2026-11-17T15:22:38.313Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.433Z"
+    verified_at: "2026-11-17T15:22:38.313Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

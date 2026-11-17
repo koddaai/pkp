@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr79909509-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Máquina De Lavar Roupas LG NAS106F1WBZ EBR79909509 - EBR79909509"
+name: "Placa Máquina De Lavar Roupas LG NAS106F1WBZ EBR79909509 - EBR79909509 | LG BR"
 category: "outros"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr79909509-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/acessorio/ebr79909509/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ebr79909509/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Máquina De Lavar Roupas LG NAS106F1WBZ EBR79909509"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 996.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.655Z"
+  updated_at: "2026-11-17T15:22:38.540Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.655Z"
+    verified_at: "2026-11-17T15:22:38.540Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.655Z"
+    verified_at: "2026-11-17T15:22:38.540Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

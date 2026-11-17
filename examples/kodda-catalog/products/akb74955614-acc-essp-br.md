@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb74955614-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/akb74955614/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/ar-condicionado/controle-remoto/akb74955614/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB74955614.. Click for pictures, reviews, and tech specs for the LG Controle Remoto Ar Condicionado LG S4NQ30R43FA AKB74955614."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.500Z"
+  updated_at: "2026-11-17T15:22:38.381Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.500Z"
+    verified_at: "2026-11-17T15:22:38.381Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.500Z"
+    verified_at: "2026-11-17T15:22:38.381Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eab62873007-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eab62873007/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/eab62873007/"
 
 # === DESCOBERTA (L0) ===
 summary: "Alto Falante Único Caixa de Som Portátil LG XL9T EAB62873007"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 76.09
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.527Z"
+  updated_at: "2026-11-17T15:22:38.409Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.527Z"
+    verified_at: "2026-11-17T15:22:38.409Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.527Z"
+    verified_at: "2026-11-17T15:22:38.409Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4738er2002a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo de borracha saída de ar Lavadora LG WD-12320RD, WD11WCS6A, WD1252RD - 4738ER2002A - 4738ER2002A | LG BR"
+name: "Tubo de Borracha Saída de Ar Lavadora LG WD-12320RD 4738ER2002A - 4738ER2002A | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/4738er2002a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/4738er2002a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/4738er2002a/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 4738ER2002A. Click for pictures, reviews, and tech specs for the LG Tubo de Borracha Saída de Ar Lavadora LG WD-12320RD 4738ER2002A."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.358Z"
+  updated_at: "2026-11-17T15:22:38.234Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.358Z"
+    verified_at: "2026-11-17T15:22:38.234Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.358Z"
+    verified_at: "2026-11-17T15:22:38.234Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

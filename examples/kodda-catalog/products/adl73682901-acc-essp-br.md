@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adl73682901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adl73682901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adl73682901/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ADL73682901. Click for pictures, reviews, and tech specs for the LG Serpentina evaporadora Ar Condicionado LG ASNQ182CSA1, ASNQ242CRG2, ASNQ242CRZ1 - ADL73682901."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 702.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.430Z"
+  updated_at: "2026-11-17T15:22:38.311Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.430Z"
+    verified_at: "2026-11-17T15:22:38.311Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.430Z"
+    verified_at: "2026-11-17T15:22:38.311Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

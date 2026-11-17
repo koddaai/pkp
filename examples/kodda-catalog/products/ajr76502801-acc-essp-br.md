@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ajr76502801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ajr76502801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ajr76502801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AJR76502801. Click for pictures, reviews, and tech specs for the LG Tubo de conexão Ar Condicionado LG S4UQ12JA314, S4UQ12JA315 - AJR76502801."
+summary: "Obtenha informações sobre o LG AJR76502801. Encontre imagens, avaliações e especificações técnicas para o LG AJR76502801 Tubo de conexão Ar Condicionado LG S4UQ12JA314, S4UQ12JA315 - AJR76502801"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 27.93
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.491Z"
+  updated_at: "2026-11-17T15:22:38.371Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.491Z"
+    verified_at: "2026-11-17T15:22:38.371Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.491Z"
+    verified_at: "2026-11-17T15:22:38.371Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AJR76502801. Click for pictures, reviews, and tech specs for the LG Tubo de conexão Ar Condicionado LG S4UQ12JA314, S4UQ12JA315 - AJR76502801.
+Obtenha informações sobre o LG AJR76502801. Encontre imagens, avaliações e especificações técnicas para o LG AJR76502801 Tubo de conexão Ar Condicionado LG S4UQ12JA314, S4UQ12JA315 - AJR76502801

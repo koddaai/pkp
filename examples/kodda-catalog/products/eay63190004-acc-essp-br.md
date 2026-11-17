@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/eay63190004-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/soundbar-speakers/adapter-power-cord/eay63190004/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/adaptadores-e-cabos-de-alimentacao/eay63190004/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre a EAY63190004. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa para LG Soundbar (19 V, 2,1 A, 40 W, cabo de alimentação não incluído, preto)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAY63190004. Click for pictures, reviews, and tech specs for the LG Fonte de alimentação externa para Soundbar (19 V, 2,1 A, 40 W, cabo de alimentação não incluído, preto)."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 82.84
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.601Z"
+  updated_at: "2026-11-17T15:22:38.486Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.601Z"
+    verified_at: "2026-11-17T15:22:38.486Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.601Z"
+    verified_at: "2026-11-17T15:22:38.486Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre a EAY63190004. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa para LG Soundbar (19 V, 2,1 A, 40 W, cabo de alimentação não incluído, preto).
+Get more information on the LG EAY63190004. Click for pictures, reviews, and tech specs for the LG Fonte de alimentação externa para Soundbar (19 V, 2,1 A, 40 W, cabo de alimentação não incluído, preto).

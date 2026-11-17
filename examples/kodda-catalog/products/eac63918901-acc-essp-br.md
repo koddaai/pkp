@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/eac63918901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eac63918901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/eac63918901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Bateria recarregável de ion-lítio, 7.4V, 2.6AH, A1240070100, para caixa acústica portátil, conexão sem fio bluetooh e luzes de led que piscam de acordo com a música, 20W"
-tags: ["lg", "bluetooth", "ai", "sem-fio"]
+summary: "Get more information on the LG EAC63918901. Click for pictures, reviews, and tech specs for the LG Bateria Recarregável Speaker Bluetooth LG EAC63918901."
+tags: ["lg", "bluetooth"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.532Z"
+  updated_at: "2026-11-17T15:22:38.414Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.532Z"
+    verified_at: "2026-11-17T15:22:38.414Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.532Z"
+    verified_at: "2026-11-17T15:22:38.414Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Bateria recarregável de ion-lítio, 7.4V, 2.6AH, A1240070100, para caixa acústica portátil, conexão sem fio bluetooh e luzes de led que piscam de acordo com a música, 20W
+Get more information on the LG EAC63918901. Click for pictures, reviews, and tech specs for the LG Bateria Recarregável Speaker Bluetooth LG EAC63918901.

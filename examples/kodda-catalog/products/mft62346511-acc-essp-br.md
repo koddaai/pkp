@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mft62346511-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/mft62346511/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/mft62346511/"
 
 # === DESCOBERTA (L0) ===
 summary: "Logotipo em alumínio para aparelho refrigerador Auto colante"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.83
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.752Z"
+  updated_at: "2026-11-17T15:22:38.637Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.752Z"
+    verified_at: "2026-11-17T15:22:38.637Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.752Z"
+    verified_at: "2026-11-17T15:22:38.637Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

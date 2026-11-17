@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/aju73673310-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/aju73673310/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/aju73673310/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AJU73673310. Clique para ver imagens, análises e especificações técnicas da LG Válvula d'água 2 vias Refrigerador LG GS65SDN, GC-L247SLUV, GC-X247CQBV - AJU73673310"
+summary: "Get more information on the LG AJU73673310. Click for pictures, reviews, and tech specs for the LG Válvula d'água 2 vias Refrigerador LG GS65SDN, GC-L247SLUV, GC-X247CQBV - AJU73673310."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.32
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.493Z"
+  updated_at: "2026-11-17T15:22:38.374Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.493Z"
+    verified_at: "2026-11-17T15:22:38.374Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.493Z"
+    verified_at: "2026-11-17T15:22:38.374Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AJU73673310. Clique para ver imagens, análises e especificações técnicas da LG Válvula d'água 2 vias Refrigerador LG GS65SDN, GC-L247SLUV, GC-X247CQBV - AJU73673310
+Get more information on the LG AJU73673310. Click for pictures, reviews, and tech specs for the LG Válvula d'água 2 vias Refrigerador LG GS65SDN, GC-L247SLUV, GC-X247CQBV - AJU73673310.

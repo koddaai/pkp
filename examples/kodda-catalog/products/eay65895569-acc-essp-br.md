@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65895569-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa da Fonte TV LG - EAY65895569 - EAY65895569 | LG BR"
+name: "Placa da Fonte TV LG EAY65895569 - EAY65895569 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay65895569-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay65895569/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay65895569/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa da Fonte TV LG - EAY65895569"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 559.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.611Z"
+  updated_at: "2026-11-17T15:22:38.496Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.611Z"
+    verified_at: "2026-11-17T15:22:38.496Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.611Z"
+    verified_at: "2026-11-17T15:22:38.496Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

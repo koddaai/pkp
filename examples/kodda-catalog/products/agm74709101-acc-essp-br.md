@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agm74709101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/agm74709101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/agm74709101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGM74709101. Click for pictures, reviews, and tech specs for the LG Amortecedor Lavador LG WD17VTS6, WD17VTS6A, WM5000HVA - AGM74709101."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.474Z"
+  updated_at: "2026-11-17T15:22:38.354Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.474Z"
+    verified_at: "2026-11-17T15:22:38.354Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.474Z"
+    verified_at: "2026-11-17T15:22:38.354Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

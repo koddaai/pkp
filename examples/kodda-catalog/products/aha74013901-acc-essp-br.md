@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aha74013901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aha74013901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aha74013901/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AHA74013901. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Ar Condicionado LG ARNU24GTSC4, ARNU18GTSC4 - AHA74013901."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 369.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.482Z"
+  updated_at: "2026-11-17T15:22:38.361Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.482Z"
+    verified_at: "2026-11-17T15:22:38.361Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.482Z"
+    verified_at: "2026-11-17T15:22:38.361Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

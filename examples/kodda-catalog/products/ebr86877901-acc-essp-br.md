@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr86877901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr86877901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr86877901/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa do painel frontal Mini System LG - EBR86877901"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 268.79
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.677Z"
+  updated_at: "2026-11-17T15:22:38.564Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.677Z"
+    verified_at: "2026-11-17T15:22:38.564Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.677Z"
+    verified_at: "2026-11-17T15:22:38.564Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

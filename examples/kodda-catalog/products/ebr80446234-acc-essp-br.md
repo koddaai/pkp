@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr80446234-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr80446234/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr80446234/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR80446234. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Home Theater LG LHB625M - EBR80446234"
+summary: "Get more information on the LG EBR80446234. Click for pictures, reviews, and tech specs for the LG Placa principal Home Theater LG LHB625M - EBR80446234."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 920.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.656Z"
+  updated_at: "2026-11-17T15:22:38.541Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.656Z"
+    verified_at: "2026-11-17T15:22:38.541Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.656Z"
+    verified_at: "2026-11-17T15:22:38.541Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR80446234. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Home Theater LG LHB625M - EBR80446234
+Get more information on the LG EBR80446234. Click for pictures, reviews, and tech specs for the LG Placa principal Home Theater LG LHB625M - EBR80446234.

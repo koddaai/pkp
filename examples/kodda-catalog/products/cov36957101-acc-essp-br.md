@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/cov36957101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/cov36957101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/signage/cov36957101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG COV36957101. Clique para ver imagens, análises e especificações técnicas da LG LED SMD Painel de LED LG LSBC026-DD, LSBC026-GD, LSBC039-GD - COV36957101"
+summary: "LED SMD Painel de LED LG LSBC026-DD, LSBC026-GD, LSBC039-GD - COV36957101"
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3.79
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.514Z"
+  updated_at: "2026-11-17T15:22:38.396Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.514Z"
+    verified_at: "2026-11-17T15:22:38.396Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.514Z"
+    verified_at: "2026-11-17T15:22:38.396Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG COV36957101. Clique para ver imagens, análises e especificações técnicas da LG LED SMD Painel de LED LG LSBC026-DD, LSBC026-GD, LSBC039-GD - COV36957101
+LED SMD Painel de LED LG LSBC026-DD, LSBC026-GD, LSBC039-GD - COV36957101

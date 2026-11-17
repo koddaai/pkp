@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebu66178501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebu66178501/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/signage/ebu66178501/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU66178501. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Monitor Desktop LG 24GN600-B.AWZ - EBU66178501"
+summary: "Get more information on the LG EBU66178501. Click for pictures, reviews, and tech specs for the LG Placa principal Monitor Desktop LG 24GN600-B.AWZ - EBU66178501."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 521.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.703Z"
+  updated_at: "2026-11-17T15:22:38.589Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.703Z"
+    verified_at: "2026-11-17T15:22:38.589Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.703Z"
+    verified_at: "2026-11-17T15:22:38.589Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBU66178501. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Monitor Desktop LG 24GN600-B.AWZ - EBU66178501
+Get more information on the LG EBU66178501. Click for pictures, reviews, and tech specs for the LG Placa principal Monitor Desktop LG 24GN600-B.AWZ - EBU66178501.

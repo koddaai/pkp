@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead63969916-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead63969916/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ead63969916/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAD63969916. Click for pictures, reviews, and tech specs for the LG Cabo (condutor elétrico plano FFC 60V) TV LG 55UK7500PSA, 55UU761H-ZA, 55UU761H-ZA - EAD63969916."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.542Z"
+  updated_at: "2026-11-17T15:22:38.425Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.542Z"
+    verified_at: "2026-11-17T15:22:38.425Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.542Z"
+    verified_at: "2026-11-17T15:22:38.425Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

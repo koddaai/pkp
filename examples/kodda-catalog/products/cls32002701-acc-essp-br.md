@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/cls32002701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/cls32002701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/cls32002701/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG CLS32002701. Click for pictures, reviews, and tech specs for the LG Gerador de Sinais Ar Condicionado LG GPUW160C2RM CLS32002701."
+summary: "Gerador de sinais elétricos Sensor de rotação Para motor de pistão de ignição por centelha"
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.511Z"
+  updated_at: "2026-11-17T15:22:38.393Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.511Z"
+    verified_at: "2026-11-17T15:22:38.393Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.511Z"
+    verified_at: "2026-11-17T15:22:38.393Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG CLS32002701. Click for pictures, reviews, and tech specs for the LG Gerador de Sinais Ar Condicionado LG GPUW160C2RM CLS32002701.
+Gerador de sinais elétricos Sensor de rotação  Para motor de pistão de ignição por centelha

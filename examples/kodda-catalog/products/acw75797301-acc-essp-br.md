@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/acw75797301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acw75797301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/acw75797301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ACW75797301. Clique para ver imagens, análises e especificações técnicas da LG Gabinete frontal Ar Condicionado LG S4NW18KLRPA, S4NW18KLRPB, S4NW24KERP1 - ACW75797301"
+summary: "Get more information on the LG ACW75797301. Click for pictures, reviews, and tech specs for the LG Gabinete frontal Ar Condicionado LG S4NW18KLRPA, S4NW18KLRPB, S4NW24KERP1 - ACW75797301."
 tags: ["lg", "4k", "8k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 360.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.424Z"
+  updated_at: "2026-11-17T15:22:38.305Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.424Z"
+    verified_at: "2026-11-17T15:22:38.305Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.424Z"
+    verified_at: "2026-11-17T15:22:38.305Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ACW75797301. Clique para ver imagens, análises e especificações técnicas da LG Gabinete frontal Ar Condicionado LG S4NW18KLRPA, S4NW18KLRPB, S4NW24KERP1 - ACW75797301
+Get more information on the LG ACW75797301. Click for pictures, reviews, and tech specs for the LG Gabinete frontal Ar Condicionado LG S4NW18KLRPA, S4NW18KLRPB, S4NW24KERP1 - ACW75797301.

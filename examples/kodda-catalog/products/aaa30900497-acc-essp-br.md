@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aaa30900497-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Grelha Forno Micro Ondas LG MGEN3097E MHL63611618 - MHL63611618 | LG BR"
+name: "Controle Remoto Soundbar LG S40T AAA30900497 - AAA30900497 | LG BR"
 category: "audio"
 subcategory: "soundbar"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aaa30900497-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-audio/peca-de-reposicao/aaa30900497/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/controle-remoto/aaa30900497/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAA30900497. Click for pictures, reviews, and tech specs for the LG Controle Remoto Soundbar LG S40T AAA30900497."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 77.89
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.397Z"
+  updated_at: "2026-11-17T15:22:38.276Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.397Z"
+    verified_at: "2026-11-17T15:22:38.276Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.397Z"
+    verified_at: "2026-11-17T15:22:38.276Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

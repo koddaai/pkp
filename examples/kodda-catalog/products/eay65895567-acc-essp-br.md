@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay65895567-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay65895567/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay65895567/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa da Fonte TV LG 43UR7800PSA - EAY65895567"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 290.96
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.611Z"
+  updated_at: "2026-11-17T15:22:38.495Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.611Z"
+    verified_at: "2026-11-17T15:22:38.495Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.611Z"
+    verified_at: "2026-11-17T15:22:38.495Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

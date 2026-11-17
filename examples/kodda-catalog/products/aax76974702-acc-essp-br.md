@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aax76974702-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aax76974702/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/aax76974702/"
 
 # === DESCOBERTA (L0) ===
 summary: "Alto Falante Múltiplo Torre de Som LG XBOOM RNC9 AAX76974702"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1991.85
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.411Z"
+  updated_at: "2026-11-17T15:22:38.291Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.411Z"
+    verified_at: "2026-11-17T15:22:38.291Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.411Z"
+    verified_at: "2026-11-17T15:22:38.291Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

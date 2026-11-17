@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan77370111-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/aan77370111/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/aan77370111/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAN77370111. Click for pictures, reviews, and tech specs for the LG Base Pedestal TV LG 82UP8050PSB AAN77370111."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 138.07
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.410Z"
+  updated_at: "2026-11-17T15:22:38.290Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.410Z"
+    verified_at: "2026-11-17T15:22:38.290Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.410Z"
+    verified_at: "2026-11-17T15:22:38.290Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aeb75804601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/aeb75804601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/aeb75804601/"
 
 # === DESCOBERTA (L0) ===
 summary: "Duto de Ventilação Refrigerador LG GCB659BSB1 AEB75804601"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2593.21
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.442Z"
+  updated_at: "2026-11-17T15:22:38.326Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.442Z"
+    verified_at: "2026-11-17T15:22:38.326Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.442Z"
+    verified_at: "2026-11-17T15:22:38.326Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

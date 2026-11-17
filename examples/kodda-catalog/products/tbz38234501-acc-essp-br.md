@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tbz38234501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Compressor ARA073Y Ar condicionado LG ARUN100LH2 TBZ38234501 - TBZ38234501"
+name: "Compressor ARA073Y Ar condicionado LG ARUN100LH2 TBZ38234501 - TBZ38234501 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/tbz38234501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/tbz38234501/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/tbz38234501/"
 
 # === DESCOBERTA (L0) ===
 summary: "Compressor ARA073Y Ar condicionado LG ARUN100LH2 TBZ38234501"
@@ -27,15 +27,15 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 16567.05
+  value: 13253.64
   source: "retailer"
-  updated_at: "2026-06-25T21:42:15.173Z"
+  updated_at: "2026-11-17T15:22:38.673Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=43478677212&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=46836316400&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-25T21:42:15.173Z"
+    verified_at: "2026-11-17T15:22:38.673Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-06-25T21:42:15.173Z"
+    verified_at: "2026-11-17T15:22:38.673Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,8 +55,8 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-06-25
-# aw_product_id: 43478677212
+# Data de importacao: 2026-11-17
+# aw_product_id: 46836316400
 ---
 
 ## Descricao

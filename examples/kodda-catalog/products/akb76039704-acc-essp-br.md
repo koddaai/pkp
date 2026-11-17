@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb76039704-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Magic Remote para TV série 2021 - AKB76039704 | LG BR"
+name: "Controle Remoto Magic MR21 TV LG AKB76039704 - AKB76039704 | LG BR"
 category: "tvs"
 
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 152.1
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.506Z"
+  updated_at: "2026-11-17T15:22:38.388Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.506Z"
+    verified_at: "2026-11-17T15:22:38.388Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.506Z"
+    verified_at: "2026-11-17T15:22:38.388Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

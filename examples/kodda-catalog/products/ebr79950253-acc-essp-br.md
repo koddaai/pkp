@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr79950253-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/ebr79950253/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ebr79950253/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR79950253. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Lavadora LG WD1014RD7 - EBR79950253"
+summary: "Get more information on the LG EBR79950253. Click for pictures, reviews, and tech specs for the LG Placa principal Lavadora LG WD1014RD7 - EBR79950253."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 977.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.655Z"
+  updated_at: "2026-11-17T15:22:38.541Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.655Z"
+    verified_at: "2026-11-17T15:22:38.541Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.655Z"
+    verified_at: "2026-11-17T15:22:38.541Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR79950253. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Lavadora LG WD1014RD7 - EBR79950253
+Get more information on the LG EBR79950253. Click for pictures, reviews, and tech specs for the LG Placa principal Lavadora LG WD1014RD7 - EBR79950253.

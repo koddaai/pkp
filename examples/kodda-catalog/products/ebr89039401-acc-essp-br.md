@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr89039401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr89039401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr89039401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR89039401. Clique para ver imagens, análises e especificações técnicas da LG Placa secundaria Caixa de Som Portátil LG PL7 - EBR89039401"
+summary: "Get more information on the LG EBR89039401. Click for pictures, reviews, and tech specs for the LG Placa secundaria Caixa de Som Portátil LG PL7 - EBR89039401."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 107.4
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.687Z"
+  updated_at: "2026-11-17T15:22:38.571Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.687Z"
+    verified_at: "2026-11-17T15:22:38.571Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.687Z"
+    verified_at: "2026-11-17T15:22:38.571Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR89039401. Clique para ver imagens, análises e especificações técnicas da LG Placa secundaria Caixa de Som Portátil LG PL7 - EBR89039401
+Get more information on the LG EBR89039401. Click for pictures, reviews, and tech specs for the LG Placa secundaria Caixa de Som Portátil LG PL7 - EBR89039401.

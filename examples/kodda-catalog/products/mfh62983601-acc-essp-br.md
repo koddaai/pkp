@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mfh62983601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mfh62983601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mfh62983601/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MFH62983601. Clique para ver imagens, análises e especificações técnicas da LG Aleta horizontal Ar Condicionado LG CRNU18GSKN4, CRNU24GSKN4, S4NW18KL3WA - MFH62983601"
+summary: "Get more information on the LG MFH62983601. Click for pictures, reviews, and tech specs for the LG Aleta horizontal Ar Condicionado LG CRNU18GSKN4, CRNU24GSKN4, S4NW18KL3WA - MFH62983601."
 tags: ["lg", "8k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.749Z"
+  updated_at: "2026-11-17T15:22:38.635Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.749Z"
+    verified_at: "2026-11-17T15:22:38.635Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.749Z"
+    verified_at: "2026-11-17T15:22:38.635Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MFH62983601. Clique para ver imagens, análises e especificações técnicas da LG Aleta horizontal Ar Condicionado LG CRNU18GSKN4, CRNU24GSKN4, S4NW18KL3WA - MFH62983601
+Get more information on the LG MFH62983601. Click for pictures, reviews, and tech specs for the LG Aleta horizontal Ar Condicionado LG CRNU18GSKN4, CRNU24GSKN4, S4NW18KL3WA - MFH62983601.

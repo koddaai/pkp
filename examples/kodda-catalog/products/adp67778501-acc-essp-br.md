@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adp67778501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adp67778501/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adp67778501/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ADP67778501. Click for pictures, reviews, and tech specs for the LG Hélice do ventilador Ar Condicionado LG ASNW242C4A0, ASNQ182CRG2, ASNW242CRZ1 - ADP67778501."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 588.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.433Z"
+  updated_at: "2026-11-17T15:22:38.314Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.433Z"
+    verified_at: "2026-11-17T15:22:38.314Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.433Z"
+    verified_at: "2026-11-17T15:22:38.314Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

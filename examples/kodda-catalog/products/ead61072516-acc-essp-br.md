@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ead61072516-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ead61072516/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ead61072516/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAD61072516. Clique para ver imagens, análises e especificações técnicas da LG Cabo com conectores Ar Condicionado LG ARUN140DT2, ARUN160LT2, ARUN80DT2 - EAD61072516"
+summary: "Get more information on the LG EAD61072516. Click for pictures, reviews, and tech specs for the LG Cabo com conectores Ar Condicionado LG ARUN140DT2, ARUN160LT2, ARUN80DT2 - EAD61072516."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.534Z"
+  updated_at: "2026-11-17T15:22:38.417Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.534Z"
+    verified_at: "2026-11-17T15:22:38.417Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.534Z"
+    verified_at: "2026-11-17T15:22:38.417Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAD61072516. Clique para ver imagens, análises e especificações técnicas da LG Cabo com conectores Ar Condicionado LG ARUN140DT2, ARUN160LT2, ARUN80DT2 - EAD61072516
+Get more information on the LG EAD61072516. Click for pictures, reviews, and tech specs for the LG Cabo com conectores Ar Condicionado LG ARUN140DT2, ARUN160LT2, ARUN80DT2 - EAD61072516.

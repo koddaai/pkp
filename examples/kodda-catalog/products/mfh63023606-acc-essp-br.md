@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mfh63023606-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mfh63023606/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mfh63023606/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MFH63023606. Clique para ver imagens, análises e especificações técnicas da LG Aleta Evaporadora Ar Condicionado LG AMNW09GSJR0, ARNU05GSJR4, CRNU07GSJR4 - MFH63023606"
+summary: "Get more information on the LG MFH63023606. Click for pictures, reviews, and tech specs for the LG Aleta Evaporadora Ar Condicionado LG AMNW09GSJR0, ARNU05GSJR4, CRNU07GSJR4 - MFH63023606."
 tags: ["lg", "5g"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 179.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.750Z"
+  updated_at: "2026-11-17T15:22:38.635Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.750Z"
+    verified_at: "2026-11-17T15:22:38.635Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.750Z"
+    verified_at: "2026-11-17T15:22:38.635Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MFH63023606. Clique para ver imagens, análises e especificações técnicas da LG Aleta Evaporadora Ar Condicionado LG AMNW09GSJR0, ARNU05GSJR4, CRNU07GSJR4 - MFH63023606
+Get more information on the LG MFH63023606. Click for pictures, reviews, and tech specs for the LG Aleta Evaporadora Ar Condicionado LG AMNW09GSJR0, ARNU05GSJR4, CRNU07GSJR4 - MFH63023606.

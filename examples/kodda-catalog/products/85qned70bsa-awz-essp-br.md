@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/tvs-e-soundbars/qned/85qned70bsa/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 85QNED70BSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED Mini LED AI 4K QNED70 85 polegadas 2026."
+summary: "Descubra a próxima geração de Smart TVs com IA da LG, 85QNED70BSA.BWZ , para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV 4K LG QNED AI QNED70 Mini LED de 85 polegadas."
 tags: ["lg", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 7559.1
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.396Z"
+  updated_at: "2026-11-17T15:22:38.275Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.396Z"
+    verified_at: "2026-11-17T15:22:38.275Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.396Z"
+    verified_at: "2026-11-17T15:22:38.275Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 85QNED70BSA. Click for pictures, reviews, and tech specs for the LG Smart TV LG QNED Mini LED AI 4K QNED70 85 polegadas 2026.
+Descubra a próxima geração de Smart TVs com IA da LG, 85QNED70BSA.BWZ , para uma experiência de visualização otimizada e personalizada através dos recursos de IA da plataforma webOS. Clique para ver fotos, avaliações e especificações técnicas da Smart TV 4K LG QNED AI QNED70 Mini LED de 85 polegadas.

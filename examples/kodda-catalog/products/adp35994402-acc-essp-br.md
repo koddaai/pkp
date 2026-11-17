@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/adp35994402-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adp35994402/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adp35994402/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ADP35994402. Clique para ver imagens, análises e especificações técnicas da LG Turbina da evaporadora Ar condicionado LG LTNC720DT, ATNW24GTLP1, CRNU18GTTA2 - ADP35994402"
+summary: "Get more information on the LG ADP35994402. Click for pictures, reviews, and tech specs for the LG Turbina da evaporadora Ar condicionado LG LTNC720DT, ATNW24GTLP1, CRNU18GTTA2 - ADP35994402."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 391.25
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.433Z"
+  updated_at: "2026-11-17T15:22:38.313Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.433Z"
+    verified_at: "2026-11-17T15:22:38.313Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.433Z"
+    verified_at: "2026-11-17T15:22:38.313Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ADP35994402. Clique para ver imagens, análises e especificações técnicas da LG Turbina da evaporadora Ar condicionado LG LTNC720DT, ATNW24GTLP1, CRNU18GTTA2 - ADP35994402
+Get more information on the LG ADP35994402. Click for pictures, reviews, and tech specs for the LG Turbina da evaporadora Ar condicionado LG LTNC720DT, ATNW24GTLP1, CRNU18GTTA2 - ADP35994402.

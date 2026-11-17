@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu66334305-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/ebu66334305/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu66334305/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBU66334305. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 75UP8050PSB EBU66334305."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1015.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.704Z"
+  updated_at: "2026-11-17T15:22:38.590Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.704Z"
+    verified_at: "2026-11-17T15:22:38.590Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.704Z"
+    verified_at: "2026-11-17T15:22:38.590Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

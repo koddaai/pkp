@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65743601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65743601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj65743601/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAJ65743601. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG OLED55C1PSA - EAJ65743601."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4178.95
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.567Z"
+  updated_at: "2026-11-17T15:22:38.453Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.567Z"
+    verified_at: "2026-11-17T15:22:38.453Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.567Z"
+    verified_at: "2026-11-17T15:22:38.453Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

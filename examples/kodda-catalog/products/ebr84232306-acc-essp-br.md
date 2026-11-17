@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr84232306-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr84232306/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr84232306/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBR84232306. Click for pictures, reviews, and tech specs for the LG Placa Principal Soundbar LG SQC2 EBR84232306."
+summary: "Placa Principal Soundbar LG SQC2 EBR84232306"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 360.1
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.667Z"
+  updated_at: "2026-11-17T15:22:38.554Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.667Z"
+    verified_at: "2026-11-17T15:22:38.554Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.667Z"
+    verified_at: "2026-11-17T15:22:38.554Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBR84232306. Click for pictures, reviews, and tech specs for the LG Placa Principal Soundbar LG SQC2 EBR84232306.
+Placa Principal Soundbar LG SQC2 EBR84232306

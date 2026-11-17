@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/aeb75104705-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aeb75104705/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aeb75104705/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AEB75104705. Clique para ver imagens, análises e especificações técnicas da LG Painel frontal Ar Condicionado LG S4NQ12JA3WC - AEB75104705"
+summary: "Get more information on the LG AEB75104705. Click for pictures, reviews, and tech specs for the LG Painel frontal Ar Condicionado LG S4NQ12JA3WC - AEB75104705."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 246.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.441Z"
+  updated_at: "2026-11-17T15:22:38.325Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.441Z"
+    verified_at: "2026-11-17T15:22:38.325Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.441Z"
+    verified_at: "2026-11-17T15:22:38.325Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AEB75104705. Clique para ver imagens, análises e especificações técnicas da LG Painel frontal Ar Condicionado LG S4NQ12JA3WC - AEB75104705
+Get more information on the LG AEB75104705. Click for pictures, reviews, and tech specs for the LG Painel frontal Ar Condicionado LG S4NQ12JA3WC - AEB75104705.

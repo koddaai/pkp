@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebg61106803-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebg61106803/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebg61106803/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBG61106803. Click for pictures, reviews, and tech specs for the LG Termistor (NTC) Ar Condicionado LG SJ-081QLA, ASNQ092B4A0, ASNQ092BRG2 - EBG61106803."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.617Z"
+  updated_at: "2026-11-17T15:22:38.501Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.617Z"
+    verified_at: "2026-11-17T15:22:38.501Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.617Z"
+    verified_at: "2026-11-17T15:22:38.501Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

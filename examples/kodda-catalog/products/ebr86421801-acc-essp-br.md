@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr86421801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Plava WI-FI Ar Condicionado LG S4NQ09WA51C, S4NW12JARXB, S4NW18KL31C - EBR86421801 - EBR86421801 | LG BR"
+name: "Placa WI-FI Ar Condicionado LG S4NQ09WA51C, S4NW12JARXB, S4NW18KL31C - EBR86421801 - EBR86421801 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr86421801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr86421801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebr86421801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR86421801. Click for pictures, reviews, and tech specs for the LG Placa WI-FI Ar Condicionado LG S4NQ09WA51C, S4NW12JARXB, S4NW18KL31C - EBR86421801."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.676Z"
+  updated_at: "2026-11-17T15:22:38.563Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.676Z"
+    verified_at: "2026-11-17T15:22:38.563Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.676Z"
+    verified_at: "2026-11-17T15:22:38.563Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

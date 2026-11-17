@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eau41577624-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/eau41577624/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eau41577624/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAU41577624. Click for pictures, reviews, and tech specs for the LG Motor hélice da condensadora Ar Condicionado LG ASUQ092BRZ0, ASUQ092BRG2, ASUQ092BRZ0 - EAU41577624."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 283.4
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.589Z"
+  updated_at: "2026-11-17T15:22:38.474Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.589Z"
+    verified_at: "2026-11-17T15:22:38.474Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.589Z"
+    verified_at: "2026-11-17T15:22:38.474Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

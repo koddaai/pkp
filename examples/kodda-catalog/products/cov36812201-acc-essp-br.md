@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/cov36812201-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/cov36812201/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/signage/cov36812201/"
 
 # === DESCOBERTA (L0) ===
 summary: "Diodo Emissor De Luz Painel Digital Signage LG LSBB015 COV36812201"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 18.76
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.513Z"
+  updated_at: "2026-11-17T15:22:38.395Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.513Z"
+    verified_at: "2026-11-17T15:22:38.395Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.513Z"
+    verified_at: "2026-11-17T15:22:38.395Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

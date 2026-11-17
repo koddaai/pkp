@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan75831304-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan75831304/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/aan75831304/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAN75831304. Click for pictures, reviews, and tech specs for the LG Base (pedestal) TV LG 43UJ6565 - AAN75831304."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 101.19
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.404Z"
+  updated_at: "2026-11-17T15:22:38.283Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.404Z"
+    verified_at: "2026-11-17T15:22:38.283Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.404Z"
+    verified_at: "2026-11-17T15:22:38.283Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

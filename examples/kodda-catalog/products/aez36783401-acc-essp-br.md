@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/aez36783401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/aez36783401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/lavadoras/outros-acessorios/aez36783401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Botão seletor rotativo montado do painel de controle"
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AEZ36783401. Click for pictures, reviews, and tech specs for the LG Botão Máquina de Lavar Roupa LG DLEY1701V AEZ36783401."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 44.44
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.447Z"
+  updated_at: "2026-11-17T15:22:38.331Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.447Z"
+    verified_at: "2026-11-17T15:22:38.331Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.447Z"
+    verified_at: "2026-11-17T15:22:38.331Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Botão seletor rotativo montado do painel de controle
+Get more information on the LG AEZ36783401. Click for pictures, reviews, and tech specs for the LG Botão Máquina de Lavar Roupa LG DLEY1701V AEZ36783401.

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eab65816204-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eab65816204/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eab65816204/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAB65816204. Click for pictures, reviews, and tech specs for the LG Alto Falante Full Range TV LG 75UR770H9UD EAB65816204."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 112.75
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.530Z"
+  updated_at: "2026-11-17T15:22:38.412Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.530Z"
+    verified_at: "2026-11-17T15:22:38.412Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.530Z"
+    verified_at: "2026-11-17T15:22:38.412Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

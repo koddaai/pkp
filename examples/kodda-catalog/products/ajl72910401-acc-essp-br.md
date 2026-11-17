@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ajl72910401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/acessorio/ajl72910401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/ajl72910401/"
 
 # === DESCOBERTA (L0) ===
 summary: "Reservatório plástico de água Montado com tubo Para aparelho refrigerador"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 153.04
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.487Z"
+  updated_at: "2026-11-17T15:22:38.367Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.487Z"
+    verified_at: "2026-11-17T15:22:38.367Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.487Z"
+    verified_at: "2026-11-17T15:22:38.367Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

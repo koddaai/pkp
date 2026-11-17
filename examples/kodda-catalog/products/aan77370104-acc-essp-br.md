@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan77370104-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan77370104/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/aan77370104/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAN77370104. Click for pictures, reviews, and tech specs for the LG Base (pedestal) TV LG 75NANO90SNA, 75NANO75SPA, 86NANO90DNA - AAN77370104."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 82.84
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.409Z"
+  updated_at: "2026-11-17T15:22:38.290Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.409Z"
+    verified_at: "2026-11-17T15:22:38.290Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.409Z"
+    verified_at: "2026-11-17T15:22:38.290Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

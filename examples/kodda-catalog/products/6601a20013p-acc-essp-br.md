@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/6601a20013p-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/6601a20013p/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/6601a20013p/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 6601A20013P. Clique para ver imagens, análises e especificações técnicas da LG Chave de nível de água da evaporadora Ar Condicionado LG CRNU54GBRA2, ARNU15GM1A4, ARNU18GBHA2 - 6601A20013P"
+summary: "Get more information on the LG 6601A20013P. Click for pictures, reviews, and tech specs for the LG Chave de nível de água da evaporadora Ar Condicionado LG CRNU54GBRA2, ARNU15GM1A4, ARNU18GBHA2 - 6601A20013P."
 tags: ["lg", "5g"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 254.45
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.388Z"
+  updated_at: "2026-11-17T15:22:38.266Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.388Z"
+    verified_at: "2026-11-17T15:22:38.266Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.388Z"
+    verified_at: "2026-11-17T15:22:38.266Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 6601A20013P. Clique para ver imagens, análises e especificações técnicas da LG Chave de nível de água da evaporadora Ar Condicionado LG CRNU54GBRA2, ARNU15GM1A4, ARNU18GBHA2 - 6601A20013P
+Get more information on the LG 6601A20013P. Click for pictures, reviews, and tech specs for the LG Chave de nível de água da evaporadora Ar Condicionado LG CRNU54GBRA2, ARNU15GM1A4, ARNU18GBHA2 - 6601A20013P.

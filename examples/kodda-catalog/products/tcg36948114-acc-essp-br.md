@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "tcg36948114-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Alto Falante Montado Soundbar LG SPK8 TCG36948114 - TCG36948114"
+name: "Alto Falante Montado Soundbar LG SPK8 TCG36948114 - TCG36948114 | LG BR"
 category: "audio"
 subcategory: "soundbar"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/tcg36948114-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-audio/acessorio/tcg36948114/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/tcg36948114/"
 
 # === DESCOBERTA (L0) ===
 summary: "Alto falante único montado Tipo woofer Com diâmetro 76,2mm Para aparelho soundbar"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 226.37
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.785Z"
+  updated_at: "2026-11-17T15:22:38.678Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.785Z"
+    verified_at: "2026-11-17T15:22:38.678Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.785Z"
+    verified_at: "2026-11-17T15:22:38.678Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

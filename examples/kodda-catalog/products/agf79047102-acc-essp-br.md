@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agf79047102-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf79047102/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agf79047102/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGF79047102. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 43LH6000 - AGF79047102."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 170.06
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.467Z"
+  updated_at: "2026-11-17T15:22:38.347Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.467Z"
+    verified_at: "2026-11-17T15:22:38.347Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.467Z"
+    verified_at: "2026-11-17T15:22:38.347Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

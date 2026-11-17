@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/mjx63932320-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/mjx63932320/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mjx63932320/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG MJX63932320. Click for pictures, reviews, and tech specs for the LG Válvula Ar Condicionado LG ASUW1838UH0 MJX63932320."
-tags: ["lg"]
+summary: "Válvula de retenção Com prolongamento do tubo de sucção Para unidade condensadora do ar condicionado LG"
+tags: ["lg", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.24
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.757Z"
+  updated_at: "2026-11-17T15:22:38.642Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.757Z"
+    verified_at: "2026-11-17T15:22:38.642Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.757Z"
+    verified_at: "2026-11-17T15:22:38.642Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG MJX63932320. Click for pictures, reviews, and tech specs for the LG Válvula Ar Condicionado LG ASUW1838UH0 MJX63932320.
+Válvula de retenção Com prolongamento do tubo de sucção Para unidade condensadora do ar condicionado LG

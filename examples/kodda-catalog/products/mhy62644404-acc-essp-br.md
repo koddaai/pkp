@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mhy62644404-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/mhy62644404/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/mhy62644404/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MHY62644404. Click for pictures, reviews, and tech specs for the LG Mola Helicoidal Refrigerador LG LSFXC2476S MHY62644404."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 25.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.756Z"
+  updated_at: "2026-11-17T15:22:38.641Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.756Z"
+    verified_at: "2026-11-17T15:22:38.641Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.756Z"
+    verified_at: "2026-11-17T15:22:38.641Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

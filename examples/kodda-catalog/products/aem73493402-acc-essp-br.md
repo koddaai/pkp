@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/aem73493402-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aem73493402/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aem73493402/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AEM73493402. Clique para ver imagens, análises e especificações técnicas da LG Mangueira do dreno evaporadora Ar Condicionado LG AMNW09GEBA0, ARNU09GSJR4, ARNU12GSBL2 - AEM73493402"
+summary: "Get more information on the LG AEM73493402. Click for pictures, reviews, and tech specs for the LG Mangueira do dreno evaporadora Ar Condicionado LG AMNW09GEBA0, ARNU09GSJR4, ARNU12GSBL2 - AEM73493402."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.445Z"
+  updated_at: "2026-11-17T15:22:38.328Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.445Z"
+    verified_at: "2026-11-17T15:22:38.328Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.445Z"
+    verified_at: "2026-11-17T15:22:38.328Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AEM73493402. Clique para ver imagens, análises e especificações técnicas da LG Mangueira do dreno evaporadora Ar Condicionado LG AMNW09GEBA0, ARNU09GSJR4, ARNU12GSBL2 - AEM73493402
+Get more information on the LG AEM73493402. Click for pictures, reviews, and tech specs for the LG Mangueira do dreno evaporadora Ar Condicionado LG AMNW09GEBA0, ARNU09GSJR4, ARNU12GSBL2 - AEM73493402.

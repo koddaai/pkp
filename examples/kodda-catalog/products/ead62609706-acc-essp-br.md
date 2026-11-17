@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ead62609706-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead62609706/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ead62609706/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAD62609706. Click for pictures, reviews, and tech specs for the LG Cabo FLAT TV LG 32LS3500 EAD62609706."
+summary: "Cabo Flat com conector 90V 510mm LVDS-30P35R-FF20T 30P UL20941"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 34.42
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.538Z"
+  updated_at: "2026-11-17T15:22:38.420Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.538Z"
+    verified_at: "2026-11-17T15:22:38.420Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.538Z"
+    verified_at: "2026-11-17T15:22:38.420Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAD62609706. Click for pictures, reviews, and tech specs for the LG Cabo FLAT TV LG 32LS3500 EAD62609706.
+Cabo Flat com conector 90V 510mm LVDS-30P35R-FF20T 30P UL20941

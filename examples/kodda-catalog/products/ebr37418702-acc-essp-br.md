@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr37418702-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr37418702/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr37418702/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBR37418702. Click for pictures, reviews, and tech specs for the LG Placa Principal Caixa Som Portátil LG - EBR37418702."
+summary: "Placa Principal Caixa Som Portátil LG - EBR37418702"
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 920.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.635Z"
+  updated_at: "2026-11-17T15:22:38.518Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.635Z"
+    verified_at: "2026-11-17T15:22:38.518Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.635Z"
+    verified_at: "2026-11-17T15:22:38.518Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBR37418702. Click for pictures, reviews, and tech specs for the LG Placa Principal Caixa Som Portátil LG - EBR37418702.
+Placa Principal Caixa Som Portátil LG - EBR37418702

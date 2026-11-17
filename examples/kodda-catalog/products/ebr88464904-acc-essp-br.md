@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/ebr88464904-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr88464904/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebr88464904/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBR88464904. Click for pictures, reviews, and tech specs for the LG Placa de Controle TV LG 43UP7500PSF EBR88464904."
-tags: ["lg"]
+summary: "Placa de controle para TV LG EBR88464904, circuito impresso montado com componentes eletroeletrônicos, projetada para otimizar o funcionamento e o controle do aparelho televisor, garantindo desempenho ideal."
+tags: ["lg", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 89.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.684Z"
+  updated_at: "2026-11-17T15:22:38.568Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.684Z"
+    verified_at: "2026-11-17T15:22:38.568Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.684Z"
+    verified_at: "2026-11-17T15:22:38.568Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBR88464904. Click for pictures, reviews, and tech specs for the LG Placa de Controle TV LG 43UP7500PSF EBR88464904.
+Placa de controle para TV LG EBR88464904, circuito impresso montado com componentes eletroeletrônicos, projetada para otimizar o funcionamento e o controle do aparelho televisor, garantindo desempenho ideal.

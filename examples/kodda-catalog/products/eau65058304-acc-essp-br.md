@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eau65058304-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/eau65058304/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/eau65058304/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAU65058304. Click for pictures, reviews, and tech specs for the LG Motor Refrigerador LG GMX288NQX2 EAU65058304."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.595Z"
+  updated_at: "2026-11-17T15:22:38.481Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.595Z"
+    verified_at: "2026-11-17T15:22:38.481Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.595Z"
+    verified_at: "2026-11-17T15:22:38.481Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

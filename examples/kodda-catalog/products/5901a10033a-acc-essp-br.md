@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "5901a10033a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Hélise da condensadora Ar Condicionado LG CBN360QLA, LTUC452MLE0, LTUC482MLE0 - 5901A10033A - 5901A10033A | LG BR"
+name: "Hélice da condensadora Ar Condicionado LG CBN360QLA, LTUC452MLE0, LTUC482MLE0 - 5901A10033A - 5901A10033A | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/5901a10033a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5901a10033a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/5901a10033a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5901A10033A. Clique para ver imagens, análises e especificações técnicas da LG Hélise da condensadora Ar Condicionado LG CBN360QLA, LTUC452MLE0, LTUC482MLE0 - 5901A10033A"
+summary: "Get more information on the LG 5901A10033A. Click for pictures, reviews, and tech specs for the LG Hélice da condensadora Ar Condicionado LG CBN360QLA, LTUC452MLE0, LTUC482MLE0 - 5901A10033A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 154.13
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.378Z"
+  updated_at: "2026-11-17T15:22:38.256Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.378Z"
+    verified_at: "2026-11-17T15:22:38.256Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.378Z"
+    verified_at: "2026-11-17T15:22:38.256Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5901A10033A. Clique para ver imagens, análises e especificações técnicas da LG Hélise da condensadora Ar Condicionado LG CBN360QLA, LTUC452MLE0, LTUC482MLE0 - 5901A10033A
+Get more information on the LG 5901A10033A. Click for pictures, reviews, and tech specs for the LG Hélice da condensadora Ar Condicionado LG CBN360QLA, LTUC452MLE0, LTUC482MLE0 - 5901A10033A.

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay65169954-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay65169954/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay65169954/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAY65169954. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG 55SM8100PSA, 55NANO86SNA - EAY65169954."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 673.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.605Z"
+  updated_at: "2026-11-17T15:22:38.490Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.605Z"
+    verified_at: "2026-11-17T15:22:38.490Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.605Z"
+    verified_at: "2026-11-17T15:22:38.490Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

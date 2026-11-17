@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/aju73472405-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/aju73472405/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aju73472405/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AJU73472405. Click for pictures, reviews, and tech specs for the LG Válvula Ar Condicionado LG RPUW200X9S AJU73472405."
+summary: "Válvula de expansão termostática"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 293.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.493Z"
+  updated_at: "2026-11-17T15:22:38.374Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.493Z"
+    verified_at: "2026-11-17T15:22:38.374Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.493Z"
+    verified_at: "2026-11-17T15:22:38.374Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AJU73472405. Click for pictures, reviews, and tech specs for the LG Válvula Ar Condicionado LG RPUW200X9S AJU73472405.
+Válvula de expansão termostática

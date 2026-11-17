@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/4781jr2005s-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/4781jr2005s/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/4781jr2005s/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 4781JR2005S. Click for pictures, reviews, and tech specs for the LG Sensor de degelo Refrigerador Side by Side LG GC-P217BSKV - 4781JR2005S."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 167.13
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.358Z"
+  updated_at: "2026-11-17T15:22:38.234Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.358Z"
+    verified_at: "2026-11-17T15:22:38.234Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.358Z"
+    verified_at: "2026-11-17T15:22:38.234Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

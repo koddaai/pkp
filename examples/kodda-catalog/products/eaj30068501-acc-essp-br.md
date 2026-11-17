@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj30068501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj30068501/"
+  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eaj30068501/"
 
 # === DESCOBERTA (L0) ===
 summary: "Peça para reparo do módulo LCD (BA) Módulo de visualização de tela (Ecrã), plana, modelo: HV430QUB-F7D, de 43 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido Não contém demais peças do módulo completo (régua de LED e refletores)"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 664.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.554Z"
+  updated_at: "2026-11-17T15:22:38.440Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.554Z"
+    verified_at: "2026-11-17T15:22:38.440Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.554Z"
+    verified_at: "2026-11-17T15:22:38.440Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

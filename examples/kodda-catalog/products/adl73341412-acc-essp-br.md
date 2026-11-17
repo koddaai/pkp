@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/adl73341412-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/adl73341412/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/adl73341412/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ADL73341412. Clique para ver imagens, análises e especificações técnicas da LG Serpentina da evaporadora Refrigerador LG GR-X248LKZ1 - ADL73341412"
+summary: "Get more information on the LG ADL73341412. Click for pictures, reviews, and tech specs for the LG Serpentina da evaporadora Refrigerador LG GR-X248LKZ1 - ADL73341412."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 457.92
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.429Z"
+  updated_at: "2026-11-17T15:22:38.310Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.429Z"
+    verified_at: "2026-11-17T15:22:38.310Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.429Z"
+    verified_at: "2026-11-17T15:22:38.310Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ADL73341412. Clique para ver imagens, análises e especificações técnicas da LG Serpentina da evaporadora Refrigerador LG GR-X248LKZ1 - ADL73341412
+Get more information on the LG ADL73341412. Click for pictures, reviews, and tech specs for the LG Serpentina da evaporadora Refrigerador LG GR-X248LKZ1 - ADL73341412.

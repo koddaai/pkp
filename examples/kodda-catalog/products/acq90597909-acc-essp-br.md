@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/acq90597909-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/acq90597909/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/acq90597909/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ACQ90597909. Click for pictures, reviews, and tech specs for the LG Conjunto cobertura do cesto de lavagem Lava e Seca LG CV7011WS4, CV5011TS4, CV3011BC4 - ACQ90597909."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1098.41
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.423Z"
+  updated_at: "2026-11-17T15:22:38.304Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.423Z"
+    verified_at: "2026-11-17T15:22:38.304Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.423Z"
+    verified_at: "2026-11-17T15:22:38.304Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

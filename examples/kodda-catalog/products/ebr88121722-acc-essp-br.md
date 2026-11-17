@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr88121722-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr88121722/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr88121722/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal Home Theater LG LHD687BG EBR88121722"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 582.23
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.680Z"
+  updated_at: "2026-11-17T15:22:38.567Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.680Z"
+    verified_at: "2026-11-17T15:22:38.567Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.680Z"
+    verified_at: "2026-11-17T15:22:38.567Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

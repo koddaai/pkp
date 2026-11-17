@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr89185707-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal DVD LG BP450 EBR89185707 - EBR89185707"
+name: "Placa Principal DVD LG BP450 EBR89185707 - EBR89185707 | LG BR"
 category: "outros"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr89185707-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-audio/acessorio/ebr89185707/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr89185707/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal DVD LG BP450 EBR89185707"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 398.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.664Z"
+  updated_at: "2026-11-17T15:22:38.572Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.664Z"
+    verified_at: "2026-11-17T15:22:38.572Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.664Z"
+    verified_at: "2026-11-17T15:22:38.572Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-14
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478676770
 ---
 

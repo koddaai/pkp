@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm76110201-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 55SK8500PSA AGM76110201 - AGM76110201"
+name: "Kit régua de LED TV LG 55SK8500PSA AGM76110201 - AGM76110201 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agm76110201-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/agm76110201/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agm76110201/"
 
 # === DESCOBERTA (L0) ===
 summary: "Contém 20 barras de LED Quantidade de LED por barra: 08 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 616.55
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.396Z"
+  updated_at: "2026-11-17T15:22:38.355Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.396Z"
+    verified_at: "2026-11-17T15:22:38.355Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.396Z"
+    verified_at: "2026-11-17T15:22:38.355Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478675534
 ---
 

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr71503225-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr71503225/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebr71503225/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR71503225. Click for pictures, reviews, and tech specs for the LG Placa de controle Ar Condicionado LG A2UW16GFA2, A2UW18GFA2 - EBR71503225."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 455.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.642Z"
+  updated_at: "2026-11-17T15:22:38.525Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.642Z"
+    verified_at: "2026-11-17T15:22:38.525Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.642Z"
+    verified_at: "2026-11-17T15:22:38.525Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

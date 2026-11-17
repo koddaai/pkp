@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr86457703-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr86457703/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebr86457703/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR86457703. Click for pictures, reviews, and tech specs for the LG Placa principal evaporadora Ar Condicionado LG S4NW12JARPA - EBR86457703."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.676Z"
+  updated_at: "2026-11-17T15:22:38.563Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.676Z"
+    verified_at: "2026-11-17T15:22:38.563Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.676Z"
+    verified_at: "2026-11-17T15:22:38.563Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

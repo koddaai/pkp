@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/abw68676009-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/abw68676009/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/abw68676009/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ABW68676009. Click for pictures, reviews, and tech specs for the LG Chassis Ar Condicionado LG LMN096HVT, AMNW07GDBR0, AMNW09GEBA0 - ABW68676009."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.415Z"
+  updated_at: "2026-11-17T15:22:38.295Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.415Z"
+    verified_at: "2026-11-17T15:22:38.295Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.415Z"
+    verified_at: "2026-11-17T15:22:38.295Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

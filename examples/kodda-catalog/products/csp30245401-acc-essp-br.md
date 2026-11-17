@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/csp30245401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/csp30245401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/csp30245401/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa de circuito impresso principal Montada com componentes eletroeletrõnicos Próprio para uso em máquina de lavar roupa de capacidade nao superior a 10kg (8,5kg)"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 952.41
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.516Z"
+  updated_at: "2026-11-17T15:22:38.398Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.516Z"
+    verified_at: "2026-11-17T15:22:38.398Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.516Z"
+    verified_at: "2026-11-17T15:22:38.398Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

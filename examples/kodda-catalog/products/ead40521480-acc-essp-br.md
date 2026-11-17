@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead40521480-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/ead40521480/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ead40521480/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAD40521480. Click for pictures, reviews, and tech specs for the LG Cabo de força Lavadora LG WD1410RT, WD-12596RD, WD1014RD7 - EAD40521480."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.83
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.532Z"
+  updated_at: "2026-11-17T15:22:38.415Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.532Z"
+    verified_at: "2026-11-17T15:22:38.415Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.532Z"
+    verified_at: "2026-11-17T15:22:38.415Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

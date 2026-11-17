@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/aan75811006-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/aan75811006/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aan75811006/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AAN75811006. Click for pictures, reviews, and tech specs for the LG Base do Gabinete Ar Condicionado LG USUQ122HSG3 AAN75811006."
+summary: "Base do gabinete da unidade condensadora De metal comum Para aparelho de ar condicionado"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 118.84
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.403Z"
+  updated_at: "2026-11-17T15:22:38.283Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.403Z"
+    verified_at: "2026-11-17T15:22:38.283Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.403Z"
+    verified_at: "2026-11-17T15:22:38.283Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  voltage: "110V"
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AAN75811006. Click for pictures, reviews, and tech specs for the LG Base do Gabinete Ar Condicionado LG USUQ122HSG3 AAN75811006.
+Base do gabinete da unidade condensadora De metal comum Para aparelho de ar condicionado

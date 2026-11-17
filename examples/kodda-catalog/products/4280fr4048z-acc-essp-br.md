@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/4280fr4048z-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/4280fr4048z/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/4280fr4048z/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 4280FR4048Z. Click for pictures, reviews, and tech specs for the LG Rolamento esfera Lavadora LG WM5000HVA, WD1316ADA7, WD17VTS6 - 4280FR4048Z."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.344Z"
+  updated_at: "2026-11-17T15:22:38.222Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.344Z"
+    verified_at: "2026-11-17T15:22:38.222Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.344Z"
+    verified_at: "2026-11-17T15:22:38.222Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

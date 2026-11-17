@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead63990608-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead63990608/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ead63990608/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAD63990608. Click for pictures, reviews, and tech specs for the LG Cabo flat TV LG 32LK610BPSA - EAD63990608."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.543Z"
+  updated_at: "2026-11-17T15:22:38.429Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.543Z"
+    verified_at: "2026-11-17T15:22:38.429Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.543Z"
+    verified_at: "2026-11-17T15:22:38.429Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

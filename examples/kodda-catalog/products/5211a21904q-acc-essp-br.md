@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/5211a21904q-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5211a21904q/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/5211a21904q/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 5211A21904Q. Click for pictures, reviews, and tech specs for the LG Tubo de conexão Ar Condicionado LG USUW092WSZ2, S4UQ12JA31G, S4UW09AA31A - 5211A21904Q."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 54.04
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.366Z"
+  updated_at: "2026-11-17T15:22:38.242Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.366Z"
+    verified_at: "2026-11-17T15:22:38.242Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.366Z"
+    verified_at: "2026-11-17T15:22:38.242Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

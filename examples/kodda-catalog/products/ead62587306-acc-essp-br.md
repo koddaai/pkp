@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead62587306-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ead62587306/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ead62587306/"
 
 # === DESCOBERTA (L0) ===
 summary: "Condutor flexível elétrico munidos de peças de conexão Para tensão 300V Cobre revestido com pvc UL1061 5P D: 0,41mm Seção: 0,13mm2 AWG26"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 19.46
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.537Z"
+  updated_at: "2026-11-17T15:22:38.420Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.537Z"
+    verified_at: "2026-11-17T15:22:38.420Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.537Z"
+    verified_at: "2026-11-17T15:22:38.420Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

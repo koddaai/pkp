@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan30005507-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aan30005507/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/aan30005507/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAN30005507. Click for pictures, reviews, and tech specs for the LG Pedestal completo TV LG OLED65GXPSA - AAN30005507."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 455.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.398Z"
+  updated_at: "2026-11-17T15:22:38.277Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.398Z"
+    verified_at: "2026-11-17T15:22:38.277Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.398Z"
+    verified_at: "2026-11-17T15:22:38.277Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

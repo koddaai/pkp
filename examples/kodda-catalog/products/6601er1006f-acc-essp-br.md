@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/6601er1006f-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/6601er1006f/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/6601er1006f/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 6601ER1006F. Click for pictures, reviews, and tech specs for the LG Chave interruptora (pressostato) Máquina de Lavar Roupa LG WD1410RT, WD1411RWA, WD1412RT - 6601ER1006F."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.06
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.389Z"
+  updated_at: "2026-11-17T15:22:38.267Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.389Z"
+    verified_at: "2026-11-17T15:22:38.267Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.389Z"
+    verified_at: "2026-11-17T15:22:38.267Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aeb75005515-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aeb75005515/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aeb75005515/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AEB75005515. Click for pictures, reviews, and tech specs for the LG Bandeja do dreno Ar Condicionado LG S4NQ09WA5WB - AEB75005515."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.441Z"
+  updated_at: "2026-11-17T15:22:38.324Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.441Z"
+    verified_at: "2026-11-17T15:22:38.324Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.441Z"
+    verified_at: "2026-11-17T15:22:38.324Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

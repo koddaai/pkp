@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/acq86581601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/acq86581601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/acq86581601/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ACQ86581601. Clique para ver imagens, análises e especificações técnicas da LG Alto falante woofer Home Theater LG LHB655NW - ACQ86581601"
+summary: "Get more information on the LG ACQ86581601. Click for pictures, reviews, and tech specs for the LG Alto falante woofer Home Theater LG LHB655NW - ACQ86581601."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 426.54
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.422Z"
+  updated_at: "2026-11-17T15:22:38.303Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.422Z"
+    verified_at: "2026-11-17T15:22:38.303Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.422Z"
+    verified_at: "2026-11-17T15:22:38.303Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ACQ86581601. Clique para ver imagens, análises e especificações técnicas da LG Alto falante woofer Home Theater LG LHB655NW - ACQ86581601
+Get more information on the LG ACQ86581601. Click for pictures, reviews, and tech specs for the LG Alto falante woofer Home Theater LG LHB655NW - ACQ86581601.

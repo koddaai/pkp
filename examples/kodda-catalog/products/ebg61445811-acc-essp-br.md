@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebg61445811-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebg61445811/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebg61445811/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBG61445811. Click for pictures, reviews, and tech specs for the LG Termistor NTC Ar Condicionado LG A3UW21GFA0, A2UW16GFA2, A2UW18GFA2 - EBG61445811."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.623Z"
+  updated_at: "2026-11-17T15:22:38.506Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.623Z"
+    verified_at: "2026-11-17T15:22:38.506Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.623Z"
+    verified_at: "2026-11-17T15:22:38.506Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

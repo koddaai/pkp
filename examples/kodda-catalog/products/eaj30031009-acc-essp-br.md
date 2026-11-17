@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj30031009-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (BA) TV LG 65QNED70ASA EAJ30031009 - EAJ30031009 | LG BR"
+name: "Tela de cristal líquido (BA) TV LG 55QNED70ASA EAJ30031009 - EAJ30031009 | LG BR"
 category: "tvs"
 
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eaj30031009-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/eaj30031009/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj30031009/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ30031009. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG 55QNED70ASA EAJ30031009."
+summary: "Tela de cristal líquido (BA) TV LG 55UA8550PSA EAJ30031009"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 977.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.553Z"
+  updated_at: "2026-11-17T15:22:38.439Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.553Z"
+    verified_at: "2026-11-17T15:22:38.439Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.553Z"
+    verified_at: "2026-11-17T15:22:38.439Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAJ30031009. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG 55QNED70ASA EAJ30031009.
+Tela de cristal líquido (BA) TV LG 55UA8550PSA  EAJ30031009

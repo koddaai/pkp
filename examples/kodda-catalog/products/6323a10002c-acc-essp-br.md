@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/6323a10002c-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/6323a10002c/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/6323a10002c/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 6323A10002C. Click for pictures, reviews, and tech specs for the LG Termistor Ar Condicionado LG MB09AHL, ATNW18GPLP0, ATNW24GPLP0 - 6323A10002C."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.383Z"
+  updated_at: "2026-11-17T15:22:38.261Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.383Z"
+    verified_at: "2026-11-17T15:22:38.261Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.383Z"
+    verified_at: "2026-11-17T15:22:38.261Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

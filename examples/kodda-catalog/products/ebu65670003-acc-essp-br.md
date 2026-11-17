@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu65670003-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 50UM7360PSA EBU65670003 - EBU65670003"
+name: "Placa Principal TV LG 50UM7360PSA EBU65670003 - EBU65670003 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu65670003-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/ebu65670003/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu65670003/"
 
 # === DESCOBERTA (L0) ===
 summary: "PROCEDIMENTO OBRIGATÓRIO APÓS TROCA DE PLACA PRINCIPAL É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas. Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 759.05
   source: "retailer"
-  updated_at: "2026-11-06T23:58:25.167Z"
+  updated_at: "2026-11-17T15:22:38.585Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.167Z"
+    verified_at: "2026-11-17T15:22:38.585Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T23:58:25.167Z"
+    verified_at: "2026-11-17T15:22:38.585Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478676809
 ---
 

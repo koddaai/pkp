@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/add76420110-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/add76420110/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/add76420110/"
 
 # === DESCOBERTA (L0) ===
 summary: "Porta do freezer para aparelho refrigerador LG"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1867.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.427Z"
+  updated_at: "2026-11-17T15:22:38.307Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.427Z"
+    verified_at: "2026-11-17T15:22:38.307Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.427Z"
+    verified_at: "2026-11-17T15:22:38.307Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

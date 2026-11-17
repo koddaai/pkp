@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eab65816104-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eab65816104/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eab65816104/"
 
 # === DESCOBERTA (L0) ===
 summary: "Alto-falante (lado direito) para TV LG EAB65816104, tipo full range, com diâmetro de até 165mm (100mm), montado em receptáculo, garantindo som de qualidade para o aparelho televisor. EAN: 7893299962929."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 138.97
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.529Z"
+  updated_at: "2026-11-17T15:22:38.412Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.529Z"
+    verified_at: "2026-11-17T15:22:38.412Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.529Z"
+    verified_at: "2026-11-17T15:22:38.412Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu65657001-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu65657001/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu65657001/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBU65657001. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 75UM7570PSB, 75UM7510PSB, 75UM751C0SB - EBU65657001."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1020.43
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.699Z"
+  updated_at: "2026-11-17T15:22:38.585Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.699Z"
+    verified_at: "2026-11-17T15:22:38.585Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.699Z"
+    verified_at: "2026-11-17T15:22:38.585Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

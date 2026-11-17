@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ean62395902-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ean62395902/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ean62395902/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAN62395902. Click for pictures, reviews, and tech specs for the LG Circuito integrado Home Theater LG DH4220S, BB5530A, LHD625 - EAN62395902."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 33.84
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.582Z"
+  updated_at: "2026-11-17T15:22:38.467Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.582Z"
+    verified_at: "2026-11-17T15:22:38.467Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.582Z"
+    verified_at: "2026-11-17T15:22:38.467Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

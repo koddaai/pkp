@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "2h02479n-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Válvula de serviço Ar Condicionado LG LS-P1120BD, ASUQ092B4A0, ASUQ122B4A0 - 2H02479N - 2H02479N | LG BR"
+name: "Válvula de Serviço Ar Condicionado LG 2H02479N - 2H02479N | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/2h02479n-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/2h02479n/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/2h02479n/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 2H02479N. Click for pictures, reviews, and tech specs for the LG Válvula de Serviço Ar Condicionado LG 2H02479N."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.328Z"
+  updated_at: "2026-11-17T15:22:38.201Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.328Z"
+    verified_at: "2026-11-17T15:22:38.201Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.328Z"
+    verified_at: "2026-11-17T15:22:38.201Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

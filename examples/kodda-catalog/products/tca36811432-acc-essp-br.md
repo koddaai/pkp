@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/tca36811432-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/tca36811432/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/tca36811432/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG TCA36811432. Click for pictures, reviews, and tech specs for the LG Motocompressor hermético Refrigerador LG TCA36811432."
+summary: "Motocompressor hermético Refrigerador LG TCA36811432"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1512.49
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.784Z"
+  updated_at: "2026-11-17T15:22:38.677Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.784Z"
+    verified_at: "2026-11-17T15:22:38.677Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.784Z"
+    verified_at: "2026-11-17T15:22:38.677Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG TCA36811432. Click for pictures, reviews, and tech specs for the LG Motocompressor hermético Refrigerador LG TCA36811432.
+Motocompressor hermético Refrigerador LG TCA36811432

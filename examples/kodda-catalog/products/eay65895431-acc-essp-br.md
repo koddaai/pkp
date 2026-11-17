@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay65895431-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eay65895431/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay65895431/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa de circuito impresso montada conversora estática, retificadora de corrente alternada em corrente contínua, com função de fonte de alimentação estabilizada"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 585.73
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.610Z"
+  updated_at: "2026-11-17T15:22:38.495Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.610Z"
+    verified_at: "2026-11-17T15:22:38.495Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.610Z"
+    verified_at: "2026-11-17T15:22:38.495Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

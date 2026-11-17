@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/383eer3001j-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/383eer3001j/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/383eer3001j/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 383EER3001J. Click for pictures, reviews, and tech specs for the LG Conjunto de Amortecedor Lavadora LG WD-13436RD, FH069FD6F, WD-12436RD - 383EER3001J."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 62.1
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.337Z"
+  updated_at: "2026-11-17T15:22:38.214Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.337Z"
+    verified_at: "2026-11-17T15:22:38.214Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.337Z"
+    verified_at: "2026-11-17T15:22:38.214Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agf30495201-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/peca-de-reposicao/agf30495201/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/signage/agf30495201/"
 
 # === DESCOBERTA (L0) ===
 summary: "Módulo de visualização de tela (ecrã) plana de cristal liquido Modelo: LD320DUE-FHB1 32 polegadas Sem tela sensível ao toque (ecrã táctil) Com controladores (drivers) e circuito de controle Acompanha PCI da fonte de alimentação estabilizada Para Monitor Desktop LG"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 500.76
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.458Z"
+  updated_at: "2026-11-17T15:22:38.340Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.458Z"
+    verified_at: "2026-11-17T15:22:38.340Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.458Z"
+    verified_at: "2026-11-17T15:22:38.340Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

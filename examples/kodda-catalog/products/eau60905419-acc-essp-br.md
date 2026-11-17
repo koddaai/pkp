@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eau60905419-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/eau60905419/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eau60905419/"
 
 # === DESCOBERTA (L0) ===
 summary: "Motor elétrico de corrente contínua síncrono trifásico, de carcaça fechada, potência 85W, DC310V, 500MA, 850RPM, 8P, 0.5A, distância da base até o centro do eixo do motor (41mm), para Ar Condicionado LG."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 258.2
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.591Z"
+  updated_at: "2026-11-17T15:22:38.476Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.591Z"
+    verified_at: "2026-11-17T15:22:38.476Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.591Z"
+    verified_at: "2026-11-17T15:22:38.476Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

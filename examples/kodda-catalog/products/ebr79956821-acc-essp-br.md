@@ -5,7 +5,7 @@ sku: "ebr79956821-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa fonte Home Theater LG LHB625M - EBR79956821 - EBR79956821 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr79956821-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr79956821/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr79956821/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR79956821. Click for pictures, reviews, and tech specs for the LG Placa fonte Home Theater LG LHB625M - EBR79956821."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 436.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.656Z"
+  updated_at: "2026-11-17T15:22:38.541Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.656Z"
+    verified_at: "2026-11-17T15:22:38.541Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.656Z"
+    verified_at: "2026-11-17T15:22:38.541Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

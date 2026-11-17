@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/tbz38294401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/tbz38294401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/tbz38294401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG TBZ38294401. Click for pictures, reviews, and tech specs for the LG Compressor Ar Condicionado LG ATUW60GYLP0 TBZ38294401."
+summary: "Motocompressor hermético LG Para sistema de ar condicionado de uso comercial Com capacidade de 9.350,98 frigorias/hora (37.100 btu) Trifásico 520V Tipo scroll R410A Modelo RJA036MA*"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6112.39
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.781Z"
+  updated_at: "2026-11-17T15:22:38.673Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.781Z"
+    verified_at: "2026-11-17T15:22:38.673Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.781Z"
+    verified_at: "2026-11-17T15:22:38.673Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  storage: {"value":0,"unit":"TB"}
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG TBZ38294401. Click for pictures, reviews, and tech specs for the LG Compressor Ar Condicionado LG ATUW60GYLP0 TBZ38294401.
+Motocompressor hermético LG Para sistema de ar condicionado de uso comercial Com capacidade de 9.350,98 frigorias/hora (37.100 btu) Trifásico 520V Tipo scroll R410A Modelo RJA036MA*

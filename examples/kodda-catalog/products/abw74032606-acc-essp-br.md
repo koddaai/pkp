@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "abw74032606-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Base da Evaporadora Ar Condicionado LG ABW74032606 - ABW74032606"
+name: "Base da Evaporadora Ar Condicionado LG ABW74032606 - ABW74032606 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/abw74032606-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/abw74032606/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/abw74032606/"
 
 # === DESCOBERTA (L0) ===
 summary: "Base da Evaporadora Ar Condicionado LG ABW74032606"
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 274.55
+  value: 263.57
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.291Z"
+  updated_at: "2026-11-17T15:22:38.296Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.291Z"
+    verified_at: "2026-11-17T15:22:38.296Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.291Z"
+    verified_at: "2026-11-17T15:22:38.296Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-05
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478675236
 ---
 

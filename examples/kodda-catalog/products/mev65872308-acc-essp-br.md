@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mev65872308-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mev65872308/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mev65872308/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MEV65872308. Click for pictures, reviews, and tech specs for the LG Fita auto-adesiva Ar Condicionado LG S4NW12JA31A - MEV65872308."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 43.17
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.746Z"
+  updated_at: "2026-11-17T15:22:38.632Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.746Z"
+    verified_at: "2026-11-17T15:22:38.632Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.746Z"
+    verified_at: "2026-11-17T15:22:38.632Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

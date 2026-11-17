@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay65689433-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eay65689433/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay65689433/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa conversora estática Retificadora a base de cristal (semicondutores) de corrente alternada em corrente contínua Com função de fonte de alimentação estabilizada, Utilizada internamente em aparelho televisor"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 590.59
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.607Z"
+  updated_at: "2026-11-17T15:22:38.492Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.607Z"
+    verified_at: "2026-11-17T15:22:38.492Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.607Z"
+    verified_at: "2026-11-17T15:22:38.492Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

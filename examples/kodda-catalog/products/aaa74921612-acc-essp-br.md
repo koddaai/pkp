@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aaa74921612-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "JIG para diagnósticos Condensadora Ar Condicionado LG - AAA74921612 - AAA74921612 | LG BR"
+name: "JIG LGMV para diagnósticos Condensadora Ar Condicionado LG - AAA74921612 - AAA74921612 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/aaa74921612-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aaa74921612/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aaa74921612/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AAA74921612. Click for pictures, reviews, and tech specs for the LG JIG LGMV para diagnósticos Condensadora Ar Condicionado LG - AAA74921612."
+summary: "JIG para diagnósticos Condensadora Ar Condicionado LG - AAA74921612"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 359.1
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.398Z"
+  updated_at: "2026-11-17T15:22:38.277Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.398Z"
+    verified_at: "2026-11-17T15:22:38.277Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.398Z"
+    verified_at: "2026-11-17T15:22:38.277Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AAA74921612. Click for pictures, reviews, and tech specs for the LG JIG LGMV para diagnósticos Condensadora Ar Condicionado LG - AAA74921612.
+JIG para diagnósticos Condensadora Ar Condicionado LG - AAA74921612

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr82580401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Controle Mini System LG CM9960 - EBR82580401 - EBR82580401 | LG BR"
+name: "Placa Controle Mini System LG CM9960 EBR82580401 - EBR82580401 | LG BR"
 category: "outros"
 
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr82580401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr82580401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr82580401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR82580401. Clique para ver imagens, análises e especificações técnicas da LG Placa Controle Mini System LG CM9960 - EBR82580401"
+summary: "Get more information on the LG EBR82580401. Click for pictures, reviews, and tech specs for the LG Placa Controle Mini System LG CM9960 EBR82580401."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.660Z"
+  updated_at: "2026-11-17T15:22:38.546Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.660Z"
+    verified_at: "2026-11-17T15:22:38.546Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.660Z"
+    verified_at: "2026-11-17T15:22:38.546Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR82580401. Clique para ver imagens, análises e especificações técnicas da LG Placa Controle Mini System LG CM9960 - EBR82580401
+Get more information on the LG EBR82580401. Click for pictures, reviews, and tech specs for the LG Placa Controle Mini System LG CM9960 EBR82580401.

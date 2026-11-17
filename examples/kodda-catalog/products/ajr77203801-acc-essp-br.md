@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajr77203801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo de ligação Ar Condicionado LG S4UQ09WA5AA, S4UQ12JA3A6, S4UQ12JA3AD - AJR77203801 - AJR77203801 | LG BR"
+name: "Tubo de ligação Ar Condicionado LG AJR77203801 - AJR77203801 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ajr77203801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ajr77203801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ajr77203801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AJR77203801. Click for pictures, reviews, and tech specs for the LG Tubo de ligação Ar Condicionado LG AJR77203801."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 81.17
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.492Z"
+  updated_at: "2026-11-17T15:22:38.372Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.492Z"
+    verified_at: "2026-11-17T15:22:38.372Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.492Z"
+    verified_at: "2026-11-17T15:22:38.372Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

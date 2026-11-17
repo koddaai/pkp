@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eat63377302-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eat63377302/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eat63377302/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAT63377302. Click for pictures, reviews, and tech specs for the LG Módulo para transmissão e recepção de dados em redes sem fio (Wi-Fi e Bluetooth) LG 43UJ6300, 49UH7F-B, 49UJ6300 - EAT63377302."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.585Z"
+  updated_at: "2026-11-17T15:22:38.470Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.585Z"
+    verified_at: "2026-11-17T15:22:38.470Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.585Z"
+    verified_at: "2026-11-17T15:22:38.470Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

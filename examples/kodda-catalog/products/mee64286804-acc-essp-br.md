@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mee64286804-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/mee64286804/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/mee64286804/"
 
 # === DESCOBERTA (L0) ===
 summary: "Resistência de aquecimento do degelo 127v 163w"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 588.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.745Z"
+  updated_at: "2026-11-17T15:22:38.630Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.745Z"
+    verified_at: "2026-11-17T15:22:38.630Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.745Z"
+    verified_at: "2026-11-17T15:22:38.630Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

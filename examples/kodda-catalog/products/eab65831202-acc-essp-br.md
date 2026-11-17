@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eab65831202-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eab65831202/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eab65831202/"
 
 # === DESCOBERTA (L0) ===
 summary: "Lado Direito Alto falante único montado em seu receptáculo Tipo Full Range Diametro 76,5mm 6ohm 75db/w 10w YXW90180-1LG/2LG"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 602.19
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.531Z"
+  updated_at: "2026-11-17T15:22:38.413Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.531Z"
+    verified_at: "2026-11-17T15:22:38.413Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.531Z"
+    verified_at: "2026-11-17T15:22:38.413Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

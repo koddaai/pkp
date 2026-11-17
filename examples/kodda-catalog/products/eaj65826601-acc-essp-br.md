@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eaj65826601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65826601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj65826601/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ65826601. Click for pictures, reviews, and tech specs for the LG TELA DE CRISTAL LIQUIDO OPENCELL(BA) - EAJ65826601."
+summary: "TELA DE CRISTAL LIQUIDO OPENCELL(BA) - EAJ65826601"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1832.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.576Z"
+  updated_at: "2026-11-17T15:22:38.460Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.576Z"
+    verified_at: "2026-11-17T15:22:38.460Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.576Z"
+    verified_at: "2026-11-17T15:22:38.460Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAJ65826601. Click for pictures, reviews, and tech specs for the LG TELA DE CRISTAL LIQUIDO OPENCELL(BA) - EAJ65826601.
+TELA DE CRISTAL LIQUIDO OPENCELL(BA) - EAJ65826601

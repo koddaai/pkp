@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaa56671908-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaa56671908/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/eaa56671908/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAA56671908. Click for pictures, reviews, and tech specs for the LG Antena de fio isolado tipo dipolo FM para Rádio RN5-F, RN7-F, RN9-F - EAA56671908."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 52.44
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.527Z"
+  updated_at: "2026-11-17T15:22:38.408Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.527Z"
+    verified_at: "2026-11-17T15:22:38.408Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.527Z"
+    verified_at: "2026-11-17T15:22:38.408Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

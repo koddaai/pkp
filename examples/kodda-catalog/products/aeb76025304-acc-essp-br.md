@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aeb76025304-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aeb76025304/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aeb76025304/"
 
 # === DESCOBERTA (L0) ===
 summary: "Grade de insuflamento de ar da unidade evaporadora Ar Condicionado LG NW18GSKA0, AMNW18GSKAA, AMNW24GSKA0 - AEB76025304"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 300.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.443Z"
+  updated_at: "2026-11-17T15:22:38.326Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.443Z"
+    verified_at: "2026-11-17T15:22:38.326Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.443Z"
+    verified_at: "2026-11-17T15:22:38.326Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

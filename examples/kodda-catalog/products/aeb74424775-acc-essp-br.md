@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aeb74424775-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/aeb74424775/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aeb74424775/"
 
 # === DESCOBERTA (L0) ===
 summary: "Grade de insuflamento de ar Composta por bandeja do dreno, aleta de plástico, motor DC e placa de circuito impresso montada com componentes eletroeletrônicos Para unidade evaporadora do ar condicionado LG"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 254.45
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.440Z"
+  updated_at: "2026-11-17T15:22:38.324Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.440Z"
+    verified_at: "2026-11-17T15:22:38.324Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.440Z"
+    verified_at: "2026-11-17T15:22:38.324Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

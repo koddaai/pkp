@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebg61107306-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebg61107306/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebg61107306/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBG61107306. Click for pictures, reviews, and tech specs for the LG Termistor NTC Ar Condicionado LG ARUN100LH2, ARUN120LT2, ARUN140DT2 - EBG61107306."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.618Z"
+  updated_at: "2026-11-17T15:22:38.502Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.618Z"
+    verified_at: "2026-11-17T15:22:38.502Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.618Z"
+    verified_at: "2026-11-17T15:22:38.502Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

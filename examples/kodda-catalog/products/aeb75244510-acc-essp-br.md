@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aeb75244510-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aeb75244510/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aeb75244510/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AEB75244510. Click for pictures, reviews, and tech specs for the LG Gabinete frontal evaporadora Ar Condicionado LG S4NW12JARPA, S4NW12JARXA, S4NW12JARXB - AEB75244510."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 949.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.442Z"
+  updated_at: "2026-11-17T15:22:38.325Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.442Z"
+    verified_at: "2026-11-17T15:22:38.325Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.442Z"
+    verified_at: "2026-11-17T15:22:38.325Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

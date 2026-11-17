@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/4738er1006a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/4738er1006a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/4738er1006a/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 4738ER1006A. Click for pictures, reviews, and tech specs for the LG Mangueira de conexão tanque bomba Lavadora LG WD-12320RD, WD-1250ARD, WD-1250ERD - 4738ER1006A."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 112.6
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.357Z"
+  updated_at: "2026-11-17T15:22:38.233Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.357Z"
+    verified_at: "2026-11-17T15:22:38.233Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.357Z"
+    verified_at: "2026-11-17T15:22:38.233Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

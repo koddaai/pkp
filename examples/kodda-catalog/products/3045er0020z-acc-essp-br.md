@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/3045er0020z-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/3045er0020z/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/3045er0020z/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 3045ER0020Z. Click for pictures, reviews, and tech specs for the LG Conjunto do tambor traseiro Lavadora LG WD14EGS62, WD14WGSP6, WD14WGSP6A - 3045ER0020Z."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2884.71
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.328Z"
+  updated_at: "2026-11-17T15:22:38.202Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.328Z"
+    verified_at: "2026-11-17T15:22:38.202Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.328Z"
+    verified_at: "2026-11-17T15:22:38.202Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

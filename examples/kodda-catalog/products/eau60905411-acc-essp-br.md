@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eau60905411-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/eau60905411/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eau60905411/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAU60905411. Click for pictures, reviews, and tech specs for the LG Motor Ar Condicionado LG ATUW24GPLP0 EAU60905411."
+summary: "Motor de corrente contínua Carcaça fechada Potência 85W dc 310v 500ma 850rpm"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.591Z"
+  updated_at: "2026-11-17T15:22:38.476Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.591Z"
+    verified_at: "2026-11-17T15:22:38.476Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.591Z"
+    verified_at: "2026-11-17T15:22:38.476Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAU60905411. Click for pictures, reviews, and tech specs for the LG Motor Ar Condicionado LG ATUW24GPLP0 EAU60905411.
+Motor de corrente contínua Carcaça fechada Potência 85W dc 310v 500ma 850rpm

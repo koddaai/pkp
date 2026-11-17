@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead65825812-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead65825812/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ead65825812/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAD65825812. Click for pictures, reviews, and tech specs for the LG Cabo Flat TV LG OLED55CXPSA, OLED55A1PSA, OLED55C1PSA - EAD65825812."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.549Z"
+  updated_at: "2026-11-17T15:22:38.434Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.549Z"
+    verified_at: "2026-11-17T15:22:38.434Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.549Z"
+    verified_at: "2026-11-17T15:22:38.434Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "fab30016105-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "FAB30016105 - FAB30016105 | LG BR"
+name: "Parafuso TV LG FAB30016105 - FAB30016105 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/fab30016105-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/fab30016105/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/outros-acessorios/fab30016105/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG FAB30016105. Click for pictures, reviews, and tech specs for the LG Parafuso TV LG FAB30016105."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 18.52
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.719Z"
+  updated_at: "2026-11-17T15:22:38.606Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.719Z"
+    verified_at: "2026-11-17T15:22:38.606Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.719Z"
+    verified_at: "2026-11-17T15:22:38.606Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr79909502-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/ebr79909502/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ebr79909502/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa de circuito impresso montada Com fiação de conexão elétrica e suportes Próprio para uso em máquinas de lavar roupa"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1132.76
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.655Z"
+  updated_at: "2026-11-17T15:22:38.540Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.655Z"
+    verified_at: "2026-11-17T15:22:38.540Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.655Z"
+    verified_at: "2026-11-17T15:22:38.540Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

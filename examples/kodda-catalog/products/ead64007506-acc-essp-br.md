@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ead64007506-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead64007506/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/adaptadores-e-cabos-de-alimentacao/ead64007506/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAD64007506. Clique para ver imagens, análises e especificações técnicas da LG Cabo de força TV LG 86SJ9570, 82UM7570PSB, 82UN8000PSB - EAD64007506"
+summary: "Get more information on the LG EAD64007506. Click for pictures, reviews, and tech specs for the LG Cabo de força TV LG 86SJ9570, 82UM7570PSB, 82UN8000PSB - EAD64007506."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 62.15
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.543Z"
+  updated_at: "2026-11-17T15:22:38.429Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.543Z"
+    verified_at: "2026-11-17T15:22:38.429Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.543Z"
+    verified_at: "2026-11-17T15:22:38.429Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAD64007506. Clique para ver imagens, análises e especificações técnicas da LG Cabo de força TV LG 86SJ9570, 82UM7570PSB, 82UN8000PSB - EAD64007506
+Get more information on the LG EAD64007506. Click for pictures, reviews, and tech specs for the LG Cabo de força TV LG 86SJ9570, 82UM7570PSB, 82UN8000PSB - EAD64007506.

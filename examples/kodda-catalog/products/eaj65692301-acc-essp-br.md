@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65692301-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "EAJ65692301 - EAJ65692301 | LG BR"
+name: "Tela De Cristal Líquido (Modulo) TV LG EAJ65692301 - EAJ65692301 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65692301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65692301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj65692301/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAJ65692301. Click for pictures, reviews, and tech specs for the LG Tela De Cristal Líquido (Modulo) TV LG EAJ65692301."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1300.56
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.563Z"
+  updated_at: "2026-11-17T15:22:38.449Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.563Z"
+    verified_at: "2026-11-17T15:22:38.449Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.563Z"
+    verified_at: "2026-11-17T15:22:38.449Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

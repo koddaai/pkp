@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/4860a20008a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/4860a20008a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/4860a20008a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 4860A20008A. Click for pictures, reviews, and tech specs for the LG Braçadeira do Ar Condicionado LG ARNU24GBHA2 4860A20008A."
+summary: "Braçadeira do motor Mult V"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 60.88
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.359Z"
+  updated_at: "2026-11-17T15:22:38.235Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.359Z"
+    verified_at: "2026-11-17T15:22:38.235Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.359Z"
+    verified_at: "2026-11-17T15:22:38.235Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  storage: {"value":24,"unit":"GB"}
+  # No specs extracted
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 4860A20008A. Click for pictures, reviews, and tech specs for the LG Braçadeira do Ar Condicionado LG ARNU24GBHA2 4860A20008A.
+Braçadeira do motor Mult V

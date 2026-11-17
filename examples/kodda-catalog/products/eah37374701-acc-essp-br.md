@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eah37374701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/eah37374701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eah37374701/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAH37374701. Clique para ver imagens, análises e especificações técnicas da LG Ponte de diodos retificadores DF30AA160 Ar Condicionado LG ARWN200LA2, ARUN180LN3, ARUN200LN3 - EAH37374701"
+summary: "Get more information on the LG EAH37374701. Click for pictures, reviews, and tech specs for the LG Ponte de diodos retificadores DF30AA160 Ar Condicionado LG ARWN200LA2, ARUN180LN3, ARUN200LN3 - EAH37374701."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1015.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.553Z"
+  updated_at: "2026-11-17T15:22:38.439Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.553Z"
+    verified_at: "2026-11-17T15:22:38.439Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.553Z"
+    verified_at: "2026-11-17T15:22:38.439Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAH37374701. Clique para ver imagens, análises e especificações técnicas da LG Ponte de diodos retificadores DF30AA160 Ar Condicionado LG ARWN200LA2, ARUN180LN3, ARUN200LN3 - EAH37374701
+Get more information on the LG EAH37374701. Click for pictures, reviews, and tech specs for the LG Ponte de diodos retificadores DF30AA160 Ar Condicionado LG ARWN200LA2, ARUN180LN3, ARUN200LN3 - EAH37374701.

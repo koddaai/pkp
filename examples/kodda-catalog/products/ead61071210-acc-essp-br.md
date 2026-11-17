@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead61071210-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead61071210/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/ead61071210/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAD61071210. Click for pictures, reviews, and tech specs for the LG Cabo fibra ótica Home Theater LG LAS550H, LAS453B, SH5 - EAD61071210."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 43.17
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.534Z"
+  updated_at: "2026-11-17T15:22:38.417Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.534Z"
+    verified_at: "2026-11-17T15:22:38.417Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.534Z"
+    verified_at: "2026-11-17T15:22:38.417Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

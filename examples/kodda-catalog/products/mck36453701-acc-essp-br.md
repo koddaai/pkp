@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mck36453701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mck36453701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mck36453701/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MCK36453701. Clique para ver imagens, análises e especificações técnicas da LG Tampa do painel frontal evaporadora Ar Condicionado LG PT-UMC - MCK36453701"
+summary: "Get more information on the LG MCK36453701. Click for pictures, reviews, and tech specs for the LG Tampa do painel frontal evaporadora Ar Condicionado LG PT-UMC - MCK36453701."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 54.04
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.735Z"
+  updated_at: "2026-11-17T15:22:38.621Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.735Z"
+    verified_at: "2026-11-17T15:22:38.621Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.735Z"
+    verified_at: "2026-11-17T15:22:38.621Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MCK36453701. Clique para ver imagens, análises e especificações técnicas da LG Tampa do painel frontal evaporadora Ar Condicionado LG PT-UMC - MCK36453701
+Get more information on the LG MCK36453701. Click for pictures, reviews, and tech specs for the LG Tampa do painel frontal evaporadora Ar Condicionado LG PT-UMC - MCK36453701.

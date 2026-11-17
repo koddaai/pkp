@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr37418701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-audio/peca-de-reposicao/ebr37418701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr37418701/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBR37418701. Click for pictures, reviews, and tech specs for the LG Placa Principal Caixa de Som Portátil LG XG7QBK EBR37418701."
+summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para uso em caixa acústica portátil"
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 382.85
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.635Z"
+  updated_at: "2026-11-17T15:22:38.518Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.635Z"
+    verified_at: "2026-11-17T15:22:38.518Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.635Z"
+    verified_at: "2026-11-17T15:22:38.518Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBR37418701. Click for pictures, reviews, and tech specs for the LG Placa Principal Caixa de Som Portátil LG XG7QBK EBR37418701.
+Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para uso em caixa acústica portátil

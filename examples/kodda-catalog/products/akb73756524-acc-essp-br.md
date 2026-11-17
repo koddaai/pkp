@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb73756524-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/akb73756524/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/controle-remoto/akb73756524/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB73756524. Click for pictures, reviews, and tech specs for the LG Controle Remoto LG TV Smart AKB73756524."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 60.79
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.497Z"
+  updated_at: "2026-11-17T15:22:38.377Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.497Z"
+    verified_at: "2026-11-17T15:22:38.377Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.497Z"
+    verified_at: "2026-11-17T15:22:38.377Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

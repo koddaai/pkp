@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/akb74955391-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/akb74955391/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/controle-remoto/akb74955391/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AKB74955391. Clique para ver imagens, análises e especificações técnicas da LG Controle remoto Mini System LG CK43 - AKB74955391"
+summary: "Get more information on the LG AKB74955391. Click for pictures, reviews, and tech specs for the LG Controle remoto Mini System LG CK43 - AKB74955391."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 77.89
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.499Z"
+  updated_at: "2026-11-17T15:22:38.380Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.499Z"
+    verified_at: "2026-11-17T15:22:38.380Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.499Z"
+    verified_at: "2026-11-17T15:22:38.380Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AKB74955391. Clique para ver imagens, análises e especificações técnicas da LG Controle remoto Mini System LG CK43 - AKB74955391
+Get more information on the LG AKB74955391. Click for pictures, reviews, and tech specs for the LG Controle remoto Mini System LG CK43 - AKB74955391.

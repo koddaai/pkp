@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebg63935701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/ebg63935701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ebg63935701/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBG63935701. Click for pictures, reviews, and tech specs for the LG Termostato Máquina de Lavar Roupas LG CV3011WG4A, CV7011WS4A, CV9011EC4 - EBG63935701."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.625Z"
+  updated_at: "2026-11-17T15:22:38.508Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.625Z"
+    verified_at: "2026-11-17T15:22:38.508Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.625Z"
+    verified_at: "2026-11-17T15:22:38.508Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

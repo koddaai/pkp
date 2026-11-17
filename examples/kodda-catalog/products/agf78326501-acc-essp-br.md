@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agf78326501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf78326501/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agf78326501/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGF78326501. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 42LN5400, 42LN549, 42LN5700 - AGF78326501."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 379.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.461Z"
+  updated_at: "2026-11-17T15:22:38.341Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.461Z"
+    verified_at: "2026-11-17T15:22:38.341Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.461Z"
+    verified_at: "2026-11-17T15:22:38.341Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

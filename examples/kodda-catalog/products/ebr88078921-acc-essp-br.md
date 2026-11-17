@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr88078921-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr88078921/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebr88078921/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBR88078921. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG EBR88078921."
+summary: "Para unidade evaporadora"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.679Z"
+  updated_at: "2026-11-17T15:22:38.566Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.679Z"
+    verified_at: "2026-11-17T15:22:38.566Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.679Z"
+    verified_at: "2026-11-17T15:22:38.566Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBR88078921. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG EBR88078921.
+Para unidade evaporadora

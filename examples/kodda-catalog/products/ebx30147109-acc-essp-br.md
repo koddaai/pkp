@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/ebx30147109-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/ebx30147109/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/controle-remoto/ebx30147109/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBX30147109. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic MR25GA TV LG Série 2025 EBX30147109."
-tags: ["lg", "5g"]
+summary: "Pilhas inclusas Controle Sensível ao movimento Controle remoto universal Comandos de voz pelo controle remoto Meio de acesso ao ThinQ AI Meio de acesso a Amazon Alexa Teclas de atalho aos App Netflix, Disney+, Prime Video, Globoplay, LG Channels Anatômico"
+tags: ["lg", "ai", "5g", "alexa"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 154.84
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.718Z"
+  updated_at: "2026-11-17T15:22:38.604Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.718Z"
+    verified_at: "2026-11-17T15:22:38.604Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.718Z"
+    verified_at: "2026-11-17T15:22:38.604Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBX30147109. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic MR25GA TV LG Série 2025 EBX30147109.
+Pilhas inclusas Controle Sensível ao movimento Controle remoto universal Comandos de voz pelo controle remoto Meio de acesso ao ThinQ AI Meio de acesso a Amazon Alexa Teclas de atalho aos App Netflix, Disney+, Prime Video, Globoplay, LG Channels Anatômico

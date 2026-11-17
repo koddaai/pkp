@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mfh62063701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mfh62063701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mfh62063701/"
 
 # === DESCOBERTA (L0) ===
-summary: "Para unidade evaporadora,Aleta horizontal da unidade evaporadora, de plástico, para ar condicionado"
+summary: "Get more information on the LG MFH62063701. Click for pictures, reviews, and tech specs for the LG Aleta Horizontal Ar Condicionado LG MFH62063701."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.749Z"
+  updated_at: "2026-11-17T15:22:38.634Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.749Z"
+    verified_at: "2026-11-17T15:22:38.634Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.749Z"
+    verified_at: "2026-11-17T15:22:38.634Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Para unidade evaporadora,Aleta horizontal da unidade evaporadora, de plástico, para ar condicionado
+Get more information on the LG MFH62063701. Click for pictures, reviews, and tech specs for the LG Aleta Horizontal Ar Condicionado LG MFH62063701.

@@ -5,7 +5,7 @@ sku: "ebt66773303-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa Principal Painel Digital LG LAEC015 GN2 EBT66773303 - EBT66773303 | LG BR"
-category: "monitors"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2439.4
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.691Z"
+  updated_at: "2026-11-17T15:22:38.575Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.691Z"
+    verified_at: "2026-11-17T15:22:38.575Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.691Z"
+    verified_at: "2026-11-17T15:22:38.575Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

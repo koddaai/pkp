@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/eaj65894099-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eaj65894099/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj65894099/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ65894099. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo TV LG OLED55C4PSA EAJ65894099."
-tags: ["lg", "oled"]
+summary: "Módulo de visualização de tela (Ecrã), plana, modelo: AC650AQW-WSA1, de 65 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers)e circuito de controle Display completo Não acompanha demais peças que constituem o Televisor (cabos, placas principais)"
+tags: ["lg", "ai", "oled"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3802.75
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.579Z"
+  updated_at: "2026-11-17T15:22:38.464Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.579Z"
+    verified_at: "2026-11-17T15:22:38.464Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.579Z"
+    verified_at: "2026-11-17T15:22:38.464Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 65
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAJ65894099. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo TV LG OLED55C4PSA EAJ65894099.
+Módulo de visualização de tela (Ecrã), plana, modelo: AC650AQW-WSA1, de 65 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers)e circuito de controle Display completo Não acompanha demais peças que constituem o Televisor (cabos, placas principais)

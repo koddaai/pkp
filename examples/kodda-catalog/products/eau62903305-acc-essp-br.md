@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eau62903305-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/eau62903305/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eau62903305/"
 
 # === DESCOBERTA (L0) ===
 summary: "Para unidade condensadora Motor de corrente contínua, de carcaca fechada, potência 190W, DC 310V , 500mA, 800 RPM"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 983.72
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.594Z"
+  updated_at: "2026-11-17T15:22:38.479Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.594Z"
+    verified_at: "2026-11-17T15:22:38.479Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.594Z"
+    verified_at: "2026-11-17T15:22:38.479Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

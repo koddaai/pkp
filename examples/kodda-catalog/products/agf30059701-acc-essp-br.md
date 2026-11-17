@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agf30059701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf30059701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agf30059701/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGF30059701. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 50UN8000PSD, 50UP751C0SF, 50UP7550PSF - AGF30059701."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 350.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.451Z"
+  updated_at: "2026-11-17T15:22:38.335Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.451Z"
+    verified_at: "2026-11-17T15:22:38.335Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.451Z"
+    verified_at: "2026-11-17T15:22:38.335Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

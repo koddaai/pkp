@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eab64048403-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eab64048403/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eab64048403/"
 
 # === DESCOBERTA (L0) ===
 summary: "Alto falante único, tipo full range, 6Ohm, 5W"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 49.42
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.528Z"
+  updated_at: "2026-11-17T15:22:38.410Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.528Z"
+    verified_at: "2026-11-17T15:22:38.410Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.528Z"
+    verified_at: "2026-11-17T15:22:38.410Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

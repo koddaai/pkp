@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65667101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65667101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj65667101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAJ65667101. Click for pictures, reviews, and tech specs for the LG Painel de cristal líquido (módulo) TV LG 60UM7270PSA, 60UM7100PLB, 60UN7310PSA - EAJ65667101."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1052.1
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.562Z"
+  updated_at: "2026-11-17T15:22:38.448Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.562Z"
+    verified_at: "2026-11-17T15:22:38.448Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.562Z"
+    verified_at: "2026-11-17T15:22:38.448Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

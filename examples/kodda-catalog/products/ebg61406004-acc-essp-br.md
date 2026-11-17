@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebg61406004-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebg61406004/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebg61406004/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBG61406004. Click for pictures, reviews, and tech specs for the LG Termistor (NTC) Ar Condicionado LG AUUQ48GH2, ARNH08GK3A4, ATUW36GMLP0 - EBG61406004."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 112.51
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.622Z"
+  updated_at: "2026-11-17T15:22:38.506Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.622Z"
+    verified_at: "2026-11-17T15:22:38.506Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.622Z"
+    verified_at: "2026-11-17T15:22:38.506Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

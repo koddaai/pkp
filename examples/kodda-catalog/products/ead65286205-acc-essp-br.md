@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead65286205-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/ead65286205/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ead65286205/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAD65286205. Click for pictures, reviews, and tech specs for the LG Cabo de Força Máquina de Lavar Roupas LG CV7011WS4A, CV5011WG4A, CV7011TC4A - EAD65286205."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 170.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.546Z"
+  updated_at: "2026-11-17T15:22:38.432Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.546Z"
+    verified_at: "2026-11-17T15:22:38.432Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.546Z"
+    verified_at: "2026-11-17T15:22:38.432Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

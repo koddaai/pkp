@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/coa01243122-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/coa01243122/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/fones-de-ouvido-sem-fio/pontas-auriculares-e-fones-de-reposicao/coa01243122/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG COA01243122. Click for pictures, reviews, and tech specs for the LG Capa de silicone utilizado para proteção dos ouvidos Fone LG HBS-FN4 - COA01243122."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.512Z"
+  updated_at: "2026-11-17T15:22:38.394Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.512Z"
+    verified_at: "2026-11-17T15:22:38.394Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.512Z"
+    verified_at: "2026-11-17T15:22:38.394Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

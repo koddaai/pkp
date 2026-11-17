@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr86268922-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/ebr86268922/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ebr86268922/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos Próprio para uso em maquina de lavar roupa"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1381.81
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.675Z"
+  updated_at: "2026-11-17T15:22:38.561Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.675Z"
+    verified_at: "2026-11-17T15:22:38.561Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.675Z"
+    verified_at: "2026-11-17T15:22:38.561Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

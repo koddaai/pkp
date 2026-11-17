@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay65149301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay65149301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay65149301/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAY65149301. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG 55NANO79SND, 55UL3G-B, 55UM7470PSA - EAY65149301."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 590.59
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.604Z"
+  updated_at: "2026-11-17T15:22:38.490Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.604Z"
+    verified_at: "2026-11-17T15:22:38.490Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.604Z"
+    verified_at: "2026-11-17T15:22:38.490Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

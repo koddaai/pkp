@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/5214en3042x-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/5214en3042x/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/lavadoras/mangueiras-e-conectores/5214en3042x/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 5214EN3042X. Click for pictures, reviews, and tech specs for the LG Mangueira Máquina de Lavar Roupa LG CV9011EC4 5214EN3042X."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.49
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.366Z"
+  updated_at: "2026-11-17T15:22:38.243Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.366Z"
+    verified_at: "2026-11-17T15:22:38.243Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.366Z"
+    verified_at: "2026-11-17T15:22:38.243Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

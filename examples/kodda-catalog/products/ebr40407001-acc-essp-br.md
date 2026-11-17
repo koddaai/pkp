@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr40407001-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-audio/peca-de-reposicao/ebr40407001/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr40407001/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa de circuito impresso do display Montada com componentes eletroeletrônicos Próprio para uso em rádio com reprodutor de áudio no formato digital"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 312.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.637Z"
+  updated_at: "2026-11-17T15:22:38.521Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.637Z"
+    verified_at: "2026-11-17T15:22:38.521Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.637Z"
+    verified_at: "2026-11-17T15:22:38.521Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mea41163001-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Suporte do Motor Ar Condicionado LG LTNC400SU MEA41163001 - MEA41163001"
+name: "Suporte do Motor Ar Condicionado LG LTNC400SU MEA41163001 - MEA41163001 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mea41163001-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/mea41163001/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mea41163001/"
 
 # === DESCOBERTA (L0) ===
 summary: "Suporte do Motor Ar Condicionado LG LTNC400SU MEA41163001"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.05
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.226Z"
+  updated_at: "2026-11-17T15:22:38.628Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.226Z"
+    verified_at: "2026-11-17T15:22:38.628Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.226Z"
+    verified_at: "2026-11-17T15:22:38.628Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-13
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478677005
 ---
 

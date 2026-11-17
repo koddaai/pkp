@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/adp67813503-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adp67813503/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adp67813503/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ADP67813503. Clique para ver imagens, análises e especificações técnicas da LG Hélice do ventilador Ar Condicionado LG ASNQ092B4A0, ASNQ092BRW0, ASNQ092BRZ0 - ADP67813503"
+summary: "Get more information on the LG ADP67813503. Click for pictures, reviews, and tech specs for the LG Hélice do ventilador Ar Condicionado LG ASNQ092B4A0, ASNQ092BRW0, ASNQ092BRZ0 - ADP67813503."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 322.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.433Z"
+  updated_at: "2026-11-17T15:22:38.314Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.433Z"
+    verified_at: "2026-11-17T15:22:38.314Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.433Z"
+    verified_at: "2026-11-17T15:22:38.314Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ADP67813503. Clique para ver imagens, análises e especificações técnicas da LG Hélice do ventilador Ar Condicionado LG ASNQ092B4A0, ASNQ092BRW0, ASNQ092BRZ0 - ADP67813503
+Get more information on the LG ADP67813503. Click for pictures, reviews, and tech specs for the LG Hélice do ventilador Ar Condicionado LG ASNQ092B4A0, ASNQ092BRW0, ASNQ092BRZ0 - ADP67813503.

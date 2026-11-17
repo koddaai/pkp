@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ajq74954101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/ajq74954101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ajq74954101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AJQ74954101. Click for pictures, reviews, and tech specs for the LG Conjunto tambor de lavagem de aço inox Lavadora LG CV9011EC4, CV3011WG4A, CV5010TS4 - AJQ74954101."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 892.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.488Z"
+  updated_at: "2026-11-17T15:22:38.368Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.488Z"
+    verified_at: "2026-11-17T15:22:38.368Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.488Z"
+    verified_at: "2026-11-17T15:22:38.368Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

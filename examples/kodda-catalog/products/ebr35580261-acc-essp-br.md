@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr35580261-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/ebr35580261/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/ebr35580261/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBR35580261. Click for pictures, reviews, and tech specs for the LG Placa Principal Refrigerador LG GCL257SLP1 EBR35580261."
+summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1692.39
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.633Z"
+  updated_at: "2026-11-17T15:22:38.517Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.633Z"
+    verified_at: "2026-11-17T15:22:38.517Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.633Z"
+    verified_at: "2026-11-17T15:22:38.517Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBR35580261. Click for pictures, reviews, and tech specs for the LG Placa Principal Refrigerador LG GCL257SLP1 EBR35580261.
+Placa de circuito impresso principal Montada com componentes eletroeletrônicos

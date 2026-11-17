@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebg61325805-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebg61325805/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebg61325805/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBG61325805. Click for pictures, reviews, and tech specs for the LG Termistor (NTC) Ar Condicionado LG AMNH09GTUC0, AMNH12GTUC0, AMNW18GTTC0 - EBG61325805."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.622Z"
+  updated_at: "2026-11-17T15:22:38.505Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.622Z"
+    verified_at: "2026-11-17T15:22:38.505Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.622Z"
+    verified_at: "2026-11-17T15:22:38.505Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

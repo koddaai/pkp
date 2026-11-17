@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akq72909001-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/akq72909001/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/akq72909001/"
 
 # === DESCOBERTA (L0) ===
 summary: "Eixo de comando, utilizado para acionar uma polia que irá transmitir a rotação para os demais componentes em um motor de pistão de ignicao por centelha."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 903.64
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.508Z"
+  updated_at: "2026-11-17T15:22:38.390Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.508Z"
+    verified_at: "2026-11-17T15:22:38.390Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.508Z"
+    verified_at: "2026-11-17T15:22:38.390Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

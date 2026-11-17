@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/akb75675305-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/monitors/others/akb75675305/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/controle-remoto/akb75675305/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AKB75675305. Clique para ver imagens, avaliações e especificações técnicas do controle remoto para monitores LG."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AKB75675305. Click for pictures, reviews, and tech specs for the LG Controle remoto para monitor."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 77.89
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.503Z"
+  updated_at: "2026-11-17T15:22:38.384Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.503Z"
+    verified_at: "2026-11-17T15:22:38.384Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.503Z"
+    verified_at: "2026-11-17T15:22:38.384Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o AKB75675305. Clique para ver imagens, avaliações e especificações técnicas do controle remoto para monitores LG.
+Get more information on the LG AKB75675305. Click for pictures, reviews, and tech specs for the LG Controle remoto para monitor.

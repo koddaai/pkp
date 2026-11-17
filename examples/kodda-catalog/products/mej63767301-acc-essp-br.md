@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mej63767301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/mej63767301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mej63767301/"
 
 # === DESCOBERTA (L0) ===
 summary: "Tubo de borracha vulcanizada não endurecida"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.746Z"
+  updated_at: "2026-11-17T15:22:38.632Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.746Z"
+    verified_at: "2026-11-17T15:22:38.632Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.746Z"
+    verified_at: "2026-11-17T15:22:38.632Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

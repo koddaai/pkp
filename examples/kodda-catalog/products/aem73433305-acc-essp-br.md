@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aem73433305-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/aem73433305/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/lavadoras/mangueiras-e-conectores/aem73433305/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AEM73433305. Click for pictures, reviews, and tech specs for the LG Mangueira de entrada de água Lavadora LG WD-14312RDA - AEM73433305."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.445Z"
+  updated_at: "2026-11-17T15:22:38.328Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.445Z"
+    verified_at: "2026-11-17T15:22:38.328Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.445Z"
+    verified_at: "2026-11-17T15:22:38.328Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

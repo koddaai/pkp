@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mea65310602-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mea65310602/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mea65310602/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MEA65310602. Click for pictures, reviews, and tech specs for the LG Suporte lateral do tubo de ventilação Ar Condicionado LG LP1419IVSM - MEA65310602."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 303.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.743Z"
+  updated_at: "2026-11-17T15:22:38.629Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.743Z"
+    verified_at: "2026-11-17T15:22:38.629Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.743Z"
+    verified_at: "2026-11-17T15:22:38.629Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

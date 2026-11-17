@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu66103904-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu66103904/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu66103904/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBU66103904. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 50UN7310PSC, 50UN731C0SC, 50NANO79SND - EBU66103904."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 616.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.702Z"
+  updated_at: "2026-11-17T15:22:38.587Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.702Z"
+    verified_at: "2026-11-17T15:22:38.587Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.702Z"
+    verified_at: "2026-11-17T15:22:38.587Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

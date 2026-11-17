@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "4620er4002b-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Calço antiderrapante de borracha para lavadoras de roupas (para piso de madeira) - 4620ER4002B | LG BR"
+name: "Calço antiderrapante de borracha para lavadoras de roupas LG - 4620ER4002B | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/4620er4002b-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/washing-machines/others/4620er4002b/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/lavadoras/outros-acessorios/4620er4002b/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 4620ER4002B. Click for pictures, reviews, and tech specs for the LG Calço antiderrapante de borracha para lavadoras de roupas LG."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 52.44
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.353Z"
+  updated_at: "2026-11-17T15:22:38.229Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.353Z"
+    verified_at: "2026-11-17T15:22:38.229Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.353Z"
+    verified_at: "2026-11-17T15:22:38.229Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acg76344517-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Serpentina Condensadora Ar Condicionado LG ACG76344517 - ACG76344517"
+name: "Serpentina Condensadora Ar Condicionado LG ACG76344517 - ACG76344517 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/acg76344517-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/acg76344517/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/acg76344517/"
 
 # === DESCOBERTA (L0) ===
 summary: "Serpentina Condensadora Ar Condicionado LG ACG76344517"
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1927.55
+  value: 1850.45
   source: "retailer"
-  updated_at: "2026-11-06T00:46:27.345Z"
+  updated_at: "2026-11-17T15:22:38.301Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.345Z"
+    verified_at: "2026-11-17T15:22:38.301Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-06T00:46:27.345Z"
+    verified_at: "2026-11-17T15:22:38.301Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-06
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478675257
 ---
 

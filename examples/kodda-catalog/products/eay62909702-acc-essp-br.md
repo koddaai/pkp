@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/eay62909702-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/soundbar-speakers/adapter-power-cord/eay62909702/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/adaptadores-e-cabos-de-alimentacao/eay62909702/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre a EAY62909702. Clique para ver imagens, análises e especificações técnicas do Adaptador CA para LG Sound Bar. (25 V, 2 A, 50 W, cabo de alimentação não incluído, preto)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAY62909702. Click for pictures, reviews, and tech specs for the LG Adaptador CA para Sound Bar (25 V, 2 A, 50 W, cabo de alimentação não incluído, preto)."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.597Z"
+  updated_at: "2026-11-17T15:22:38.483Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.597Z"
+    verified_at: "2026-11-17T15:22:38.483Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.597Z"
+    verified_at: "2026-11-17T15:22:38.483Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre a EAY62909702. Clique para ver imagens, análises e especificações técnicas do Adaptador CA para LG Sound Bar. (25 V, 2 A, 50 W, cabo de alimentação não incluído, preto).
+Get more information on the LG EAY62909702. Click for pictures, reviews, and tech specs for the LG Adaptador CA para Sound Bar (25 V, 2 A, 50 W, cabo de alimentação não incluído, preto).

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aba73168201-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aba73168201/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aba73168201/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ABA73168201. Click for pictures, reviews, and tech specs for the LG Suporte Metálico Ar Condicionado LG ASNW092HDW0, A2UW18GFAC, A4UW30GFA - ABA73168201."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.411Z"
+  updated_at: "2026-11-17T15:22:38.292Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.411Z"
+    verified_at: "2026-11-17T15:22:38.292Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.411Z"
+    verified_at: "2026-11-17T15:22:38.292Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

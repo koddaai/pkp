@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eat62093301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eat62093301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eat62093301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAT62093301. Clique para ver imagens, análises e especificações técnicas da LG Módulo Wi Fi Bluetooth LG 50PB690B - EAT62093301"
+summary: "Get more information on the LG EAT62093301. Click for pictures, reviews, and tech specs for the LG Módulo Wi Fi Bluetooth LG 50PB690B - EAT62093301."
 tags: ["lg", "bluetooth"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 147.71
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.584Z"
+  updated_at: "2026-11-17T15:22:38.469Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.584Z"
+    verified_at: "2026-11-17T15:22:38.469Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.584Z"
+    verified_at: "2026-11-17T15:22:38.469Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAT62093301. Clique para ver imagens, análises e especificações técnicas da LG Módulo Wi Fi Bluetooth LG 50PB690B - EAT62093301
+Get more information on the LG EAT62093301. Click for pictures, reviews, and tech specs for the LG Módulo Wi Fi Bluetooth LG 50PB690B - EAT62093301.

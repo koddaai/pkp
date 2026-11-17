@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau61504904-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor Refrigerador LG GR-B631GLQ EAU61504904 - EAU61504904"
+name: "Motor Refrigerador LG GR-B631GLQ EAU61504904 - EAU61504904 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eau61504904-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/acessorio/eau61504904/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/eau61504904/"
 
 # === DESCOBERTA (L0) ===
 summary: "Motor Refrigerador LG GR-B631GLQ EAU61504904"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.551Z"
+  updated_at: "2026-11-17T15:22:38.477Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.551Z"
+    verified_at: "2026-11-17T15:22:38.477Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.551Z"
+    verified_at: "2026-11-17T15:22:38.477Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-14
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478676198
 ---
 

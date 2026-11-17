@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr76306602-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr76306602/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebr76306602/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR76306602. Click for pictures, reviews, and tech specs for the LG Placa controle TV LG 50PN4500, 60PH670H-SA, 50PH4700-SD - EBR76306602."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.647Z"
+  updated_at: "2026-11-17T15:22:38.530Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.647Z"
+    verified_at: "2026-11-17T15:22:38.530Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.647Z"
+    verified_at: "2026-11-17T15:22:38.530Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

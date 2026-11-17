@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adl76081101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adl76081101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adl76081101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ADL76081101. Click for pictures, reviews, and tech specs for the LG Serpentina evaporadora Ar Condicionado LG S4NW36R43FA - ADL76081101."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1186.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.432Z"
+  updated_at: "2026-11-17T15:22:38.313Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.432Z"
+    verified_at: "2026-11-17T15:22:38.313Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.432Z"
+    verified_at: "2026-11-17T15:22:38.313Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

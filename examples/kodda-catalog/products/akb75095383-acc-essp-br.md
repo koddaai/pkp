@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "akb75095383-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Controle remoto Monitor LG AKB75095383 - AKB75095383 | LG BR"
+category: "monitors"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "AKB75095383.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/akb75095383-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/pecas-e-acessorios/digital-signage/outros-acessorios/akb75095383/"
+
+# === DESCOBERTA (L0) ===
+summary: "Get more information on the LG AKB75095383. Click for pictures, reviews, and tech specs for the LG Controle remoto Monitor LG AKB75095383."
+tags: ["lg"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 64.74
+  source: "retailer"
+  updated_at: "2026-11-17T15:22:38.382Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=46836315671&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-11-17T15:22:38.382Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-11-17T15:22:38.382Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-11-17
+# aw_product_id: 46836315671
+---
+
+## Descricao
+
+Get more information on the LG AKB75095383. Click for pictures, reviews, and tech specs for the LG Controle remoto Monitor LG AKB75095383.

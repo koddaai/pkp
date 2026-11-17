@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/tcg37268501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/tcg37268501/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/tcg37268501/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG TCG37268501. Click for pictures, reviews, and tech specs for the LG Alto Falante com Caixa Acústica Mini System LG CL98.ABRALLK - TCG37268501."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3248.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.786Z"
+  updated_at: "2026-11-17T15:22:38.678Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.786Z"
+    verified_at: "2026-11-17T15:22:38.678Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.786Z"
+    verified_at: "2026-11-17T15:22:38.678Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mdx64192704-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/mdx64192704/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mdx64192704/"
 
 # === DESCOBERTA (L0) ===
 summary: "Grade da Hélice Ar Condicionado LG ASUW092WSA0 MDX64192704"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.743Z"
+  updated_at: "2026-11-17T15:22:38.628Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.743Z"
+    verified_at: "2026-11-17T15:22:38.628Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.743Z"
+    verified_at: "2026-11-17T15:22:38.628Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

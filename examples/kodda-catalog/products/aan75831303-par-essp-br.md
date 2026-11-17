@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/aan75831303-par-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/aan75831303-par/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/aan75831303-par/"
 
 # === DESCOBERTA (L0) ===
-summary: "Par de Base (Pedestal) TV LG 43Uj6565 AAN75831303"
+summary: "Get more information on the LG AAN75831303.PAR. Click for pictures, reviews, and tech specs for the LG Par de Base (Pedestal) TV LG 43Uj6565 AAN75831303 e AAN75831304."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 131.75
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.404Z"
+  updated_at: "2026-11-17T15:22:38.283Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.404Z"
+    verified_at: "2026-11-17T15:22:38.283Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.404Z"
+    verified_at: "2026-11-17T15:22:38.283Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Par de Base (Pedestal)  TV LG 43Uj6565 AAN75831303
+Get more information on the LG AAN75831303.PAR. Click for pictures, reviews, and tech specs for the LG Par de Base (Pedestal)  TV LG 43Uj6565 AAN75831303 e AAN75831304.

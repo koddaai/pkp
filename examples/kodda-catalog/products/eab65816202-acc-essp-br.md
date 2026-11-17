@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eab65816202-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eab65816202/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eab65816202/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAB65816202. Clique para ver imagens, análises e especificações técnicas da LG Alto falante full range TV LG 55UP7750PSB, 55UQ801C0SB - EAB65816202"
+summary: "Get more information on the LG EAB65816202. Click for pictures, reviews, and tech specs for the LG Alto falante full range TV LG 55UP7750PSB, 55UQ801C0SB - EAB65816202."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.529Z"
+  updated_at: "2026-11-17T15:22:38.412Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.529Z"
+    verified_at: "2026-11-17T15:22:38.412Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.529Z"
+    verified_at: "2026-11-17T15:22:38.412Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAB65816202. Clique para ver imagens, análises e especificações técnicas da LG Alto falante full range TV LG 55UP7750PSB, 55UQ801C0SB - EAB65816202
+Get more information on the LG EAB65816202. Click for pictures, reviews, and tech specs for the LG Alto falante full range TV LG 55UP7750PSB, 55UQ801C0SB - EAB65816202.

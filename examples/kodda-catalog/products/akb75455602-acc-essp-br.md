@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "akb75455602-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Controle Magic Remote para TV série 2013 a 2016 - AKB75455602 | LG BR"
+name: "Controle Remoto Magic TV LG série 2013 a 2016 AKB75455602 - AKB75455602 | LG BR"
 category: "tvs"
 
 
@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/akb75455602-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/tvs/remote-controller/akb75455602/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/controle-remoto/akb75455602/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AKB75455602. Clique para ver fotos, avaliações e especificações técnicas do controle Magic Remote para LG TV série 2013 a 2016."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AKB75455602. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic TV LG série 2013 a 2016 AKB75455602."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 148.82
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.502Z"
+  updated_at: "2026-11-17T15:22:38.383Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.502Z"
+    verified_at: "2026-11-17T15:22:38.383Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.502Z"
+    verified_at: "2026-11-17T15:22:38.383Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o AKB75455602. Clique para ver fotos, avaliações e especificações técnicas do controle Magic Remote para LG TV série 2013 a 2016.
+Get more information on the LG AKB75455602. Click for pictures, reviews, and tech specs for the LG Controle Remoto Magic TV LG série 2013 a 2016 AKB75455602.

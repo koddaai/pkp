@@ -5,8 +5,8 @@ sku: "agf79600801-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Cabide de Plástico LG Styler S3WFBN AGF79600801 - AGF79600801 | LG BR"
-category: "eletrodomesticos"
-subcategory: "lavadora"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 162.54
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.469Z"
+  updated_at: "2026-11-17T15:22:38.349Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.469Z"
+    verified_at: "2026-11-17T15:22:38.349Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.469Z"
+    verified_at: "2026-11-17T15:22:38.349Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

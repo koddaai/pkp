@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agm73171801-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Acessório antiderrapante Máquina de Lavar LG WM1317RD7 AGM73171801 - AGM73171801 | LG BR"
+name: "Acessório antiderrapante com 2 unidades Lavadora LG AGM73171801 - AGM73171801 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agm73171801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/agm73171801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/lavadoras/outros-acessorios/agm73171801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGM73171801. Click for pictures, reviews, and tech specs for the LG Acessório antiderrapante com 2 unidades Lavadora LG AGM73171801."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.473Z"
+  updated_at: "2026-11-17T15:22:38.354Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.473Z"
+    verified_at: "2026-11-17T15:22:38.354Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.473Z"
+    verified_at: "2026-11-17T15:22:38.354Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

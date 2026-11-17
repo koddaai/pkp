@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/maz65045704-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/maz65045704/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/maz65045704/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MAZ65045704. Click for pictures, reviews, and tech specs for the LG Suporte metálico para fixação do motor Ar Condicionado LG ASUW122BRG2, S4UQ09WA5AD, S4UQ12JA314 - MAZ65045704."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.734Z"
+  updated_at: "2026-11-17T15:22:38.619Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.734Z"
+    verified_at: "2026-11-17T15:22:38.619Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.734Z"
+    verified_at: "2026-11-17T15:22:38.619Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

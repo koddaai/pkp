@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/acm73079231-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/acm73079231/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/acm73079231/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ACM73079231. Click for pictures, reviews, and tech specs for the LG Sensor controle do descongelamento do freezer Refrigerador LG LG-R64, GR-B333WLRU - ACM73079231."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 165.98
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.420Z"
+  updated_at: "2026-11-17T15:22:38.301Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.420Z"
+    verified_at: "2026-11-17T15:22:38.301Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.420Z"
+    verified_at: "2026-11-17T15:22:38.301Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

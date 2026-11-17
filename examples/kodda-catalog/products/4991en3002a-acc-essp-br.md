@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/4991en3002a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/4991en3002a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/lavadoras/mangueiras-e-conectores/4991en3002a/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 4991EN3002A. Click for pictures, reviews, and tech specs for the LG Suporte plástico para mangueira Lavadora LG WD-1485TDA - 4991EN3002A."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.362Z"
+  updated_at: "2026-11-17T15:22:38.238Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.362Z"
+    verified_at: "2026-11-17T15:22:38.238Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.362Z"
+    verified_at: "2026-11-17T15:22:38.238Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

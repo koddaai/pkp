@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr82278557-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr82278557/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebr82278557/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBR82278557. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3UW18KL31A EBR82278557."
+summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para ar condicionado"
 tags: ["lg", "8k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 968.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.660Z"
+  updated_at: "2026-11-17T15:22:38.546Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.660Z"
+    verified_at: "2026-11-17T15:22:38.546Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.660Z"
+    verified_at: "2026-11-17T15:22:38.546Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBR82278557. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S3UW18KL31A EBR82278557.
+Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para ar condicionado

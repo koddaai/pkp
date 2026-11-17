@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/6871a20096n-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/6871a20096n/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/6871a20096n/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 6871A20096N. Clique para ver imagens, análises e especificações técnicas da LG Placa do display Ar Condicionado LG - PT-HJA, PT-HJC, PT-HLA 6871A20096N"
+summary: "Get more information on the LG 6871A20096N. Click for pictures, reviews, and tech specs for the LG Placa do display Ar Condicionado LG - PT-HJA, PT-HJC, PT-HLA 6871A20096N."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.390Z"
+  updated_at: "2026-11-17T15:22:38.269Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.390Z"
+    verified_at: "2026-11-17T15:22:38.269Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.390Z"
+    verified_at: "2026-11-17T15:22:38.269Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 6871A20096N. Clique para ver imagens, análises e especificações técnicas da LG Placa do display Ar Condicionado LG - PT-HJA, PT-HJC, PT-HLA 6871A20096N
+Get more information on the LG 6871A20096N. Click for pictures, reviews, and tech specs for the LG Placa do display Ar Condicionado LG - PT-HJA, PT-HJC, PT-HLA 6871A20096N.

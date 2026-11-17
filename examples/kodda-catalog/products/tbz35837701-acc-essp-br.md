@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/tbz35837701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/tbz35837701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/tbz35837701/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG TBZ35837701. Click for pictures, reviews, and tech specs for the LG Compressor JBA068M Ar Condicionado LG RPUW120X9S, ARWN160LAS4, ARWN180LAS4 - TBZ35837701."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 12949.64
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.779Z"
+  updated_at: "2026-11-17T15:22:38.671Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.779Z"
+    verified_at: "2026-11-17T15:22:38.671Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.779Z"
+    verified_at: "2026-11-17T15:22:38.671Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

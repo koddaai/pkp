@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr80820305-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr80820305/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebr80820305/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR80820305. Click for pictures, reviews, and tech specs for the LG Placa comunicação Ar Condicionado LG ARNU30GSVA4, ARNH04GK2A4, ARNH10GK2A4 - EBR80820305."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 360.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.657Z"
+  updated_at: "2026-11-17T15:22:38.542Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.657Z"
+    verified_at: "2026-11-17T15:22:38.542Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.657Z"
+    verified_at: "2026-11-17T15:22:38.542Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

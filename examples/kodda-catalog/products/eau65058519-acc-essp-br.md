@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau65058519-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor de corrente contínua Refrigerador LG GT44BPP1 - EAU63923603 - EAU65058519 | LG BR"
+name: "Motor de corrente contínua Refrigerador LG GT44BPP1 EAU65058519 - EAU65058519 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eau65058519-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/eau65058519/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/eau65058519/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAU65058519. Clique para ver imagens, análises e especificações técnicas da LG Motor de corrente contínua Refrigerador LG GT44BPP1 - EAU63923603"
+summary: "Get more information on the LG EAU65058519. Click for pictures, reviews, and tech specs for the LG Motor de corrente contínua Refrigerador LG GT44BPP1 EAU65058519."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.596Z"
+  updated_at: "2026-11-17T15:22:38.481Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.596Z"
+    verified_at: "2026-11-17T15:22:38.481Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.596Z"
+    verified_at: "2026-11-17T15:22:38.481Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAU65058519. Clique para ver imagens, análises e especificações técnicas da LG Motor de corrente contínua Refrigerador LG GT44BPP1 - EAU63923603
+Get more information on the LG EAU65058519. Click for pictures, reviews, and tech specs for the LG Motor de corrente contínua Refrigerador LG GT44BPP1 EAU65058519.

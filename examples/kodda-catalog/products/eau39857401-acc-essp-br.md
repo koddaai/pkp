@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eau39857401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/eau39857401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eau39857401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAU39857401. Clique para ver imagens, análises e especificações técnicas da LG Motor de corrente contínua Ar Condicionado LG URNU96GB8A2, ARNU76GB8Z2, ARNU76GB8Z4 - EAU39857401"
+summary: "Get more information on the LG EAU39857401. Click for pictures, reviews, and tech specs for the LG Motor de corrente contínua Ar Condicionado LG URNU96GB8A2, ARNU76GB8Z2, ARNU76GB8Z4 - EAU39857401."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1464.21
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.588Z"
+  updated_at: "2026-11-17T15:22:38.474Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.588Z"
+    verified_at: "2026-11-17T15:22:38.474Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.588Z"
+    verified_at: "2026-11-17T15:22:38.474Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAU39857401. Clique para ver imagens, análises e especificações técnicas da LG Motor de corrente contínua Ar Condicionado LG URNU96GB8A2, ARNU76GB8Z2, ARNU76GB8Z4 - EAU39857401
+Get more information on the LG EAU39857401. Click for pictures, reviews, and tech specs for the LG Motor de corrente contínua Ar Condicionado LG URNU96GB8A2, ARNU76GB8Z2, ARNU76GB8Z4 - EAU39857401.

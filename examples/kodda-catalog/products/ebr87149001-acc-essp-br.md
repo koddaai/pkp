@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr87149001-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr87149001/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebr87149001/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR87149001. Click for pictures, reviews, and tech specs for the LG Placa receptor de controle remoto TV LG 43LM6300PSB - EBR87149001."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 89.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.678Z"
+  updated_at: "2026-11-17T15:22:38.564Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.678Z"
+    verified_at: "2026-11-17T15:22:38.564Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.678Z"
+    verified_at: "2026-11-17T15:22:38.564Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

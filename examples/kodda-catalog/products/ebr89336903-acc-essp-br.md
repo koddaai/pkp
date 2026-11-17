@@ -5,7 +5,7 @@ sku: "ebr89336903-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa Principal Mini System LG CL87 - EBR89336903 - EBR89336903  | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr89336903-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-e-audio/ebr89336903/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr89336903/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal Mini System LG CL87 - EBR89336903"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 806.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.689Z"
+  updated_at: "2026-11-17T15:22:38.573Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.689Z"
+    verified_at: "2026-11-17T15:22:38.573Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.689Z"
+    verified_at: "2026-11-17T15:22:38.573Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

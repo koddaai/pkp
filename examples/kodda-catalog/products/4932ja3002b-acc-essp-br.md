@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/4932ja3002b-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/4932ja3002b/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/4932ja3002b/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 4932JA3002B. Click for pictures, reviews, and tech specs for the LG Conexão para tubo Refrigerador LG GR-P277BTBA, GC-J257CSFS, GC-L216BSK - 4932JA3002B."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.06
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.360Z"
+  updated_at: "2026-11-17T15:22:38.237Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.360Z"
+    verified_at: "2026-11-17T15:22:38.237Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.360Z"
+    verified_at: "2026-11-17T15:22:38.237Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

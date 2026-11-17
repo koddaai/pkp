@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr88277912-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr88277912/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebr88277912/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBR88277912. Click for pictures, reviews, and tech specs for the LG Placa Secundária Ar Condicionado LG A3UW24GFA3 EBR88277912."
+summary: "Placa de circuito impresso secundária Montada com componentes eletroeletrônicos Para ar condicionado"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 445.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.683Z"
+  updated_at: "2026-11-17T15:22:38.568Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.683Z"
+    verified_at: "2026-11-17T15:22:38.568Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.683Z"
+    verified_at: "2026-11-17T15:22:38.568Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBR88277912. Click for pictures, reviews, and tech specs for the LG Placa Secundária Ar Condicionado LG A3UW24GFA3 EBR88277912.
+Placa de circuito impresso secundária Montada com componentes eletroeletrônicos Para ar condicionado

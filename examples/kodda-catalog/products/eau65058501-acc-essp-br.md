@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau65058501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor Refrigerador LG GC-X257CSHS EAU65058501 - EAU65058501"
+name: "Motor Refrigerador LG GC-X257CSHS EAU65058501 - EAU65058501 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eau65058501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/acessorio/eau65058501/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/eau65058501/"
 
 # === DESCOBERTA (L0) ===
 summary: "Motor Refrigerador LG GC-X257CSHS EAU65058501"
@@ -27,15 +27,15 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 184.04
+  value: 193.26
   source: "retailer"
-  updated_at: "2026-03-13T20:34:35.787Z"
+  updated_at: "2026-11-17T15:22:38.481Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=43478676223&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=46836315703&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-13T20:34:35.787Z"
+    verified_at: "2026-11-17T15:22:38.481Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-03-13T20:34:35.787Z"
+    verified_at: "2026-11-17T15:22:38.481Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,8 +55,8 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-03-13
-# aw_product_id: 43478676223
+# Data de importacao: 2026-11-17
+# aw_product_id: 46836315703
 ---
 
 ## Descricao

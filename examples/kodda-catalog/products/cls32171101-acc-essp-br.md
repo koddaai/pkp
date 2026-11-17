@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/cls32171101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/cls32171101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/cls32171101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Vela de ignição para motor de pistão alternativo, de ignição por centelha (faísca), para bombas de calor do tipo GHP (gas heat pump)"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 357.83
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.512Z"
+  updated_at: "2026-11-17T15:22:38.393Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.512Z"
+    verified_at: "2026-11-17T15:22:38.393Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.512Z"
+    verified_at: "2026-11-17T15:22:38.393Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

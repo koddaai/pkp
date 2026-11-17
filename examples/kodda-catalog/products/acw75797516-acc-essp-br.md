@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/acw75797516-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acw75797516/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/acw75797516/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ACW75797516. Clique para ver imagens, análises e especificações técnicas da LG Tampa evaporadora Ar Condicionad LG S4NW09JARXA, S4NW12JARXB, S4NW12JARXB - ACW75797516"
+summary: "Get more information on the LG ACW75797516. Click for pictures, reviews, and tech specs for the LG Tampa evaporadora Ar Condicionad LG S4NW09JARXA, S4NW12JARXB, S4NW12JARXB - ACW75797516."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.425Z"
+  updated_at: "2026-11-17T15:22:38.305Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.425Z"
+    verified_at: "2026-11-17T15:22:38.305Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.425Z"
+    verified_at: "2026-11-17T15:22:38.305Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ACW75797516. Clique para ver imagens, análises e especificações técnicas da LG Tampa evaporadora Ar Condicionad LG S4NW09JARXA, S4NW12JARXB, S4NW12JARXB - ACW75797516
+Get more information on the LG ACW75797516. Click for pictures, reviews, and tech specs for the LG Tampa evaporadora Ar Condicionad LG S4NW09JARXA, S4NW12JARXB, S4NW12JARXB - ACW75797516.

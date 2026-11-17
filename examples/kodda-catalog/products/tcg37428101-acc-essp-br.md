@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/tcg37428101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/tcg37428101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/tcg37428101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG TCG37428101 Click for pictures, reviews, and tech specs for the LG Par de Alto Falante com Caixa Acústica Mini System LG CL65.ABRALLK - TCG37428101"
+summary: "Get more information on the LG TCG37428101. Click for pictures, reviews, and tech specs for the LG Par de Alto Falante com Caixa Acústica Mini System LG CL65.ABRALLK - TCG37428101."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 864.39
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.786Z"
+  updated_at: "2026-11-17T15:22:38.679Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.786Z"
+    verified_at: "2026-11-17T15:22:38.679Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.786Z"
+    verified_at: "2026-11-17T15:22:38.679Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG TCG37428101 Click for pictures, reviews, and tech specs for the LG Par de Alto Falante com Caixa Acústica Mini System LG CL65.ABRALLK - TCG37428101
+Get more information on the LG TCG37428101. Click for pictures, reviews, and tech specs for the LG Par de Alto Falante com Caixa Acústica Mini System LG CL65.ABRALLK - TCG37428101.

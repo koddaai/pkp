@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mff60185702-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mff60185702/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mff60185702/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MFF60185702. Clique para ver imagens, análises e especificações técnicas da LG Conexão vertical das aletas Ar Condicionado LG USNQ182CSG3 - MFF60185702"
+summary: "Get more information on the LG MFF60185702. Click for pictures, reviews, and tech specs for the LG Conexão vertical das aletas Ar Condicionado LG USNQ182CSG3 - MFF60185702."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.747Z"
+  updated_at: "2026-11-17T15:22:38.633Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.747Z"
+    verified_at: "2026-11-17T15:22:38.633Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.747Z"
+    verified_at: "2026-11-17T15:22:38.633Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MFF60185702. Clique para ver imagens, análises e especificações técnicas da LG Conexão vertical das aletas Ar Condicionado LG USNQ182CSG3 - MFF60185702
+Get more information on the LG MFF60185702. Click for pictures, reviews, and tech specs for the LG Conexão vertical das aletas Ar Condicionado LG USNQ182CSG3 - MFF60185702.

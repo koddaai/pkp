@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/6600jb2005c-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/6600jb2005c/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/6600jb2005c/"
 
 # === DESCOBERTA (L0) ===
 summary: "Chave push Não automática 250V PS201C-E"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.388Z"
+  updated_at: "2026-11-17T15:22:38.266Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.388Z"
+    verified_at: "2026-11-17T15:22:38.266Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.388Z"
+    verified_at: "2026-11-17T15:22:38.266Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/tcg36628329-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/tcg36628329/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/tcg36628329/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG TCG36628329. Click for pictures, reviews, and tech specs for the LG Par de Alto Falante com Caixa Acústica Mini System LG CJ44.ABRALLK - TCG36628329."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 512.06
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.785Z"
+  updated_at: "2026-11-17T15:22:38.677Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.785Z"
+    verified_at: "2026-11-17T15:22:38.677Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.785Z"
+    verified_at: "2026-11-17T15:22:38.677Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

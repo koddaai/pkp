@@ -4,8 +4,8 @@ schema: pkp/1.0
 sku: "ebr86340501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa fonte Mini System LG CK43 - EBR86340501 - EBR86340501 | LG BR"
-category: "tvs"
+name: "Placa Fonte Mini System LG CK43 EBR86340501 - EBR86340501 | LG BR"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr86340501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr86340501/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr86340501/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR86340501. Clique para ver imagens, análises e especificações técnicas da LG Placa fonte Mini System LG CK43 - EBR86340501"
+summary: "Get more information on the LG EBR86340501. Click for pictures, reviews, and tech specs for the LG Placa Fonte Mini System LG CK43 EBR86340501."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 217.56
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.676Z"
+  updated_at: "2026-11-17T15:22:38.562Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.676Z"
+    verified_at: "2026-11-17T15:22:38.562Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.676Z"
+    verified_at: "2026-11-17T15:22:38.562Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR86340501. Clique para ver imagens, análises e especificações técnicas da LG Placa fonte Mini System LG CK43 - EBR86340501
+Get more information on the LG EBR86340501. Click for pictures, reviews, and tech specs for the LG Placa Fonte Mini System LG CK43 EBR86340501.

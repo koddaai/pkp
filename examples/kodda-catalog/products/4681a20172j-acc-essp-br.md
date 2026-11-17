@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/4681a20172j-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/4681a20172j/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/4681a20172j/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 4681A20172J. Click for pictures, reviews, and tech specs for the LG Motor de corrente contínua Ar Condicionado LG LTNH482MLE0, ARNU36GTNA4, ARNU36GTNC4 - 4681A20172J."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 901.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.355Z"
+  updated_at: "2026-11-17T15:22:38.230Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.355Z"
+    verified_at: "2026-11-17T15:22:38.230Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.355Z"
+    verified_at: "2026-11-17T15:22:38.230Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

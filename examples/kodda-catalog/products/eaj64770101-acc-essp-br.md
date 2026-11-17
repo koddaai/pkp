@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/eaj64770101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eaj64770101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj64770101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ64770101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido BA TV LG 43LJ5500 EAJ64770101."
-tags: ["lg"]
+summary: "Peça para reparo do módulo LCD (BA) Módulo de visualização de tela (Ecrã), plana, modelo: LC430DUJ-SHA3, de 43 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido Não contém demais peças do módulo completo (régua de LED, moldura e refletores)"
+tags: ["lg", "ai"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1234.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.559Z"
+  updated_at: "2026-11-17T15:22:38.445Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.559Z"
+    verified_at: "2026-11-17T15:22:38.445Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.559Z"
+    verified_at: "2026-11-17T15:22:38.445Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 43
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAJ64770101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido BA TV LG 43LJ5500 EAJ64770101.
+Peça para reparo do módulo LCD (BA) Módulo de visualização de tela (Ecrã), plana, modelo: LC430DUJ-SHA3, de 43 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido Não contém demais peças do módulo completo (régua de LED, moldura e refletores)

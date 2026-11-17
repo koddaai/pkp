@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mdj64984703-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/air-conditioners/filter/mdj64984703/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/ar-condicionado/filtros/mdj64984703/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MDJ64984703. Click for pictures, reviews, and tech specs for the LG Pre-Filter para ar-condicionado de parede."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.739Z"
+  updated_at: "2026-11-17T15:22:38.625Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.739Z"
+    verified_at: "2026-11-17T15:22:38.625Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.739Z"
+    verified_at: "2026-11-17T15:22:38.625Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

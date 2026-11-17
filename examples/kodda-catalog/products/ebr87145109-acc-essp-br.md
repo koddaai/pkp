@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr87145109-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal Refrigerador LG GS65SDN EBR87145109 - EBR87145109"
+name: "Placa Principal Refrigerador LG GS65SDN EBR87145109 - EBR87145109 | LG BR"
 category: "eletrodomesticos"
 subcategory: "refrigerador"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr87145109-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/acessorio/ebr87145109/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/ebr87145109/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal Refrigerador LG GS65SDN EBR87145109"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1517.23
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.654Z"
+  updated_at: "2026-11-17T15:22:38.564Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.654Z"
+    verified_at: "2026-11-17T15:22:38.564Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.654Z"
+    verified_at: "2026-11-17T15:22:38.564Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-14
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478676720
 ---
 

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr40303101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr40303101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr40303101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal Torre de Som LG XBOOM LG RNC7 EBR40303101"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 702.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.637Z"
+  updated_at: "2026-11-17T15:22:38.520Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.637Z"
+    verified_at: "2026-11-17T15:22:38.520Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.637Z"
+    verified_at: "2026-11-17T15:22:38.520Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

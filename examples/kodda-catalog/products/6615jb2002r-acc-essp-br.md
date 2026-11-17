@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/6615jb2002r-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/6615jb2002r/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/6615jb2002r/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 6615JB2002R. Click for pictures, reviews, and tech specs for the LG Sensor de degelo Refrigerador Side by Side LG LR-26TDT1, LR-21SPT, LR-21SPT2 - 6615JB2002R."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 165.98
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.389Z"
+  updated_at: "2026-11-17T15:22:38.268Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.389Z"
+    verified_at: "2026-11-17T15:22:38.268Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.389Z"
+    verified_at: "2026-11-17T15:22:38.268Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

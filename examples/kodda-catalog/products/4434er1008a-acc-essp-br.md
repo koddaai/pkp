@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/4434er1008a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/4434er1008a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/4434er1008a/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 4434ER1008A. Click for pictures, reviews, and tech specs for the LG Eixo Lava e Seca LG WD-1403RD5, WD-1409FD, WD-1410RD5 - 4434ER1008A."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 548.78
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.351Z"
+  updated_at: "2026-11-17T15:22:38.227Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.351Z"
+    verified_at: "2026-11-17T15:22:38.227Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.351Z"
+    verified_at: "2026-11-17T15:22:38.227Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

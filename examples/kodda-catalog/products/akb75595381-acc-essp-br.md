@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb75595381-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/akb75595381/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/controle-remoto/akb75595381/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB75595381. Click for pictures, reviews, and tech specs for the LG Controle Remoto Sound Bar LG SN8YG.ABRALLK - AKB75595381."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 64.74
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.502Z"
+  updated_at: "2026-11-17T15:22:38.384Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.502Z"
+    verified_at: "2026-11-17T15:22:38.384Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.502Z"
+    verified_at: "2026-11-17T15:22:38.384Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

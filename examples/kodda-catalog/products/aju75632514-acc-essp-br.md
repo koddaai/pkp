@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aju75632514-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/aju75632514/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/aju75632514/"
 
 # === DESCOBERTA (L0) ===
 summary: "Válvula distribuidora de água 1 via Montada com suporte"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 430.8
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.494Z"
+  updated_at: "2026-11-17T15:22:38.375Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.494Z"
+    verified_at: "2026-11-17T15:22:38.375Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.494Z"
+    verified_at: "2026-11-17T15:22:38.375Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

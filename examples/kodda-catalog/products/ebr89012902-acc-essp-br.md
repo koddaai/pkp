@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr89012902-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr89012902/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr89012902/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR89012902. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Caixa de Som Portátil LG PL5W - EBR89012902"
+summary: "Get more information on the LG EBR89012902. Click for pictures, reviews, and tech specs for the LG Placa principal Caixa de Som Portátil LG PL5W - EBR89012902."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 307.78
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.687Z"
+  updated_at: "2026-11-17T15:22:38.571Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.687Z"
+    verified_at: "2026-11-17T15:22:38.571Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.687Z"
+    verified_at: "2026-11-17T15:22:38.571Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR89012902. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Caixa de Som Portátil LG PL5W - EBR89012902
+Get more information on the LG EBR89012902. Click for pictures, reviews, and tech specs for the LG Placa principal Caixa de Som Portátil LG PL5W - EBR89012902.

@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eac63918501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eac63918501/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/eac63918501/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAC63918501. Clique para ver imagens, análises e especificações técnicas da LG Bateria Caixa de Som Bluetooth LG PK3 - EAC63918501"
+summary: "Bateria Caixa de Som Bluetooth LG PK3 - EAC63918501"
 tags: ["lg", "bluetooth", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.531Z"
+  updated_at: "2026-11-17T15:22:38.414Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.531Z"
+    verified_at: "2026-11-17T15:22:38.414Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.531Z"
+    verified_at: "2026-11-17T15:22:38.414Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAC63918501. Clique para ver imagens, análises e especificações técnicas da LG Bateria Caixa de Som Bluetooth LG PK3 - EAC63918501
+Bateria Caixa de Som Bluetooth LG PK3 - EAC63918501

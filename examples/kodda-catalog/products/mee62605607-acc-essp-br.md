@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mee62605607-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/mee62605607/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/mee62605607/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MEE62605607. Clique para ver imagens, análises e especificações técnicas da LG Resistência de aquecimento do degelo Refrigerador LG GC-L247SLU1, GC-X247CQB1, GS65SDN1 - MEE62605607"
+summary: "Get more information on the LG MEE62605607. Click for pictures, reviews, and tech specs for the LG Resistência de aquecimento do degelo Refrigerador LG GC-L247SLU1, GC-X247CQB1, GS65SDN1 - MEE62605607."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 532.99
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.744Z"
+  updated_at: "2026-11-17T15:22:38.630Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.744Z"
+    verified_at: "2026-11-17T15:22:38.630Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.744Z"
+    verified_at: "2026-11-17T15:22:38.630Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MEE62605607. Clique para ver imagens, análises e especificações técnicas da LG Resistência de aquecimento do degelo Refrigerador LG GC-L247SLU1, GC-X247CQB1, GS65SDN1 - MEE62605607
+Get more information on the LG MEE62605607. Click for pictures, reviews, and tech specs for the LG Resistência de aquecimento do degelo Refrigerador LG GC-L247SLU1, GC-X247CQB1, GS65SDN1 - MEE62605607.

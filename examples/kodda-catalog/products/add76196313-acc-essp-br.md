@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/add76196313-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/add76196313/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/add76196313/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ADD76196313. Clique para ver imagens, análises e especificações técnicas da LG Porta do freezer Refrigerador LG GC-L247SLUV - ADD76196313"
+summary: "Get more information on the LG ADD76196313. Click for pictures, reviews, and tech specs for the LG Porta do freezer Refrigerador LG GC-L247SLUV - ADD76196313."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3877.73
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.426Z"
+  updated_at: "2026-11-17T15:22:38.307Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.426Z"
+    verified_at: "2026-11-17T15:22:38.307Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.426Z"
+    verified_at: "2026-11-17T15:22:38.307Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ADD76196313. Clique para ver imagens, análises e especificações técnicas da LG Porta do freezer Refrigerador LG GC-L247SLUV - ADD76196313
+Get more information on the LG ADD76196313. Click for pictures, reviews, and tech specs for the LG Porta do freezer Refrigerador LG GC-L247SLUV - ADD76196313.

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf30102401-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Kit régua de LED TV LG 65UP7750PSB AGF30102401 - AGF30102401"
+name: "Kit régua de LED TV LG 65UP7750PSB AGF30102401 - AGF30102401 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agf30102401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/agf30102401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agf30102401/"
 
 # === DESCOBERTA (L0) ===
 summary: "Contém 08 barras de LED Quantidade de LED por barra: 07 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 306.94
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.325Z"
+  updated_at: "2026-11-17T15:22:38.335Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.325Z"
+    verified_at: "2026-11-17T15:22:38.335Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.325Z"
+    verified_at: "2026-11-17T15:22:38.335Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-05
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478675424
 ---
 

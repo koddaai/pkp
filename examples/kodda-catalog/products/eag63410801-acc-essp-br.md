@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eag63410801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eag63410801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/eag63410801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAG63410801. Click for pictures, reviews, and tech specs for the LG Conector RCA Mini System LG CM9730-AB, CM9740-AB, CM9940 - EAG63410801."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.552Z"
+  updated_at: "2026-11-17T15:22:38.438Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.552Z"
+    verified_at: "2026-11-17T15:22:38.438Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.552Z"
+    verified_at: "2026-11-17T15:22:38.438Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

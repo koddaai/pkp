@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr36146728-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/ebr36146728/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/ebr36146728/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR36146728. Click for pictures, reviews, and tech specs for the LG Placa Principal Refrigerador LG GCB569NLLM EBR36146728."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1483.86
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.634Z"
+  updated_at: "2026-11-17T15:22:38.518Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.634Z"
+    verified_at: "2026-11-17T15:22:38.518Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.634Z"
+    verified_at: "2026-11-17T15:22:38.518Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

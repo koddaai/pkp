@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mfh62023605-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/mfh62023605/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mfh62023605/"
 
 # === DESCOBERTA (L0) ===
-summary: "Aleta horizontal da unidade evaporadora De plástico Para unidade evaporadora"
+summary: "Get more information on the LG MFH62023605. Click for pictures, reviews, and tech specs for the LG Aleta Horizontal Ar Condicionado LG TSNH072W4A0 MFH62023605."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 117.65
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.748Z"
+  updated_at: "2026-11-17T15:22:38.634Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.748Z"
+    verified_at: "2026-11-17T15:22:38.634Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.748Z"
+    verified_at: "2026-11-17T15:22:38.634Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Aleta horizontal da unidade evaporadora De plástico Para unidade evaporadora
+Get more information on the LG MFH62023605. Click for pictures, reviews, and tech specs for the LG Aleta Horizontal Ar Condicionado LG TSNH072W4A0 MFH62023605.

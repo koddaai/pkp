@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr79266506-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr79266506/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebr79266506/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBR79266506. Click for pictures, reviews, and tech specs for the LG Placa Eeprom Ar Condicionado LG EBR79266506."
+summary: "Placa de circuito impresso eeprom"
 tags: ["lg", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 79
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.653Z"
+  updated_at: "2026-11-17T15:22:38.539Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.653Z"
+    verified_at: "2026-11-17T15:22:38.539Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.653Z"
+    verified_at: "2026-11-17T15:22:38.539Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBR79266506. Click for pictures, reviews, and tech specs for the LG Placa Eeprom Ar Condicionado LG EBR79266506.
+Placa de circuito impresso eeprom

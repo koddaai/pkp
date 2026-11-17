@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/6871a20712a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/6871a20712a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/6871a20712a/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 6871A20712A. Click for pictures, reviews, and tech specs for the LG Placa sub Ar Condicionado LG ARNU28GTPC2, ARNH04GK3A2, ARNH08GK3A2 - 6871A20712A."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 208.85
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.392Z"
+  updated_at: "2026-11-17T15:22:38.270Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.392Z"
+    verified_at: "2026-11-17T15:22:38.270Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.392Z"
+    verified_at: "2026-11-17T15:22:38.270Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

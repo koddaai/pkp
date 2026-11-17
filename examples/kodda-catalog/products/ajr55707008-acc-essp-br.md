@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ajr55707008-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ajr55707008/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ajr55707008/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AJR55707008. Click for pictures, reviews, and tech specs for the LG Válvula expansão Ar Condicionado LG ARNU07GTUB4, ARNU09GTUB4, ARNU12GTUA4 - AJR55707008."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 350.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.488Z"
+  updated_at: "2026-11-17T15:22:38.369Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.488Z"
+    verified_at: "2026-11-17T15:22:38.369Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.488Z"
+    verified_at: "2026-11-17T15:22:38.369Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/adl75241219-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adl75241219/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adl75241219/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ADL75241219. Clique para ver imagens, análises e especificações técnicas da LG Serpentina Evaporadora Ar Condicionado LG S4NW24K231E, S4NW24K23XE, S4NW24K2RXE - ADL75241219"
+summary: "Serpentina Evaporadora Ar Condicionado LG S4NW24K231E, S4NW24K23XE, S4NW24K2RXE - ADL75241219"
 tags: ["lg", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1196.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.431Z"
+  updated_at: "2026-11-17T15:22:38.312Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.431Z"
+    verified_at: "2026-11-17T15:22:38.312Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.431Z"
+    verified_at: "2026-11-17T15:22:38.312Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ADL75241219. Clique para ver imagens, análises e especificações técnicas da LG Serpentina Evaporadora Ar Condicionado LG S4NW24K231E, S4NW24K23XE, S4NW24K2RXE - ADL75241219
+Serpentina Evaporadora Ar Condicionado LG S4NW24K231E, S4NW24K23XE, S4NW24K2RXE - ADL75241219

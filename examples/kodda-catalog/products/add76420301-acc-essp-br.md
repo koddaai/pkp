@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/add76420301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/add76420301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/add76420301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG ADD76420301. Click for pictures, reviews, and tech specs for the LG Porta Secundária Refrigerador LG - ADD76420301."
+summary: "Porta Secundária Refrigerador LG - ADD76420301"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2918.51
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.427Z"
+  updated_at: "2026-11-17T15:22:38.308Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.427Z"
+    verified_at: "2026-11-17T15:22:38.308Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.427Z"
+    verified_at: "2026-11-17T15:22:38.308Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG ADD76420301. Click for pictures, reviews, and tech specs for the LG Porta Secundária Refrigerador LG - ADD76420301.
+Porta Secundária Refrigerador LG - ADD76420301

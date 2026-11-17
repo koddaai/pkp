@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eau61003102-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/eau61003102/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eau61003102/"
 
 # === DESCOBERTA (L0) ===
 summary: "Para unidade evaporadora,Motor elétrico de corrente contínua Potência 1.1W, de passo, 7.5 graus, carcaca fechada, 12V, 92mA."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 306.76
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.591Z"
+  updated_at: "2026-11-17T15:22:38.476Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.591Z"
+    verified_at: "2026-11-17T15:22:38.476Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.591Z"
+    verified_at: "2026-11-17T15:22:38.476Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

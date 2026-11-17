@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr34242301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr34242301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr34242301/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR34242301. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Soundbar LG SP8A - EBR34242301"
+summary: "Get more information on the LG EBR34242301. Click for pictures, reviews, and tech specs for the LG Placa principal Soundbar LG SP8A - EBR34242301."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1248.95
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.633Z"
+  updated_at: "2026-11-17T15:22:38.517Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.633Z"
+    verified_at: "2026-11-17T15:22:38.517Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.633Z"
+    verified_at: "2026-11-17T15:22:38.517Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR34242301. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Soundbar LG SP8A - EBR34242301
+Get more information on the LG EBR34242301. Click for pictures, reviews, and tech specs for the LG Placa principal Soundbar LG SP8A - EBR34242301.

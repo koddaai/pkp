@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eau63563101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/eau63563101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eau63563101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAU63563101. Clique para ver imagens, análises e especificações técnicas da LG Motor de corrente contínua Ar Condicionado LG AVNQ36GM1A0, ARNU18GV1A4, ARNU24GV1A4 - EAU63563101"
+summary: "Get more information on the LG EAU63563101. Click for pictures, reviews, and tech specs for the LG Motor de corrente contínua Ar Condicionado LG AVNQ36GM1A0, ARNU18GV1A4, ARNU24GV1A4 - EAU63563101."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 683.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.595Z"
+  updated_at: "2026-11-17T15:22:38.480Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.595Z"
+    verified_at: "2026-11-17T15:22:38.480Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.595Z"
+    verified_at: "2026-11-17T15:22:38.480Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAU63563101. Clique para ver imagens, análises e especificações técnicas da LG Motor de corrente contínua Ar Condicionado LG AVNQ36GM1A0, ARNU18GV1A4, ARNU24GV1A4 - EAU63563101
+Get more information on the LG EAU63563101. Click for pictures, reviews, and tech specs for the LG Motor de corrente contínua Ar Condicionado LG AVNQ36GM1A0, ARNU18GV1A4, ARNU24GV1A4 - EAU63563101.

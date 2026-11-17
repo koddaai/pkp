@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aem73612905-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/aem73612905/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/lavadoras/mangueiras-e-conectores/aem73612905/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AEM73612905. Click for pictures, reviews, and tech specs for the LG Mangueira de entrada d'água Lavadora LG AEM73612905."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.445Z"
+  updated_at: "2026-11-17T15:22:38.329Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.445Z"
+    verified_at: "2026-11-17T15:22:38.329Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.445Z"
+    verified_at: "2026-11-17T15:22:38.329Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

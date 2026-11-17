@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr88910712-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios/pecas-e-acessorios-lavanderia/ebr88910712/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ebr88910712/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal Máquina de Lavar Roupas LG - EBR88910712"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 958.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.686Z"
+  updated_at: "2026-11-17T15:22:38.571Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.686Z"
+    verified_at: "2026-11-17T15:22:38.571Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.686Z"
+    verified_at: "2026-11-17T15:22:38.571Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

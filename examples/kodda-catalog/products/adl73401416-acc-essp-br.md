@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adl73401416-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adl73401416/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adl73401416/"
 
 # === DESCOBERTA (L0) ===
 summary: "Serpentina evaporadora Ar Condicionado LG - ADL73401416"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 968.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.430Z"
+  updated_at: "2026-11-17T15:22:38.310Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.430Z"
+    verified_at: "2026-11-17T15:22:38.310Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.430Z"
+    verified_at: "2026-11-17T15:22:38.310Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

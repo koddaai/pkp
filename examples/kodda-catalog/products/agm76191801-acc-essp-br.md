@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/agm76191801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/agm76191801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agm76191801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AGM76191801. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 43UK6520PSA AGM76191801."
+summary: "Contém 03 barras de LED Quantidade de LED por barra: 08 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.476Z"
+  updated_at: "2026-11-17T15:22:38.356Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.476Z"
+    verified_at: "2026-11-17T15:22:38.356Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.476Z"
+    verified_at: "2026-11-17T15:22:38.356Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AGM76191801. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 43UK6520PSA AGM76191801.
+Contém 03 barras de LED Quantidade de LED por barra: 08 Placa de circuito impresso de iluminação LED, com função de backlight, montada com componentes eletroeletrônicos, para dispositivo de cristal líquido com tecnologia LED Kit completo para reposição das barras de LED internas do display

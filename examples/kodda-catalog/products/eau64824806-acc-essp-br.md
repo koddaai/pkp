@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eau64824806-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/eau64824806/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/eau64824806/"
 
 # === DESCOBERTA (L0) ===
 summary: "Motor de corrente contínua Carcaça fechada Potência 2,7W 1,97K RMP Montado com hélice de plástico"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 227.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.595Z"
+  updated_at: "2026-11-17T15:22:38.481Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.595Z"
+    verified_at: "2026-11-17T15:22:38.481Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.595Z"
+    verified_at: "2026-11-17T15:22:38.481Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

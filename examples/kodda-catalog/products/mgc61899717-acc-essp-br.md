@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mgc61899717-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mgc61899717/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mgc61899717/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MGC61899717. Clique para ver imagens, análises e especificações técnicas da LG Painel Frontal Ar Condicionado LG A2UW18GFAC, A4UW30GFA2, A5UW36GFA2 - MGC61899717"
+summary: "Painel Frontal Ar Condicionado LG A2UW18GFAC, A4UW30GFA2, A5UW36GFA2 - MGC61899717"
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.752Z"
+  updated_at: "2026-11-17T15:22:38.638Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.752Z"
+    verified_at: "2026-11-17T15:22:38.638Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.752Z"
+    verified_at: "2026-11-17T15:22:38.638Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MGC61899717. Clique para ver imagens, análises e especificações técnicas da LG Painel Frontal Ar Condicionado LG A2UW18GFAC, A4UW30GFA2, A5UW36GFA2 -  MGC61899717
+Painel Frontal Ar Condicionado LG A2UW18GFAC, A4UW30GFA2, A5UW36GFA2 -  MGC61899717

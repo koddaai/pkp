@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eap65270704-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Bobina Reatância Ar Condicionado LG A2UW18GFA2 EAP65270704 - EAP65270704"
+name: "Bobina Reatância Ar Condicionado LG A2UW18GFA2 EAP65270704 - EAP65270704 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eap65270704-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/eap65270704/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eap65270704/"
 
 # === DESCOBERTA (L0) ===
 summary: "Bobina Reatância Ar Condicionado LG A2UW18GFA2 EAP65270704"
@@ -27,15 +27,15 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 360.05
+  value: 288.04
   source: "retailer"
-  updated_at: "2026-08-10T20:41:02.345Z"
+  updated_at: "2026-11-17T15:22:38.468Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=43478676142&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=46836315701&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.345Z"
+    verified_at: "2026-11-17T15:22:38.468Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-10T20:41:02.345Z"
+    verified_at: "2026-11-17T15:22:38.468Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,8 +55,8 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-10
-# aw_product_id: 43478676142
+# Data de importacao: 2026-11-17
+# aw_product_id: 46836315701
 ---
 
 ## Descricao

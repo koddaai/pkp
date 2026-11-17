@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adp72912103-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adp72912103/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adp72912103/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ADP72912103. Click for pictures, reviews, and tech specs for the LG Hélice plástica do ventilador Ar Condicionado LG TSNH072W4A0, TSNH072W4A0, USNC072W4W0 - ADP72912103."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 331.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.434Z"
+  updated_at: "2026-11-17T15:22:38.314Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.434Z"
+    verified_at: "2026-11-17T15:22:38.314Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.434Z"
+    verified_at: "2026-11-17T15:22:38.314Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

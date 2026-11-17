@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aha36804305-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aha36804305/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aha36804305/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AHA36804305. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Ar Condicionado LG AMNW09GTUC0, AMNW12GTUC0, AMNW18GTTC0 - AHA36804305."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 208.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.481Z"
+  updated_at: "2026-11-17T15:22:38.361Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.481Z"
+    verified_at: "2026-11-17T15:22:38.361Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.481Z"
+    verified_at: "2026-11-17T15:22:38.361Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

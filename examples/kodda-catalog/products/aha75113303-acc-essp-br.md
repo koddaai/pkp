@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aha75113303-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aha75113303/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aha75113303/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AHA75113303. Click for pictures, reviews, and tech specs for the LG Bomba Ar Condicionado LG AMNW24GTPA1, ATNW48GMLP0 - AHA75113303."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 540.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.482Z"
+  updated_at: "2026-11-17T15:22:38.362Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.482Z"
+    verified_at: "2026-11-17T15:22:38.362Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.482Z"
+    verified_at: "2026-11-17T15:22:38.362Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

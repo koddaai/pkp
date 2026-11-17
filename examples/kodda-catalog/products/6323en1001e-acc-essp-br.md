@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/6323en1001e-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/6323en1001e/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/6323en1001e/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 6323EN1001E. Click for pictures, reviews, and tech specs for the LG Sensor de temperatura (NTC) Lava e Seca LG WD-1485AD, WD-C1485AD, WD1485AT7 - 6323EN1001E."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.94
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.383Z"
+  updated_at: "2026-11-17T15:22:38.261Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.383Z"
+    verified_at: "2026-11-17T15:22:38.261Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.383Z"
+    verified_at: "2026-11-17T15:22:38.261Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

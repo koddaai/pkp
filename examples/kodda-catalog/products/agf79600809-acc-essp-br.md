@@ -5,8 +5,8 @@ sku: "agf79600809-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Cabide de Plástico LG Styler S3MFBN AGF79600809 - AGF79600809 | LG BR"
-category: "eletrodomesticos"
-subcategory: "lavadora"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/agf79600809-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/acessorio/agf79600809/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/styler/cabides-e-prateleiras/agf79600809/"
 
 # === DESCOBERTA (L0) ===
-summary: "Cabide de Plástico LG Styler S3MFBN AGF79600809"
+summary: "Get more information on the LG AGF79600809. Click for pictures, reviews, and tech specs for the LG Cabide de Plástico LG Styler S3MFBN AGF79600809."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 179.54
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.469Z"
+  updated_at: "2026-11-17T15:22:38.349Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.469Z"
+    verified_at: "2026-11-17T15:22:38.349Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.469Z"
+    verified_at: "2026-11-17T15:22:38.349Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Cabide de Plástico LG Styler S3MFBN AGF79600809
+Get more information on the LG AGF79600809. Click for pictures, reviews, and tech specs for the LG Cabide de Plástico LG Styler S3MFBN AGF79600809.

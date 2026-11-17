@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aeb75504701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aeb75504701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aeb75504701/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AEB75504701. Click for pictures, reviews, and tech specs for the LG Gabinete da unidade evaporadora Ar Condicionado LG S4NW18KLRPA, S4NW18KLRXC, S4NW24K2RXD - AEB75504701."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 890.19
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.442Z"
+  updated_at: "2026-11-17T15:22:38.326Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.442Z"
+    verified_at: "2026-11-17T15:22:38.326Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.442Z"
+    verified_at: "2026-11-17T15:22:38.326Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

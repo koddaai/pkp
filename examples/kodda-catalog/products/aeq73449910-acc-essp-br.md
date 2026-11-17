@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/aeq73449910-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/aeq73449910/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/aeq73449910/"
 
 # === DESCOBERTA (L0) ===
-summary: "Unidade de fabricação de gelo com bandeja Para aparelho refrigerador LG"
+summary: "Get more information on the LG AEQ73449910. Click for pictures, reviews, and tech specs for the LG Fabricador de Gelo Refrigerador LG GCX257CSHS AEQ73449910."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1167.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.446Z"
+  updated_at: "2026-11-17T15:22:38.330Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.446Z"
+    verified_at: "2026-11-17T15:22:38.330Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.446Z"
+    verified_at: "2026-11-17T15:22:38.330Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Unidade de fabricação de gelo com bandeja Para aparelho refrigerador LG
+Get more information on the LG AEQ73449910. Click for pictures, reviews, and tech specs for the LG Fabricador de Gelo Refrigerador LG GCX257CSHS AEQ73449910.

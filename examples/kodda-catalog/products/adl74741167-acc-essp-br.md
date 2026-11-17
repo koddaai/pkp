@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adl74741167-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/adl74741167/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adl74741167/"
 
 # === DESCOBERTA (L0) ===
 summary: "Trocador de calor da unidade evaporadora (evaporador)"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1923.41
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.431Z"
+  updated_at: "2026-11-17T15:22:38.312Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.431Z"
+    verified_at: "2026-11-17T15:22:38.312Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.431Z"
+    verified_at: "2026-11-17T15:22:38.312Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

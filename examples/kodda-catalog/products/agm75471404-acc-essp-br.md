@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agm75471404-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/agm75471404/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/agm75471404/"
 
 # === DESCOBERTA (L0) ===
 summary: "Conjunto tubo externo em polipropileno com acessórios"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 789.24
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.474Z"
+  updated_at: "2026-11-17T15:22:38.354Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.474Z"
+    verified_at: "2026-11-17T15:22:38.354Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.474Z"
+    verified_at: "2026-11-17T15:22:38.354Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

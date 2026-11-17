@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adp73513403-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adp73513403/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adp73513403/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ADP73513403. Click for pictures, reviews, and tech specs for the LG Hélice plástica do ventilador Ar Condicionado LG - AMNW24GSKA0, AMNW18GSKA0, AMNW24GSKR0 - ADP73513403."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 607.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.434Z"
+  updated_at: "2026-11-17T15:22:38.318Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.434Z"
+    verified_at: "2026-11-17T15:22:38.318Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.434Z"
+    verified_at: "2026-11-17T15:22:38.318Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

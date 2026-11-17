@@ -4,9 +4,9 @@ schema: pkp/1.0
 sku: "4738er1002a-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo Máquina Lavar Roupas LG WD-13436RD 4738ER1002A - 4738ER1002A"
-category: "eletrodomesticos"
-subcategory: "lavadora"
+name: "Tubo Máquina Lavar Roupas LG WD-13436RD 4738ER1002A - 4738ER1002A | LG BR"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/4738er1002a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/acessorio/4738er1002a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/4738er1002a/"
 
 # === DESCOBERTA (L0) ===
 summary: "Tubo Máquina Lavar Roupas LG WD-13436RD 4738ER1002A"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-04T00:23:52.319Z"
+  updated_at: "2026-11-17T15:22:38.233Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.319Z"
+    verified_at: "2026-11-17T15:22:38.233Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-04T00:23:52.319Z"
+    verified_at: "2026-11-17T15:22:38.233Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-04
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478674913
 ---
 

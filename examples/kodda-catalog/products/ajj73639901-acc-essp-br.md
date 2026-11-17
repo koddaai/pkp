@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajj73639901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Condutor Isolado Ar Condicionado LG ARUN180LTE4 AJJ73639901 - AJJ73639901"
+name: "Condutor Isolado Ar Condicionado LG ARUN180LTE4 AJJ73639901 - AJJ73639901 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ajj73639901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/ajj73639901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ajj73639901/"
 
 # === DESCOBERTA (L0) ===
 summary: "Condutor Isolado Ar Condicionado LG ARUN180LTE4 AJJ73639901"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-05T00:44:28.354Z"
+  updated_at: "2026-11-17T15:22:38.366Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.354Z"
+    verified_at: "2026-11-17T15:22:38.366Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-05T00:44:28.354Z"
+    verified_at: "2026-11-17T15:22:38.366Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-05
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478675592
 ---
 

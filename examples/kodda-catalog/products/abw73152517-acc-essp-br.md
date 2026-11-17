@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/abw73152517-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/abw73152517/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/abw73152517/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ABW73152517. Click for pictures, reviews, and tech specs for the LG Chassis Ar condicionado LG S4NW09WA5WA, S4NQ09WA51A, S4NQ09WA51C - ABW73152517 ."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.415Z"
+  updated_at: "2026-11-17T15:22:38.296Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.415Z"
+    verified_at: "2026-11-17T15:22:38.296Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.415Z"
+    verified_at: "2026-11-17T15:22:38.296Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

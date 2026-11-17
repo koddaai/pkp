@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mck38263703-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/mck38263703/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/mck38263703/"
 
 # === DESCOBERTA (L0) ===
 summary: "Tubo plástico parte frontal em polipropileno"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 107.77
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.736Z"
+  updated_at: "2026-11-17T15:22:38.621Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.736Z"
+    verified_at: "2026-11-17T15:22:38.621Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.736Z"
+    verified_at: "2026-11-17T15:22:38.621Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

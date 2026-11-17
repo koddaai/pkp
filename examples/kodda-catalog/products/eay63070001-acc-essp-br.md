@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/eay63070001-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/tvs/adapter-power-cord/eay63070001/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/adaptadores-e-cabos-de-alimentacao/eay63070001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre a EAY63070001. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa para LG TV (24 V, 3,42 A, cabo de alimentação não incluído, preto)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAY63070001. Click for pictures, reviews, and tech specs for the LG Fonte de alimentação externa para TV (24 V, 3,42 A, cabo de alimentação não incluído, preto)."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 217.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.600Z"
+  updated_at: "2026-11-17T15:22:38.485Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.600Z"
+    verified_at: "2026-11-17T15:22:38.485Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.600Z"
+    verified_at: "2026-11-17T15:22:38.485Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre a EAY63070001. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa para LG TV (24 V, 3,42 A, cabo de alimentação não incluído, preto).
+Get more information on the LG EAY63070001. Click for pictures, reviews, and tech specs for the LG Fonte de alimentação externa para TV (24 V, 3,42 A, cabo de alimentação não incluído, preto).

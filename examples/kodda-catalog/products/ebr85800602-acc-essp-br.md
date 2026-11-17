@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr85800602-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr85800602/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr85800602/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR85800602. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Audio System LG CK43 - EBR85800602"
+summary: "Get more information on the LG EBR85800602. Click for pictures, reviews, and tech specs for the LG Placa principal Audio System LG CK43 - EBR85800602."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 360.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.671Z"
+  updated_at: "2026-11-17T15:22:38.558Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.671Z"
+    verified_at: "2026-11-17T15:22:38.558Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.671Z"
+    verified_at: "2026-11-17T15:22:38.558Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR85800602. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Audio System LG CK43 - EBR85800602
+Get more information on the LG EBR85800602. Click for pictures, reviews, and tech specs for the LG Placa principal Audio System LG CK43 - EBR85800602.

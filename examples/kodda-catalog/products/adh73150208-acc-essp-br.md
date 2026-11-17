@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/adh73150208-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/adh73150208/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/adh73150208/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ADH73150208. Clique para ver imagens, análises e especificações técnicas da LG Filtro secador Refrigerador LG GR-P247CSP - ADH73150208"
+summary: "Get more information on the LG ADH73150208. Click for pictures, reviews, and tech specs for the LG Filtro secador Refrigerador LG GR-P247CSP - ADH73150208."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 98.37
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.427Z"
+  updated_at: "2026-11-17T15:22:38.308Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.427Z"
+    verified_at: "2026-11-17T15:22:38.308Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.427Z"
+    verified_at: "2026-11-17T15:22:38.308Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ADH73150208. Clique para ver imagens, análises e especificações técnicas da LG Filtro secador Refrigerador LG GR-P247CSP - ADH73150208
+Get more information on the LG ADH73150208. Click for pictures, reviews, and tech specs for the LG Filtro secador Refrigerador LG GR-P247CSP - ADH73150208.

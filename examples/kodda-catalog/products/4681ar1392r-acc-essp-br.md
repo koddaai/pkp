@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/4681ar1392r-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/4681ar1392r/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/4681ar1392r/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 4681AR1392R. Click for pictures, reviews, and tech specs for the LG Motor Ar Condicionado LG LSUC182TNM0 4681AR1392R."
+summary: "Motor de corrente alternada Assíncrono Monofásico Carcaça fechada 45W 900RPM Distância da base do motor até o centro do eixo de 58mm"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 227.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.356Z"
+  updated_at: "2026-11-17T15:22:38.231Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.356Z"
+    verified_at: "2026-11-17T15:22:38.231Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.356Z"
+    verified_at: "2026-11-17T15:22:38.231Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 4681AR1392R. Click for pictures, reviews, and tech specs for the LG Motor Ar Condicionado LG LSUC182TNM0 4681AR1392R.
+Motor de corrente alternada  Assíncrono  Monofásico Carcaça fechada 45W 900RPM Distância da base do motor até o centro do eixo de 58mm

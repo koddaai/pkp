@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mhw61841105-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/mhw61841105/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/mhw61841105/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MHW61841105. Clique para ver imagens, análises e especificações técnicas da LG Suporte para fixação do tambor ao motor Máquina de Lavar Roupa LG WD1316AD7, WD1316ADA7 - MHW61841105"
+summary: "Get more information on the LG MHW61841105. Click for pictures, reviews, and tech specs for the LG Suporte para fixação do tambor ao motor Máquina de Lavar Roupa LG WD1316AD7, WD1316ADA7 - MHW61841105."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 683.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.755Z"
+  updated_at: "2026-11-17T15:22:38.640Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.755Z"
+    verified_at: "2026-11-17T15:22:38.640Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.755Z"
+    verified_at: "2026-11-17T15:22:38.640Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MHW61841105. Clique para ver imagens, análises e especificações técnicas da LG Suporte para fixação do tambor ao motor Máquina de Lavar Roupa LG WD1316AD7, WD1316ADA7 - MHW61841105
+Get more information on the LG MHW61841105. Click for pictures, reviews, and tech specs for the LG Suporte para fixação do tambor ao motor Máquina de Lavar Roupa LG WD1316AD7, WD1316ADA7 - MHW61841105.

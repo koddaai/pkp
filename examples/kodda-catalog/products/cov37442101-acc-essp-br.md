@@ -5,7 +5,7 @@ sku: "cov37442101-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Caneta Touch Lousa Digital LG 65TR3DKB COV37442101 - COV37442101 | LG BR"
-category: "monitors"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/cov37442101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/cov37442101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/digital-signage/outros-acessorios/cov37442101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Caneta Touch Lousa Digital LG 65TR3DKB COV37442101"
+summary: "Get more information on the LG COV37442101. Click for pictures, reviews, and tech specs for the LG Caneta Touch Lousa Digital LG 65TR3DKB COV37442101."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.514Z"
+  updated_at: "2026-11-17T15:22:38.396Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.514Z"
+    verified_at: "2026-11-17T15:22:38.396Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.514Z"
+    verified_at: "2026-11-17T15:22:38.396Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Caneta Touch Lousa Digital LG 65TR3DKB COV37442101
+Get more information on the LG COV37442101. Click for pictures, reviews, and tech specs for the LG Caneta Touch Lousa Digital LG 65TR3DKB COV37442101.

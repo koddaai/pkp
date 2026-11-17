@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj64108001-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj64108001/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj64108001/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAJ64108001. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG EAJ64108001."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1709.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.557Z"
+  updated_at: "2026-11-17T15:22:38.443Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.557Z"
+    verified_at: "2026-11-17T15:22:38.443Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.557Z"
+    verified_at: "2026-11-17T15:22:38.443Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

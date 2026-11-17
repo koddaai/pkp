@@ -5,8 +5,8 @@ sku: "ebr84446202-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa fonte Caixa de Som LG OK99 - EBR84446202 - EBR84446202 | LG BR"
-category: "tvs"
-
+category: "audio"
+subcategory: "speaker"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr84446202-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr84446202/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr84446202/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR84446202. Clique para ver imagens, análises e especificações técnicas da LG Placa fonte Caixa de Som LG OK99 - EBR84446202"
+summary: "Get more information on the LG EBR84446202. Click for pictures, reviews, and tech specs for the LG Placa fonte Caixa de Som LG OK99 - EBR84446202."
 tags: ["lg", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 521.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.668Z"
+  updated_at: "2026-11-17T15:22:38.554Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.668Z"
+    verified_at: "2026-11-17T15:22:38.554Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.668Z"
+    verified_at: "2026-11-17T15:22:38.554Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR84446202. Clique para ver imagens, análises e especificações técnicas da LG Placa fonte Caixa de Som LG OK99 - EBR84446202
+Get more information on the LG EBR84446202. Click for pictures, reviews, and tech specs for the LG Placa fonte Caixa de Som LG OK99 - EBR84446202.

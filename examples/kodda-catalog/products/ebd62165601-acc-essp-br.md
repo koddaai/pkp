@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebd62165601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebd62165601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebd62165601/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBD62165601. Click for pictures, reviews, and tech specs for the LG Sensor de pressão Ar Condicionado LG CRUN120LLS4, ARUB120LTE4, ARUB140BT3 - EBD62165601."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 740.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.615Z"
+  updated_at: "2026-11-17T15:22:38.499Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.615Z"
+    verified_at: "2026-11-17T15:22:38.499Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.615Z"
+    verified_at: "2026-11-17T15:22:38.499Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

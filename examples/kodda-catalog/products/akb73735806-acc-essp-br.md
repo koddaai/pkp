@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb73735806-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/video/remote-controller/akb73735806/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/video/controle-remoto/akb73735806/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB73735806. Click for pictures, reviews, and tech specs for the LG Controle remoto Blu Ray."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 64.59
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.496Z"
+  updated_at: "2026-11-17T15:22:38.377Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.496Z"
+    verified_at: "2026-11-17T15:22:38.377Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.496Z"
+    verified_at: "2026-11-17T15:22:38.377Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

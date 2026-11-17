@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/aha75113322-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/aha75113322/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aha75113322/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AHA75113322. Click for pictures, reviews, and tech specs for the LG Bomba Centrífuga Ar Condicionado LG CRNU36GTAB4 AHA75113322."
+summary: "Bomba centrífuga com vazão de 0,4 litros por minuto Com BEP (ponto de máxima eficiência) de 0,024 m3/h Monofásico Potência 0,005CV, 4W Tensão 12V"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 305.24
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.483Z"
+  updated_at: "2026-11-17T15:22:38.363Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.483Z"
+    verified_at: "2026-11-17T15:22:38.363Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.483Z"
+    verified_at: "2026-11-17T15:22:38.363Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  capacity: {"value":4,"unit":"litros"}
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AHA75113322. Click for pictures, reviews, and tech specs for the LG Bomba Centrífuga Ar Condicionado LG CRNU36GTAB4 AHA75113322.
+Bomba centrífuga com vazão de 0,4 litros por minuto  Com BEP (ponto de máxima eficiência) de 0,024 m3/h Monofásico Potência 0,005CV, 4W Tensão 12V

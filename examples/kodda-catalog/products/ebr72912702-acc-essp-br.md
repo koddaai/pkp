@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr72912702-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr72912702/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr72912702/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR72912702. Click for pictures, reviews, and tech specs for the LG Cabo elétrico isolado para Home Theater LG HT806ST, LHB655NW, LHB725 - EBR72912702."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.643Z"
+  updated_at: "2026-11-17T15:22:38.526Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.643Z"
+    verified_at: "2026-11-17T15:22:38.526Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.643Z"
+    verified_at: "2026-11-17T15:22:38.526Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

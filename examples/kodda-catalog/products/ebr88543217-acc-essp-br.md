@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr88543217-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa principal evaporadora Ar Condicionado LG - S4NW09WA51A - EBR88543217 - EBR88543217 | LG BR"
+name: "Placa Principal Ar Condicionado LG S4NW12JA31A EBR88543217 - EBR88543217 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr88543217-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr88543217/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebr88543217/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR88543217. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4NW12JA31A EBR88543217."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.685Z"
+  updated_at: "2026-11-17T15:22:38.569Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.685Z"
+    verified_at: "2026-11-17T15:22:38.569Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.685Z"
+    verified_at: "2026-11-17T15:22:38.569Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

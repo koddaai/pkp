@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "acq90597903-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo Máquina De Lavar Roupa LG CV9011EC4 ACQ90597903 - ACQ90597903"
+name: "Tubo Máquina De Lavar Roupa LG CV9011EC4 ACQ90597903 - ACQ90597903 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/acq90597903-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/acessorio/acq90597903/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/acq90597903/"
 
 # === DESCOBERTA (L0) ===
 summary: "Conjunto tubo cobertura em polipropileno com acessórios Próprio para uso em máquina de lavar roupa de capacidade superior a 10kg (11kg)"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 654.54
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.423Z"
+  updated_at: "2026-11-17T15:22:38.303Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.423Z"
+    verified_at: "2026-11-17T15:22:38.303Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.423Z"
+    verified_at: "2026-11-17T15:22:38.303Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agm76889301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agm76889301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agm76889301/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGM76889301. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55UM7650PSB, 55UM7470PSA, 55UM7520PSB - AGM76889301."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 255.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.477Z"
+  updated_at: "2026-11-17T15:22:38.357Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.477Z"
+    verified_at: "2026-11-17T15:22:38.357Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.477Z"
+    verified_at: "2026-11-17T15:22:38.357Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

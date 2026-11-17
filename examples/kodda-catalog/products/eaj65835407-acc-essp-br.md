@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/eaj65835407-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65835407/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj65835407/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ65835407. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG 55UT9050PSA EAJ65835407."
-tags: ["lg"]
+summary: "Peça para reparo do módulo LCD (BA) Módulo de visualização de tela (Ecrã), plana, modelo: HC550EQG-VKHA1, de 55 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido Não contém demais peças do módulo completo (régua de LED, moldura e refletores)"
+tags: ["lg", "ai"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1785.9
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.577Z"
+  updated_at: "2026-11-17T15:22:38.462Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.577Z"
+    verified_at: "2026-11-17T15:22:38.462Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.577Z"
+    verified_at: "2026-11-17T15:22:38.462Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 55
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAJ65835407. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (BA) TV LG 55UT9050PSA EAJ65835407.
+Peça para reparo do módulo LCD (BA) Módulo de visualização de tela (Ecrã), plana, modelo: HC550EQG-VKHA1, de 55 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers) e circuito de controle, de cristal líquido Não contém demais peças do módulo completo (régua de LED, moldura e refletores)

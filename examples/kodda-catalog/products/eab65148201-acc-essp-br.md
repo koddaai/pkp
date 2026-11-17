@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eab65148201-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eab65148201/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/eab65148201/"
 
 # === DESCOBERTA (L0) ===
 summary: "Alto Falante Woofer Caixa de Som Portátil LG PK5 EAB65148201"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.06
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.528Z"
+  updated_at: "2026-11-17T15:22:38.411Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.528Z"
+    verified_at: "2026-11-17T15:22:38.411Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.528Z"
+    verified_at: "2026-11-17T15:22:38.411Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/adl68932601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adl68932601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adl68932601/"
 
 # === DESCOBERTA (L0) ===
 summary: "Obtenha informações sobre o LG ADL68932601. Encontre imagens, avaliações e especificações técnicas para o LG ADL68932601 Serpentina evaporadora Ar Condicionado LG ASNQ182CRW0, ASNQ182CRZ0, ASNQ242C4A0 - ADL68932601"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 911.09
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.429Z"
+  updated_at: "2026-11-17T15:22:38.309Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.429Z"
+    verified_at: "2026-11-17T15:22:38.309Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.429Z"
+    verified_at: "2026-11-17T15:22:38.309Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

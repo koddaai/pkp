@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mff60198901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/mff60198901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mff60198901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Dispositivo para transmissão de movimento (eixo prolongador entre o motor de passo e a aleta horizontal) De plástico Para unidade evaporadora"
+summary: "Get more information on the LG MFF60198901. Click for pictures, reviews, and tech specs for the LG Eixo Prolongador Ar Condicionado LG S4NW12JARPA MFF60198901."
 tags: ["lg", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 72.48
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.747Z"
+  updated_at: "2026-11-17T15:22:38.633Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.747Z"
+    verified_at: "2026-11-17T15:22:38.633Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.747Z"
+    verified_at: "2026-11-17T15:22:38.633Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Dispositivo para transmissão de movimento (eixo prolongador entre o motor de passo e a aleta horizontal) De plástico Para unidade evaporadora
+Get more information on the LG MFF60198901. Click for pictures, reviews, and tech specs for the LG Eixo Prolongador Ar Condicionado LG S4NW12JARPA MFF60198901.

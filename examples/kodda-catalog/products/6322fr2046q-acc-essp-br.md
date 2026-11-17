@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/6322fr2046q-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/6322fr2046q/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/6322fr2046q/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 6322FR2046Q. Click for pictures, reviews, and tech specs for the LG Sensor de temperatura (NTC) Lava e Seca LG WD-1409RD5, NAS106F1WBR, WD-1409RD - 6322FR2046Q."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.382Z"
+  updated_at: "2026-11-17T15:22:38.260Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.382Z"
+    verified_at: "2026-11-17T15:22:38.260Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.382Z"
+    verified_at: "2026-11-17T15:22:38.260Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

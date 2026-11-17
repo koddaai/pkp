@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aju74892401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/acessorio/aju74892401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/aju74892401/"
 
 # === DESCOBERTA (L0) ===
 summary: "Válvula Refrigerador LG LSFD2591ST AJU74892401"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 972.24
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.494Z"
+  updated_at: "2026-11-17T15:22:38.374Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.494Z"
+    verified_at: "2026-11-17T15:22:38.374Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.494Z"
+    verified_at: "2026-11-17T15:22:38.374Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebr89176106-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Máquina De Lavar Roupas LG WD14EGS62A EBR89176106 - EBR89176106"
+name: "Placa Máquina De Lavar Roupas LG WD14EGS62A EBR89176106 - EBR89176106 | LG BR"
 category: "eletrodomesticos"
 subcategory: "lavadora"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr89176106-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/acessorio/ebr89176106/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ebr89176106/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Máquina De Lavar Roupas LG WD14EGS62A EBR89176106"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1158.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.687Z"
+  updated_at: "2026-11-17T15:22:38.572Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.687Z"
+    verified_at: "2026-11-17T15:22:38.572Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.687Z"
+    verified_at: "2026-11-17T15:22:38.572Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

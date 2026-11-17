@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65697902-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (módulo) Monitor LG EAJ65697902 - EAJ65697902 | LG BR"
+name: "Tela de cristal líquido Monitor Signage LG 55VM5J-H EAJ65697902 - EAJ65697902 | LG BR"
 category: "monitors"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65697902-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj65697902/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/signage/eaj65697902/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAJ65697902. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Monitor Signage LG 55VM5J-H EAJ65697902."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4331.06
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.563Z"
+  updated_at: "2026-11-17T15:22:38.449Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.563Z"
+    verified_at: "2026-11-17T15:22:38.449Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.563Z"
+    verified_at: "2026-11-17T15:22:38.449Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

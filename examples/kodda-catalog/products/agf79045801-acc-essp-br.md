@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agf79045801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf79045801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agf79045801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGF79045801. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 49LF5100, 49LH5700-SF, 49LW300C - AGF79045801."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 217.73
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.466Z"
+  updated_at: "2026-11-17T15:22:38.346Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.466Z"
+    verified_at: "2026-11-17T15:22:38.346Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.466Z"
+    verified_at: "2026-11-17T15:22:38.346Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

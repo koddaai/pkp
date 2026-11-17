@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mhw62501201-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/mhw62501201/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/mhw62501201/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG MHW62501201. Click for pictures, reviews, and tech specs for the LG Suporte Máquina Lavar Roupa LG CV9013WC4A MHW62501201."
+summary: "Suporte metálico para fixação do tambor de lavagem ao motor"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 686.18
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.755Z"
+  updated_at: "2026-11-17T15:22:38.640Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.755Z"
+    verified_at: "2026-11-17T15:22:38.640Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.755Z"
+    verified_at: "2026-11-17T15:22:38.640Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG MHW62501201. Click for pictures, reviews, and tech specs for the LG Suporte Máquina Lavar Roupa LG CV9013WC4A MHW62501201.
+Suporte metálico para fixação do tambor de lavagem ao motor

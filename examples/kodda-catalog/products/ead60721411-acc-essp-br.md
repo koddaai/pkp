@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead60721411-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/ead60721411/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/ead60721411/"
 
 # === DESCOBERTA (L0) ===
 summary: "Condutor Elétrico Refrigerador LG GCB559BSB1 EAD60721411"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.534Z"
+  updated_at: "2026-11-17T15:22:38.416Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.534Z"
+    verified_at: "2026-11-17T15:22:38.416Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.534Z"
+    verified_at: "2026-11-17T15:22:38.416Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agf79258701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf79258701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agf79258701/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGF79258701. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 55LN5400 - AGF79258701."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 355.33
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.468Z"
+  updated_at: "2026-11-17T15:22:38.349Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.468Z"
+    verified_at: "2026-11-17T15:22:38.349Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.468Z"
+    verified_at: "2026-11-17T15:22:38.349Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

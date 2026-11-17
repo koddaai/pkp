@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ajr76542405-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ajr76542405/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ajr76542405/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AJR76542405. Click for pictures, reviews, and tech specs for the LG Tubo da serpentina evaporadora Ar Condicionado LG S4NW36R43FA - AJR76542405."
+summary: "Obtenha informações sobre o LG AJR76542405. Encontre imagens, avaliações e especificações técnicas para o LG AJR76542405 Tubo da serpentina evaporadora Ar Condicionado LG S4NW36R43FA - AJR76542405"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1057.01
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.491Z"
+  updated_at: "2026-11-17T15:22:38.372Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.491Z"
+    verified_at: "2026-11-17T15:22:38.372Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.491Z"
+    verified_at: "2026-11-17T15:22:38.372Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AJR76542405. Click for pictures, reviews, and tech specs for the LG Tubo da serpentina evaporadora Ar Condicionado LG S4NW36R43FA - AJR76542405.
+Obtenha informações sobre o LG AJR76542405. Encontre imagens, avaliações e especificações técnicas para o LG AJR76542405 Tubo da serpentina evaporadora Ar Condicionado LG S4NW36R43FA - AJR76542405

@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/5210a28001g-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5210a28001g/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/5210a28001g/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 5210A28001G. Click for pictures, reviews, and tech specs for the LG Tubo Conector (Y) para Ar Condicionado LG 5210A28001G."
+summary: "Tubo Conector (Y) LG 5210A28001G, em cobre, para o trocador de calor da unidade condensadora de Ar Condicionado. Essencial para a conexão eficiente dos sistemas, garantindo o fluxo adequado de refrigerante e o desempenho ideal do equipamento."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 54.04
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.365Z"
+  updated_at: "2026-11-17T15:22:38.242Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.365Z"
+    verified_at: "2026-11-17T15:22:38.242Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.365Z"
+    verified_at: "2026-11-17T15:22:38.242Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 5210A28001G. Click for pictures, reviews, and tech specs for the LG Tubo Conector (Y) para Ar Condicionado LG 5210A28001G.
+Tubo Conector (Y) LG 5210A28001G, em cobre, para o trocador de calor da unidade condensadora de Ar Condicionado. Essencial para a conexão eficiente dos sistemas, garantindo o fluxo adequado de refrigerante e o desempenho ideal do equipamento.

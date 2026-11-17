@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eau62543710-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/eau62543710/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eau62543710/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAU62543710. Click for pictures, reviews, and tech specs for the LG Motor Ar Condicionado LG ATUW36GMLP0 EAU62543710."
+summary: "Motor de corrente contínua Carcaça fechada Potência 124W DC 310V 560 mA 1 k RPM ODM-041B"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 460.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.594Z"
+  updated_at: "2026-11-17T15:22:38.479Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.594Z"
+    verified_at: "2026-11-17T15:22:38.479Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.594Z"
+    verified_at: "2026-11-17T15:22:38.479Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAU62543710. Click for pictures, reviews, and tech specs for the LG Motor Ar Condicionado LG ATUW36GMLP0 EAU62543710.
+Motor de corrente contínua Carcaça fechada Potência 124W DC 310V 560 mA 1 k RPM ODM-041B

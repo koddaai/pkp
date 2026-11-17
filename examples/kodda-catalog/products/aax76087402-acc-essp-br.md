@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aax76087402-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/aax76087402/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/aax76087402/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAX76087402. Click for pictures, reviews, and tech specs for the LG Amplificador/receptor sem fio Wireless LG SPK8-S - AAX76087402."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1329.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.410Z"
+  updated_at: "2026-11-17T15:22:38.290Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.410Z"
+    verified_at: "2026-11-17T15:22:38.290Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.410Z"
+    verified_at: "2026-11-17T15:22:38.290Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

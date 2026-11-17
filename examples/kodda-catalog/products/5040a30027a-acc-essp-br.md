@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/5040a30027a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5040a30027a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/5040a30027a/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 5040A30027A. Click for pictures, reviews, and tech specs for the LG Calço de borracha Ar Condicionado LG ARNU24GS5L2, ARNU15GSJR4, ARNU18GS5L2 - 5040A30027A."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 43.93
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.363Z"
+  updated_at: "2026-11-17T15:22:38.239Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.363Z"
+    verified_at: "2026-11-17T15:22:38.239Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.363Z"
+    verified_at: "2026-11-17T15:22:38.239Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

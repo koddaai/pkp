@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/tcg37268506-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/tcg37268506/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/tcg37268506/"
 
 # === DESCOBERTA (L0) ===
 summary: "Alto Falante Múltiplos Mini System LG CL98 TCG37268506"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2988.21
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.786Z"
+  updated_at: "2026-11-17T15:22:38.678Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.786Z"
+    verified_at: "2026-11-17T15:22:38.678Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.786Z"
+    verified_at: "2026-11-17T15:22:38.678Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

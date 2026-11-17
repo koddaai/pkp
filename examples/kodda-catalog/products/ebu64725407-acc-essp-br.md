@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu64725407-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 55UK7500PSA EBU64725407 - EBU64725407"
+name: "Placa Principal TV LG 55UK7500PSA EBU64725407 - EBU64725407 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu64725407-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/ebu64725407/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu64725407/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal TV LG 55UK7500PSA EBU64725407"
@@ -27,15 +27,15 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 825.55
+  value: 759.05
   source: "retailer"
-  updated_at: "2026-08-14T20:29:36.810Z"
+  updated_at: "2026-11-17T15:22:38.583Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
 purchase_urls:
   - retailer: "LG BR"
-    url: "https://www.awin1.com/pclick.php?p=43478676798&a=2753646&m=33061"
+    url: "https://www.awin1.com/pclick.php?p=46836316177&a=2753646&m=33061"
     ap2_enabled: false
 
 # === CONFIANCA DOS DADOS ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-14T20:29:36.810Z"
+    verified_at: "2026-11-17T15:22:38.583Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-08-14T20:29:36.810Z"
+    verified_at: "2026-11-17T15:22:38.583Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,8 +55,8 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-08-14
-# aw_product_id: 43478676798
+# Data de importacao: 2026-11-17
+# aw_product_id: 46836316177
 ---
 
 ## Descricao

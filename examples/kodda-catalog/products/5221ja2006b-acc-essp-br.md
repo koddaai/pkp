@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/5221ja2006b-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/5221ja2006b/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/5221ja2006b/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 5221JA2006B. Click for pictures, reviews, and tech specs for the LG Válvula de água Refrigerador LG GC-P213BVK, GC-L207BSKV, GR-P207TVK - 5221JA2006B."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 521.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.371Z"
+  updated_at: "2026-11-17T15:22:38.247Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.371Z"
+    verified_at: "2026-11-17T15:22:38.247Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.371Z"
+    verified_at: "2026-11-17T15:22:38.247Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

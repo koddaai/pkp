@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eab65148203-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Alto Falante Caixa de Som portátil LG PL5 EAB65148203 - EAB65148203"
+name: "Alto Falante Caixa de Som portátil LG PL5 EAB65148203 - EAB65148203 | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eab65148203-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-audio/acessorio/eab65148203/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/eab65148203/"
 
 # === DESCOBERTA (L0) ===
 summary: "Alto Falante Caixa de Som portátil LG PL5 EAB65148203"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 170.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.529Z"
+  updated_at: "2026-11-17T15:22:38.411Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.529Z"
+    verified_at: "2026-11-17T15:22:38.411Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.529Z"
+    verified_at: "2026-11-17T15:22:38.411Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

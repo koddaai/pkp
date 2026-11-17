@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ead62587304-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Condutor Elétrico Ar Condicionado LG S4NW12JARPA EAD62587304 - EAD62587304"
+name: "Condutor Elétrico Ar Condicionado LG S4NW12JARPA EAD62587304 - EAD62587304 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead62587304-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/ead62587304/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ead62587304/"
 
 # === DESCOBERTA (L0) ===
 summary: "Condutor elétrico munidos de peças de conexão Para tensão 300V Cobre revestido com pvc d:0,4049mm, seção: 0,13mm2 5p UL1061 AWG26 Para Ar condicionado"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 59.25
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.486Z"
+  updated_at: "2026-11-17T15:22:38.420Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.486Z"
+    verified_at: "2026-11-17T15:22:38.420Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.486Z"
+    verified_at: "2026-11-17T15:22:38.420Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-14
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478675907
 ---
 

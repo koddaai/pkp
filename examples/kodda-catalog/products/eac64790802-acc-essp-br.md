@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eac64790802-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eac64790802/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/eac64790802/"
 
 # === DESCOBERTA (L0) ===
 summary: "Bateria Caixa de Som Portátil XL5S LG EAC64790802"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 777.01
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.532Z"
+  updated_at: "2026-11-17T15:22:38.415Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.532Z"
+    verified_at: "2026-11-17T15:22:38.415Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.532Z"
+    verified_at: "2026-11-17T15:22:38.415Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

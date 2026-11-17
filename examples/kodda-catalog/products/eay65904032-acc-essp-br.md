@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eay65904032-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay65904032/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay65904032/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAY65904032. Clique para ver imagens, análises e especificações técnicas da LG Placa da fonte TV LG OLED55C2PSA - EAY65904032"
+summary: "Get more information on the LG EAY65904032. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG OLED55C2PSA - EAY65904032."
 tags: ["lg", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 531.06
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.613Z"
+  updated_at: "2026-11-17T15:22:38.497Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.613Z"
+    verified_at: "2026-11-17T15:22:38.497Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.613Z"
+    verified_at: "2026-11-17T15:22:38.497Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAY65904032. Clique para ver imagens, análises e especificações técnicas da LG Placa da fonte TV LG OLED55C2PSA - EAY65904032
+Get more information on the LG EAY65904032. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG OLED55C2PSA - EAY65904032.

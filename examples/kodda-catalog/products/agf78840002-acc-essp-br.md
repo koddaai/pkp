@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agf78840002-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/agf78840002/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/agf78840002/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGF78840002. Click for pictures, reviews, and tech specs for the LG Kit régua de LED TV LG 49UJ6300 - AGF78840002."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 246.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.465Z"
+  updated_at: "2026-11-17T15:22:38.345Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.465Z"
+    verified_at: "2026-11-17T15:22:38.345Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.465Z"
+    verified_at: "2026-11-17T15:22:38.345Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

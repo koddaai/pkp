@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "zt-w24gttaa-anwzbr1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar Condicionado LG  LG Cassete 1 - Via Inverter 24.000 BTU/h 220V ZT-W24GTTAA, Quente e Frio - ZT-W24GTTAA"
+name: "Ar Condicionado LG  LG Cassete 1 - Via Inverter 24.000 BTU/h 220V ZT-W24GTTAA, Quente e Frio - ZT-W24GTTAA | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -27,9 +27,9 @@ tags: ["lg", "inverter"]
 price:
   type: "street"
   currency: "BRL"
-  value: 11566.01
+  value: 12205.6
   source: "retailer"
-  updated_at: "2026-10-16T22:32:57.070Z"
+  updated_at: "2026-11-17T15:22:38.686Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-16T22:32:57.070Z"
+    verified_at: "2026-11-17T15:22:38.686Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-10-16T22:32:57.070Z"
+    verified_at: "2026-11-17T15:22:38.686Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-10-16
+# Data de importacao: 2026-11-17
 # aw_product_id: 45690330576
 ---
 

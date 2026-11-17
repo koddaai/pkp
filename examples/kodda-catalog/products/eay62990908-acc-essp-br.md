@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/eay62990908-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/tvs/adapter-power-cord/eay62990908/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/adaptadores-e-cabos-de-alimentacao/eay62990908/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre a EAY62990908. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa para LG TV (19 V, 3,42 A, 65 W, cabo de alimentação não incluído, preto)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAY62990908. Click for pictures, reviews, and tech specs for the LG Fonte de alimentação externa para TV (19 V, 3,42 A, 65 W, cabo de alimentação não incluído, preto)."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 147.25
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.598Z"
+  updated_at: "2026-11-17T15:22:38.484Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.598Z"
+    verified_at: "2026-11-17T15:22:38.484Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.598Z"
+    verified_at: "2026-11-17T15:22:38.484Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre a EAY62990908. Clique para ver fotos, avaliações e especificações técnicas da Fonte de alimentação externa para LG TV (19 V, 3,42 A, 65 W, cabo de alimentação não incluído, preto).
+Get more information on the LG EAY62990908. Click for pictures, reviews, and tech specs for the LG Fonte de alimentação externa para TV (19 V, 3,42 A, 65 W, cabo de alimentação não incluído, preto).

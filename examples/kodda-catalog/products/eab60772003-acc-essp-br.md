@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eab60772003-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-audio/acessorio/eab60772003/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/eab60772003/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAB60772003. Click for pictures, reviews, and tech specs for the LG Microfone com Cabo LG XBOOM Karaokê EAB60772003."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.527Z"
+  updated_at: "2026-11-17T15:22:38.409Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.527Z"
+    verified_at: "2026-11-17T15:22:38.409Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.527Z"
+    verified_at: "2026-11-17T15:22:38.409Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

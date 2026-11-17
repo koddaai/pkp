@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead60714628-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ead60714628/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ead60714628/"
 
 # === DESCOBERTA (L0) ===
 summary: "Condutor flexível elétrico munidos de peças de conexão,tensão 300V,de cobre revestico com PVC,UL1061, 9 pinos, d: 0.41mm, seção: 0.13mm2,AWG26"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 34.42
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.533Z"
+  updated_at: "2026-11-17T15:22:38.416Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.533Z"
+    verified_at: "2026-11-17T15:22:38.416Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.533Z"
+    verified_at: "2026-11-17T15:22:38.416Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

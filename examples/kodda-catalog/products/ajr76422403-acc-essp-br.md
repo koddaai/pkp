@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ajr76422403-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tubo coletor da serpentina condensadora Ar Condicionado  LG S4UW09WA5WA, S4UW09AA31A, S4UW12JA3XB - AJR76422403 - AJR76422403 | LG BR"
+name: "Tubo Coletor da Serpentina Condensadora Ar Condicionado  LG AJR76422403 - AJR76422403 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ajr76422403-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ajr76422403/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ajr76422403/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AJR76422403. Click for pictures, reviews, and tech specs for the LG Tubo Coletor da Serpentina Condensadora Ar Condicionado LG AJR76422403."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.490Z"
+  updated_at: "2026-11-17T15:22:38.370Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.490Z"
+    verified_at: "2026-11-17T15:22:38.370Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.490Z"
+    verified_at: "2026-11-17T15:22:38.370Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

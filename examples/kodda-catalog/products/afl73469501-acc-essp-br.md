@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "afl73469501-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Módulo Eletrônico Evaporadora Ar Condicionado LG AFL73469501 - AFL73469501"
+name: "Módulo Eletrônico Evaporadora Ar Condicionado LG AFL73469501 - AFL73469501 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/afl73469501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/afl73469501/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/afl73469501/"
 
 # === DESCOBERTA (L0) ===
 summary: "Módulo Eletrônico Evaporadora Ar Condicionado LG AFL73469501"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 151.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.380Z"
+  updated_at: "2026-11-17T15:22:38.332Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.380Z"
+    verified_at: "2026-11-17T15:22:38.332Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.380Z"
+    verified_at: "2026-11-17T15:22:38.332Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-14
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478675408
 ---
 

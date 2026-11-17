@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eau60683705-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/eau60683705/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eau60683705/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAU60683705. Clique para ver imagens, análises e especificações técnicas da LG Motor corrente contínua Ar Condicionado LG ARNU30GSVA4, ARNU36GSVA4, CRNU30GSVA4 - EAU60683705"
+summary: "Motor corrente contínua Ar Condicionado LG ARNU30GSVA4, ARNU36GSVA4, CRNU30GSVA4 - EAU60683705"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 209.64
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.590Z"
+  updated_at: "2026-11-17T15:22:38.475Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.590Z"
+    verified_at: "2026-11-17T15:22:38.475Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.590Z"
+    verified_at: "2026-11-17T15:22:38.475Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAU60683705. Clique para ver imagens, análises e especificações técnicas da LG Motor corrente contínua Ar Condicionado LG ARNU30GSVA4, ARNU36GSVA4, CRNU30GSVA4 - EAU60683705
+Motor corrente contínua Ar Condicionado LG ARNU30GSVA4, ARNU36GSVA4, CRNU30GSVA4 - EAU60683705

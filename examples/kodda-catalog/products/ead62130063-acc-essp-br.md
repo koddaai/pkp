@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead62130063-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead62130063/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ead62130063/"
 
 # === DESCOBERTA (L0) ===
 summary: "Condutor Elétrico Caixa Acústica Xbomm LG RNC9 EAD62130063"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 33.84
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.536Z"
+  updated_at: "2026-11-17T15:22:38.419Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.536Z"
+    verified_at: "2026-11-17T15:22:38.419Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.536Z"
+    verified_at: "2026-11-17T15:22:38.419Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebj61050105-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Transformador Ar Condicionado LG S4UQ12JA3WC EBJ61050105 - EBJ61050105"
+name: "Transformador Ar Condicionado LG S4UQ12JA3WC EBJ61050105 - EBJ61050105 | LG BR"
 category: "eletrodomesticos"
 subcategory: "ar-condicionado"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebj61050105-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/ebj61050105/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebj61050105/"
 
 # === DESCOBERTA (L0) ===
 summary: "Transformador Ar Condicionado LG S4UQ12JA3WC EBJ61050105"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 105.64
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.096Z"
+  updated_at: "2026-11-17T15:22:38.508Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.096Z"
+    verified_at: "2026-11-17T15:22:38.508Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.096Z"
+    verified_at: "2026-11-17T15:22:38.508Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-13
+# Data de importacao: 2026-11-17
 # aw_product_id: 43478676393
 ---
 

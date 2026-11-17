@@ -5,8 +5,8 @@ sku: "ebr30795401-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa fonte Caixa de Som Bluetooth  LG RN5 - EBR30795401 - EBR30795401 | LG BR"
-category: "tvs"
-
+category: "audio"
+subcategory: "speaker"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr30795401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr30795401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr30795401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR30795401. Clique para ver imagens, análises e especificações técnicas da LG Placa fonte Caixa de Som Bluetooth LG RN5 - EBR30795401"
+summary: "Get more information on the LG EBR30795401. Click for pictures, reviews, and tech specs for the LG Placa fonte Caixa de Som Bluetooth LG RN5 - EBR30795401."
 tags: ["lg", "bluetooth", "ai"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 286.48
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.628Z"
+  updated_at: "2026-11-17T15:22:38.511Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.628Z"
+    verified_at: "2026-11-17T15:22:38.511Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.628Z"
+    verified_at: "2026-11-17T15:22:38.511Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR30795401. Clique para ver imagens, análises e especificações técnicas da LG Placa fonte Caixa de Som Bluetooth  LG RN5 - EBR30795401
+Get more information on the LG EBR30795401. Click for pictures, reviews, and tech specs for the LG Placa fonte Caixa de Som Bluetooth  LG RN5 - EBR30795401.

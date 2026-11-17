@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/csp30101001-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/csp30101001/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/csp30101001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG CSP30101001. Clique para ver imagens, análises e especificações técnicas da LG Placa Principal Máquina de Lavar Roupas LG WD17VVS6A - CSP30101001"
+summary: "Get more information on the LG CSP30101001. Click for pictures, reviews, and tech specs for the LG Placa Principal Máquina de Lavar Roupas LG WD17VVS6A - CSP30101001."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 961
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.515Z"
+  updated_at: "2026-11-17T15:22:38.397Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.515Z"
+    verified_at: "2026-11-17T15:22:38.397Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.515Z"
+    verified_at: "2026-11-17T15:22:38.397Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG CSP30101001. Clique para ver imagens, análises e especificações técnicas da LG Placa Principal Máquina de Lavar Roupas LG WD17VVS6A - CSP30101001
+Get more information on the LG CSP30101001. Click for pictures, reviews, and tech specs for the LG Placa Principal Máquina de Lavar Roupas LG WD17VVS6A - CSP30101001.

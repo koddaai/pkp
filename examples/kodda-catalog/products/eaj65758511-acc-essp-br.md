@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eaj65758511-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65758511/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj65758511/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ65758511. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido BA TV LG 65UQ801C0SB EAJ65758511."
+summary: "Tela de cristal líquido BA TV LG 65UQ801C0SB EAJ65758511"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1291.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.574Z"
+  updated_at: "2026-11-17T15:22:38.458Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.574Z"
+    verified_at: "2026-11-17T15:22:38.458Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.574Z"
+    verified_at: "2026-11-17T15:22:38.458Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAJ65758511. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido BA TV LG 65UQ801C0SB EAJ65758511.
+Tela de cristal líquido BA TV LG 65UQ801C0SB EAJ65758511

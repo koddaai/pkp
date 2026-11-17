@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead37680315-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ead37680315/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ead37680315/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAD37680315. Click for pictures, reviews, and tech specs for the LG Cabo condutor isolado Ar Condicionado LG ARUV80BT2, ARUB100BT2, ARUB120BT2 - EAD37680315."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1228.12
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.532Z"
+  updated_at: "2026-11-17T15:22:38.415Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.532Z"
+    verified_at: "2026-11-17T15:22:38.415Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.532Z"
+    verified_at: "2026-11-17T15:22:38.415Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

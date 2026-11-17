@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/3045er0026g-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/3045er0026g/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/3045er0026g/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 3045ER0026G. Click for pictures, reviews, and tech specs for the LG Tanque traseiro Lava e Seca LG WD-1403RD - 3045ER0026G."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 789.24
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.329Z"
+  updated_at: "2026-11-17T15:22:38.202Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.329Z"
+    verified_at: "2026-11-17T15:22:38.202Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.329Z"
+    verified_at: "2026-11-17T15:22:38.202Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

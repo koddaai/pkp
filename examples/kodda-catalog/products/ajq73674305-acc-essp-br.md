@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ajq73674305-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/ajq73674305/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ajq73674305/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AJQ73674305. Click for pictures, reviews, and tech specs for the LG Conjunto Tubo Externo Máquina de Lavar Roupas LG WD17VTS6 - AJQ73674305."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 892.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.488Z"
+  updated_at: "2026-11-17T15:22:38.368Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.488Z"
+    verified_at: "2026-11-17T15:22:38.368Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.488Z"
+    verified_at: "2026-11-17T15:22:38.368Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

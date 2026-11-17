@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/tcg37409201-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/tcg37409201/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/outros-acessorios/tcg37409201/"
 
 # === DESCOBERTA (L0) ===
 summary: "Alto falante único montado em seu receptaculo, tipo tweeter, com diametro de 55mm"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1301.39
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.786Z"
+  updated_at: "2026-11-17T15:22:38.679Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.786Z"
+    verified_at: "2026-11-17T15:22:38.679Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.786Z"
+    verified_at: "2026-11-17T15:22:38.679Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

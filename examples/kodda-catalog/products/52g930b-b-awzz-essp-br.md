@@ -27,9 +27,9 @@ tags: ["lg", "hdr", "premium", "ultra"]
 price:
   type: "street"
   currency: "BRL"
-  value: 13218.76
+  value: 13649.81
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.372Z"
+  updated_at: "2026-11-17T15:22:38.248Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.372Z"
+    verified_at: "2026-11-17T15:22:38.248Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.372Z"
+    verified_at: "2026-11-17T15:22:38.248Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

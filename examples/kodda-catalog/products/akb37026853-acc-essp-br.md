@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb37026853-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/akb37026853/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/controle-remoto/akb37026853/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB37026853. Click for pictures, reviews, and tech specs for the LG Controle remoto Home Theater LG LHD625 - AKB37026853."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 62.32
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.494Z"
+  updated_at: "2026-11-17T15:22:38.375Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.494Z"
+    verified_at: "2026-11-17T15:22:38.375Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.494Z"
+    verified_at: "2026-11-17T15:22:38.375Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eay65895542-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay65895542/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay65895542/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAY65895542. Clique para ver imagens, análises e especificações técnicas da LG Placa da fonte TV LG 75UP8050PSB, 75NANO75SQA, 75UP801C0SB - EAY65895542"
+summary: "Get more information on the LG EAY65895542. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG 75UP8050PSB, 75NANO75SQA, 75UP801C0SB - EAY65895542."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1016.38
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.610Z"
+  updated_at: "2026-11-17T15:22:38.495Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.610Z"
+    verified_at: "2026-11-17T15:22:38.495Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.610Z"
+    verified_at: "2026-11-17T15:22:38.495Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAY65895542. Clique para ver imagens, análises e especificações técnicas da LG Placa da fonte TV LG 75UP8050PSB, 75NANO75SQA, 75UP801C0SB - EAY65895542
+Get more information on the LG EAY65895542. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG 75UP8050PSB, 75NANO75SQA, 75UP801C0SB - EAY65895542.

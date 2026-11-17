@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eam62310001-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/eam62310001/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eam62310001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAM62310001. Clique para ver imagens, análises e especificações técnicas da LG Placa filtro de linha Ar Condicionado LG ARUN120BT3, ARUN140BT3, ARUN160BT3 - EAM62310001"
+summary: "Get more information on the LG EAM62310001. Click for pictures, reviews, and tech specs for the LG Placa filtro de linha Ar Condicionado LG ARUN120BT3, ARUN140BT3, ARUN160BT3 - EAM62310001."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5863.25
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.582Z"
+  updated_at: "2026-11-17T15:22:38.467Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.582Z"
+    verified_at: "2026-11-17T15:22:38.467Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.582Z"
+    verified_at: "2026-11-17T15:22:38.467Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAM62310001. Clique para ver imagens, análises e especificações técnicas da LG Placa filtro de linha Ar Condicionado LG ARUN120BT3, ARUN140BT3, ARUN160BT3 - EAM62310001
+Get more information on the LG EAM62310001. Click for pictures, reviews, and tech specs for the LG Placa filtro de linha Ar Condicionado LG ARUN120BT3, ARUN140BT3, ARUN160BT3 - EAM62310001.

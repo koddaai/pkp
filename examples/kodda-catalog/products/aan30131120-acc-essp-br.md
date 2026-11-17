@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan30131120-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/aan30131120/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/aan30131120/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAN30131120. Click for pictures, reviews, and tech specs for the LG Base Pedestal Esq e Dir TV LG 70UQ8050PSB AAN30131120."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 166.36
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.402Z"
+  updated_at: "2026-11-17T15:22:38.281Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.402Z"
+    verified_at: "2026-11-17T15:22:38.281Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.402Z"
+    verified_at: "2026-11-17T15:22:38.281Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

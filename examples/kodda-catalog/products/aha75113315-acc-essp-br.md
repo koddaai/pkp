@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aha75113315-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aha75113315/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aha75113315/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AHA75113315. Click for pictures, reviews, and tech specs for the LG Bomba de dreno Ar Condicionado LG AMNW12GTUC0, AMNH09GTUC0, AMNH12GTUC0."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 407.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.483Z"
+  updated_at: "2026-11-17T15:22:38.363Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.483Z"
+    verified_at: "2026-11-17T15:22:38.363Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.483Z"
+    verified_at: "2026-11-17T15:22:38.363Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

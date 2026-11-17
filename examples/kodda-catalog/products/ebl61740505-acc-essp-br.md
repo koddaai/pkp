@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebl61740505-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebl61740505/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebl61740505/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBL61740505. Click for pictures, reviews, and tech specs for the LG Tuner sintonizador de sinal TV LG 50NANO75SPA, 55NANO75SPA, 65NANO75SPA - EBL61740505."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 105.39
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.625Z"
+  updated_at: "2026-11-17T15:22:38.509Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.625Z"
+    verified_at: "2026-11-17T15:22:38.509Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.625Z"
+    verified_at: "2026-11-17T15:22:38.509Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

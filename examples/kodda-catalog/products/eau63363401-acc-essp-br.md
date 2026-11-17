@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eau63363401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/eau63363401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eau63363401/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAU63363401. Click for pictures, reviews, and tech specs for the LG Motor de corrente contínua Ar Condicionado LG ARNU21GTQC4, ARNU15GTQC4, ARNU18GTQA4 - EAU63363401."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.39
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.594Z"
+  updated_at: "2026-11-17T15:22:38.480Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.594Z"
+    verified_at: "2026-11-17T15:22:38.480Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.594Z"
+    verified_at: "2026-11-17T15:22:38.480Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

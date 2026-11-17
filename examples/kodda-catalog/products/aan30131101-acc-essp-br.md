@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "aan30131101-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 55QNED80SRA EBU67426201 - AAN30131101 | LG BR"
+name: "Base pedestal TV LG 43UM7300 AAN30131101 - AAN30131101 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aan30131101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/aan30131101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/bases-e-suportes-de-parede/aan30131101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AAN30131101. Click for pictures, reviews, and tech specs for the LG Base pedestal TV LG 43UM7300 AAN30131101."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.401Z"
+  updated_at: "2026-11-17T15:22:38.280Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.401Z"
+    verified_at: "2026-11-17T15:22:38.280Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.401Z"
+    verified_at: "2026-11-17T15:22:38.280Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

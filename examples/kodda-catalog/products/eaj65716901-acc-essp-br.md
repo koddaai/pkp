@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65716901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65716901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj65716901/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAJ65716901. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) TV LG 32LQ620BPSB, 32LQ621CBSB - EAJ65716901."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 407.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.564Z"
+  updated_at: "2026-11-17T15:22:38.451Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.564Z"
+    verified_at: "2026-11-17T15:22:38.451Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.564Z"
+    verified_at: "2026-11-17T15:22:38.451Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

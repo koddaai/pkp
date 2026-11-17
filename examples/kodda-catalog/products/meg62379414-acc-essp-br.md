@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/meg62379414-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/meg62379414/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/meg62379414/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG MEG62379414. Click for pictures, reviews, and tech specs for the LG Suporte Serpentina Ar Condicionado LG S4NQ09WA5WB MEG62379414."
+summary: "Suporte lateral de plástico da turbina da unidade evaporadora"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.745Z"
+  updated_at: "2026-11-17T15:22:38.631Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.745Z"
+    verified_at: "2026-11-17T15:22:38.631Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.745Z"
+    verified_at: "2026-11-17T15:22:38.631Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG MEG62379414. Click for pictures, reviews, and tech specs for the LG Suporte Serpentina Ar Condicionado LG S4NQ09WA5WB MEG62379414.
+Suporte lateral de plástico da turbina da unidade evaporadora

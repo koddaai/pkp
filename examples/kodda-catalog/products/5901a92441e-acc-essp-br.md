@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/5901a92441e-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5901a92441e/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/5901a92441e/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG 5901A92441E. Clique para ver imagens, análises e especificações técnicas da LG Hélice do ventilador Ar Condicionado LG LS-P1120BD - 5901A92441E"
+summary: "Get more information on the LG 5901A92441E. Click for pictures, reviews, and tech specs for the LG Hélice do ventilador Ar Condicionado LG LS-P1120BD - 5901A92441E."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 369.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.380Z"
+  updated_at: "2026-11-17T15:22:38.257Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.380Z"
+    verified_at: "2026-11-17T15:22:38.257Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.380Z"
+    verified_at: "2026-11-17T15:22:38.257Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG 5901A92441E. Clique para ver imagens, análises e especificações técnicas da LG Hélice do  ventilador Ar Condicionado LG LS-P1120BD - 5901A92441E
+Get more information on the LG 5901A92441E. Click for pictures, reviews, and tech specs for the LG Hélice do  ventilador Ar Condicionado LG LS-P1120BD - 5901A92441E.

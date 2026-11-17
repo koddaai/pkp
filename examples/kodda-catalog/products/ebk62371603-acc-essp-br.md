@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebk62371603-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebk62371603/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebk62371603/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBK62371603. Clique para ver imagens, análises e especificações técnicas da LG Transistor IPA60R400CE Mini System LG CJ87, CJ88 - EBK62371603"
+summary: "Get more information on the LG EBK62371603. Click for pictures, reviews, and tech specs for the LG Transistor IPA60R400CE Mini System LG CJ87, CJ88 - EBK62371603."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.625Z"
+  updated_at: "2026-11-17T15:22:38.508Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.625Z"
+    verified_at: "2026-11-17T15:22:38.508Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.625Z"
+    verified_at: "2026-11-17T15:22:38.508Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBK62371603. Clique para ver imagens, análises e especificações técnicas da LG Transistor IPA60R400CE Mini System LG CJ87, CJ88 - EBK62371603
+Get more information on the LG EBK62371603. Click for pictures, reviews, and tech specs for the LG Transistor IPA60R400CE Mini System LG CJ87, CJ88 - EBK62371603.

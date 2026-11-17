@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eat65166902-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eat65166902/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eat65166902/"
 
 # === DESCOBERTA (L0) ===
 summary: "Modelo: LGSBWAC03,Placa Wi Fi, 2.45 A 5GHZ com taxa de transmissão 34MBPS (88MGBITS), SINGLE COMBO WIRELESS IEEE 802.11"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 134.47
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.586Z"
+  updated_at: "2026-11-17T15:22:38.471Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.586Z"
+    verified_at: "2026-11-17T15:22:38.471Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.586Z"
+    verified_at: "2026-11-17T15:22:38.471Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

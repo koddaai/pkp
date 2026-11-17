@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mck38263706-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/mck38263706/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/mck38263706/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MCK38263706. Click for pictures, reviews, and tech specs for the LG Tubo plástico frontal Lavadora LG WD10WP6 - MCK38263706."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 179.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.736Z"
+  updated_at: "2026-11-17T15:22:38.622Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.736Z"
+    verified_at: "2026-11-17T15:22:38.622Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.736Z"
+    verified_at: "2026-11-17T15:22:38.622Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

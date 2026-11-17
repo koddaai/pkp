@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay65589002-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay65589002/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay65589002/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAY65589002. Click for pictures, reviews, and tech specs for the LG Placa fonte TV LG 60UM7270PSA, 60UN7310PSA - EAY65589002."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 661.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.607Z"
+  updated_at: "2026-11-17T15:22:38.491Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.607Z"
+    verified_at: "2026-11-17T15:22:38.491Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.607Z"
+    verified_at: "2026-11-17T15:22:38.491Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

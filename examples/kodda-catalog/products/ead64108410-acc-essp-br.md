@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/ead64108410-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/tvs/adapter-power-cord/ead64108410/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/adaptadores-e-cabos-de-alimentacao/ead64108410/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o EAD64108410. Clique para ver fotos, avaliações e especificações técnicas do cabo de alimentação para LG TV (preto)."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG EAD64108410. Click for pictures, reviews, and tech specs for the LG Cabo de alimentação para TV (preto)."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 37.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.543Z"
+  updated_at: "2026-11-17T15:22:38.429Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.543Z"
+    verified_at: "2026-11-17T15:22:38.429Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.543Z"
+    verified_at: "2026-11-17T15:22:38.429Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o EAD64108410. Clique para ver fotos, avaliações e especificações técnicas do cabo de alimentação para LG TV (preto).
+Get more information on the LG EAD64108410. Click for pictures, reviews, and tech specs for the LG Cabo de alimentação para TV (preto).

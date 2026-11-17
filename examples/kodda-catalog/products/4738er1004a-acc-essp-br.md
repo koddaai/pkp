@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/4738er1004a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/4738er1004a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/4738er1004a/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 4738ER1004A. Click for pictures, reviews, and tech specs for the LG Tubo de borracha Lavadora LG WD-13436RD, WD13436RNA, WD17BV2S6B - 4738ER1004A."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.357Z"
+  updated_at: "2026-11-17T15:22:38.233Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.357Z"
+    verified_at: "2026-11-17T15:22:38.233Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.357Z"
+    verified_at: "2026-11-17T15:22:38.233Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

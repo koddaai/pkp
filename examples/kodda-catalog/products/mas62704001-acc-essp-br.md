@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mas62704001-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mas62704001/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mas62704001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MAS62704001. Clique para ver imagens, análises e especificações técnicas da LG Correia dentada de transmissão Ar condicionado GHP LG GPUW160C2RM, GPUW200C2RM, GPUW250C2R - MAS62704001"
+summary: "Get more information on the LG MAS62704001. Click for pictures, reviews, and tech specs for the LG Correia dentada de transmissão Ar condicionado GHP LG GPUW160C2RM, GPUW200C2RM, GPUW250C2R - MAS62704001."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 464.54
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.733Z"
+  updated_at: "2026-11-17T15:22:38.619Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.733Z"
+    verified_at: "2026-11-17T15:22:38.619Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.733Z"
+    verified_at: "2026-11-17T15:22:38.619Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MAS62704001. Clique para ver imagens, análises e especificações técnicas da LG Correia dentada de transmissão Ar condicionado GHP LG GPUW160C2RM, GPUW200C2RM, GPUW250C2R - MAS62704001
+Get more information on the LG MAS62704001. Click for pictures, reviews, and tech specs for the LG Correia dentada de transmissão Ar condicionado GHP LG GPUW160C2RM, GPUW200C2RM, GPUW250C2R - MAS62704001.

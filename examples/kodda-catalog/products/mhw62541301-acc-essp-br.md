@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mhw62541301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/mhw62541301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/mhw62541301/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MHW62541301. Click for pictures, reviews, and tech specs for the LG Suporte de fixação do tambor de lavagem Máquina de lavar roupas LG CV3011BC4, CV7011WS4A, CV9011EC4 - MHW62541301."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 651.83
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.755Z"
+  updated_at: "2026-11-17T15:22:38.641Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.755Z"
+    verified_at: "2026-11-17T15:22:38.641Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.755Z"
+    verified_at: "2026-11-17T15:22:38.641Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

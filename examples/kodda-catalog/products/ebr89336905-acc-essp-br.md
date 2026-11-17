@@ -5,7 +5,7 @@ sku: "ebr89336905-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa Principal Mini System LG EBR89336905 - EBR89336905 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr89336905-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-e-audio/ebr89336905/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr89336905/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBR89336905. Click for pictures, reviews, and tech specs for the LG Placa Principal Mini System LG EBR89336905."
+summary: "Placa Principal Mini System LG EBR89336905"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 845.89
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.689Z"
+  updated_at: "2026-11-17T15:22:38.573Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.689Z"
+    verified_at: "2026-11-17T15:22:38.573Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.689Z"
+    verified_at: "2026-11-17T15:22:38.573Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBR89336905. Click for pictures, reviews, and tech specs for the LG Placa Principal Mini System LG EBR89336905.
+Placa Principal Mini System LG EBR89336905

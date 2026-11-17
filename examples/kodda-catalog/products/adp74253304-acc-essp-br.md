@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/adp74253304-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/adp74253304/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/adp74253304/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG ADP74253304. Clique para ver imagens, análises e especificações técnicas da LG Hélice da condensadora Ar condicionado LG S4UQ18KL3AA, A2UW18GFAC, A3UW21GFAC - ADP74253304"
+summary: "Get more information on the LG ADP74253304. Click for pictures, reviews, and tech specs for the LG Hélice da condensadora Ar condicionado LG S4UQ18KL3AA, A2UW18GFAC, A3UW21GFAC - ADP74253304."
 tags: ["lg", "8k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 190.61
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.436Z"
+  updated_at: "2026-11-17T15:22:38.320Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.436Z"
+    verified_at: "2026-11-17T15:22:38.320Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.436Z"
+    verified_at: "2026-11-17T15:22:38.320Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG ADP74253304. Clique para ver imagens, análises e especificações técnicas da LG Hélice da condensadora Ar condicionado LG S4UQ18KL3AA, A2UW18GFAC, A3UW21GFAC - ADP74253304
+Get more information on the LG ADP74253304. Click for pictures, reviews, and tech specs for the LG Hélice da condensadora Ar condicionado LG S4UQ18KL3AA, A2UW18GFAC, A3UW21GFAC - ADP74253304.

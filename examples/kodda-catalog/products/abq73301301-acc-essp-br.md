@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/abq73301301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/abq73301301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/abq73301301/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG ABQ73301301. Click for pictures, reviews, and tech specs for the LG Modulo eletrônico com display, cabos elétricos com conectores e gabinete plástico Ar Condicionado LG ASNQ092WSA0 - ABQ73301301."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.413Z"
+  updated_at: "2026-11-17T15:22:38.293Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.413Z"
+    verified_at: "2026-11-17T15:22:38.293Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.413Z"
+    verified_at: "2026-11-17T15:22:38.293Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

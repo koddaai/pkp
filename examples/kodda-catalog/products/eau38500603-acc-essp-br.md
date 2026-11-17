@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eau38500603-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/eau38500603/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eau38500603/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAU38500603. Click for pictures, reviews, and tech specs for the LG Cooler unidade condensadora Ar Condicionado LG ARUN60GS2, ARUV160LT2E, ARUV40GS2 - EAU38500603."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 816.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.588Z"
+  updated_at: "2026-11-17T15:22:38.473Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.588Z"
+    verified_at: "2026-11-17T15:22:38.473Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.588Z"
+    verified_at: "2026-11-17T15:22:38.473Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

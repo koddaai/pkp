@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr33105528-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/ebr33105528/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/ebr33105528/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR33105528. Click for pictures, reviews, and tech specs for the LG Placa Principal Refrigerador LG GNB392PXG2 EBR33105528."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1525.57
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.631Z"
+  updated_at: "2026-11-17T15:22:38.514Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.631Z"
+    verified_at: "2026-11-17T15:22:38.514Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.631Z"
+    verified_at: "2026-11-17T15:22:38.514Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/5006er3001b-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/5006er3001b/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/lavadoras/filtros/5006er3001b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Cobertura plástica de proteção com anel de borracha"
-tags: ["lg", "pro"]
+summary: "Get more information on the LG 5006ER3001B. Click for pictures, reviews, and tech specs for the LG Tampa do filtro da bomba Lavadora LG 5006ER3001B."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.362Z"
+  updated_at: "2026-11-17T15:22:38.239Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.362Z"
+    verified_at: "2026-11-17T15:22:38.239Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.362Z"
+    verified_at: "2026-11-17T15:22:38.239Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Cobertura plástica de proteção com anel de borracha
+Get more information on the LG 5006ER3001B. Click for pictures, reviews, and tech specs for the LG Tampa do filtro da bomba Lavadora LG 5006ER3001B.

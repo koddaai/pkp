@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr75370601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/ebr75370601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/secadoras/ebr75370601/"
 
 # === DESCOBERTA (L0) ===
 summary: "LG RV1329C4P EBR75370601 Clothes Dryer Display Board"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 179.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.646Z"
+  updated_at: "2026-11-17T15:22:38.529Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.646Z"
+    verified_at: "2026-11-17T15:22:38.529Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.646Z"
+    verified_at: "2026-11-17T15:22:38.529Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

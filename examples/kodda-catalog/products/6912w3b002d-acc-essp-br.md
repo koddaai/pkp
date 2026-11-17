@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/6912w3b002d-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/6912w3b002d/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/micro-ondas/outros-acessorios/6912w3b002d/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 6912W3B002D. Click for pictures, reviews, and tech specs for the LG Lâmpada incandescente Micro-ondas LG MS1944AA, MJ3881BCA, MP-9483SLR - 6912W3B002D."
@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 67.64
+  value: 84.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.393Z"
+  updated_at: "2026-11-17T15:22:38.272Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.393Z"
+    verified_at: "2026-11-17T15:22:38.272Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.393Z"
+    verified_at: "2026-11-17T15:22:38.272Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

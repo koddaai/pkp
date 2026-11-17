@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/eaj65841101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eaj65841101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eaj65841101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ65841101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo TV LG 86UR8750PSA EAJ65841101."
-tags: ["lg"]
+summary: "Módulo de visualização de tela (Ecrã), plana, modelo: NC860TQE-VBMH3, de 86 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers)e circuito de controle, de cristal líquido Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)"
+tags: ["lg", "ai"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4847.75
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.578Z"
+  updated_at: "2026-11-17T15:22:38.463Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.578Z"
+    verified_at: "2026-11-17T15:22:38.463Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.578Z"
+    verified_at: "2026-11-17T15:22:38.463Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  voltage: "110V"
+  screen_size: 86
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAJ65841101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo TV LG 86UR8750PSA EAJ65841101.
+Módulo de visualização de tela (Ecrã), plana, modelo: NC860TQE-VBMH3, de 86 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores (drivers)e circuito de controle, de cristal líquido Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead65286248-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/ead65286248/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ead65286248/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAD65286248. Click for pictures, reviews, and tech specs for the LG Cabo de força Lava e Seca LG CV9013WC4 - EAD65286248."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 201.69
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.546Z"
+  updated_at: "2026-11-17T15:22:38.432Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.546Z"
+    verified_at: "2026-11-17T15:22:38.432Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.546Z"
+    verified_at: "2026-11-17T15:22:38.432Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb73975763-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/akb73975763/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/controle-remoto/akb73975763/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB73975763. Click for pictures, reviews, and tech specs for the LG Controle remoto All in One LG 47WT30MS-B, 32SM5B, 22SM3B-B- AKB73975763."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 63.84
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.497Z"
+  updated_at: "2026-11-17T15:22:38.378Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.497Z"
+    verified_at: "2026-11-17T15:22:38.378Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.497Z"
+    verified_at: "2026-11-17T15:22:38.378Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

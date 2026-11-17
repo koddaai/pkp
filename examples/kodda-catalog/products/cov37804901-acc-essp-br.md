@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/cov37804901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/cov37804901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/cov37804901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG COV37804901. Click for pictures, reviews, and tech specs for the LG Placa Principal para TV LG 32LR600BPSA COV37804901."
-tags: ["lg"]
+summary: "PROCEDIMENTO OBRIGATÓRIO APÓS TROCA DE PLACA PRINCIPAL É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas. Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros."
+tags: ["lg", "ai", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 775.33
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.514Z"
+  updated_at: "2026-11-17T15:22:38.396Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.514Z"
+    verified_at: "2026-11-17T15:22:38.396Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.514Z"
+    verified_at: "2026-11-17T15:22:38.396Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG COV37804901. Click for pictures, reviews, and tech specs for the LG Placa Principal para TV LG 32LR600BPSA COV37804901.
+PROCEDIMENTO OBRIGATÓRIO APÓS TROCA DE PLACA PRINCIPAL É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas. Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros.

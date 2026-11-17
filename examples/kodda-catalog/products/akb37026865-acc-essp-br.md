@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/akb37026865-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/akb37026865/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/soundbars-e-caixas-de-som/controle-remoto/akb37026865/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AKB37026865. Click for pictures, reviews, and tech specs for the LG Controle Remoto Home Teacher LG HT805ST, HT805THW, HT806 - AKB37026865."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 60.79
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.495Z"
+  updated_at: "2026-11-17T15:22:38.375Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.495Z"
+    verified_at: "2026-11-17T15:22:38.375Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.495Z"
+    verified_at: "2026-11-17T15:22:38.375Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

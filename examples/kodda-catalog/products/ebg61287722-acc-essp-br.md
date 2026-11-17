@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebg61287722-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebg61287722/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebg61287722/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBG61287722. Click for pictures, reviews, and tech specs for the LG Sensor de temperatura Ar Condicionado LG EBG61287722."
+summary: "Sensor de temperatura formado por termistor e cabo elétrico"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.621Z"
+  updated_at: "2026-11-17T15:22:38.504Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.621Z"
+    verified_at: "2026-11-17T15:22:38.504Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.621Z"
+    verified_at: "2026-11-17T15:22:38.504Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBG61287722. Click for pictures, reviews, and tech specs for the LG Sensor de temperatura Ar Condicionado LG EBG61287722.
+Sensor de temperatura formado por termistor e cabo elétrico

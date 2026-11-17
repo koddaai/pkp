@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/5300jr1014a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/5300jr1014a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/5300jr1014a/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 5300JR1014A. Click for pictures, reviews, and tech specs for the LG Resistência de aquecimento do degelo Refrigerador LG GC-L217BSKV - 5300JR1014A."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 369.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.372Z"
+  updated_at: "2026-11-17T15:22:38.249Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.372Z"
+    verified_at: "2026-11-17T15:22:38.249Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.372Z"
+    verified_at: "2026-11-17T15:22:38.249Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

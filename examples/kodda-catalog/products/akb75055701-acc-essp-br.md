@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/akb75055701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/care-accessories/tvs/remote-controller/akb75055701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/tvs/controle-remoto/akb75055701/"
 
 # === DESCOBERTA (L0) ===
-summary: "Obtenha mais informações sobre o AKB75055701. Clique para ver fotos, avaliações e especificações técnicas do Controle remoto para LG TV."
-tags: ["lg", "ai"]
+summary: "Get more information on the LG AKB75055701. Click for pictures, reviews, and tech specs for the LG Controle remoto para TV."
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 57.59
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.500Z"
+  updated_at: "2026-11-17T15:22:38.382Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.500Z"
+    verified_at: "2026-11-17T15:22:38.382Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.500Z"
+    verified_at: "2026-11-17T15:22:38.382Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Obtenha mais informações sobre o AKB75055701. Clique para ver fotos, avaliações e especificações técnicas do Controle remoto para LG TV.
+Get more information on the LG AKB75055701. Click for pictures, reviews, and tech specs for the LG Controle remoto para TV.

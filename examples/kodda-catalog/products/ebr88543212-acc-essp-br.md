@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr88543212-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/peca-de-reposicao/ebr88543212/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebr88543212/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBR88543212. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4NW18KL31A EBR88543212."
+summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para unidade evaporadora"
 tags: ["lg", "8k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 373.01
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.684Z"
+  updated_at: "2026-11-17T15:22:38.569Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.684Z"
+    verified_at: "2026-11-17T15:22:38.569Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.684Z"
+    verified_at: "2026-11-17T15:22:38.569Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBR88543212. Click for pictures, reviews, and tech specs for the LG Placa Principal Ar Condicionado LG S4NW18KL31A EBR88543212.
+Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para unidade evaporadora

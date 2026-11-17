@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/0fzza90001t-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/0fzza90001t/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/0fzza90001t/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 0FZZA90001T. Click for pictures, reviews, and tech specs for the LG Fusível M8120050 Ar Condicionado LG LPUC3008S4R, LPNC4108S4R, LPNC5808S4R - 0FZZA90001T."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 56.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.317Z"
+  updated_at: "2026-11-17T15:22:38.190Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.317Z"
+    verified_at: "2026-11-17T15:22:38.190Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.317Z"
+    verified_at: "2026-11-17T15:22:38.190Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

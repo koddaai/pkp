@@ -5,7 +5,7 @@ sku: "ebr30647401-acc-essp-br"
 # gtin: null
 brand: "LG"
 name: "Placa da fonte Caixa Acústica LG RN9 - EBR30647401 - EBR30647401 | LG BR"
-category: "tvs"
+category: "outros"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr30647401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebr30647401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/soundbars-e-caixas-de-som/ebr30647401/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR30647401. Click for pictures, reviews, and tech specs for the LG Placa da fonte Caixa Acústica LG RN9 - EBR30647401."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 407.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.627Z"
+  updated_at: "2026-11-17T15:22:38.511Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.627Z"
+    verified_at: "2026-11-17T15:22:38.511Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.627Z"
+    verified_at: "2026-11-17T15:22:38.511Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

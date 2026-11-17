@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/tca37032031-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/tca37032031/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/tca37032031/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG TCA37032031. Click for pictures, reviews, and tech specs for the LG Motocompressor Refrigerador LG GMC372SLCN TCA37032031."
-tags: ["lg"]
+summary: "Motocompressor hermético LG Linear Invert Não recíproco Modelo: FMA102NAMA Com capacidade de 129 frigorias/hora 512 BTU/hs 220/240V monofásico 60hz R600A"
+tags: ["lg", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1317.51
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.784Z"
+  updated_at: "2026-11-17T15:22:38.677Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.784Z"
+    verified_at: "2026-11-17T15:22:38.677Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.784Z"
+    verified_at: "2026-11-17T15:22:38.677Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  voltage: "220V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG TCA37032031. Click for pictures, reviews, and tech specs for the LG Motocompressor Refrigerador LG GMC372SLCN TCA37032031.
+Motocompressor hermético LG Linear Invert Não recíproco Modelo: FMA102NAMA Com capacidade de 129 frigorias/hora 512 BTU/hs 220/240V monofásico 60hz R600A

@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ead61519420-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ead61519420/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ead61519420/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAD61519420. Clique para ver imagens, análises e especificações técnicas da LG Cabo com conectores Ar Condicionado LG PZCWRCG3, PWYREG100 - EAD61519420"
+summary: "Cabo com conectores Ar Condicionado LG PZCWRCG3, PWYREG100 - EAD61519420"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 331.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.535Z"
+  updated_at: "2026-11-17T15:22:38.418Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.535Z"
+    verified_at: "2026-11-17T15:22:38.418Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.535Z"
+    verified_at: "2026-11-17T15:22:38.418Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAD61519420. Clique para ver imagens, análises e especificações técnicas da LG Cabo com conectores Ar Condicionado LG PZCWRCG3, PWYREG100 - EAD61519420
+Cabo com conectores Ar Condicionado LG PZCWRCG3, PWYREG100 - EAD61519420

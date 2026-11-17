@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebu63804901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu63804901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu63804901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBU63804901. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 32LW300C - EBU63804901."
+summary: "Placa Principal TV LG 32LW300C - EBU63804901"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 464.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.694Z"
+  updated_at: "2026-11-17T15:22:38.579Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.694Z"
+    verified_at: "2026-11-17T15:22:38.579Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.694Z"
+    verified_at: "2026-11-17T15:22:38.579Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBU63804901. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 32LW300C - EBU63804901.
+Placa Principal TV LG 32LW300C - EBU63804901

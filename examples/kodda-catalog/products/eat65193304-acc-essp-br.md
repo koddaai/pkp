@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eat65193304-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/eat65193304/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eat65193304/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Wi Fi, 2.45 à 5GHZ WN8122BTEACE-HF-19 MT7668U"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.587Z"
+  updated_at: "2026-11-17T15:22:38.472Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.587Z"
+    verified_at: "2026-11-17T15:22:38.472Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.587Z"
+    verified_at: "2026-11-17T15:22:38.472Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

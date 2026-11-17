@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead64666101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ead64666101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ead64666101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAD64666101. Click for pictures, reviews, and tech specs for the LG Cabo (condutor elétrico plano FFC 60V) TV LG 55UK6360PSF, 55UK6540PSB, 65SM8100PSA - EAD64666101."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.544Z"
+  updated_at: "2026-11-17T15:22:38.430Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.544Z"
+    verified_at: "2026-11-17T15:22:38.430Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.544Z"
+    verified_at: "2026-11-17T15:22:38.430Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

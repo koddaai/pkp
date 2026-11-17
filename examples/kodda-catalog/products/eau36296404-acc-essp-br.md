@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eau36296404-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-ar-condicionado/acessorio/eau36296404/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eau36296404/"
 
 # === DESCOBERTA (L0) ===
 summary: "Motor de corrente alternada, Assíncrono Monofásico Carcaça fechada Potência inferior a 15kw Distância da base do motor até o centro do seu eixo (65mm) Potência 90w 930rpm Para aparelho condicionador de ar"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1002.85
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.587Z"
+  updated_at: "2026-11-17T15:22:38.472Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.587Z"
+    verified_at: "2026-11-17T15:22:38.472Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.587Z"
+    verified_at: "2026-11-17T15:22:38.472Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

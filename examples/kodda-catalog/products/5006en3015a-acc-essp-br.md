@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/5006en3015a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/5006en3015a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/lavadoras/outros-acessorios/5006en3015a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Tampa Máquina de Lavar Roupa LG WD1403RD5 5006EN3015A"
+summary: "Get more information on the LG 5006EN3015A. Click for pictures, reviews, and tech specs for the LG Tampa Máquina de Lavar Roupa LG WD1403RD5 5006EN3015A."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.362Z"
+  updated_at: "2026-11-17T15:22:38.239Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.362Z"
+    verified_at: "2026-11-17T15:22:38.239Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.362Z"
+    verified_at: "2026-11-17T15:22:38.239Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Tampa Máquina de Lavar Roupa LG WD1403RD5 5006EN3015A
+Get more information on the LG 5006EN3015A. Click for pictures, reviews, and tech specs for the LG Tampa Máquina de Lavar Roupa LG WD1403RD5 5006EN3015A.

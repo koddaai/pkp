@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mch63104901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mch63104901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mch63104901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG MCH63104901 Click for pictures, reviews, and tech specs for the LG Bobina de ignição para motor GHP (GAS HEAT PUMP) Ar Condicionado LG GPUW161B2CM, GPUW200C2RM, GPUW320C2R - MCH63104901"
+summary: "Get more information on the LG MCH63104901. Click for pictures, reviews, and tech specs for the LG Bobina de ignição para motor GHP (GAS HEAT PUMP) Ar Condicionado LG GPUW161B2CM, GPUW200C2RM, GPUW320C2R - MCH63104901."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 266.08
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.735Z"
+  updated_at: "2026-11-17T15:22:38.621Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.735Z"
+    verified_at: "2026-11-17T15:22:38.621Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.735Z"
+    verified_at: "2026-11-17T15:22:38.621Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG MCH63104901 Click for pictures, reviews, and tech specs for the LG Bobina de ignição para motor GHP (GAS HEAT PUMP) Ar Condicionado LG GPUW161B2CM, GPUW200C2RM, GPUW320C2R - MCH63104901
+Get more information on the LG MCH63104901. Click for pictures, reviews, and tech specs for the LG Bobina de ignição para motor GHP (GAS HEAT PUMP) Ar Condicionado LG GPUW161B2CM, GPUW200C2RM, GPUW320C2R - MCH63104901.

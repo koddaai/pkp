@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/6601er1006e-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-lavadoras-de-roupa/peca-de-reposicao/6601er1006e/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/6601er1006e/"
 
 # === DESCOBERTA (L0) ===
 summary: "Sensor Máquina Lavar Roupa LG WD14312RD 6601ER1006E"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 136.55
   source: "retailer"
-  updated_at: "2026-11-17T02:47:49.389Z"
+  updated_at: "2026-11-17T15:22:38.267Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.389Z"
+    verified_at: "2026-11-17T15:22:38.267Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-17T02:47:49.389Z"
+    verified_at: "2026-11-17T15:22:38.267Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
