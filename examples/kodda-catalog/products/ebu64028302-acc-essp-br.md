@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu64028302-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebu64028302/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebu64028302/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBU64028302. Click for pictures, reviews, and tech specs for the LG Placa principal Monitor LG 28MT49S-OS - EBU64028302."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 464.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.180Z"
+  updated_at: "2026-11-18T14:57:44.165Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.180Z"
+    verified_at: "2026-11-18T14:57:44.165Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.180Z"
+    verified_at: "2026-11-18T14:57:44.165Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65915801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/peca-de-reposicao/eaj65915801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj65915801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Módulo de visualização de tela (ecrã) plana Modelo: LM238WF6-SSA5 23,8 polegadas Sem tela sensível ao toque (ecrã táctil) Com controladores (drivers) e circuito de controle De cristal líquido Para monitor desktop Não acompanha demais peças que constituem o Monitor (gabinete, cabos, placas principais)"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 740.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.986Z"
+  updated_at: "2026-11-18T14:57:44.056Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.986Z"
+    verified_at: "2026-11-18T14:57:44.056Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.986Z"
+    verified_at: "2026-11-18T14:57:44.056Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

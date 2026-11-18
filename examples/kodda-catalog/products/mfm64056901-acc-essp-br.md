@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "mfm64056901-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Membrana Forno Microondas LG MS3057Q MFM64056901 - MFM64056901"
+name: "Membrana Forno Microondas LG MS3057Q MFM64056901 - MFM64056901 | LG BR"
 category: "eletrodomesticos"
 subcategory: "micro-ondas"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mfm64056901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-forno-micro-ondas/acessorio/mfm64056901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/mfm64056901/"
 
 # === DESCOBERTA (L0) ===
 summary: "Membrana auto-adesiva de plástico com teclas de funções para forno micro-ondas"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.741Z"
+  updated_at: "2026-11-18T14:57:44.220Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.741Z"
+    verified_at: "2026-11-18T14:57:44.220Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.741Z"
+    verified_at: "2026-11-18T14:57:44.220Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-14
+# Data de importacao: 2026-11-18
 # aw_product_id: 43478677057
 ---
 

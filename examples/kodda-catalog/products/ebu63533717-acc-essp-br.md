@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu63533717-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebu63533717/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebu63533717/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal Monitor LG 27GL650F-B - EBU63533717"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 787.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.179Z"
+  updated_at: "2026-11-18T14:57:44.163Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.179Z"
+    verified_at: "2026-11-18T14:57:44.163Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.179Z"
+    verified_at: "2026-11-18T14:57:44.163Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebt66773303-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/peca-de-reposicao/ebt66773303/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebt66773303/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa de circuito impresso principal Montada com componentes eletroeletrônicos Para painéis digitais com tecnologia LED Modelo LAEC015-GN2"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2439.4
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.176Z"
+  updated_at: "2026-11-18T14:57:44.161Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.176Z"
+    verified_at: "2026-11-18T14:57:44.161Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.176Z"
+    verified_at: "2026-11-18T14:57:44.161Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

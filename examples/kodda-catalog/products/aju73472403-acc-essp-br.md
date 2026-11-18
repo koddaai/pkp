@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/aju73472403-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aju73472403/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aju73472403/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AJU73472403. Click for pictures, reviews, and tech specs for the LG Válvula de retenção Ar Condicionado LG RPUW180X9S, RPUW200X9S, RPUW321X9P - AJU73472403."
+summary: "Válvula de retenção Ar Condicionado LG RPUW180X9S, RPUW200X9S, RPUW321X9P - AJU73472403"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1813.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.887Z"
+  updated_at: "2026-11-18T14:57:43.972Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.887Z"
+    verified_at: "2026-11-18T14:57:43.972Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.887Z"
+    verified_at: "2026-11-18T14:57:43.972Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AJU73472403. Click for pictures, reviews, and tech specs for the LG Válvula de retenção Ar Condicionado LG RPUW180X9S, RPUW200X9S, RPUW321X9P - AJU73472403.
+Válvula de retenção Ar Condicionado LG RPUW180X9S, RPUW200X9S, RPUW321X9P - AJU73472403

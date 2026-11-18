@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eau42744429-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-forno-micro-ondas/peca-de-reposicao/eau42744429/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/eau42744429/"
 
 # === DESCOBERTA (L0) ===
 summary: "Motor para Forno Microondas LG MS3095LR EAU42744429"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 49.53
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.995Z"
+  updated_at: "2026-11-18T14:57:44.066Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.995Z"
+    verified_at: "2026-11-18T14:57:44.066Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.995Z"
+    verified_at: "2026-11-18T14:57:44.066Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

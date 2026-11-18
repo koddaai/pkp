@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/aeb76285101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aeb76285101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aeb76285101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AEB76285101. Clique para ver imagens, análises e especificações técnicas da LG Gabinete frontal da evaporadora Ar Condicionado LG S4NW09AA31A - AEB76285101"
+summary: "Get more information on the LG AEB76285101. Click for pictures, reviews, and tech specs for the LG Gabinete frontal da evaporadora Ar Condicionado LG S4NW09AA31A - AEB76285101."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 312.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.817Z"
+  updated_at: "2026-11-18T14:57:43.926Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.817Z"
+    verified_at: "2026-11-18T14:57:43.926Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.817Z"
+    verified_at: "2026-11-18T14:57:43.926Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AEB76285101. Clique para ver imagens, análises e especificações técnicas da LG Gabinete frontal da evaporadora Ar Condicionado LG S4NW09AA31A - AEB76285101
+Get more information on the LG AEB76285101. Click for pictures, reviews, and tech specs for the LG Gabinete frontal da evaporadora Ar Condicionado LG S4NW09AA31A - AEB76285101.

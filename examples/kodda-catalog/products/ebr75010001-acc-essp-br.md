@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr75010001-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebr75010001/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebr75010001/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR75010001. Clique para ver imagens, análises e especificações técnicas da LG Placa de controle Monitor LG M2752D-PS, 24MN43D-PS.AWZ, 26MA33D-OS - EBR75010001"
+summary: "Get more information on the LG EBR75010001. Click for pictures, reviews, and tech specs for the LG Placa de controle Monitor LG M2752D-PS, 24MN43D-PS.AWZ, 26MA33D-OS - EBR75010001."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 80.88
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.059Z"
+  updated_at: "2026-11-18T14:57:44.118Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.059Z"
+    verified_at: "2026-11-18T14:57:44.118Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.059Z"
+    verified_at: "2026-11-18T14:57:44.118Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR75010001. Clique para ver imagens, análises e especificações técnicas da LG Placa de controle Monitor LG M2752D-PS, 24MN43D-PS.AWZ, 26MA33D-OS - EBR75010001
+Get more information on the LG EBR75010001. Click for pictures, reviews, and tech specs for the LG Placa de controle Monitor LG M2752D-PS, 24MN43D-PS.AWZ, 26MA33D-OS - EBR75010001.

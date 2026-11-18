@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/5900w1a004a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/5900w1a004a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/5900w1a004a/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 5900W1A004A. Click for pictures, reviews, and tech specs for the LG Hélice do ventilador Forno Micro-ondas LG MH4046SP, MH7047GA, MH8048A - 5900W1A004A."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.745Z"
+  updated_at: "2026-11-18T14:57:43.865Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.745Z"
+    verified_at: "2026-11-18T14:57:43.865Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.745Z"
+    verified_at: "2026-11-18T14:57:43.865Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

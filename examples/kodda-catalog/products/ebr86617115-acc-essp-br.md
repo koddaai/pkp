@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr86617115-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebr86617115/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebr86617115/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR86617115. Clique para ver imagens, análises e especificações técnicas da LG Placa do sensor IR Monitor Desktop LG 24TL520S-PS - EBR86617115"
+summary: "Get more information on the LG EBR86617115. Click for pictures, reviews, and tech specs for the LG Placa do sensor IR Monitor Desktop LG 24TL520S-PS - EBR86617115."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 141.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.162Z"
+  updated_at: "2026-11-18T14:57:44.149Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.162Z"
+    verified_at: "2026-11-18T14:57:44.149Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.162Z"
+    verified_at: "2026-11-18T14:57:44.149Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR86617115. Clique para ver imagens, análises e especificações técnicas da LG Placa do sensor IR Monitor Desktop LG 24TL520S-PS - EBR86617115
+Get more information on the LG EBR86617115. Click for pictures, reviews, and tech specs for the LG Placa do sensor IR Monitor Desktop LG 24TL520S-PS - EBR86617115.

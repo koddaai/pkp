@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebj60663829-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/ebj60663829/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/ebj60663829/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBJ60663829. Click for pictures, reviews, and tech specs for the LG Transformador Micro-ondas LG MS3052R, MS3057Q, MS3059L - EBJ60663829."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.035Z"
+  updated_at: "2026-11-18T14:57:44.099Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.035Z"
+    verified_at: "2026-11-18T14:57:44.099Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.035Z"
+    verified_at: "2026-11-18T14:57:44.099Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

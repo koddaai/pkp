@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/acw75497374-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/acw75497374/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/acw75497374/"
 
 # === DESCOBERTA (L0) ===
 summary: "Painel Inferior Ar Condicionado LG ACW75497374"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 122.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.795Z"
+  updated_at: "2026-11-18T14:57:43.909Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.795Z"
+    verified_at: "2026-11-18T14:57:43.909Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.795Z"
+    verified_at: "2026-11-18T14:57:43.909Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

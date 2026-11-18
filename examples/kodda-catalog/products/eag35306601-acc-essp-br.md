@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eag35306601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eag35306601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eag35306601/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAG35306601. Click for pictures, reviews, and tech specs for the LG Conector Jack 5V KJA-DC-1-0032 Monitor Desktop LG HS201, 20EN33SS-B, 22MA33D-PS - EAG35306601."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 34.9
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.957Z"
+  updated_at: "2026-11-18T14:57:44.032Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.957Z"
+    verified_at: "2026-11-18T14:57:44.032Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.957Z"
+    verified_at: "2026-11-18T14:57:44.032Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

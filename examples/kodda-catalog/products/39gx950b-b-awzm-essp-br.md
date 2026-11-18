@@ -27,9 +27,9 @@ tags: ["lg", "ai", "oled", "hdr", "premium", "pro", "ultra", "gaming"]
 price:
   type: "street"
   currency: "BRL"
-  value: 9999.03
+  value: 9683.28
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.702Z"
+  updated_at: "2026-11-18T14:57:43.827Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.702Z"
+    verified_at: "2026-11-18T14:57:43.827Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.702Z"
+    verified_at: "2026-11-18T14:57:43.827Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

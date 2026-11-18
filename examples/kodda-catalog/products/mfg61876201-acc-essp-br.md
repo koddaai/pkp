@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mfg61876201-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/mfg61876201/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/mfg61876201/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MFG61876201. Click for pictures, reviews, and tech specs for the LG Trava da porta Micro-ondas LG MS3042R, MH7093RA, MS2355R - MFG61876201."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.244Z"
+  updated_at: "2026-11-18T14:57:44.216Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.244Z"
+    verified_at: "2026-11-18T14:57:44.216Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.244Z"
+    verified_at: "2026-11-18T14:57:44.216Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eae62927701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/eae62927701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/eae62927701/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAE62927701. Click for pictures, reviews, and tech specs for the LG Capacitor Forno Micro-ondas LG MS3045S, MS3042B, MS3043S - EAE62927701."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 41.89
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.955Z"
+  updated_at: "2026-11-18T14:57:44.030Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.955Z"
+    verified_at: "2026-11-18T14:57:44.030Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.955Z"
+    verified_at: "2026-11-18T14:57:44.030Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

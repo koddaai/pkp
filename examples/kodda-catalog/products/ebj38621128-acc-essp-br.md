@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebj38621128-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/ebj38621128/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/ebj38621128/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBJ38621128. Click for pictures, reviews, and tech specs for the LG Transformador Micro-ondas LG MS3052RA, MH7097ARA, MS3044LA - EBJ38621128."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 455.24
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.035Z"
+  updated_at: "2026-11-18T14:57:44.099Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.035Z"
+    verified_at: "2026-11-18T14:57:44.099Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.035Z"
+    verified_at: "2026-11-18T14:57:44.099Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

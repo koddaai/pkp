@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/5859a10008b-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5859a10008b/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/5859a10008b/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 5859A10008B. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Ar Condicionado LG LMDN125HV, ARNU09GB3G4, ARNU12GB1G2 - 5859A10008B."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 160.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.742Z"
+  updated_at: "2026-11-18T14:57:43.862Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.742Z"
+    verified_at: "2026-11-18T14:57:43.862Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.742Z"
+    verified_at: "2026-11-18T14:57:43.862Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

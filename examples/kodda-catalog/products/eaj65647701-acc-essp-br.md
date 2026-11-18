@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eaj65647701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj65647701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj65647701/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ65647701. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG 24BL550J-B, 24BP750C-B, 24MK430H-B - EAJ65647701."
+summary: "Tela de cristal líquido (módulo) Monitor LG 24BL550J-B, 24BP750C-B, 24MK430H-B - EAJ65647701"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 664.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.967Z"
+  updated_at: "2026-11-18T14:57:44.040Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.967Z"
+    verified_at: "2026-11-18T14:57:44.040Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.967Z"
+    verified_at: "2026-11-18T14:57:44.040Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAJ65647701. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG 24BL550J-B, 24BP750C-B, 24MK430H-B - EAJ65647701.
+Tela de cristal líquido (módulo) Monitor LG 24BL550J-B, 24BP750C-B, 24MK430H-B - EAJ65647701

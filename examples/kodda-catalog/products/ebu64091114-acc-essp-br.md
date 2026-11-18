@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu64091114-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebu64091114/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebu64091114/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBU64091114. Click for pictures, reviews, and tech specs for the LG Placa principal Monitor TV LG 24TL520S, 24ML600M, 24MP400 - EBU64091114."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 464.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.182Z"
+  updated_at: "2026-11-18T14:57:44.166Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.182Z"
+    verified_at: "2026-11-18T14:57:44.166Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.182Z"
+    verified_at: "2026-11-18T14:57:44.166Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

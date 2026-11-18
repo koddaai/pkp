@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay65915401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios/monitores/adaptadores-e-cabos-de-alimentacao/eay65915401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eay659154011/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAY65915401. Click for pictures, reviews, and tech specs for the LG Fonte de Alimentação Monitor Gamer LG 45GS95QEB EAY65915401."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 654.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.023Z"
+  updated_at: "2026-11-18T14:57:44.089Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.023Z"
+    verified_at: "2026-11-18T14:57:44.089Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.023Z"
+    verified_at: "2026-11-18T14:57:44.089Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

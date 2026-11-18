@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65868901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65868901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj65868901/"
 
 # === DESCOBERTA (L0) ===
 summary: "Módulo de visualização de tela (Ecrã), plana, modelo: LM238WF2-SSM1, de 23.8 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de cristal líquido Display completo Não acompanha demais peças que constituem o Televisor (gabinete, cabos, placas principais)"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 388.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.984Z"
+  updated_at: "2026-11-18T14:57:44.055Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.984Z"
+    verified_at: "2026-11-18T14:57:44.055Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.984Z"
+    verified_at: "2026-11-18T14:57:44.055Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

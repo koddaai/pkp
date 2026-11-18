@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mjx65072201-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mjx65072201/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mjx65072201/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MJX65072201. Click for pictures, reviews, and tech specs for the LG Válvula de expensão Ar Condicionado LG ARNU09GTUA2, ARNU07GTUB4, ARNU12GTUC4 - MJX65072201."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 312.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.255Z"
+  updated_at: "2026-11-18T14:57:44.225Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.255Z"
+    verified_at: "2026-11-18T14:57:44.225Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.255Z"
+    verified_at: "2026-11-18T14:57:44.225Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65647601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj65647601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj65647601/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAJ65647601. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) Monitor LG 22MP55PJ-B, 22BN550Y-B, 22SM3G-B - EAJ65647601."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.967Z"
+  updated_at: "2026-11-18T14:57:44.040Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.967Z"
+    verified_at: "2026-11-18T14:57:44.040Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.967Z"
+    verified_at: "2026-11-18T14:57:44.040Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu64091101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebu64091101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebu64091101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal Monitor LG 24MT49S-PS - EBU64091101"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 664.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.182Z"
+  updated_at: "2026-11-18T14:57:44.166Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.182Z"
+    verified_at: "2026-11-18T14:57:44.166Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.182Z"
+    verified_at: "2026-11-18T14:57:44.166Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

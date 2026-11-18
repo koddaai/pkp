@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/6324zaae22g-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/6324zaae22g/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/6324zaae22g/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 6324ZAAE22G. Click for pictures, reviews, and tech specs for the LG Magnetron 2M213 Micro-ondas LG MS2357R, MS2355R, MS2355RA - 6324ZAAE22G."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 136.79
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.751Z"
+  updated_at: "2026-11-18T14:57:43.871Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.751Z"
+    verified_at: "2026-11-18T14:57:43.871Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.751Z"
+    verified_at: "2026-11-18T14:57:43.871Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

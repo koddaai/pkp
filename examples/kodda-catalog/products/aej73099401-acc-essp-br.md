@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aej73099401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/aej73099401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/aej73099401/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AEJ73099401. Click for pictures, reviews, and tech specs for the LG Suporte trava com micro-chave Micro-ondas LG MH7083R, MH7043RA, MH7053R - AEJ73099401."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.818Z"
+  updated_at: "2026-11-18T14:57:43.927Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.818Z"
+    verified_at: "2026-11-18T14:57:43.927Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.818Z"
+    verified_at: "2026-11-18T14:57:43.927Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

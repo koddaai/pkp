@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaf36358306-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/eaf36358306/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/eaf36358306/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAF36358306. Click for pictures, reviews, and tech specs for the LG Fusível alta tensão Micro-ondas LG MH7048G, MH7043RA, MH7044LA - EAF36358306."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 50.73
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.956Z"
+  updated_at: "2026-11-18T14:57:44.031Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.956Z"
+    verified_at: "2026-11-18T14:57:44.031Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.956Z"
+    verified_at: "2026-11-18T14:57:44.031Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

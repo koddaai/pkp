@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eau42744430-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Motor Forno Microondas LG MS3091BCA EAU42744430 - EAU42744430"
+name: "Motor Forno Microondas LG MS3091BCA EAU42744430 - EAU42744430 | LG BR"
 category: "eletrodomesticos"
 subcategory: "forno"
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eau42744430-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-forno-micro-ondas/acessorio/eau42744430/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/eau42744430/"
 
 # === DESCOBERTA (L0) ===
 summary: "Motor Forno Microondas LG MS3091BCA EAU42744430"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.548Z"
+  updated_at: "2026-11-18T14:57:44.066Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.548Z"
+    verified_at: "2026-11-18T14:57:44.066Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.548Z"
+    verified_at: "2026-11-18T14:57:44.066Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-14
+# Data de importacao: 2026-11-18
 # aw_product_id: 43478676183
 ---
 

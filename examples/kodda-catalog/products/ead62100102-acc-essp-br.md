@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead62100102-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/ead62100102/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/ead62100102/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAD62100102. Click for pictures, reviews, and tech specs for the LG Cabo de força Forno Micro-ondas LG MS3048GA, LSRM2085ST, MH8297CIRA - EAD62100102."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.937Z"
+  updated_at: "2026-11-18T14:57:44.015Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.937Z"
+    verified_at: "2026-11-18T14:57:44.015Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.937Z"
+    verified_at: "2026-11-18T14:57:44.015Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

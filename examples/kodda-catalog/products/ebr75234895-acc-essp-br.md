@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr75234895-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/ebr75234895/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/ebr75234895/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR75234895. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Forno Micro-ondas LG MH7057Q, MH7097AR - EBR75234895"
+summary: "Get more information on the LG EBR75234895. Click for pictures, reviews, and tech specs for the LG Placa principal Forno Micro-ondas LG MH7057Q, MH7097AR - EBR75234895."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 189.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.060Z"
+  updated_at: "2026-11-18T14:57:44.119Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.060Z"
+    verified_at: "2026-11-18T14:57:44.119Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.060Z"
+    verified_at: "2026-11-18T14:57:44.119Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR75234895. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Forno Micro-ondas LG MH7057Q, MH7097AR - EBR75234895
+Get more information on the LG EBR75234895. Click for pictures, reviews, and tech specs for the LG Placa principal Forno Micro-ondas LG MH7057Q, MH7097AR - EBR75234895.

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "agf79719932-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (módulo) Monitor LG 20M37AA-B - AGF79719932 - AGF79719932 | LG BR"
+name: "Pantalla de cristal líquido (Módulo) para Monitor LG 20MK400H-B. AGF79719932 - AGF79719932 | LG BR"
 category: "monitors"
 
 
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/agf79719932-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/agf79719932/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/agf79719932/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG AGF79719932. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG 20M37AA-B - AGF79719932."
+summary: "Pantalla de cristal líquido (Módulo) para Monitor LG 20MK400H-B. AGF79719932"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 626.16
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.842Z"
+  updated_at: "2026-11-18T14:57:43.948Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.842Z"
+    verified_at: "2026-11-18T14:57:43.948Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.842Z"
+    verified_at: "2026-11-18T14:57:43.948Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG AGF79719932. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG 20M37AA-B - AGF79719932.
+Pantalla de cristal líquido (Módulo) para Monitor LG 20MK400H-B. AGF79719932

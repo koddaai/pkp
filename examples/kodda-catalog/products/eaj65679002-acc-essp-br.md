@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65679002-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-computador/eaj65679002/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj65679002/"
 
 # === DESCOBERTA (L0) ===
 summary: "Módulo LCD (display) Monitor Signage LG - EAJ65679002"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2872.7
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.969Z"
+  updated_at: "2026-11-18T14:57:44.042Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.969Z"
+    verified_at: "2026-11-18T14:57:44.042Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.969Z"
+    verified_at: "2026-11-18T14:57:44.042Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

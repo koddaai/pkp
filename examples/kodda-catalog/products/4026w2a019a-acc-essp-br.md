@@ -6,7 +6,7 @@ sku: "4026w2a019a-acc-essp-br"
 brand: "LG"
 name: "Trava da Porta Forno Micro Ondas LG MH7047G 4026W2A019A - 4026W2A019A | LG BR"
 category: "eletrodomesticos"
-subcategory: "forno"
+subcategory: "micro-ondas"
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/4026w2a019a-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-forno-micro-ondas/peca-de-reposicao/4026w2a019a/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/4026w2a019a/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 4026W2A019A. Click for pictures, reviews, and tech specs for the LG Trava da Porta Forno Micro Ondas LG MH7047G 4026W2A019A."
+summary: "Trava da porta para forno micro-ondas LG"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.56
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.706Z"
+  updated_at: "2026-11-18T14:57:43.830Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.706Z"
+    verified_at: "2026-11-18T14:57:43.830Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.706Z"
+    verified_at: "2026-11-18T14:57:43.830Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 4026W2A019A. Click for pictures, reviews, and tech specs for the LG Trava da Porta Forno Micro Ondas LG MH7047G 4026W2A019A.
+Trava da porta para forno micro-ondas LG

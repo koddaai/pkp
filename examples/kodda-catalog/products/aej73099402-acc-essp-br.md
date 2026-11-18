@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aej73099402-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/aej73099402/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/aej73099402/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AEJ73099402. Click for pictures, reviews, and tech specs for the LG Suporte trava com micro-chave Micro-ondas LG MS3042R, MS3057QA, MS3097AR - AEJ73099402."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.06
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.818Z"
+  updated_at: "2026-11-18T14:57:43.928Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.818Z"
+    verified_at: "2026-11-18T14:57:43.928Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.818Z"
+    verified_at: "2026-11-18T14:57:43.928Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

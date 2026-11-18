@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eaj65728801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj65728801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj65728801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAJ65728801. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (módulo) Monitor LG 27GL650F-B - EAJ65728801"
+summary: "Get more information on the LG EAJ65728801. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG 27GL650F-B - EAJ65728801."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 958.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.972Z"
+  updated_at: "2026-11-18T14:57:44.044Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.972Z"
+    verified_at: "2026-11-18T14:57:44.044Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.972Z"
+    verified_at: "2026-11-18T14:57:44.044Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAJ65728801. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (módulo) Monitor LG 27GL650F-B - EAJ65728801
+Get more information on the LG EAJ65728801. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG 27GL650F-B - EAJ65728801.

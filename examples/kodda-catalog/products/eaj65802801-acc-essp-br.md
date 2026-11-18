@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65802801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj65802801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj65802801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Modelo: MV238FHM-NG1 de 23.8 polegadas"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 474.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.979Z"
+  updated_at: "2026-11-18T14:57:44.051Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.979Z"
+    verified_at: "2026-11-18T14:57:44.051Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.979Z"
+    verified_at: "2026-11-18T14:57:44.051Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

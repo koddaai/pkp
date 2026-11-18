@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eap65270706-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/eap65270706/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/eap65270706/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAP65270706. Click for pictures, reviews, and tech specs for the LG Bobina reatância auto indução Ar Condicionado LG EAP65270706."
+summary: "Bobina,reatância,auto indução, com fiação, e conector,PQ-M10012-001167"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 348.84
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.988Z"
+  updated_at: "2026-11-18T14:57:44.058Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.988Z"
+    verified_at: "2026-11-18T14:57:44.058Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.988Z"
+    verified_at: "2026-11-18T14:57:44.058Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAP65270706. Click for pictures, reviews, and tech specs for the LG Bobina reatância auto indução Ar Condicionado LG EAP65270706.
+Bobina,reatância,auto indução, com fiação, e conector,PQ-M10012-001167

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu64602801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebu64602801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebu64602801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBU64602801. Click for pictures, reviews, and tech specs for the LG Placa Principal Monitor LG 24MK430H-B, 23MP65HQ, 25UM58G-P - EBU64602801."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.183Z"
+  updated_at: "2026-11-18T14:57:44.167Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.183Z"
+    verified_at: "2026-11-18T14:57:44.167Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.183Z"
+    verified_at: "2026-11-18T14:57:44.167Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

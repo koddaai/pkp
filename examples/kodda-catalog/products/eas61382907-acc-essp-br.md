@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eas61382907-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/eas61382907/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/eas61382907/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAS61382907. Click for pictures, reviews, and tech specs for the LG Magnetron 2M286 Micro-ondas LG MH8297CIRA, LMC2075ST, LSRM2085ST - EAS61382907."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 179.54
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.989Z"
+  updated_at: "2026-11-18T14:57:44.059Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.989Z"
+    verified_at: "2026-11-18T14:57:44.059Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.989Z"
+    verified_at: "2026-11-18T14:57:44.059Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

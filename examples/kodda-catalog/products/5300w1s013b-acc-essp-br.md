@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/5300w1s013b-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/5300w1s013b/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/5300w1s013b/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 5300W1S013B. Click for pictures, reviews, and tech specs for the LG Resistencia de Aquecimento 230V 700W Forno Micro-Ondas MP-9482SR 5300W1S013B."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 132.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.738Z"
+  updated_at: "2026-11-18T14:57:43.858Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.738Z"
+    verified_at: "2026-11-18T14:57:43.858Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.738Z"
+    verified_at: "2026-11-18T14:57:43.858Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65737001-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/peca-de-reposicao/eaj65737001/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj65737001/"
 
 # === DESCOBERTA (L0) ===
 summary: "Módulo de visualização de tela (ecrã) plana Especificação: CT240WFDA-C02 24 polegadas. Sem tela sensível ao toque (ecra táctil). Com controladores (drivers) e circuito de controle Tela de cristal líquido para monitor desktop"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 740.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.973Z"
+  updated_at: "2026-11-18T14:57:44.045Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.973Z"
+    verified_at: "2026-11-18T14:57:44.045Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.973Z"
+    verified_at: "2026-11-18T14:57:44.045Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

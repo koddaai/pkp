@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj63508101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj63508101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj63508101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAJ63508101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG 24CAV37K-B, 24V360-L - EAJ65697902."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 417.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.960Z"
+  updated_at: "2026-11-18T14:57:44.035Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.960Z"
+    verified_at: "2026-11-18T14:57:44.035Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.960Z"
+    verified_at: "2026-11-18T14:57:44.035Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

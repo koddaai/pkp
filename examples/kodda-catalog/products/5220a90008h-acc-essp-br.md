@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/5220a90008h-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5220a90008h/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/5220a90008h/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 5220A90008H. Click for pictures, reviews, and tech specs for the LG Válvula solenoide Ar Condicionado LG ARUN200LN3, ARUV120LTS4, ARUV140BT3 - 5220A90008H."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 236.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.733Z"
+  updated_at: "2026-11-18T14:57:43.854Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.733Z"
+    verified_at: "2026-11-18T14:57:43.854Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.733Z"
+    verified_at: "2026-11-18T14:57:43.854Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj63890101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj63890101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj63890101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAJ63890101. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) Monitor LG 28LF710B-P, 28LJ720B-PS, 28MT49S-PS - EAJ63890101."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 293.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.961Z"
+  updated_at: "2026-11-18T14:57:44.035Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.961Z"
+    verified_at: "2026-11-18T14:57:44.035Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.961Z"
+    verified_at: "2026-11-18T14:57:44.035Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

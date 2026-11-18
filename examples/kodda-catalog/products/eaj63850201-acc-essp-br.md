@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj63850201-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj63850201/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj63850201/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAJ63850201. Click for pictures, reviews, and tech specs for the LG Painel de cristal líquido (módulo) Monitor Desktop LG 29UB55-B, 29UM68-PF, 29UM69G-BF - EAJ63850201."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 559.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.961Z"
+  updated_at: "2026-11-18T14:57:44.035Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.961Z"
+    verified_at: "2026-11-18T14:57:44.035Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.961Z"
+    verified_at: "2026-11-18T14:57:44.035Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

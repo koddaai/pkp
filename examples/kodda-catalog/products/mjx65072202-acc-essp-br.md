@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mjx65072202-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/mjx65072202/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/mjx65072202/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MJX65072202. Click for pictures, reviews, and tech specs for the LG Válvula de expansão termostática Ar Condicionado LG ARNU24GTBB4, ARNU18GTQC4, ARNU21GTQB4 - MJX65072202."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 485.64
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.255Z"
+  updated_at: "2026-11-18T14:57:44.226Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.255Z"
+    verified_at: "2026-11-18T14:57:44.226Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.255Z"
+    verified_at: "2026-11-18T14:57:44.226Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

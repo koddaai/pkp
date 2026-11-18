@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/4970wra001g-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-forno-micro-ondas/peca-de-reposicao/4970wra001g/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/4970wra001g/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 4970WRA001G. Click for pictures, reviews, and tech specs for the LG Mola Helicoidal Forno Micro Ondas LG MH7043R 4970WRA001G."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 43.17
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.726Z"
+  updated_at: "2026-11-18T14:57:43.847Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.726Z"
+    verified_at: "2026-11-18T14:57:43.847Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.726Z"
+    verified_at: "2026-11-18T14:57:43.847Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

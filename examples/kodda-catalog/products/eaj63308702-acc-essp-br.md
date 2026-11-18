@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj63308702-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de cristal líquido (módulo) Monitor LG 32SM5J-B - EAJ63308702 - EAJ63308702 | LG BR"
+name: "Tela de Cristal Líquido Módulo Monitor LG 32SM5J-B EAJ63308702 - EAJ63308702 | LG BR"
 category: "monitors"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj63308702-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj63308702/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj63308702/"
 
 # === DESCOBERTA (L0) ===
 summary: "Tela de cristal líquido (módulo) Monitor LG 32SM5J-B - EAJ63308702"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 654.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.960Z"
+  updated_at: "2026-11-18T14:57:44.034Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.960Z"
+    verified_at: "2026-11-18T14:57:44.034Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.960Z"
+    verified_at: "2026-11-18T14:57:44.034Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/agf79719938-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/agf79719938/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/agf79719938/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGF79719938. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (módulo) Monitor LG 29UB55-B - AGF79719938"
+summary: "Get more information on the LG AGF79719938. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG 29UB55-B - AGF79719938."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1428.72
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.842Z"
+  updated_at: "2026-11-18T14:57:43.948Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.842Z"
+    verified_at: "2026-11-18T14:57:43.948Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.842Z"
+    verified_at: "2026-11-18T14:57:43.948Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AGF79719938. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (módulo) Monitor LG 29UB55-B - AGF79719938
+Get more information on the LG AGF79719938. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG 29UB55-B - AGF79719938.

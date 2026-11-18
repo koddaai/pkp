@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj63849701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj63849701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj63849701/"
 
 # === DESCOBERTA (L0) ===
 summary: "Tela de cristal líquido (módulo) Monitor 22MP58VQ-P, 22SM3G-BJ, 22V280-L - LG EAJ63849701"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.961Z"
+  updated_at: "2026-11-18T14:57:44.035Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.961Z"
+    verified_at: "2026-11-18T14:57:44.035Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.961Z"
+    verified_at: "2026-11-18T14:57:44.035Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/4400el2001f-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/4400el2001f/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/secadoras/4400el2001f/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 4400EL2001F. Click for pictures, reviews, and tech specs for the LG Correias de transmissão Lavadora LG DY1119RD7, CDG27MUCES, DF16BKS6A - 4400EL2001F."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 143.1
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.712Z"
+  updated_at: "2026-11-18T14:57:43.835Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.712Z"
+    verified_at: "2026-11-18T14:57:43.835Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.712Z"
+    verified_at: "2026-11-18T14:57:43.835Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

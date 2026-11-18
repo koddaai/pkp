@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ajj75138530-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-forno-micro-ondas/peca-de-reposicao/ajj75138530/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/ajj75138530/"
 
 # === DESCOBERTA (L0) ===
-summary: "Placa Forno Microondas LG MS4297DIR AJJ75138530"
+summary: "Get more information on the LG AJJ75138530. Click for pictures, reviews, and tech specs for the LG Placa Forno Microondas LG MS4297DIR AJJ75138530."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 531.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.879Z"
+  updated_at: "2026-11-18T14:57:43.965Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.879Z"
+    verified_at: "2026-11-18T14:57:43.965Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.879Z"
+    verified_at: "2026-11-18T14:57:43.965Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Placa Forno Microondas LG MS4297DIR AJJ75138530
+Get more information on the LG AJJ75138530. Click for pictures, reviews, and tech specs for the LG Placa Forno Microondas LG MS4297DIR AJJ75138530.

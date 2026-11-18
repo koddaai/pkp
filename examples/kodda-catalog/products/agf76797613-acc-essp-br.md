@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agf76797613-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/agf76797613/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/agf76797613/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGF76797613. Click for pictures, reviews, and tech specs for the LG Resistência de aquecimento Micro-ondas LG MH7047G - AGF76797613."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 265.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.833Z"
+  updated_at: "2026-11-18T14:57:43.941Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.833Z"
+    verified_at: "2026-11-18T14:57:43.941Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.833Z"
+    verified_at: "2026-11-18T14:57:43.941Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

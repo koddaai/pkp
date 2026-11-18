@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "s3-q12ja31j-eb2gam1-essp-br"
 # gtin: null
 brand: "LG"
-name: "Ar-Condicionado LG Dual Inverter AI Voice 12.000 BTU Frio 220V - S3-Q12JA31J | LG BR"
+name: "Ar-Condicionado LG Dual Inverter AI VOICE 12.000 BTU Frio 220V - S3-Q12JA31J | LG BR"
 category: "outros"
 
 
@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/ar-condicionado-residencial/dual-inverter-split/s3-q12ja31j/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG S3-Q12JA31J. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG Dual Inverter AI VOICE 12.000 BTU Frio 220V."
+summary: "Ar-Condicionado LG Dual Inverter AI Voice 12.000 BTU Frio 220V"
 tags: ["lg", "ai", "inverter"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2600.1
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.267Z"
+  updated_at: "2026-11-18T14:57:44.235Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.267Z"
+    verified_at: "2026-11-18T14:57:44.235Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.267Z"
+    verified_at: "2026-11-18T14:57:44.235Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG S3-Q12JA31J. Click for pictures, reviews, and tech specs for the LG Ar-Condicionado LG Dual Inverter AI VOICE 12.000 BTU Frio 220V.
+Ar-Condicionado LG Dual Inverter AI Voice 12.000 BTU Frio 220V

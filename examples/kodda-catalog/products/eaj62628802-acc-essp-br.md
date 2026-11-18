@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj62628802-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj62628802/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj62628802/"
 
 # === DESCOBERTA (L0) ===
 summary: "Módulo de visualização de tela (Ecrã), plana, modelo:LD550DUN-TGB5, de 55 polegadas, sem tela sensível ao toque (Ecrã táctil), com controladores(drivers)e circuito de controle, de cristal líquido Display completo Não acompanha demais peças que constituem o produto acabado (gabinete, cabos, placas principais)"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3447.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.959Z"
+  updated_at: "2026-11-18T14:57:44.034Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.959Z"
+    verified_at: "2026-11-18T14:57:44.034Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.959Z"
+    verified_at: "2026-11-18T14:57:44.034Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

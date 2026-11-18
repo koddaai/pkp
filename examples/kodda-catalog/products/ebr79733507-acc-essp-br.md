@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr79733507-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebr79733507/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebr79733507/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR79733507. Click for pictures, reviews, and tech specs for the LG Placa controles Monitor LG 24MT49S-OS - EBR79733507."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 48.41
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.136Z"
+  updated_at: "2026-11-18T14:57:44.127Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.136Z"
+    verified_at: "2026-11-18T14:57:44.127Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.136Z"
+    verified_at: "2026-11-18T14:57:44.127Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

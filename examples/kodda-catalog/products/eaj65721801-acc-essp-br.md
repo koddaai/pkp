@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eaj65721801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eaj65721801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj65721801/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EAJ65721801. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo LG 24MN33NPC EAJ65721801."
+summary: "Modulo de visualização de tela (ecrã) Plana Modelo: V236BJ1 23.6 polegadas Sem tela sensível ao toque (ecrã táctil) Com controladores (drivers) e circuito de controle"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 426.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.971Z"
+  updated_at: "2026-11-18T14:57:44.044Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.971Z"
+    verified_at: "2026-11-18T14:57:44.044Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.971Z"
+    verified_at: "2026-11-18T14:57:44.044Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 23.6
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EAJ65721801. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido Módulo LG 24MN33NPC EAJ65721801.
+Modulo de visualização de tela (ecrã) Plana Modelo: V236BJ1 23.6 polegadas Sem tela sensível ao toque (ecrã táctil) Com controladores (drivers) e circuito de controle

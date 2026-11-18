@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj64268201-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj64268201/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj64268201/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAJ64268201. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo) Monitor LG 22MK400H-B - EAJ64268201."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 474.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.963Z"
+  updated_at: "2026-11-18T14:57:44.037Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.963Z"
+    verified_at: "2026-11-18T14:57:44.037Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.963Z"
+    verified_at: "2026-11-18T14:57:44.037Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

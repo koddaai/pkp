@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/agf79978010-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/agf79978010/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/agf79978010/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG AGF79978010. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (módulo), Monitor LG 34GL750-B - AGF79978010"
+summary: "Get more information on the LG AGF79978010. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo), Monitor LG 34GL750-B - AGF79978010."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2147.68
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.843Z"
+  updated_at: "2026-11-18T14:57:43.949Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.843Z"
+    verified_at: "2026-11-18T14:57:43.949Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.843Z"
+    verified_at: "2026-11-18T14:57:43.949Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG AGF79978010. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (módulo), Monitor LG 34GL750-B - AGF79978010
+Get more information on the LG AGF79978010. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (módulo), Monitor LG 34GL750-B - AGF79978010.

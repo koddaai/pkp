@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65746801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/peca-de-reposicao/eaj65746801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj65746801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Módulo de visualização de tela (ecrã) plana de cristal líquido modelo: SEM320F0(AD0-M13) 31,5 polegadas Sem tela sensível ao toque (ecra táctil) Com controladores (drivers) e circuito de controle Para Monitor Desktop LG"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 987.06
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.974Z"
+  updated_at: "2026-11-18T14:57:44.047Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.974Z"
+    verified_at: "2026-11-18T14:57:44.047Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.974Z"
+    verified_at: "2026-11-18T14:57:44.047Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

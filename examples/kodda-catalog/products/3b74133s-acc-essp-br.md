@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/3b74133s-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/3b74133s/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/3b74133s/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 3B74133S. Click for pictures, reviews, and tech specs for the LG Fusível 65TS-120-H Forno Micro-ondas LG MP-9482SR, MH3046SPE, MH4046SPE - 3B74133S."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.703Z"
+  updated_at: "2026-11-18T14:57:43.827Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.703Z"
+    verified_at: "2026-11-18T14:57:43.827Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.703Z"
+    verified_at: "2026-11-18T14:57:43.827Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

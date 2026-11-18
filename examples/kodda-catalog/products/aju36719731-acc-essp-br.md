@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aju36719731-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aju36719731/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aju36719731/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AJU36719731. Click for pictures, reviews, and tech specs for the LG Válvula de retenção Ar Condicionado LG ARNH04GK3A2, CRUN060LSS5, LRD-L2500B - AJU36719731."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 493.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.886Z"
+  updated_at: "2026-11-18T14:57:43.971Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.886Z"
+    verified_at: "2026-11-18T14:57:43.971Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.886Z"
+    verified_at: "2026-11-18T14:57:43.971Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

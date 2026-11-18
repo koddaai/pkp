@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/agf30041601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/agf30041601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/agf30041601/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AGF30041601. Click for pictures, reviews, and tech specs for the LG Tela de crista líquido (módulo) Monitor LG."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1044.16
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.825Z"
+  updated_at: "2026-11-18T14:57:43.934Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.825Z"
+    verified_at: "2026-11-18T14:57:43.934Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.825Z"
+    verified_at: "2026-11-18T14:57:43.934Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/5859a20002r-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/5859a20002r/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/5859a20002r/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 5859A20002R. Click for pictures, reviews, and tech specs for the LG Bomba centrífuga Ar Condicionado LG ARNU96GB8Z4 - 5859A20002R."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 697.59
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.743Z"
+  updated_at: "2026-11-18T14:57:43.863Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.743Z"
+    verified_at: "2026-11-18T14:57:43.863Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.743Z"
+    verified_at: "2026-11-18T14:57:43.863Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

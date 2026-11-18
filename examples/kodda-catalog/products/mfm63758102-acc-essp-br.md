@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mfm63758102-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/mfm63758102/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/mfm63758102/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MFM63758102. Click for pictures, reviews, and tech specs for the LG Membrana display Micro-ondas LG MH7097AR, MH7097ARA - MFM63758102."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.248Z"
+  updated_at: "2026-11-18T14:57:44.219Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.248Z"
+    verified_at: "2026-11-18T14:57:44.219Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.248Z"
+    verified_at: "2026-11-18T14:57:44.219Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

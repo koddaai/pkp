@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu64606601-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebu64606601/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebu64606601/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal Monitor LG 20MK400H-B - EBU64606601"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.183Z"
+  updated_at: "2026-11-18T14:57:44.167Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.183Z"
+    verified_at: "2026-11-18T14:57:44.167Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.183Z"
+    verified_at: "2026-11-18T14:57:44.167Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

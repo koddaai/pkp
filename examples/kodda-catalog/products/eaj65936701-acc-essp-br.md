@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eaj65936701-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Tela de Cristal Líquido Módulo Monitor LG EAJ65915801 - EAJ65936701 | LG BR"
+name: "Tela de Cristal Líquido Módulo Monitor LG EAJ65936701 - EAJ65936701 | LG BR"
 category: "monitors"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65936701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/peca-de-reposicao/eaj65936701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj65936701/"
 
 # === DESCOBERTA (L0) ===
 summary: "Módulo de visualização de tela(ecrã) plana Modelo: BOEB238WU3_4E2AG 23,8 polegadas Altura: 313mm, largura: 535mm Sem tela sensível ao toque (ecrã táctil) Com controladores (drivers) e circuito de controle De cristal líquido Para monitor de vídeo Não acompanha demais peças que constituem o Monitor (gabinete, cabos, placas principais)"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 654.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.986Z"
+  updated_at: "2026-11-18T14:57:44.057Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.986Z"
+    verified_at: "2026-11-18T14:57:44.057Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.986Z"
+    verified_at: "2026-11-18T14:57:44.057Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

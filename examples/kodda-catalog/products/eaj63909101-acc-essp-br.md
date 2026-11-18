@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj63909101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj63909101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj63909101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Modelo: LM238WF1-SLK1 de 23,8 Polegadas"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 673.56
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.962Z"
+  updated_at: "2026-11-18T14:57:44.036Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.962Z"
+    verified_at: "2026-11-18T14:57:44.036Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.962Z"
+    verified_at: "2026-11-18T14:57:44.036Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

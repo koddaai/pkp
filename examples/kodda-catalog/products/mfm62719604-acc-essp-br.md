@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mfm62719604-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-forno-micro-ondas/peca-de-reposicao/mfm62719604/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/mfm62719604/"
 
 # === DESCOBERTA (L0) ===
 summary: "Membrana do Display Forno Microondas LG MS3043BR MFM62719604"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 103.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.247Z"
+  updated_at: "2026-11-18T14:57:44.218Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.247Z"
+    verified_at: "2026-11-18T14:57:44.218Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.247Z"
+    verified_at: "2026-11-18T14:57:44.218Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

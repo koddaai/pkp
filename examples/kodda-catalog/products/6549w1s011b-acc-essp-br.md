@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/6549w1s011b-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/6549w1s011b/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/6549w1s011b/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 6549W1S011B. Click for pictures, reviews, and tech specs for the LG Motor corrente alternada Forno Micro-ondas LG MH4046SPE, MS2096HSS, MS5640FRSE - 6549W1S011B."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.752Z"
+  updated_at: "2026-11-18T14:57:43.872Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.752Z"
+    verified_at: "2026-11-18T14:57:43.872Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.752Z"
+    verified_at: "2026-11-18T14:57:43.872Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

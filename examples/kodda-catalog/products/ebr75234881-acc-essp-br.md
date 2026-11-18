@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr75234881-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/ebr75234881/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/ebr75234881/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR75234881. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Forno Micro-ondas LG MS3045S, MS3043S - EBR75234881"
+summary: "Get more information on the LG EBR75234881. Click for pictures, reviews, and tech specs for the LG Placa principal Forno Micro-ondas LG MS3045S, MS3043S - EBR75234881."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 198.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.059Z"
+  updated_at: "2026-11-18T14:57:44.119Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.059Z"
+    verified_at: "2026-11-18T14:57:44.119Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.059Z"
+    verified_at: "2026-11-18T14:57:44.119Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR75234881. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Forno Micro-ondas LG MS3045S, MS3043S - EBR75234881
+Get more information on the LG EBR75234881. Click for pictures, reviews, and tech specs for the LG Placa principal Forno Micro-ondas LG MS3045S, MS3043S - EBR75234881.

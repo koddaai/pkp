@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaj65778301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj65778301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj65778301/"
 
 # === DESCOBERTA (L0) ===
 summary: "Peça - Tela de cristal líquido (Módulo) Monitor LG - EAJ65778301"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1064.85
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.979Z"
+  updated_at: "2026-11-18T14:57:44.050Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.979Z"
+    verified_at: "2026-11-18T14:57:44.050Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.979Z"
+    verified_at: "2026-11-18T14:57:44.050Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

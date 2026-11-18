@@ -1,0 +1,64 @@
+---
+# === IDENTIDADE ===
+schema: pkp/1.0
+sku: "eaj65703201-acc-essp-br"
+# gtin: null
+brand: "LG"
+name: "Tela De Cristal Liquido Monitor Signage LG 55UH7FH EAJ65703201 - EAJ65703201 | LG BR"
+category: "monitors"
+
+
+# === IDENTIFICADORES ADICIONAIS ===
+identifiers:
+  mpn: "EAJ65703201.ACC.ESSP.BR"
+  # ean: null
+
+# === URI CANONICO ===
+uri: "pkp://lg.com/eaj65703201-acc-essp-br"
+canonical:
+  domain: "lg.com"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eaj65703201/"
+
+# === DESCOBERTA (L0) ===
+summary: "Get more information on the LG EAJ65703201. Click for pictures, reviews, and tech specs for the LG Tela De Cristal Liquido Monitor Signage LG 55UH7FH EAJ65703201."
+tags: ["lg"]
+
+# === PRECO ===
+price:
+  type: "street"
+  currency: "BRL"
+  value: 1994.05
+  source: "retailer"
+  updated_at: "2026-11-18T14:57:44.043Z"
+availability: "in-stock"
+
+# === ONDE COMPRAR ===
+purchase_urls:
+  - retailer: "LG BR"
+    url: "https://www.awin1.com/pclick.php?p=46850747317&a=2753646&m=33061"
+    ap2_enabled: false
+
+# === CONFIANCA DOS DADOS ===
+confidence:
+  specs:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-11-18T14:57:44.043Z"
+  price:
+    level: "medium"
+    source: "retailer-feed"
+    verified_at: "2026-11-18T14:57:44.043Z"
+
+# === SPECS COMPARAVEIS (L1) ===
+specs:
+  # No specs extracted
+
+# === FONTE DOS DADOS ===
+# Importado do feed Awin LG BR (feed_id: 103134)
+# Data de importacao: 2026-11-18
+# aw_product_id: 46850747317
+---
+
+## Descricao
+
+Get more information on the LG EAJ65703201. Click for pictures, reviews, and tech specs for the LG Tela De Cristal Liquido Monitor Signage LG 55UH7FH EAJ65703201.

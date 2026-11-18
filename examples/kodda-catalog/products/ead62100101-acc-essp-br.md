@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ead62100101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/ead62100101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/ead62100101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Cabo de força 220V Micro-ondas LG EAD62100101"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 65.24
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.937Z"
+  updated_at: "2026-11-18T14:57:44.015Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.937Z"
+    verified_at: "2026-11-18T14:57:44.015Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.937Z"
+    verified_at: "2026-11-18T14:57:44.015Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

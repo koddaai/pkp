@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/6851w1a002e-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-forno-micro-ondas/peca-de-reposicao/6851w1a002e/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/6851w1a002e/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 6851W1A002E. Click for pictures, reviews, and tech specs for the LG Diodo Forno Microondas LG MH8048APA 6851W1A002E."
+summary: "Diodo de alta voltagem com peça de conexão montado PTH 12KV 450mA CL04-12A"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 33.2
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.757Z"
+  updated_at: "2026-11-18T14:57:43.876Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.757Z"
+    verified_at: "2026-11-18T14:57:43.876Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.757Z"
+    verified_at: "2026-11-18T14:57:43.876Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 6851W1A002E. Click for pictures, reviews, and tech specs for the LG Diodo Forno Microondas LG MH8048APA 6851W1A002E.
+Diodo de alta voltagem com peça de conexão montado PTH 12KV 450mA CL04-12A

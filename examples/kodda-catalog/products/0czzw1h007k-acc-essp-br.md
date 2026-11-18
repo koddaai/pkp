@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/0czzw1h007k-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/0czzw1h007k/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/0czzw1h007k/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG 0CZZW1H007K. Click for pictures, reviews, and tech specs for the LG Capacitor elétrico Forno Micro-ondas LG MH7047G, MS5640FRSE, MH7043SAR - 0CZZW1H007K."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 75.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.679Z"
+  updated_at: "2026-11-18T14:57:43.807Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.679Z"
+    verified_at: "2026-11-18T14:57:43.807Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.679Z"
+    verified_at: "2026-11-18T14:57:43.807Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

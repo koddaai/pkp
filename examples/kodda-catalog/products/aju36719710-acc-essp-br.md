@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aju36719710-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/aju36719710/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/aju36719710/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG AJU36719710. Click for pictures, reviews, and tech specs for the LG Válvula solenóide Ar Condicionado LG ARNU18GB2G2, ARNU24GTPC2, CRNU09GTLA4 - AJU36719710."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 331.55
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.886Z"
+  updated_at: "2026-11-18T14:57:43.971Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.886Z"
+    verified_at: "2026-11-18T14:57:43.971Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.886Z"
+    verified_at: "2026-11-18T14:57:43.971Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

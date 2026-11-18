@@ -27,9 +27,9 @@ tags: ["lg", "bluetooth", "smart", "ai", "hdr"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1198.99
+  value: 1161.13
   source: "retailer"
-  updated_at: "2026-11-18T02:08:47.689Z"
+  updated_at: "2026-11-18T14:57:43.816Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.689Z"
+    verified_at: "2026-11-18T14:57:43.816Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:47.689Z"
+    verified_at: "2026-11-18T14:57:43.816Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

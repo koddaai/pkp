@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mfm63057003-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-forno-micro-ondas/peca-de-reposicao/mfm63057003/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/micro-ondas/mfm63057003/"
 
 # === DESCOBERTA (L0) ===
 summary: "Membrana auto-adesiva De plástico Com relevos e teclas de funções impressas"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 94.05
   source: "retailer"
-  updated_at: "2026-11-18T02:08:48.247Z"
+  updated_at: "2026-11-18T14:57:44.219Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.247Z"
+    verified_at: "2026-11-18T14:57:44.219Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-18T02:08:48.247Z"
+    verified_at: "2026-11-18T14:57:44.219Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
