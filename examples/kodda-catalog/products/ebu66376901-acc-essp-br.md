@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu66376901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu66376901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu66376901/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBU66376901. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 75NANO80SPA - EBU66376901."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1428.93
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.698Z"
+  updated_at: "2026-11-19T15:03:52.416Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.698Z"
+    verified_at: "2026-11-19T15:03:52.416Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.698Z"
+    verified_at: "2026-11-19T15:03:52.416Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

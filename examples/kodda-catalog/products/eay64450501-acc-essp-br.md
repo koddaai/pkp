@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay64450501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay64450501/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay64450501/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAY64450501. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG 55UJ6585-SD, 55UJ6545-SE, 55UK6530PSF - EAY64450501."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 298.84
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.550Z"
+  updated_at: "2026-11-19T15:03:52.101Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.550Z"
+    verified_at: "2026-11-19T15:03:52.101Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.550Z"
+    verified_at: "2026-11-19T15:03:52.101Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

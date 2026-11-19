@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu67897584-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/ebu67897584/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu67897584/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal TV LG 70UT8050PSA EBU67897584"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 914.22
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.710Z"
+  updated_at: "2026-11-19T15:03:52.430Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.710Z"
+    verified_at: "2026-11-19T15:03:52.430Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.710Z"
+    verified_at: "2026-11-19T15:03:52.430Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

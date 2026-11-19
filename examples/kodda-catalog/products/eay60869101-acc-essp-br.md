@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay60869101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay60869101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay60869101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAY60869101. Click for pictures, reviews, and tech specs for the LG Placa fonte TV LG 32LD350 - EAY60869101."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.05
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.544Z"
+  updated_at: "2026-11-19T15:03:52.062Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.544Z"
+    verified_at: "2026-11-19T15:03:52.062Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.544Z"
+    verified_at: "2026-11-19T15:03:52.062Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

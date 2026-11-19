@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay63072201-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay63072201/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay63072201/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAY63072201. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG 60LB5800, 60LB6500-SF, 60LF5850-SE - EAY63072201."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 637.6
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.548Z"
+  updated_at: "2026-11-19T15:03:52.098Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.548Z"
+    verified_at: "2026-11-19T15:03:52.098Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.548Z"
+    verified_at: "2026-11-19T15:03:52.098Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

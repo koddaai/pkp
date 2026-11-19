@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebf61315802-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/ebf61315802/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ebf61315802/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBF61315802. Click for pictures, reviews, and tech specs for the LG Trava da porta Lava e Seca LG WD1252RW, WD1014RD7, WD1014RW - EBF61315802."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 80.1
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.564Z"
+  updated_at: "2026-11-19T15:03:52.121Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.564Z"
+    verified_at: "2026-11-19T15:03:52.121Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.564Z"
+    verified_at: "2026-11-19T15:03:52.121Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

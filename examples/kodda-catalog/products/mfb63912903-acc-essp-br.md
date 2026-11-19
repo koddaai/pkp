@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/mfb63912903-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/mfb63912903/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/projetores/mfb63912903/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG MFB63912903. Clique para ver imagens, análises e especificações técnicas da LG Refletor curvo Projetor LG PF1000UW - MFB63912903"
+summary: "Get more information on the LG MFB63912903. Click for pictures, reviews, and tech specs for the LG Refletor curvo Projetor LG PF1000UW - MFB63912903."
 tags: ["lg", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 341.05
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.740Z"
+  updated_at: "2026-11-19T15:03:52.459Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.740Z"
+    verified_at: "2026-11-19T15:03:52.459Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.740Z"
+    verified_at: "2026-11-19T15:03:52.459Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG MFB63912903. Clique para ver imagens, análises e especificações técnicas da LG Refletor curvo Projetor LG PF1000UW - MFB63912903
+Get more information on the LG MFB63912903. Click for pictures, reviews, and tech specs for the LG Refletor curvo Projetor LG PF1000UW - MFB63912903.

@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "eay65170412-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa fonte TV LG OLED65C9PSA EAY65170412 - EAY65170412"
+name: "Placa fonte TV LG OLED65C9PSA EAY65170412 - EAY65170412 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay65170412-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/eay65170412/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay65170412/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa fonte TV LG OLED65C9PSA EAY65170412"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 614.24
   source: "retailer"
-  updated_at: "2026-11-14T00:41:27.567Z"
+  updated_at: "2026-11-19T15:03:52.106Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.567Z"
+    verified_at: "2026-11-19T15:03:52.106Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-14T00:41:27.567Z"
+    verified_at: "2026-11-19T15:03:52.106Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-14
+# Data de importacao: 2026-11-19
 # aw_product_id: 43478676281
 ---
 

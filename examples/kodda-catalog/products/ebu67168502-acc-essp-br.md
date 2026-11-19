@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu67168502-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebu67168502/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebu67168502/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal Monitor LG - EBU67168502"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 495.47
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.703Z"
+  updated_at: "2026-11-19T15:03:52.422Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.703Z"
+    verified_at: "2026-11-19T15:03:52.422Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.703Z"
+    verified_at: "2026-11-19T15:03:52.422Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

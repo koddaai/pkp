@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "ebu67639798-acc-essp-br"
 # gtin: null
 brand: "LG"
-name: "Placa Principal TV LG 65QNED85TSA EBU67639798 - EBU67639798"
+name: "Placa Principal TV LG 65QNED85TSA EBU67639798 - EBU67639798 | LG BR"
 category: "tvs"
 
 
@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu67639798-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/acessorio/ebu67639798/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu67639798/"
 
 # === DESCOBERTA (L0) ===
 summary: "PROCEDIMENTO OBRIGATÓRIO APÓS TROCA DE PLACA PRINCIPAL É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas. Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1110.3
   source: "retailer"
-  updated_at: "2026-11-13T00:54:36.185Z"
+  updated_at: "2026-11-19T15:03:52.427Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.185Z"
+    verified_at: "2026-11-19T15:03:52.427Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-13T00:54:36.185Z"
+    verified_at: "2026-11-19T15:03:52.427Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-13
+# Data de importacao: 2026-11-19
 # aw_product_id: 43478676867
 ---
 

@@ -17,11 +17,11 @@ identifiers:
 uri: "pkp://lg.com/ebu67638099-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/ebu67638099/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu67638099/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBU67638099 . Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG OLED55G4PSA EBU67638099."
-tags: ["lg", "5g", "oled"]
+summary: "PROCEDIMENTO OBRIGATÓRIO APÓS TROCA DE PLACA PRINCIPAL, É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas. Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros."
+tags: ["lg", "ai", "5g", "oled", "pro"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2997.57
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.706Z"
+  updated_at: "2026-11-19T15:03:52.425Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.706Z"
+    verified_at: "2026-11-19T15:03:52.425Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.706Z"
+    verified_at: "2026-11-19T15:03:52.425Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBU67638099 . Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG OLED55G4PSA EBU67638099.
+PROCEDIMENTO OBRIGATÓRIO APÓS TROCA DE PLACA PRINCIPAL, É necessário realizar uma atualização (Tool Option) para o funcionamento adequado do produto, o qual é feito apenas com acesso as ferramentas adequadas. Na ausência deste procedimento, seu produto pode apresentar sintomas tais como: o não enquadramento correto da imagem, conflito de regionalidade, ausência de algumas funções, entre outros.

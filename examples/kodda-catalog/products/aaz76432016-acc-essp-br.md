@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/aaz76432016-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/aaz76432016/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/aaz76432016/"
 
 # === DESCOBERTA (L0) ===
 summary: "Conjunto de reparo do secador do aparelho refrigerador, para ser utilizado no reparo do compressor"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 516.31
   source: "retailer"
-  updated_at: "2026-11-19T01:43:43.344Z"
+  updated_at: "2026-11-19T15:03:51.227Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:43.344Z"
+    verified_at: "2026-11-19T15:03:51.227Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:43.344Z"
+    verified_at: "2026-11-19T15:03:51.227Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

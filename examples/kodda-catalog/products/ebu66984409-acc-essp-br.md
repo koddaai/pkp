@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu66984409-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu66984409/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu66984409/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBU66984409. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 43UQ7500PSF - EBU66984409."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 550.05
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.702Z"
+  updated_at: "2026-11-19T15:03:52.420Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.702Z"
+    verified_at: "2026-11-19T15:03:52.420Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.702Z"
+    verified_at: "2026-11-19T15:03:52.420Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

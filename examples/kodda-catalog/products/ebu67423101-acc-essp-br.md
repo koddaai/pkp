@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebu67423101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu67423101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu67423101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBU67423101. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 50UR8750PSA, 65UR871C0SA, 65UR8750PSA - EBU67423101."
+summary: "Placa Principal TV LG 50UR8750PSA, 65UR871C0SA, 65UR8750PSA - EBU67423101"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 946.9
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.705Z"
+  updated_at: "2026-11-19T15:03:52.424Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.705Z"
+    verified_at: "2026-11-19T15:03:52.424Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.705Z"
+    verified_at: "2026-11-19T15:03:52.424Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBU67423101. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 50UR8750PSA, 65UR871C0SA, 65UR8750PSA - EBU67423101.
+Placa Principal TV LG 50UR8750PSA, 65UR871C0SA, 65UR8750PSA - EBU67423101

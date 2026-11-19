@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu65082901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebu65082901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebu65082901/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal Monitor LG 24BL550J-B - EBU65082901"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 759.05
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.690Z"
+  updated_at: "2026-11-19T15:03:52.407Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.690Z"
+    verified_at: "2026-11-19T15:03:52.407Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.690Z"
+    verified_at: "2026-11-19T15:03:52.407Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

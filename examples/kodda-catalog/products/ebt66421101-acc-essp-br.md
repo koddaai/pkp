@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebt66421101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebt66421101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/projetores/ebt66421101/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBT66421101. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Projetor Portátil LG HU70LA - EBT66421101"
+summary: "Get more information on the LG EBT66421101. Click for pictures, reviews, and tech specs for the LG Placa principal Projetor Portátil LG HU70LA - EBT66421101."
 tags: ["lg", "pro"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2515.54
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.641Z"
+  updated_at: "2026-11-19T15:03:52.398Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.641Z"
+    verified_at: "2026-11-19T15:03:52.398Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.641Z"
+    verified_at: "2026-11-19T15:03:52.398Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBT66421101. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Projetor Portátil LG HU70LA - EBT66421101
+Get more information on the LG EBT66421101. Click for pictures, reviews, and tech specs for the LG Placa principal Projetor Portátil LG HU70LA - EBT66421101.

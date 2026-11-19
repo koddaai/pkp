@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu66984701-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu66984701/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu66984701/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBU66984701. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 60UQ8050PSB - EBU66984701."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 854.05
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.702Z"
+  updated_at: "2026-11-19T15:03:52.421Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.702Z"
+    verified_at: "2026-11-19T15:03:52.421Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.702Z"
+    verified_at: "2026-11-19T15:03:52.421Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eay63168606-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay63168606/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay63168606/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAY63168606. Clique para ver imagens, análises e especificações técnicas da LG Placa da fonte TV LG 60PB6500 -EAY63168606"
+summary: "Get more information on the LG EAY63168606. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG 60PB6500 -EAY63168606."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 685.48
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.548Z"
+  updated_at: "2026-11-19T15:03:52.099Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.548Z"
+    verified_at: "2026-11-19T15:03:52.099Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.548Z"
+    verified_at: "2026-11-19T15:03:52.099Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAY63168606. Clique para ver imagens, análises e especificações técnicas da LG Placa da fonte TV LG 60PB6500 -EAY63168606
+Get more information on the LG EAY63168606. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG 60PB6500 -EAY63168606.

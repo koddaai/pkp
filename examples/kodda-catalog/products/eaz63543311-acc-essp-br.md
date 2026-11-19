@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eaz63543311-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaz63543311/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/notebooks/eaz63543311/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAZ63543311. Clique para ver imagens, análises e especificações técnicas da LG Memória SSD 256GB Notebook LG 14Z90N-V, 15Z90N-V, 16Z90P-G - EAZ63543311"
+summary: "Get more information on the LG EAZ63543311. Click for pictures, reviews, and tech specs for the LG Memória SSD 256GB Notebook LG 14Z90N-V, 15Z90N-V, 16Z90P-G - EAZ63543311."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 586.31
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.563Z"
+  updated_at: "2026-11-19T15:03:52.120Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.563Z"
+    verified_at: "2026-11-19T15:03:52.120Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.563Z"
+    verified_at: "2026-11-19T15:03:52.120Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAZ63543311. Clique para ver imagens, análises e especificações técnicas da LG Memória SSD 256GB Notebook LG 14Z90N-V, 15Z90N-V, 16Z90P-G - EAZ63543311
+Get more information on the LG EAZ63543311. Click for pictures, reviews, and tech specs for the LG Memória SSD 256GB Notebook LG 14Z90N-V, 15Z90N-V, 16Z90P-G - EAZ63543311.

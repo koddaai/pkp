@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mgz63447201-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/mgz63447201/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/mgz63447201/"
 
 # === DESCOBERTA (L0) ===
 summary: "Diâmetro: 6,35/2mm Material: Aluminio"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 69.83
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.747Z"
+  updated_at: "2026-11-19T15:03:52.467Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.747Z"
+    verified_at: "2026-11-19T15:03:52.467Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.747Z"
+    verified_at: "2026-11-19T15:03:52.467Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eac62718304-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eac62718304/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/notebooks/eac62718304/"
 
 # === DESCOBERTA (L0) ===
 summary: "Bateria recarregável Notebook LG 13Z940-G - EAC62718304"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 626.05
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.474Z"
+  updated_at: "2026-11-19T15:03:51.924Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.474Z"
+    verified_at: "2026-11-19T15:03:51.924Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.474Z"
+    verified_at: "2026-11-19T15:03:51.924Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

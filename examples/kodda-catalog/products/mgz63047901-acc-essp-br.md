@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mgz63047901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-cozinha/mgz63047901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/mgz63047901/"
 
 # === DESCOBERTA (L0) ===
 summary: "Conexão para tubo de cobre Refrigerador LG - MGZ63047901"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 46.49
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.747Z"
+  updated_at: "2026-11-19T15:03:52.466Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.747Z"
+    verified_at: "2026-11-19T15:03:52.466Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.747Z"
+    verified_at: "2026-11-19T15:03:52.466Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

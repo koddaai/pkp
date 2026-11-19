@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu67135901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu67135901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu67135901/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBU67135901. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG 55UQ8050PSB - EBU67135901."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 538.4
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.703Z"
+  updated_at: "2026-11-19T15:03:52.422Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.703Z"
+    verified_at: "2026-11-19T15:03:52.422Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.703Z"
+    verified_at: "2026-11-19T15:03:52.422Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

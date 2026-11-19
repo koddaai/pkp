@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebu67638399-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-televisao/peca-de-reposicao/ebu67638399/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu67638399/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBU67638399. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG OLED65C4PSA EBU67638399."
+summary: "Placa Principal TV LG OLED65C4PSA EBU67638399"
 tags: ["lg", "oled"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 2205.08
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.707Z"
+  updated_at: "2026-11-19T15:03:52.426Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.707Z"
+    verified_at: "2026-11-19T15:03:52.426Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.707Z"
+    verified_at: "2026-11-19T15:03:52.426Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBU67638399. Click for pictures, reviews, and tech specs for the LG Placa Principal TV LG OLED65C4PSA EBU67638399.
+Placa Principal TV LG OLED65C4PSA EBU67638399

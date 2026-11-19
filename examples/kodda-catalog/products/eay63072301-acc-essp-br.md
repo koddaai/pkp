@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay63072301-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/eay63072301/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/eay63072301/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAY63072301. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG 70LB7200 - EAY63072301."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 913.87
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.548Z"
+  updated_at: "2026-11-19T15:03:52.098Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.548Z"
+    verified_at: "2026-11-19T15:03:52.098Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.548Z"
+    verified_at: "2026-11-19T15:03:52.098Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

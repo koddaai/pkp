@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu65664801-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebu65664801/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebu65664801/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa Principal Monitor LG 29WL500-B - EBU65664801"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 312.55
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.691Z"
+  updated_at: "2026-11-19T15:03:52.408Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.691Z"
+    verified_at: "2026-11-19T15:03:52.408Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.691Z"
+    verified_at: "2026-11-19T15:03:52.408Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

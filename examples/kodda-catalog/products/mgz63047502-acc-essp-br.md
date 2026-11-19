@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/mgz63047502-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-refrigeradores/peca-de-reposicao/mgz63047502/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/refrigeradores/mgz63047502/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG MGZ63047502. Click for pictures, reviews, and tech specs for the LG Conexão de travamento Refrigerador LG GCB187PQAM MGZ63047502."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 69.83
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.746Z"
+  updated_at: "2026-11-19T15:03:52.466Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.746Z"
+    verified_at: "2026-11-19T15:03:52.466Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.746Z"
+    verified_at: "2026-11-19T15:03:52.466Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

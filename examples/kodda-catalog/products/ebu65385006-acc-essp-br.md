@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebu65385006-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/ebu65385006/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/ebu65385006/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBU65385006. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Monitor Desktop LG 25UM58G-P.AWZ - EBU65385006"
+summary: "Get more information on the LG EBU65385006. Click for pictures, reviews, and tech specs for the LG Placa principal Monitor Desktop LG 25UM58G-P.AWZ - EBU65385006."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 284.05
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.690Z"
+  updated_at: "2026-11-19T15:03:52.407Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.690Z"
+    verified_at: "2026-11-19T15:03:52.407Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.690Z"
+    verified_at: "2026-11-19T15:03:52.407Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBU65385006. Clique para ver imagens, análises e especificações técnicas da LG Placa principal Monitor Desktop LG 25UM58G-P.AWZ - EBU65385006
+Get more information on the LG EBU65385006. Click for pictures, reviews, and tech specs for the LG Placa principal Monitor Desktop LG 25UM58G-P.AWZ - EBU65385006.

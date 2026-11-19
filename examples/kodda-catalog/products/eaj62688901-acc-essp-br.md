@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/eaj62688901-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaj62688901/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/notebooks/eaj62688901/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EAJ62688901. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (Módulo) Notebook LG 15U340-L, 15U340-E - EAJ62688901"
+summary: "Get more information on the LG EAJ62688901. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) Notebook LG 15U340-L, 15U340-E - EAJ62688901."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1167.55
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.501Z"
+  updated_at: "2026-11-19T15:03:51.970Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.501Z"
+    verified_at: "2026-11-19T15:03:51.970Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.501Z"
+    verified_at: "2026-11-19T15:03:51.970Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EAJ62688901. Clique para ver imagens, análises e especificações técnicas da LG Tela de cristal líquido (Módulo) Notebook LG 15U340-L, 15U340-E - EAJ62688901
+Get more information on the LG EAJ62688901. Click for pictures, reviews, and tech specs for the LG Tela de cristal líquido (Módulo) Notebook LG 15U340-L, 15U340-E - EAJ62688901.

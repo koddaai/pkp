@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/cov34633101-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/cov34633101/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/cov34633101/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG COV34633101. Click for pictures, reviews, and tech specs for the LG Placa da fonte TV LG 32LV300C - COV34633101."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 274.55
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.454Z"
+  updated_at: "2026-11-19T15:03:51.726Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.454Z"
+    verified_at: "2026-11-19T15:03:51.726Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.454Z"
+    verified_at: "2026-11-19T15:03:51.726Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

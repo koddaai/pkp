@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebu66375501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-para-tv-audio/ebu66375501/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/tvs/ebu66375501/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBU66375501. Click for pictures, reviews, and tech specs for the LG Placa principal TV LG 55NANO80SPA - EBU66375501."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 863.55
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.698Z"
+  updated_at: "2026-11-19T15:03:52.416Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.698Z"
+    verified_at: "2026-11-19T15:03:52.416Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.698Z"
+    verified_at: "2026-11-19T15:03:52.416Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eay63630211-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/suporte/pecas-e-acessorios/pecas-e-acessorios-para-monitores/peca-de-reposicao/eay63630211/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/monitores/eay63630211/"
 
 # === DESCOBERTA (L0) ===
 summary: "Placa conversora estática Retificadora a base de cristal (semicondutores) de corrente alternada em corrente contínua Com função de fonte de alimentação estabilizada Utilizada internamente em monitor desktop"
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 874.45
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.549Z"
+  updated_at: "2026-11-19T15:03:52.100Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.549Z"
+    verified_at: "2026-11-19T15:03:52.100Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.549Z"
+    verified_at: "2026-11-19T15:03:52.100Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

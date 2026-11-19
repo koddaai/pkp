@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/eaz61901501-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-informatica/eaz61901501/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/notebooks/eaz61901501/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EAZ61901501. Click for pictures, reviews, and tech specs for the LG Disco rígido ALL IN ONE LG 22V240-L, 23V545-G, 24V360-L - EAZ61901501."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 683.05
   source: "retailer"
-  updated_at: "2026-11-19T01:43:44.562Z"
+  updated_at: "2026-11-19T15:03:52.119Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.562Z"
+    verified_at: "2026-11-19T15:03:52.119Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-19T01:43:44.562Z"
+    verified_at: "2026-11-19T15:03:52.119Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
