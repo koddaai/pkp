@@ -27,9 +27,9 @@ tags: ["lg", "smart", "ai", "4k", "dolby"]
 price:
   type: "street"
   currency: "BRL"
-  value: 8612.41
+  value: 8377.1
   source: "retailer"
-  updated_at: "2026-11-20T01:40:34.632Z"
+  updated_at: "2026-11-20T14:46:05.292Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.632Z"
+    verified_at: "2026-11-20T14:46:05.292Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.632Z"
+    verified_at: "2026-11-20T14:46:05.292Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

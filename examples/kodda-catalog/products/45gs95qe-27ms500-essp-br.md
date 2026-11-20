@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/45gs95qe-27ms500/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 45GS95QE.27MS500. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear OLED Curvo – Tela OLED 45” + Monitor PC Gamer LG 27” IPS, Full HD, 100Hz, HDMI."
+summary: "Monitor Gamer LG UltraGear OLED Curvo – Tela OLED 45” + Monitor PC Gamer LG 27” IPS, Full HD, 100Hz, HDMI"
 tags: ["lg", "5g", "oled", "ultra", "gamer"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 8834.13
   source: "retailer"
-  updated_at: "2026-11-20T01:40:34.618Z"
+  updated_at: "2026-11-20T14:46:05.249Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.618Z"
+    verified_at: "2026-11-20T14:46:05.249Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.618Z"
+    verified_at: "2026-11-20T14:46:05.249Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 45GS95QE.27MS500. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear OLED Curvo – Tela OLED 45” + Monitor PC Gamer LG 27” IPS, Full HD, 100Hz, HDMI.
+Monitor Gamer LG UltraGear OLED Curvo – Tela OLED 45” + Monitor PC Gamer LG 27” IPS, Full HD, 100Hz, HDMI

@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebf62534401-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/ebf62534401/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ebf62534401/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG EBF62534401. Click for pictures, reviews, and tech specs for the LG Trava da Porta Lavadora LG CV3011WG4 EBF62534401."
+summary: "Dispositivo eletromecânicos para bloquear a abertura de porta de lavadora de roupas Compostos de microinterruptores embutidos Mecanismo corrediço interno de trava Para tensão 120V 16A"
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 84.55
   source: "retailer"
-  updated_at: "2026-11-20T01:40:34.693Z"
+  updated_at: "2026-11-20T14:46:05.487Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.693Z"
+    verified_at: "2026-11-20T14:46:05.487Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.693Z"
+    verified_at: "2026-11-20T14:46:05.487Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG EBF62534401. Click for pictures, reviews, and tech specs for the LG Trava da Porta Lavadora LG CV3011WG4 EBF62534401.
+Dispositivo eletromecânicos para bloquear a abertura de porta de lavadora de roupas Compostos de microinterruptores embutidos Mecanismo corrediço interno de trava Para tensão 120V 16A

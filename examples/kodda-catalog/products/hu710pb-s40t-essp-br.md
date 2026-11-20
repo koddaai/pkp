@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "hu710pb-s40t-essp-br"
 # gtin: null
 brand: "LG"
-name: "Projetor LG CineBeam Q 4K UHD Laser, Smart WebOS, Leve e Ultraportátil + + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital - HU710PB.S40T | LG BR"
+name: "Projetor LG CineBeam Q 4K UHD Laser, Smart WebOS, Leve e Ultraportátil + Soundbar S40T 300W RMS, 2.1 Canais, Dolby Digital - HU710PB.S40T | LG BR"
 category: "audio"
 subcategory: "soundbar"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 6239.76
   source: "retailer"
-  updated_at: "2026-11-20T01:40:34.722Z"
+  updated_at: "2026-11-20T14:46:05.586Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.722Z"
+    verified_at: "2026-11-20T14:46:05.586Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.722Z"
+    verified_at: "2026-11-20T14:46:05.586Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

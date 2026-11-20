@@ -27,9 +27,9 @@ tags: ["lg", "bluetooth", "smart", "ai", "4k", "oled", "dolby", "pro", "sem-fio"
 price:
   type: "street"
   currency: "BRL"
-  value: 7874.55
+  value: 7351.1
   source: "retailer"
-  updated_at: "2026-11-20T01:40:34.731Z"
+  updated_at: "2026-11-20T14:46:05.617Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.731Z"
+    verified_at: "2026-11-20T14:46:05.617Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.731Z"
+    verified_at: "2026-11-20T14:46:05.617Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

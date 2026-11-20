@@ -17,10 +17,10 @@ identifiers:
 uri: "pkp://lg.com/ebr33119166-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/acessorios-para-eletrodomesticos/pecas-e-acessorios-de-lavanderia/ebr33119166/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/lavadoras/ebr33119166/"
 
 # === DESCOBERTA (L0) ===
-summary: "Descubra a LG EBR33119166. Clique para ver imagens, análises e especificações técnicas da LG Placa do Display Máquina de Lavar Roupas LG FV5011WG4, FV5011WG4A - EBR33119166"
+summary: "Get more information on the LG EBR33119166. Click for pictures, reviews, and tech specs for the LG Placa do Display Máquina de Lavar Roupas LG FV5011WG4, FV5011WG4A - EBR33119166."
 tags: ["lg"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 1101.05
   source: "retailer"
-  updated_at: "2026-11-20T01:40:34.697Z"
+  updated_at: "2026-11-20T14:46:05.500Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.697Z"
+    verified_at: "2026-11-20T14:46:05.500Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.697Z"
+    verified_at: "2026-11-20T14:46:05.500Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Descubra a LG EBR33119166. Clique para ver imagens, análises e especificações técnicas da LG Placa do Display Máquina de Lavar Roupas LG FV5011WG4, FV5011WG4A - EBR33119166
+Get more information on the LG EBR33119166. Click for pictures, reviews, and tech specs for the LG Placa do Display Máquina de Lavar Roupas LG FV5011WG4, FV5011WG4A - EBR33119166.

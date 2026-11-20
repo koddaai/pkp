@@ -4,9 +4,9 @@ schema: pkp/1.0
 sku: "lp1419ivsi-cv5013-essp-br"
 # gtin: null
 brand: "LG"
-name: "Combo Lava e Seca LG Smart VC4 12kg Branca  220V  + Ar Portátil 127V - LP1419IVSI.CV5013 | LG BR"
-category: "eletrodomesticos"
-subcategory: "lava-e-seca"
+name: "Combo LG Ar-Condicionado Portátil 14.000 BTUs LP1419IVSI + CV5013 - LP1419IVSI.CV5013 | LG BR"
+category: "outros"
+
 
 # === IDENTIFICADORES ADICIONAIS ===
 identifiers:
@@ -21,7 +21,7 @@ canonical:
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG LP1419IVSI.CV5013. Click for pictures, reviews, and tech specs for the LG Combo LG Ar-Condicionado Portátil 14.000 BTUs LP1419IVSI + CV5013."
-tags: ["lg", "smart"]
+tags: ["lg"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 9061.29
   source: "retailer"
-  updated_at: "2026-11-20T01:40:34.723Z"
+  updated_at: "2026-11-20T14:46:05.588Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.723Z"
+    verified_at: "2026-11-20T14:46:05.588Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.723Z"
+    verified_at: "2026-11-20T14:46:05.588Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

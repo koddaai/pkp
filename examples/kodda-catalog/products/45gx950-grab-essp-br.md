@@ -5,7 +5,7 @@ sku: "45gx950-grab-essp-br"
 # gtin: null
 brand: "LG"
 name: "Monitor LG OLED UltraGear™ 45GX950A 45\",Dual-Mode 5K2K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA - 45GX950.GRAB | LG BR"
-category: "monitors"
+category: "tvs"
 
 
 # === IDENTIFICADORES ADICIONAIS ===
@@ -20,8 +20,8 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/45gx950-grab/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 45GX950.GRAB. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ 45GX950A 45\",Dual-Mode 5K2K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA."
-tags: ["lg", "bluetooth", "ai", "5g", "oled", "ultra"]
+summary: "Projetor LG CineBeam Smart TV UHD 140\" 4K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA"
+tags: ["lg", "bluetooth", "smart", "ai", "5g", "4k", "oled", "pro", "ultra"]
 
 # === PRECO ===
 price:
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 16282.86
   source: "retailer"
-  updated_at: "2026-11-20T01:40:34.618Z"
+  updated_at: "2026-11-20T14:46:05.250Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,15 +43,15 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.618Z"
+    verified_at: "2026-11-20T14:46:05.250Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.618Z"
+    verified_at: "2026-11-20T14:46:05.250Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  screen_size: 45
+  screen_size: 140
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 45GX950.GRAB. Click for pictures, reviews, and tech specs for the LG Monitor LG OLED UltraGear™ 45GX950A 45",Dual-Mode 5K2K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA.
+Projetor LG CineBeam Smart TV UHD 140" 4K + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA

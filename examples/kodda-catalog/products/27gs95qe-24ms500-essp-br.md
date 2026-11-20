@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-ultragear/27gs95qe-24ms500/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 27GS95QE.24MS500. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear OLED – Tela OLED 27\" + Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação."
+summary: "Monitor Gamer LG UltraGear OLED – Tela OLED 27\" + Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação"
 tags: ["lg", "oled", "ultra", "gamer"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 4799.1
   source: "retailer"
-  updated_at: "2026-11-20T01:40:34.609Z"
+  updated_at: "2026-11-20T14:46:05.225Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.609Z"
+    verified_at: "2026-11-20T14:46:05.225Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-20T01:40:34.609Z"
+    verified_at: "2026-11-20T14:46:05.225Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -61,4 +61,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG 27GS95QE.24MS500. Click for pictures, reviews, and tech specs for the LG Monitor Gamer LG UltraGear OLED – Tela OLED 27" + Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação.
+Monitor Gamer LG UltraGear OLED – Tela OLED 27" + Monitor LG 24” IPS, Full HD, 100Hz, HDMI, Ajuste de Inclinação
