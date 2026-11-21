@@ -20,7 +20,7 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/cv9014b-grab2/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG CV9014B.GRAB2. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart VC2 14kg Black Inox 127v + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA ."
+summary: "Lava e Seca LG Smart VC2 14kg Black Inox 127v + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA"
 tags: ["lg", "bluetooth", "smart", "ai", "4k"]
 
 # === PRECO ===
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 5088.31
   source: "retailer"
-  updated_at: "2026-11-21T01:06:16.628Z"
+  updated_at: "2026-11-21T14:01:33.402Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-21T01:06:16.628Z"
+    verified_at: "2026-11-21T14:01:33.402Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-21T01:06:16.628Z"
+    verified_at: "2026-11-21T14:01:33.402Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -62,4 +62,4 @@ specs:
 
 ## Descricao
 
-Get more information on the LG CV9014B.GRAB2. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart VC2 14kg Black Inox 127v  + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA  .
+Lava e Seca LG Smart VC2 14kg Black Inox 127v  + Caixa de Som Bluetooth LG xboom Grab by will.i.am - East LA

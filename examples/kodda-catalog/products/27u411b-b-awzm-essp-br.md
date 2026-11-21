@@ -27,9 +27,9 @@ tags: ["lg", "hdr", "gamer"]
 price:
   type: "street"
   currency: "BRL"
-  value: 779
+  value: 754.4
   source: "retailer"
-  updated_at: "2026-11-21T01:06:16.426Z"
+  updated_at: "2026-11-21T14:01:33.205Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-21T01:06:16.426Z"
+    verified_at: "2026-11-21T14:01:33.205Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-21T01:06:16.426Z"
+    verified_at: "2026-11-21T14:01:33.205Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

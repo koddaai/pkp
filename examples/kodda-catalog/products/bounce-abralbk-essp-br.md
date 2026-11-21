@@ -4,7 +4,7 @@ schema: pkp/1.0
 sku: "bounce-abralbk-essp-br"
 # gtin: null
 brand: "LG"
-name: "LG xboom Grab by will.i.am | Caixa de Som Bluetooth Portátil | Som AI | 30W RMS | 20 Horas de Bateria | IP67 e Durabilidade Militar - GRAB | LG BR"
+name: "LG xboom Bounce by will.i.am - Caixa de Som Bluetooth com Radiadores Passivos - BOUNCE | LG BR"
 category: "audio"
 subcategory: "speaker"
 
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 809.1
   source: "retailer"
-  updated_at: "2026-11-21T01:06:16.615Z"
+  updated_at: "2026-11-21T14:01:33.389Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-21T01:06:16.615Z"
+    verified_at: "2026-11-21T14:01:33.389Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-21T01:06:16.615Z"
+    verified_at: "2026-11-21T14:01:33.389Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

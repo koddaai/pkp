@@ -27,9 +27,9 @@ tags: ["lg"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1177.05
+  value: 1129.97
   source: "retailer"
-  updated_at: "2026-11-21T01:06:16.533Z"
+  updated_at: "2026-11-21T14:01:33.317Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-21T01:06:16.533Z"
+    verified_at: "2026-11-21T14:01:33.317Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-21T01:06:16.533Z"
+    verified_at: "2026-11-21T14:01:33.317Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:

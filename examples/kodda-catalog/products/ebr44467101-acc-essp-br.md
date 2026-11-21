@@ -27,9 +27,9 @@ tags: ["lg", "8k"]
 price:
   type: "street"
   currency: "BRL"
-  value: 1167.55
+  value: 1120.85
   source: "retailer"
-  updated_at: "2026-11-21T01:06:16.746Z"
+  updated_at: "2026-11-21T14:01:33.532Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-21T01:06:16.746Z"
+    verified_at: "2026-11-21T14:01:33.532Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-21T01:06:16.746Z"
+    verified_at: "2026-11-21T14:01:33.532Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
