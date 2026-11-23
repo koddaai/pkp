@@ -1,14 +1,14 @@
 {
   "version": "1.0",
-  "generated_at": "2026-11-23T17:07:23.711Z",
+  "generated_at": "2026-11-23T23:14:57.659Z",
   "stats": {
-    "total_products": 245124,
+    "total_products": 245130,
     "categories": {
       "eletrodomesticos": 3349,
       "games": 1,
       "moda": 2,
       "notebooks": 844,
-      "outros": 228817,
+      "outros": 228823,
       "acessorios": 3594,
       "informatica": 514,
       "monitors": 1591,
@@ -24,8 +24,8 @@
       "2296": 78,
       "Electrolux": 2,
       "Sony": 123,
-      "Adidas": 102569,
-      "Nike": 35495,
+      "Adidas": 102570,
+      "Nike": 35499,
       "Dell": 37,
       "Apple": 460,
       "LG": 3283,
@@ -53,7 +53,7 @@
       "Gomoov": 16,
       "Jambo": 115,
       "Credeli": 17,
-      "ASICS": 9991,
+      "ASICS": 9992,
       "Royal Canin": 261,
       "Bichinho Chic": 299,
       "Cooler Master": 97,
@@ -785525,6 +785525,17 @@
       "path": "examples/kodda-catalog/products/989923512039.md"
     },
     {
+      "sku": "989923512046",
+      "name": "Boné Aba Curva Jordan Nike Club Cap US Strapback Adulto",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 179.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/989923512046.md"
+    },
+    {
       "sku": "989923622035",
       "name": "Boné Aba Curva Jordan Nike Club Cap US Strapback Adulto",
       "brand": "Nike",
@@ -807369,6 +807380,17 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/990349020367.md"
+    },
+    {
+      "sku": "990349040341",
+      "name": "Chuteira de Campo Infantil adidas Predator 24 Club",
+      "brand": "Adidas",
+      "category": "outros",
+      "price": {
+        "value": 329.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/990349040341.md"
     },
     {
       "sku": "990349040358",
@@ -869918,6 +869940,17 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/991928022031.md"
+    },
+    {
+      "sku": "991928122038",
+      "name": "Viseira Aba Curva Nike Dri-Fit Ace Visor Unissex",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 149.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/991928122038.md"
     },
     {
       "sku": "9919282r2035",
@@ -1093378,6 +1093411,17 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/996698312214.md"
+    },
+    {
+      "sku": "996698313877",
+      "name": "Meia Para Corrida Rally Crew 5k Cano Alto Tamanho 39-44 ASICS Adulto",
+      "brand": "ASICS",
+      "category": "outros",
+      "price": {
+        "value": 59.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/996698313877.md"
     },
     {
       "sku": "996698652211",
@@ -1353526,7 +1353570,7 @@
     },
     {
       "sku": "9974lr282047",
-      "name": "Camiseta Under Armour Tech 20 Masculina",
+      "name": "Camiseta Under Armour Tech 2.0 - Masculina",
       "brand": "Under Armour",
       "category": "outros",
       "price": {
@@ -1353537,7 +1353581,7 @@
     },
     {
       "sku": "9974lr282054",
-      "name": "Camiseta Under Armour Tech 20 Masculina",
+      "name": "Camiseta Under Armour Tech 2.0 - Masculina",
       "brand": "Under Armour",
       "category": "outros",
       "price": {
@@ -1353592,7 +1353636,7 @@
     },
     {
       "sku": "9974lrbk2024",
-      "name": "Camiseta Under Armour Tech 20 Masculina",
+      "name": "Camiseta Under Armour Tech 2.0 - Masculina",
       "brand": "Under Armour",
       "category": "outros",
       "price": {
@@ -1353603,7 +1353647,7 @@
     },
     {
       "sku": "9974lrbk2031",
-      "name": "Camiseta Under Armour Tech 20 Masculina",
+      "name": "Camiseta Under Armour Tech 2.0 - Masculina",
       "brand": "Under Armour",
       "category": "outros",
       "price": {
@@ -1353614,7 +1353658,7 @@
     },
     {
       "sku": "9974lrbk2048",
-      "name": "Camiseta Under Armour Tech 20 Masculina",
+      "name": "Camiseta Under Armour Tech 2.0 - Masculina",
       "brand": "Under Armour",
       "category": "outros",
       "price": {
@@ -1353625,7 +1353669,7 @@
     },
     {
       "sku": "9974lrbk2055",
-      "name": "Camiseta Under Armour Tech 20 Masculina",
+      "name": "Camiseta Under Armour Tech 2.0 - Masculina",
       "brand": "Under Armour",
       "category": "outros",
       "price": {
@@ -1458314,6 +1458358,28 @@
         "currency": "BRL"
       },
       "path": "examples/kodda-catalog/products/9976lp500394.md"
+    },
+    {
+      "sku": "9976lp500400",
+      "name": "Mule Nike Feminino Mind 001",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 799.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976lp500400.md"
+    },
+    {
+      "sku": "9976lp500417",
+      "name": "Mule Nike Feminino Mind 001",
+      "brand": "Nike",
+      "category": "outros",
+      "price": {
+        "value": 799.99,
+        "currency": "BRL"
+      },
+      "path": "examples/kodda-catalog/products/9976lp500417.md"
     },
     {
       "sku": "9976lp509113",
