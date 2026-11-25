@@ -17,7 +17,7 @@ identifiers:
 uri: "pkp://lg.com/ebr82751506-acc-essp-br"
 canonical:
   domain: "lg.com"
-  url: "https://www.lg.com/br/pecas-e-acessorios-de-ar-condicionado/ebr82751506/"
+  url: "https://www.lg.com/br/pecas-e-acessorios/peca-de-reposicao/ar-condicionado/ebr82751506/"
 
 # === DESCOBERTA (L0) ===
 summary: "Get more information on the LG EBR82751506. Click for pictures, reviews, and tech specs for the LG Placa principal condensadora Ar Condicionado LG ATUW36GMLP0, AVUW36GM1P0 - EBR82751506."
@@ -29,7 +29,7 @@ price:
   currency: "BRL"
   value: 3409.55
   source: "retailer"
-  updated_at: "2026-11-24T20:07:48.522Z"
+  updated_at: "2026-11-25T06:09:24.536Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,11 +43,11 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-24T20:07:48.522Z"
+    verified_at: "2026-11-25T06:09:24.536Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-24T20:07:48.522Z"
+    verified_at: "2026-11-25T06:09:24.536Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
@@ -55,7 +55,7 @@ specs:
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-24
+# Data de importacao: 2026-11-25
 # aw_product_id: 43478676608
 ---
 

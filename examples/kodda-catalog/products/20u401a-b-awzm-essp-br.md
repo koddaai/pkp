@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/monitores/monitores-full-hd-qhd/20u401a-b/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG 20U401A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG LED Home & Office 20U401A-B Tela 20” HD+, LG Switch, Modo leitura e Flicker Safe, HDMI, VGA, 2ms (GtG), 75Hz, Black Stabilizer, Dynamic Action Sync, Crosshair, saída fone de ouvido."
+summary: "Monitor LG UHD™ 20U401A-B Tela TN WSXGA 20\", NTSC 72% (CIE1931), Crosshair , Dynamic Action Sync"
 tags: ["lg", "ai"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 419
+  value: 380
   source: "retailer"
-  updated_at: "2026-11-24T20:07:48.427Z"
+  updated_at: "2026-11-25T06:09:24.192Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,22 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-24T20:07:48.427Z"
+    verified_at: "2026-11-25T06:09:24.192Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-24T20:07:48.427Z"
+    verified_at: "2026-11-25T06:09:24.192Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
-  # No specs extracted
+  screen_size: 20
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-24
+# Data de importacao: 2026-11-25
 # aw_product_id: 43478674759
 ---
 
 ## Descricao
 
-Get more information on the LG 20U401A-B. Click for pictures, reviews, and tech specs for the LG Monitor LG LED Home & Office 20U401A-B Tela 20” HD+, LG Switch, Modo leitura e Flicker Safe, HDMI, VGA, 2ms (GtG), 75Hz, Black Stabilizer, Dynamic Action Sync, Crosshair, saída fone de ouvido.
+Monitor LG UHD™ 20U401A-B Tela TN WSXGA 20", NTSC 72% (CIE1931), Crosshair , Dynamic Action Sync

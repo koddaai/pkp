@@ -20,16 +20,16 @@ canonical:
   url: "https://www.lg.com/br/lavanderia/lava-e-seca/cv5012mc4/"
 
 # === DESCOBERTA (L0) ===
-summary: "Get more information on the LG CV5012MC4. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart VC4 12kg Titanium com Inteligência Artificial AIDD™ (CV5012MC4) - 127v."
+summary: "Lava e seca LG 12kg com AI DD, Steam e ThinQ para roupas bem cuidadas, mais praticidade e rotina inteligente."
 tags: ["lg", "smart", "ai"]
 
 # === PRECO ===
 price:
   type: "street"
   currency: "BRL"
-  value: 4084.05
+  value: 4939.05
   source: "retailer"
-  updated_at: "2026-11-24T20:07:48.484Z"
+  updated_at: "2026-11-25T06:09:24.388Z"
 availability: "in-stock"
 
 # === ONDE COMPRAR ===
@@ -43,23 +43,22 @@ confidence:
   specs:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-24T20:07:48.484Z"
+    verified_at: "2026-11-25T06:09:24.388Z"
   price:
     level: "medium"
     source: "retailer-feed"
-    verified_at: "2026-11-24T20:07:48.484Z"
+    verified_at: "2026-11-25T06:09:24.388Z"
 
 # === SPECS COMPARAVEIS (L1) ===
 specs:
   capacity: {"value":12,"unit":"kg"}
-  voltage: "127V"
 
 # === FONTE DOS DADOS ===
 # Importado do feed Awin LG BR (feed_id: 103134)
-# Data de importacao: 2026-11-24
+# Data de importacao: 2026-11-25
 # aw_product_id: 43478675801
 ---
 
 ## Descricao
 
-Get more information on the LG CV5012MC4. Click for pictures, reviews, and tech specs for the LG Lava e Seca LG Smart VC4 12kg Titanium com Inteligência Artificial AIDD™ (CV5012MC4) - 127v.
+Lava e seca LG 12kg com AI DD, Steam e ThinQ para roupas bem cuidadas, mais praticidade e rotina inteligente.
